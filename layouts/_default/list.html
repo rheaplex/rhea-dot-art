@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <header>
+    <h1>{{.Title}}</h1>
+  {{.Content}}
+  </header>
+  <main>
+    <div class="d-flex flex-row flex-wrap g-5">
+      {{ range .Pages }}
+      <div class="d-flex flex-column post-preview col-sm-6 col-lg-3">
+        {{ if .Params.image }}
+        <div class="d-flex justify-content-center">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title img-fluid" />
+          </a>
+        </div>
+        {{ end }}
+        <div class="h2 post-title mt-auto">
+          <a href="{{ .Permalink }}" class="align-self-end">
+            {{ .Title }}
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
