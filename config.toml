@@ -1,0 +1,43 @@
+baseURL = ''
+languageCode = 'en'
+title = 'Rhea Myers'
+
+#theme = "hugo-bootstrap-5"
+#disableKinds = ["contact", "post", "section", "taxonomy"]
+#ignoreErrors = ["error-disable-taxonomy"]
+
+[params]
+  copyright = "2022"
+  subtitle = "Doubling down on blockchain art"
+  #mainSections = ["post","posts"]
+  #logo = "img/avatar-icon.png" # Expecting square dimensions
+  #favicon = "img/favicon.ico"
+  dateFormat = "2022-01-01"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  showRelatedPosts = false
+
+[[menu.main]]
+    name = "Art"
+    url = "./art/index.html"
+    weight = 1
+
+[[menu.main]]
+    name = "Essays"
+    url = "./essays/index.html"
+    weight = 1
+
+[[menu.main]]
+    name = "Fiction"
+    url = "./fiction/index.html"
+    weight = 1
+
+[[menu.main]]
+    name = "Information"
+    url = "./information/index.html"
+    weight = 1
