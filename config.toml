@@ -28,6 +28,11 @@ title = 'Rhea Myers'
     weight = 1
 
 [[menu.main]]
+    name = "Code"
+    url = "https://git.rhea.art/"
+    weight = 1
+
+[[menu.main]]
     name = "Essays"
     url = "./essays/index.html"
     weight = 1
