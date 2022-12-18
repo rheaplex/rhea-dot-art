@@ -4,18 +4,20 @@
   {{.Content}}
   </header>
   <main>
-    <div class="d-flex flex-row flex-wrap g-5">
+    <div class="d-flex flex-row flex-wrap">
       {{ range .Pages }}
-      <div class="d-flex flex-column post-preview col-sm-6 col-lg-3">
+      <div class="d-flex flex-column post-preview col-sm-6 col-lg-3 m-4">
         {{ if .Params.image }}
+        {{ $image := resources.Get .Params.image }}
+        {{ $imageResized := $image.Fill "400x400 TopLeft" }}
         <div class="d-flex justify-content-center">
           <a href="{{ .Permalink }}">
-            <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title img-fluid" />
+            <img src="{{ $imageResized.Permalink }}" alt="{{ .Title }}" class="img-title img-fluid" />
           </a>
         </div>
         {{ end }}
         <div class="h2 post-title mt-auto">
-          <a href="{{ .Permalink }}" class="align-self-end">
+          <a href="{{ .Permalink }}">
             {{ .Title }}
           </a>
         </div>

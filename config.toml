@@ -1,4 +1,5 @@
 baseURL = ''
+relativeURLs = true
 languageCode = 'en'
 title = 'Rhea Myers'
 
@@ -22,9 +23,17 @@ title = 'Rhea Myers'
   socialShare = false
   showRelatedPosts = false
 
+[permalinks]
+  # Allow source to be origanized but all pages to be top-level
+  # Be careful to avoid name collisions.
+  art = '/:filename/'
+  essays = '/:filename/'
+  fiction = '/:filename/'
+  information = '/:filename/'
+
 [[menu.main]]
     name = "Art"
-    url = "./art/index.html"
+    url = "/art/index.html"
     weight = 1
 
 [[menu.main]]
@@ -34,15 +43,15 @@ title = 'Rhea Myers'
 
 [[menu.main]]
     name = "Essays"
-    url = "./essays/index.html"
+    url = "/essays/index.html"
     weight = 1
 
 [[menu.main]]
     name = "Fiction"
-    url = "./fiction/index.html"
+    url = "/fiction/index.html"
     weight = 1
 
 [[menu.main]]
     name = "Information"
-    url = "./information/index.html"
+    url = "/information/index.html"
     weight = 1
