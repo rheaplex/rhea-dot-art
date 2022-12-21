@@ -1,10 +1,10 @@
 ---
 title: "Critical Coins"
-image: "/images/dogeart.jpg"
+image: "/third-party-images/dogeart.jpg"
 type: "page"
 ---
 
-![A shiba inu in a gallery, amazed by the art. Wow.](/images/dogeart.jpg)
+![A shiba inu in a gallery, amazed by the art. Wow.](/third-party-images/dogeart.jpg)
 
 _(Illustration from: http://ofdoge.wordpress.com/2013/12/05/art-doge/, copyright the artist.)_
 
