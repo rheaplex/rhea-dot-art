@@ -1,10 +1,10 @@
 ---
 title: "1FLAMEN6"
-image: "/images/1FLAMEN6.jpg"
+image: "/third-party-images/1FLAMEN6.jpg"
 type: "page"
 ---
 
-![A painting of a chessboard with pieces and doves superimposed on it, surrounded by a border of small coloured flames.](/images/1FLAMEN6.jpg)
+![A painting of a chessboard with pieces and doves superimposed on it, surrounded by a border of small coloured flames.](/third-party-images/1FLAMEN6.jpg)
 
 **Puzzle design support for the painting “TORCHED H34R7S” by @coin_artist, 2015, Bitcoin private key encoding**
 
