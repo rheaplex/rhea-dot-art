@@ -10,7 +10,7 @@ staticDir = "assets"
 #ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
-  copyright = "2023"
+  copyright ="Copyright © 2023 Myers Studio Ltd."
   subtitle = "Doubling down on blockchain art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
