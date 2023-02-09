@@ -2,6 +2,7 @@
 title: "Bridall Day"
 image: "/images/bridall-day.png"
 type: "page"
+date: "2021-01-07"
 ---
 
 ![A VR sculpture of a steampunk-ish figure](/images/bridall-day.png)

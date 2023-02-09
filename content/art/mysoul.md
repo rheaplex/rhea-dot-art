@@ -2,9 +2,10 @@
 title: "MYSOUL"
 image: "/images/mysoul.png"
 type: "page"
+date: "2014-11-16"
 ---
 
-![A Sierpinkski triangle rendered in asterisks in a computer terminal from a program at a Dogecoin address](/images/mysoul.png)
+![A Dogeparty block explorer showing the MYSOUL token](/images/mysoul.png)
 
 **MYSOUL, 2014, Counterparty and Dogeparty assets**
 

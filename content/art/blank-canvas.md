@@ -2,6 +2,7 @@
 title: "Blank Canvas"
 image: "/images/blank-canvas2.png"
 type: "page"
+date: "2016-07-04"
 ---
 
 ![A blue square with a colour-choosing GUI atop it.](/images/blank-canvas2.png)

@@ -2,6 +2,7 @@
 title: "Postscript Viruses"
 image: "/images/linofset.png"
 type: "page"
+date: "1993-01-02"
 ---
 
 ![viral](/images/linofset.png)

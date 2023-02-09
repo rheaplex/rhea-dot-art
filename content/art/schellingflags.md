@@ -1,7 +1,8 @@
 ---
 title: "SchellingFlags"
-image: "/images/schellingflags.png"
+image: "/square-images/schellingflags.png"
 type: "page"
+date: "2018-09-03"
 ---
 
 ![A 4 by 3 grid of fictitious flags.](/images/schellingflags.png)

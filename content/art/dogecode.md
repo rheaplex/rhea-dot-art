@@ -2,6 +2,7 @@
 title: "Dogecode"
 image: "/images/sierpinski.png"
 type: "page"
+date: "2015-01-09"
 ---
 
 ![A Sierpinkski triangle rendered in asterisks in a computer terminal from a program at a Dogecoin address](/images/sierpinski.png)

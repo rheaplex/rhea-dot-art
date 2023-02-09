@@ -2,6 +2,7 @@
 title: "Hack Line Properties"
 image: "/images/hack-line-1.png"
 type: "page"
+date: "2019-07-26"
 ---
 
 ![A circle on a white ground stroked with a dash pattern in black.](/images/hack-line-1.png)

@@ -2,6 +2,7 @@
 title: "Lottery Symbol"
 image: "/images/lottery-symbol.png"
 type: "page"
+date: "2017-08-08"
 ---
 
 ![A black biohazard symbol on a light grey background.](/images/lottery-symbol.png)

@@ -10,7 +10,7 @@ staticDir = "assets"
 #ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
-  copyright = "2022"
+  copyright = "2023"
   subtitle = "Doubling down on blockchain art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
@@ -29,31 +29,25 @@ staticDir = "assets"
   # Allow source to be origanized but all pages to be top-level
   # Be careful to avoid name collisions.
   art = '/:filename/'
-  essays = '/:filename/'
-  fiction = '/:filename/'
+  writing = '/:filename/'
   information = '/:filename/'
 
 [[menu.main]]
     name = "Art"
     url = "/art/index.html"
-    weight = 1
+    weight = 10
+
+[[menu.main]]
+    name = "Writing"
+    url = "/writing/index.html"
+    weight = 20
 
 [[menu.main]]
     name = "Code"
     url = "https://git.rhea.art/"
-    weight = 1
-
-[[menu.main]]
-    name = "Essays"
-    url = "/essays/index.html"
-    weight = 1
-
-[[menu.main]]
-    name = "Fiction"
-    url = "/fiction/index.html"
-    weight = 1
+    weight = 30
 
 [[menu.main]]
     name = "Information"
     url = "/information/index.html"
-    weight = 1
+    weight = 40

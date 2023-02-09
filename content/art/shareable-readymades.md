@@ -2,6 +2,7 @@
 title: "Shareable Readymades"
 image: "/images/urinal.png"
 type: "page"
+date: "2012-08-06"
 ---
 
 ![A 3D print of the hash tag #arthistory, in white plastic](/images/hasharthistory.png)

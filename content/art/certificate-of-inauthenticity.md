@@ -2,6 +2,7 @@
 title: "Certificate of Inauthenticity"
 image: "/images/Urinal04-cropped.png"
 type: "page"
+date: "2020-05-16"
 ---
 
 ![A certificate of inauthenticity signed by R Myers](/images/Urinal04-cropped.png)

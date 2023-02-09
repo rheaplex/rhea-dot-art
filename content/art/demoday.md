@@ -2,6 +2,7 @@
 title: "DemoDay"
 image: "/images/demoday-button.png"
 type: "page"
+date: "2017-09-18"
 ---
 
 ![DemoDay "DD" logo.](/images/demoday-button.png)

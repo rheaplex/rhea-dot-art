@@ -2,6 +2,7 @@
 title: "Pay Previous Path"
 image: "/images/ppp1-cropped.png"
 type: "page"
+date: "2019-09-14"
 ---
 
 ![An abstract shape consisting of Bezier curve outlines.](/images/ppp1-cropped.png)

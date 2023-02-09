@@ -2,6 +2,7 @@
 title: "Facecoin"
 image: "/images/facecoin-at-furtherfield.jpg"
 type: "page"
+date: "2014-01-18"
 ---
 
 ![A proof-of-work block represented as a monochrome bitmap](/images/facecoin-cash.png)

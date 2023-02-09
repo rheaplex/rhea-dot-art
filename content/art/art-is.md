@@ -2,6 +2,7 @@
 title: "Art Is"
 image: "/images/art-is-2.0.png"
 type: "page"
+date: "2014-07-23"
 ---
 
 ![A numbered list of twelve different definitions of art](/images/art-is-2.0.png)

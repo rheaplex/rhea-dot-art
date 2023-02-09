@@ -1,7 +1,8 @@
 ---
 title: "Staking Ratio"
-image: "/images/EMDdkbeU8AAos7_cropped.png"
+image: "/square-images/EMDdkbeU8AAos7_cropped.png"
 type: "page"
+date: "2019-12-30"
 ---
 
 ![Two rectangular areas, one black, one grey and slightly wider.](/images/EMDdkbeU8AAos7_cropped.png)

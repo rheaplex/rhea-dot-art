@@ -2,6 +2,7 @@
 title: "Hot Cold"
 image: "/images/cold-hot-live.png"
 type: "page"
+date: "2014-06-02"
 ---
 
 ![The word "cold" in dark red above the word "hot" in dark blue, "This contract is art" in black text (with the "is" in a dark red) in a bold san-serif typeface](/images/cold-hot-live.png)

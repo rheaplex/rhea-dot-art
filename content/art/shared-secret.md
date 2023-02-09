@@ -2,6 +2,7 @@
 title: "Shared Secret"
 image: "/images/qrcode.png"
 type: "page"
+date: "2019-12-28"
 ---
 
 ![A QR Code for a TOTP security code](/images/qrcode.png)

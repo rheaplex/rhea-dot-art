@@ -2,6 +2,7 @@
 title: "Titled"
 image: "/images/red-on-cyan.png"
 type: "page"
+date: "2003-01-01"
 ---
 
 ![A red and cyan square composition with giant JPEG artefacts](/images/red-on-cyan.png)

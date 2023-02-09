@@ -2,6 +2,7 @@
 title: "1FLAMEN6"
 image: "/third-party-images/1FLAMEN6.jpg"
 type: "page"
+date: "2015-02-07"
 ---
 
 ![A painting of a chessboard with pieces and doves superimposed on it, surrounded by a border of small coloured flames.](/third-party-images/1FLAMEN6.jpg)

@@ -2,6 +2,7 @@
 title: "Geneses"
 image: "/images/geneses.png"
 type: "page"
+date: "2016-10-12"
 ---
 
 ![The cover of "Geneses"](/images/geneses.png)

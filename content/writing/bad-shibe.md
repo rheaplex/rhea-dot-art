@@ -2,6 +2,7 @@
 title: "Bad Shibe"
 image: "/images/C-6DUI-XgAA6Aaa.png"
 type: "page"
+date: 2017-05-04
 ---
 
 ![The cover of the zine version of "Bad Shibe"](/images/C-6DUI-XgAA6Aaa.png)

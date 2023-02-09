@@ -2,6 +2,7 @@
 title: "Is Art"
 image: "/images/is1.png"
 type: "page"
+date: "2014-07-22"
 ---
 
 ![The words "This contract is art" in black text (with the "is" in a dark red) in a bold san-serif typeface](/images/is1.png)

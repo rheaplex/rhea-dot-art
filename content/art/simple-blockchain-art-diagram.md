@@ -2,6 +2,7 @@
 title: "Simple Blockchain Art Diagram"
 image: "/images/simple-blockchain-art-diagram.png"
 type: "page"
+date: "2016-07-26"
 ---
 
 ![A diagram of boxes representing blockchain blocks, joined by arrows. One arrow is circled, and captioned 'the art happens here'.](/images/simple-blockchain-art-diagram.png)

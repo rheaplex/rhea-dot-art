@@ -2,6 +2,7 @@
 title: "Blockchain Aesthetics"
 image: "/images/squares.png"
 type: "page"
+date: "2015-01-09"
 ---
 
 ![A grid of coloured squares, each row representing a Bitcoin transaction.](/images/squares.png)

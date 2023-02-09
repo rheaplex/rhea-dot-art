@@ -2,6 +2,7 @@
 title: "Proof of Existence"
 image: "/images/god.png"
 type: "page"
+date: "2015-01-09"
 ---
 
 ![A QR code](/images/god.png)
