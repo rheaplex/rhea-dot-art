@@ -2,6 +2,7 @@
 title: "1 Doge = 1 Doge"
 image: "/images/one-doge.png"
 type: "page"
+date: "2021-09-10"
 ---
 
 ![Proof That One Doge Equals One Doge](/images/one-doge.png)

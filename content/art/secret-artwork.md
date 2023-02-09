@@ -1,7 +1,8 @@
 ---
 title: "Secret Artwork"
-image: "/images/secret-artwork.png"
+image: "/square-images/secret-artwork.png"
 type: "page"
+date: "2018-09-18"
 ---
 
 ![Information about an NFT in different formats: numbers, coloured spots, etc.](/images/secret-artwork.png)

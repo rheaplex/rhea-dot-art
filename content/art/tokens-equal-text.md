@@ -1,10 +1,11 @@
 ---
 title: "Tokens Equal Text"
-image: "/images/16.large.png"
+image: "/square-images/tet-16.png"
 type: "page"
+date: "2019-02-19"
 ---
 
-![Rows of Colourful text: CLASSICAL PLINTH, CHESS BOARD, RED/PINK SUN DISK, CYAN/NAVY BLUE GRADIENT](/images/16.large.png)
+![Rows of Colourful text: CLASSICAL PLINTH, CHESS BOARD, RED/PINK SUN DISK, CYAN/NAVY BLUE GRADIENT](/images/tet-16.png)
 
 **Tokens Equal Text, 2019, Ethereum ERC-998 and ERC-721 tokens**
 

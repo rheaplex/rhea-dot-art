@@ -2,6 +2,7 @@
 title: "The Large Glass, Burned"
 image: "/images/page_1.jpg"
 type: "page"
+date: "2018-10-01"
 ---
 
 ![A VR sculpture of a steampunk-ish figure](/images/page_1.jpg)

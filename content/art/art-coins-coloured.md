@@ -2,6 +2,7 @@
 title: "Art Coins (Coloured)"
 image: "/images/colourcoinbalances.png"
 type: "page"
+date: "2015-01-05"
 ---
 
 ![A list of the below coins.](/images/colourcoinbalances.png)

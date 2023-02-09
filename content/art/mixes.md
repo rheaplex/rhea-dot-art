@@ -2,6 +2,7 @@
 title: "Mixes"
 image: "/images/GELVIS.png"
 type: "page"
+date: "1993-01-01"
 ---
 
 ![GELVIS](/images/GELVIS.png)

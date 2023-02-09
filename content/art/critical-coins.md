@@ -2,6 +2,7 @@
 title: "Critical Coins"
 image: "/third-party-images/dogeart.jpg"
 type: "page"
+date: "2015-01-07"
 ---
 
 ![A shiba inu in a gallery, amazed by the art. Wow.](/third-party-images/dogeart.jpg)

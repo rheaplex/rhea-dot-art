@@ -1,7 +1,8 @@
 ---
 title: "Titled (Information as Property as Art) [Ethereum Null Address]"
-image: "/images/nothing.png"
+image: "/square-images/nothing.png"
 type: "page"
+date: "2022-11-26"
 ---
 
 ![0x00000..., the Ethereum null address, in white on black text.](/images/nothing.png)

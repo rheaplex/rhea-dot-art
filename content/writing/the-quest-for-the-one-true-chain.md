@@ -2,6 +2,7 @@
 title: "The Quest For The One True Chain"
 image: "/images/StateMachinescover.png"
 type: "page"
+date: "2018-06-24"
 ---
 
 ![The book cover of 'State Machines](/images/StateMachinescover.png)

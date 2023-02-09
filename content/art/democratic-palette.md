@@ -2,6 +2,7 @@
 title: "Democratic Palette"
 image: "/images/palette-stripes.png"
 type: "page"
+date: "2016-07-11"
 ---
 
 ![Twelve vertical coloured stripes.](/images/palette-stripes.png)

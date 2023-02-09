@@ -2,6 +2,7 @@
 title: "Pure Aesthetic"
 image: "/images/pure_aesthetic_one.jpg"
 type: "page"
+date: "2005-01-01"
 ---
 
 ![A glass and plastic salt shaker containing a grey powder](/images/pure_aesthetic_one.jpg)

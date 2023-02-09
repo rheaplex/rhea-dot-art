@@ -2,6 +2,7 @@
 title: "Monkeycoin"
 image: "/images/monkeycoin.png"
 type: "page"
+date: "2014-05-04"
 ---
 
 ![A list of random strings of characters, each matching one more letter than the last](/images/monkeycoin.png)

@@ -2,6 +2,7 @@
 title: "Proof of Work Bitmap"
 image: "/images/powb-1.png"
 type: "page"
+date: "2019-07-20"
 ---
 
 ![An apparently random 16 x 16 black and white bitmap.](/images/powb-1.png)
