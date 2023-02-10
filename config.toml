@@ -31,11 +31,28 @@ staticDir = "assets"
   art = '/:filename/'
   writing = '/:filename/'
   information = '/:filename/'
+  shows = '/:filename/'
+  press = '/:filename/'
 
 [[menu.main]]
     name = "Art"
     url = "/art/index.html"
     weight = 10
+
+[[menu.main]]
+    name = "Shows"
+    url = "/shows/index.html"
+    weight = 12
+
+[[menu.main]]
+    name = "Affiliations"
+    url = "/affiliations/index.html"
+    weight = 14
+
+[[menu.main]]
+    name = "Press"
+    url = "/press/index.html"
+    weight = 16
 
 [[menu.main]]
     name = "Writing"
