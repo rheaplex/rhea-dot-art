@@ -64,7 +64,7 @@ staticDir = "assets"
     url = "https://git.rhea.art/"
     weight = 30
 
-[[menu.main]]
-    name = "Information"
-    url = "/information/index.html"
-    weight = 40
+#[[menu.main]]
+#    name = "Information"
+#    url = "/information/index.html"
+#    weight = 40
