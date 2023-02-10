@@ -3,6 +3,7 @@
     <h1>{{.Title}}</h1>
   {{.Content}}
   </header>
+  {{if not .IsHome }}
   <main>
     <div class="d-flex flex-row flex-wrap">
       {{ range .Pages }}
@@ -26,4 +27,5 @@
       {{ end }}
     </div>
   </main>
+  {{ end }}
 {{ end }}
