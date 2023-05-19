@@ -2,6 +2,7 @@
 title: "Blockchain Aesthetics"
 image: "/images/squares.png"
 type: "page"
+layout: "artwork"
 date: "2015-01-09"
 ---
 

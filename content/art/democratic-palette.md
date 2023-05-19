@@ -2,6 +2,7 @@
 title: "Democratic Palette"
 image: "/images/palette-stripes.png"
 type: "page"
+layout: "artwork"
 date: "2016-07-11"
 ---
 

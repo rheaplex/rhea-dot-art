@@ -2,6 +2,7 @@
 title: "Proof of Existence"
 image: "/images/god.png"
 type: "page"
+layout: "artwork"
 date: "2015-01-09"
 ---
 

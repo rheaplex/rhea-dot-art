@@ -2,6 +2,7 @@
 title: "Titled"
 image: "/images/red-on-cyan.png"
 type: "page"
+layout: "artwork"
 date: "2003-01-01"
 ---
 

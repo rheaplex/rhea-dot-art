@@ -2,6 +2,7 @@
 title: "Lottery Symbol"
 image: "/images/lottery-symbol.png"
 type: "page"
+layout: "artwork"
 date: "2017-08-08"
 ---
 

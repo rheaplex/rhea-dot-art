@@ -2,6 +2,7 @@
 title: "Facecoins"
 image: "/images/facecoins.png"
 type: "page"
+layout: "artwork"
 date: "2023-01-19"
 ---
 

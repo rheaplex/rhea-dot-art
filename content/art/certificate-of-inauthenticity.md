@@ -2,6 +2,7 @@
 title: "Certificate of Inauthenticity"
 image: "/images/Urinal04-cropped.png"
 type: "page"
+layout: "artwork"
 date: "2020-05-16"
 ---
 

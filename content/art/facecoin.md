@@ -2,6 +2,7 @@
 title: "Facecoin"
 image: "/images/facecoin-at-furtherfield.jpg"
 type: "page"
+layout: "artwork"
 date: "2014-01-18"
 ---
 

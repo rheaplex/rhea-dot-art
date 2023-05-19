@@ -2,6 +2,7 @@
 title: "Shared Secret"
 image: "/images/qrcode.png"
 type: "page"
+layout: "artwork"
 date: "2019-12-28"
 ---
 

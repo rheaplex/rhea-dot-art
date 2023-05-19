@@ -2,6 +2,7 @@
 title: "1 Doge = 1 Doge"
 image: "/images/one-doge.png"
 type: "page"
+layout: "artwork"
 date: "2021-09-10"
 ---
 

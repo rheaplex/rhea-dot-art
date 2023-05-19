@@ -2,6 +2,7 @@
 title: "Art Coins (Coloured)"
 image: "/images/colourcoinbalances.png"
 type: "page"
+layout: "artwork"
 date: "2015-01-05"
 ---
 

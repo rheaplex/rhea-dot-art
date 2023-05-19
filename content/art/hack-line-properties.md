@@ -2,6 +2,7 @@
 title: "Hack Line Properties"
 image: "/images/hack-line-1.png"
 type: "page"
+layout: "artwork"
 date: "2019-07-26"
 ---
 

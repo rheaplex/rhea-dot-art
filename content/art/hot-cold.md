@@ -2,6 +2,7 @@
 title: "Hot Cold"
 image: "/images/cold-hot-live.png"
 type: "page"
+layout: "artwork"
 date: "2014-06-02"
 ---
 

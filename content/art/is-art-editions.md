@@ -2,6 +2,7 @@
 title: "Is Art (Editions)"
 image: "/images/is-art-token-is.png"
 type: "page"
+layout: "artwork"
 date: "2023-02-19"
 ---
 

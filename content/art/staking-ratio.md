@@ -2,6 +2,7 @@
 title: "Staking Ratio"
 image: "/square-images/EMDdkbeU8AAos7_cropped.png"
 type: "page"
+layout: "artwork"
 date: "2019-12-30"
 ---
 

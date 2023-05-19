@@ -2,6 +2,7 @@
 title: "Postscript Viruses"
 image: "/images/linofset.png"
 type: "page"
+layout: "artwork"
 date: "1993-01-02"
 ---
 

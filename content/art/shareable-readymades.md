@@ -2,6 +2,7 @@
 title: "Shareable Readymades"
 image: "/images/urinal.png"
 type: "page"
+layout: "artwork"
 date: "2012-08-06"
 ---
 
