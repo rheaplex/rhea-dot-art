@@ -2,6 +2,7 @@
 title: "Type Opposite Images"
 image: "/square-images/toi-8.png"
 type: "page"
+layout: "artwork"
 date: "2023-01-23"
 ---
 

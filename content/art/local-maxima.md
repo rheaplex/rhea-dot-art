@@ -2,6 +2,7 @@
 title: "Local Maxima"
 image: "/images/lm.png"
 type: "page"
+layout: "artwork"
 date: "2019-04-21"
 ---
 

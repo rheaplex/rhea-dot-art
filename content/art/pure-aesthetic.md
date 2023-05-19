@@ -2,6 +2,7 @@
 title: "Pure Aesthetic"
 image: "/images/pure_aesthetic_one.jpg"
 type: "page"
+layout: "artwork"
 date: "2005-01-01"
 ---
 

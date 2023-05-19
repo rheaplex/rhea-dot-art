@@ -2,6 +2,7 @@
 title: "Pay Previous Path"
 image: "/images/ppp1-cropped.png"
 type: "page"
+layout: "artwork"
 date: "2019-09-14"
 ---
 

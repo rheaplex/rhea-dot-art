@@ -2,6 +2,7 @@
 title: "Token Grid"
 image: "/images/token-grid.png"
 type: "page"
+layout: "artwork"
 date: "2019-05-05"
 ---
 

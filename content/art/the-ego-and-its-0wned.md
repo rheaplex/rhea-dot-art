@@ -2,6 +2,7 @@
 title: "The Ego, and It's 0wned"
 image: "/images/hugging-shark-friend.png"
 type: "page"
+layout: "artwork"
 date: "2023-01-27"
 ---
 

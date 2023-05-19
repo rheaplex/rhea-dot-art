@@ -2,6 +2,7 @@
 title: "Blank Canvas"
 image: "/images/blank-canvas2.png"
 type: "page"
+layout: "artwork"
 date: "2016-07-04"
 ---
 

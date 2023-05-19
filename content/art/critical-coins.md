@@ -2,6 +2,7 @@
 title: "Critical Coins"
 image: "/third-party-images/dogeart.jpg"
 type: "page"
+layout: "artwork"
 date: "2015-01-07"
 ---
 

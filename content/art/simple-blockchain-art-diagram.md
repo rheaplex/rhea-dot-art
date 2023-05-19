@@ -2,6 +2,7 @@
 title: "Simple Blockchain Art Diagram"
 image: "/images/simple-blockchain-art-diagram.png"
 type: "page"
+layout: "artwork"
 date: "2016-07-26"
 ---
 

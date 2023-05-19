@@ -1,3 +1,4 @@
 ---
 title: "Art"
+type: "list"
 ---

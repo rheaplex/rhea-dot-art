@@ -2,6 +2,7 @@
 title: "Secret Artwork"
 image: "/square-images/secret-artwork.png"
 type: "page"
+layout: "artwork"
 date: "2018-09-18"
 ---
 

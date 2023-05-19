@@ -2,6 +2,7 @@
 title: "Monkeycoin"
 image: "/images/monkeycoin.png"
 type: "page"
+layout: "artwork"
 date: "2014-05-04"
 ---
 

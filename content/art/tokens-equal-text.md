@@ -2,6 +2,7 @@
 title: "Tokens Equal Text"
 image: "/square-images/tet-16.png"
 type: "page"
+layout: "artwork"
 date: "2019-02-19"
 ---
 

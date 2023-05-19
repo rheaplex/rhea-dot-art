@@ -2,6 +2,7 @@
 title: "DemoDay"
 image: "/images/demoday-button.png"
 type: "page"
+layout: "artwork"
 date: "2017-09-18"
 ---
 

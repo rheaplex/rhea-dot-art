@@ -2,6 +2,7 @@
 title: "Proof of Work Bitmap"
 image: "/images/powb-1.png"
 type: "page"
+layout: "artwork"
 date: "2019-07-20"
 ---
 

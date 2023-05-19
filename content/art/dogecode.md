@@ -2,6 +2,7 @@
 title: "Dogecode"
 image: "/images/sierpinski.png"
 type: "page"
+layout: "artwork"
 date: "2015-01-09"
 ---
 

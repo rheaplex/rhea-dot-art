@@ -2,6 +2,7 @@
 title: "SchellingFlags"
 image: "/square-images/schellingflags.png"
 type: "page"
+layout: "artwork"
 date: "2018-09-03"
 ---
 

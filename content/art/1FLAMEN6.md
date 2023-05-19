@@ -2,6 +2,7 @@
 title: "1FLAMEN6"
 image: "/third-party-images/1FLAMEN6.jpg"
 type: "page"
+layout: "artwork"
 date: "2015-02-07"
 ---
 

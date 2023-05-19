@@ -2,6 +2,7 @@
 title: "Titled (Information as Property as Art) [Ethereum Null Address]"
 image: "/square-images/nothing.png"
 type: "page"
+layout: "artwork"
 date: "2022-11-26"
 ---
 

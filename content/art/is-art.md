@@ -2,6 +2,7 @@
 title: "Is Art"
 image: "/images/is1.png"
 type: "page"
+layout: "artwork"
 date: "2014-07-22"
 ---
 
