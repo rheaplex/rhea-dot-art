@@ -1,7 +1,6 @@
 ---
 title: Media
 ---
-
 ### By Rhea
 ##### Books
 [*Proof of Work: Blockchain Provocations 2011-2021*](https://www.urbanomic.com/book/proof-of-work/), Urbanomic, Falmouth, 2022. ISBN 978-1-915103-04-8  
@@ -18,7 +17,7 @@ title: Media
 "Artist's Favourites" in [*Spike Art Magazine*](https://shop.spikeartmagazine.com/product/issue-70-winter-2021-web3), #70, Winter 2021.  
 “The Large Glass, Burned” in [*Art Review*](https://artreview.com/magazine/2018-2006/artreview_september_18/), Vol 70, No. 7, September 2018.
 
-#### About Rhea
+### About Rhea
 ##### Press Releases
 Titled (Information as Property as Art) acquired by Buffalo AKG, December 2022.  
 
