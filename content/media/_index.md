@@ -4,7 +4,7 @@ title: Media
 
 ### By Rhea
 ##### Books
-[*Proof of Work: Blockchain Provocations 2011-2021](https://www.urbanomic.com/book/proof-of-work/), Urbanomic, Falmouth, 2022. ISBN 978-1-915103-04-8  
+[*Proof of Work: Blockchain Provocations 2011-2021*](https://www.urbanomic.com/book/proof-of-work/), Urbanomic, Falmouth, 2022. ISBN 978-1-915103-04-8  
 [*Bad Shibe*](http://archive.furtherfield.org/projects/bad-shibe-sci-fi-novella-rhea-myers), Furtherfield, London, 2017. ISBN 978-1-291-98892-5  
 
 ##### Book Chapters
