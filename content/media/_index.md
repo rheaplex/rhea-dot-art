@@ -40,7 +40,7 @@ Titled (Information as Property as Art) acquired by Buffalo AKG, December 2022.
 [*Protocol Art Pioneer Rhea Myers*](https://interdependence.fm/episodes/protocol-art-pioneer-rhea-myers-few), Interdependence, October 2021.  
 
 ##### Work Featured In Books
-[*The New Creator Economy*](https://bnn.co.jp/products/9784802512565), BNN, Tokyo, 2022. ISBN：978-4-8025-1256-5 (Blockchain Aesthetics Prints)  
+[*The New Creator Economy*](https://bnn.co.jp/products/9784802512565), BNN, Tokyo, 2022. ISBN 978-4-8025-1256-5 (Blockchain Aesthetics Prints)  
 [*Surfing With Satoshi*](www.postmediabooks.it/2021/303surfing/9788874903030.htm) by Domenico Quaranta, Postmedia Books, Milan, 2022. ISBN 978-8874903436 (Art Is, Certificate of Inauthenticity)  
 [*Surfing Con Satoshi*](www.postmediabooks.it/2021/303surfing/9788874903030.htm) by Domenico Quaranta, Postmedia Books, Milan, 2021. ISBN 9788874903030 (Art Is, Certificate of Inauthenticity)  
 [*The Art Happens Here: Net Art Anthology*](https://anthology.rhizome.org/), Rhizome, New York, 2019. ISBN 978-0-692-17308-4 (Simple Blockchain Art Diagram)  
