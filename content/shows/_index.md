@@ -1,7 +1,6 @@
 ---
 title: "Shows"
 ---
-# Shows
 
 ## Solo
 ##### 2023

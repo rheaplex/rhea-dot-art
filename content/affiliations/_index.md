@@ -1,10 +1,8 @@
 ---
 title: "Affiliations"
 ---
-# Affiliations
 
-&nbsp;
-
+&nbsp;  
 ![Buffalo AKG](/third-party-logos/akg.png)
 
 ![Feral File](/third-party-logos/feralfile.png)
@@ -20,5 +18,3 @@ title: "Affiliations"
 ![Sotheby's](/third-party-logos/sothebys.png)
 
 **...**
-
-&nbsp;

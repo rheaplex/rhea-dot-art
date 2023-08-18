@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+type: "list"
 ---
 
 *While I restore the rest of the writing that was here, you could take a look at my book - [Proof of Work](https://www.urbanomic.com/book/proof-of-work/)*
