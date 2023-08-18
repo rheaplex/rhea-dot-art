@@ -26,6 +26,9 @@ Titled (Information as Property as Art) acquired by Buffalo AKG, December 2022.
 [*Conceptualism Rehashed*](https://outland.art/rhea-myers/), Outland Magazine, January 2023.  
 [*Is Blockchain a Medium?*](https://www.rightclicksave.com/article/is-blockchain-a-medium), Right Click Save, September 2022.  
 [*Secret Artwork (Content)*](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/secret-artwork-content), Sotheby’s, London, June 2021.  
+[*This painting is actually a Bitcoin puzzle worth more than $40K — and someone finally solved it*](https://www.cbc.ca/radio/asithappens/as-it-happens-friday-edition-1.4528357/this-painting-is-actually-a-bitcoin-puzzle-worth-more-than-40k-and-someone-finally-solved-it-1.4529176), CBC, February 2018.  
+[*Bitcoin puzzle worth $50,000 solved after nearly three years*](https://www.bbc.com/news/technology-42944290), BBC, February 2018.  
+[*Here’s the Solution to the 3-Year-Old, $50,000 Bitcoin Puzzle*](https://www.vice.com/en/article/kzpqzz/heres-the-solution-to-the-3-year-old-dollar50000-bitcoin-puzzle), Vice, February 2018.  
 
 ##### Interviews
 [*Of Crypto and Anarchism: In Conversation With Rhea Myers*](https://thereader.mitpress.mit.edu/of-crypto-and-anarchism-in-conversation-with-rhea-myers/), The MIT Press Reader, April 2023.  
