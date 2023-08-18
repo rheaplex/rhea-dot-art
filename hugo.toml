@@ -35,6 +35,11 @@ staticDir = "assets"
   press = '/:filename/'
 
 [[menu.main]]
+    name = "Affiliations"
+    url = "/affiliations/index.html"
+    weight = 5
+
+[[menu.main]]
     name = "Art"
     url = "/art/index.html"
     weight = 10
@@ -45,24 +50,14 @@ staticDir = "assets"
     weight = 12
 
 [[menu.main]]
-    name = "Affiliations"
-    url = "/affiliations/index.html"
-    weight = 14
-
-[[menu.main]]
-    name = "Press"
-    url = "/press/index.html"
+    name = "Media"
+    url = "/media/index.html"
     weight = 16
 
 [[menu.main]]
     name = "Writing"
     url = "/writing/index.html"
     weight = 20
-
-[[menu.main]]
-    name = "Code"
-    url = "https://git.rhea.art/"
-    weight = 30
 
 #[[menu.main]]
 #    name = "Information"
