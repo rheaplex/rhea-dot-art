@@ -1,6 +1,5 @@
 ---
-title: "Latest"
-type: index
+title: "rhea.art"
 ---
 
 #### 2023-01 SOLO SHOW [The Ego, and It’s 0wned. Nagel & Draxler Berlin](https://nagel-draxler.de/exhibition/the-ego-and-its-0wned/)
