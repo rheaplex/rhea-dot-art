@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <header>
+    <h1>{{.Title}}</h1>
+  {{.Content}}
+  </header>
+  {{if not .IsHome }}
+  {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
+  <main>
+    <div>
+      {{ range $paginator.Pages }}
+      <div class="post-preview">
+        {{ if .Params.image }}
+        {{ $image := resources.Get .Params.image }}
+        {{ $imageResized := $image.Fill "400x400 TopLeft" }}
+        <div>
+          <a href="{{ .Permalink }}">
+            <img src="{{ $imageResized.Permalink }}" alt="{{ .Title }}" class="img-title img-fluid" />
+          </a>
+        </div>
+        {{ end }}
+        <div class="post-title mb-auto pb-2">
+          <a href="{{ .Permalink }}"
+             class="link-dark text-decoration-none">
+            {{ .Title }}
+          </a>
+          <span class="fw-light">( {{ .Date | time.Format ":date_medium" }} )</span>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <br>
+    {{ template "_internal/pagination.html" . }}
+  </main>
+  {{ end }}
+{{ end }}

@@ -1,6 +1,6 @@
 ---
 title: "MYSOUL"
-image: "/images/mysoul.png"
+image: images/mysoul.png
 type: "page"
 layout: "artwork"
 date: "2014-11-16"

@@ -20,4 +20,4 @@ Using Ethereum Web3 browser app code to displaying the texts of tokens in visual
 
 The "Rare Art" market demands something aesthetic to own. "Tokens Equal Text" loops this desire back through references the complexly unownable aesthetics of Vaporwave in order to both satisfy and frustrate it. By doing so, it places the anxieties of blockchain “true digital ownership” into a state of mutual critical interrogation with the anxieties of the art market.
 
-Preview here: https://opensea.io/assets/tokens-equal-text
+Preview here: https://opensea.io/images/tokens-equal-text
