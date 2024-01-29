@@ -10,7 +10,7 @@ staticDir = "assets"
 #ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
-  copyright ="Copyright © 2023 Myers Studio Ltd."
+  copyright ="Copyright © 2024 Myers Studio Ltd."
   subtitle = "Doubling down on blockchain art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
@@ -33,31 +33,32 @@ staticDir = "assets"
   information = '/:filename/'
   shows = '/:filename/'
   press = '/:filename/'
-
-[[menu.main]]
-    name = "Affiliations"
-    url = "/affiliations/index.html"
-    weight = 5
+  blog = '/:year/:month/:day/:slug/'
 
 [[menu.main]]
     name = "Art"
-    url = "/art/index.html"
+    url = "/art/"
     weight = 10
 
 [[menu.main]]
     name = "Shows"
-    url = "/shows/index.html"
+    url = "/shows/"
     weight = 12
 
 [[menu.main]]
     name = "Media"
-    url = "/media/index.html"
+    url = "/media/"
     weight = 16
 
+# [[menu.main]]
+#     name = "Writing"
+#     url = "/writing/"
+#     weight = 20
+
 [[menu.main]]
-    name = "Writing"
-    url = "/writing/index.html"
-    weight = 20
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
 
 #[[menu.main]]
 #    name = "Information"
