@@ -1,23 +1,19 @@
 ---
-author: Rhea Myers
-comments: true
-date: 2013-12-08 22:53:30+00:00
-layout: page
-slug: draw-something
-title: draw-something
-image: /images/2013/12/ds.png
-permalink: /draw-something/
-id: 2410
+title: "draw-something"
+image: "/images/draw-something.png"
+type: "page"
+layout: "artwork"
+date: "2004-01-01"
 ---
 
-[![ds](/images/2013/12/ds.png)](/images/2013/12/ds.png)
+![draw-something](/images/draw-something.png)
 
-**draw-something, 2004-, Common Lisp code, later JavaScript code.**
+**draw-something, 2004-, Common Lisp code, JavaScript code.**
 
-draw-something is a generative drawing program inspired by Harold Cohen's [AARON](http://www.aaronshome.com/aaron/). It is based on simple models of line drawing, figure creation, and colour choice.
+draw-something is a generative drawing program inspired by Harold Cohen’s AARON. It is based on simple models of line drawing, figure creation, and colour choice.
 
-You can see the output of an instance of the current JavaScript version on tumblr [here](http://draw-something-rebooted.tumblr.com/) and download the source code [here](https://github.com/rheaplex/drawsomethingnode/) and [here](https://github.com/rheaplex/draw-something-js/).
+draw-something was inspired by my desire to better appreciate and understand Harold Cohen's AARON programme, which I had been aware of since childhood. There have been several versions, including the main program in Common Lisp and versions for the web and blockchain in JavaScript.
 
-The source code for the older but more advanced Lisp version can be found [here](https://github.com/rheaplex/draw-something/).
+To create a drawing, draw-something starts by placing random lines within the format bounds to create a guide form or skeleton. It then draws around this using an algorithm that was derived from observing my own hand while drawing. Finally it colours the resulting drawing using colours chosen randomly in the Hue/Saturation/Lightness colour space. This generates intriguing colour schemes varying from pastel to psychedelic.
 
-
+This process functions as as both drafting and sketching, abstraction and representation. It is, as much of my art is, a model of almost precisely how art is not made. Saying how is left as an exercise for the viewer.
