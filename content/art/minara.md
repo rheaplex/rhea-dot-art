@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-07-21 04:07:52+00:00
+date: 2004-01-03
 layout: page
 slug: minara
 title: Minara

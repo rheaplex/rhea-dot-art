@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2013-12-10 19:01:10+00:00
+date: 2011-04-04
 layout: page
 slug: psychogeodata
 title: Psychogeodata

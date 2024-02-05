@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-10-03 04:50:19+00:00
+date: 2004-02-01
 layout: page
 slug: nineteen-sixty-eight
 title: '1968'

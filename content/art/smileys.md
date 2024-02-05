@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-10-01 04:51:48+00:00
+date: 1997-01-01
 layout: page
 slug: smileys
 title: Smileys

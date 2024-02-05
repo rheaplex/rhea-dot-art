@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2013-12-09 07:10:04+00:00
+date: 2009-01-01
 layout: page
 slug: cybernetic-artworld
 title: The Cybernetic Artworld

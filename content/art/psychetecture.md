@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-09-28 07:18:31+00:00
+date: 1994-01-01
 layout: page
 slug: psychetecture
 title: Psychetecture

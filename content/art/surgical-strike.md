@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-10-01 04:23:45+00:00
+date: 1996-01-01
 layout: page
 slug: surgical-strike
 title: Surgical Strike

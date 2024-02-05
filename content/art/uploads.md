@@ -10,8 +10,7 @@ permalink: /uploads/
 id: 2260
 ---
 
-* ![upload1](/images/2012/10/upload1.png)
-* ![upload2](/images/2012/10/upload2.png)
+![upload1](/images/2012/10/upload1.png)
 
 **Uploads, 2012, software, Kinect, MindWave.**
 
