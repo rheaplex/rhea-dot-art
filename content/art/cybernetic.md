@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2013-12-11 00:44:47+00:00
+date: 2003-02-02
 layout: page
 slug: cybernetic
 title: The Cybernetic Artwork Nobody Wrote

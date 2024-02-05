@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-10-03 05:04:47+00:00
+date: 2004-02-02
 layout: page
 slug: nineteen-sixty-nine
 title: '1969'

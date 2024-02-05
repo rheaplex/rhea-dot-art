@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-09-28 07:52:08+00:00
+date: 1994-01-02
 layout: page
 slug: blobs
 title: Blobs

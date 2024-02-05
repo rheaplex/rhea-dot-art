@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2013-12-10 22:00:42+00:00
+date: 2005-01-04
 layout: page
 slug: paintr
 title: Paintr
@@ -10,9 +10,8 @@ permalink: /paintr/
 id: 2444
 ---
 
-![paintr image 804](/images/2013/12/804-300x234.png)
-Original image by [jessjamesjake](http://fa
-rm4.static.flickr.com/3545/5844177462_7cda7b7b20.jpg).
+![paintr image 804](/images/2013/12/804-300x234.png)  
+Original image by [jessjamesjake](http://farm4.static.flickr.com/3545/5844177462_7cda7b7b20.jpg).
 
 **Paintr, 2005/2013, PHP code (later Lisp code) reimplemented in node.js .**
 

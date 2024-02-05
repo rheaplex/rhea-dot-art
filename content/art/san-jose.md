@@ -1,7 +1,7 @@
 ---
 author: Rhea Myers
 comments: true
-date: 2012-10-01 05:04:18+00:00
+date: 2000-01-01
 layout: page
 slug: san-jose
 title: San Jose
@@ -10,15 +10,7 @@ permalink: /san-jose/
 id: 2139
 ---
 
-* ![bananas1](/images/2012/09/bananas1.png)
-* ![cherries](/images/2012/09/cherries.png)
-* ![cinnamon](/images/2012/09/cinnamon.png)
-* ![fudge](/images/2012/09/fudge.png)
-* ![kumquats](/images/2012/09/kumquats.png)
-* ![oranges](/images/2012/09/oranges.png)
-* ![orchids](/images/2012/09/orchids.png)
-* ![rings](/images/2012/09/rings.png)
-* ![vi](/images/2012/09/vi.png)
+![orchids](/images/2012/09/orchids.png)
 
 **San Jose, 2000, digital vector images.**
 
