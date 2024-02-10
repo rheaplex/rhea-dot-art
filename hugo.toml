@@ -11,7 +11,7 @@ staticDir = "assets"
 
 [params]
   copyright ="Copyright © 2024 Myers Studio Ltd."
-  subtitle = "Doubling down on blockchain art"
+  subtitle = "Making NFTs into art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions
   #favicon = "img/favicon.ico"
