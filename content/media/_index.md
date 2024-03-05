@@ -7,6 +7,7 @@ title: Media
 [*Bad Shibe*](http://archive.furtherfield.org/projects/bad-shibe-sci-fi-novella-rob-myers), Furtherfield, London, 2017. ISBN 978-1-291-98892-5  
 
 ##### Book Chapters
+"On Chain" in [*On NFTs*](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47) (*affiliate link*), Taschen, Cologne, ISBN 978-3-8365-9343-4   
 "A Thousand DAOs" in [*Radical Friends: Decentralised Autonomous Organisations and the Arts*](https://www.furtherfield.org/radical-friends-book/), Torque Editions, UK, 2022. ISBN 978-0-9932487-7-1  
 “The Quest For The One True Chain” (from Dogecon 2018) in [*State Machines*](https://networkcultures.org/statemachines/2019/03/19/out-now-state-machines-reflections-and-actions-at-the-edge-of-digital-citizenship-finance-and-art/),Insititute of Network Cultures, Amsterdam, 2019. ISBN 978-94-92302-33-5  
 "Blockchain Poetics" in [*Artists Re:Thinking the Blockchain*](https://liverpooluniversitypress.co.uk/products/100826), Liverpool University Press, Liverpool, 2017. ISBN 978-1-291-98892-5  
@@ -34,12 +35,14 @@ Titled (Information as Property as Art) acquired by Buffalo AKG, December 2022.
 [*On art as a playground of ideas*](https://thecreativeindependent.com/people/visual-artist-rhea-myers-on-art-as-a-playground-of-ideas/), The Creative Independent, December 2022.  
 [*‘What is a Certified Fake?’ An Interview with Rhea Myers*](https://www.berlinartlink.com/2022/05/13/certified-fake-rhea-myers/), BERLIN ART LINK, May 2022.  
 [*Rhea Myers & McKenzie Wark*](https://outland.art/rhea-myers-mckenzie-wark/), Outland, February 2022.  
+[*How Rhea Myers Made Blockchain Art Before NFTs Were a Thing*](https://medium.com/@laurashin/how-rhea-myers-made-blockchain-art-before-nfts-were-a-thing-e6ac52d3abf9), Laura Shin, September 2021.  
 
 ##### Podcasts
 [*Protocol Art Pioneer Rhea Myers*](https://interdependence.fm/episodes/protocol-art-pioneer-rhea-myers-few), Interdependence, October 2021.  
 
 ##### Work Featured In Books
-[*The New Creator Economy*](https://bnn.co.jp/products/9784802512565), BNN, Tokyo, 2022. ISBN 978-4-8025-1256-5 (Blockchain Aesthetics Prints)  
+[*On NFTs*](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47) (*affiliate link*), Taschen, Cologne, ISBN 978-3-8365-9343-4 (Cover: Is Art. Full Page Interior Images: Is Art, Secret Artwork, Blockchain Aesthetics, Certificate of Inauthenticity)  
+[*the New Creator Economy*](https://bnn.co.jp/products/9784802512565), BNN, Tokyo, 2022. ISBN 978-4-8025-1256-5 (Blockchain Aesthetics Prints)  
 [*Surfing With Satoshi*](www.postmediabooks.it/2021/303surfing/9788874903030.htm) by Domenico Quaranta, Postmedia Books, Milan, 2022. ISBN 978-8874903436 (Art Is, Certificate of Inauthenticity)  
 [*Surfing Con Satoshi*](www.postmediabooks.it/2021/303surfing/9788874903030.htm) by Domenico Quaranta, Postmedia Books, Milan, 2021. ISBN 9788874903030 (Art Is, Certificate of Inauthenticity)  
 [*The Art Happens Here: Net Art Anthology*](https://anthology.rhizome.org/), Rhizome, New York, 2019. ISBN 978-0-692-17308-4 (Simple Blockchain Art Diagram)  
