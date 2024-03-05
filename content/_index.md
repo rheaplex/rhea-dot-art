@@ -1,5 +1,35 @@
 ---
 ---
+# As Seen With
+<div class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/third-party-logos/taschen_logo.png" class="d-block" alt="Taschen" style="height: 41px;">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/akg.png" class="d-block" alt="Buffalo AKG">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/feralfile.png" class="d-block" alt="Feral File">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/foundation.png" class="d-block" alt="Foundation">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/furtherfield_logo.png" class="d-block" alt="Furtherfield">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/kvg_logo.png" class="d-block" alt="Kate Vass Galerie">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/nagel-draxler-logo.png" class="d-block" alt="Galerie Nagel Draxler">
+    </div>
+    <div class="carousel-item">
+      <img src="/third-party-logos/sothebys.png" class="d-block" alt="Sotjeby's">
+    </div>
+  </div>
+</div>
+<br>
 
 #### 2024-02 [On NFTs](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47)
 
@@ -21,20 +51,3 @@
 ![Installation view of the show "The Ego, and It's 0wned"](/third-party-images/teai0-28-900w.png)  
 *Image credit: Kevin Vogel*
 
-# As Seen At
-  
-![Buffalo AKG](/third-party-logos/akg.png)
-
-![Feral File](/third-party-logos/feralfile.png)
-
-![Foundation](/third-party-logos/foundation.png)
-
-![Furtherfield](/third-party-logos/furtherfield_logo.png)
-
-![Kate Vass Galerie](/third-party-logos/kvg_logo.png)
-
-![Galerie Nagel Draxler](/third-party-logos/nagel-draxler-logo.png)
-
-![Sotheby's](/third-party-logos/sothebys.png)
-
-**...**
