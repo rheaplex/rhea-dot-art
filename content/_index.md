@@ -31,6 +31,10 @@
 </div>
 <br>
 
+### 2024-07-24 [10K Drop - Now Available for Purchase!](https://verse.works/series/10k-drop-by-rhea-myers)
+
+[![Ten letter ks, dropped on a coloured background](/images/10Kdrop-1.png)](https://verse.works/series/10k-drop-by-rhea-myers)  
+
 #### 2024-02 [On NFTs](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47)
 
 [![The cover of the book "On NFTs", by Taschen](/third-party-images/dd78b260-c10e-4bd0-abd7-46c6ea3e08de.gif)](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47)  
