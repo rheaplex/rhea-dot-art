@@ -31,9 +31,13 @@
 </div>
 <br>
 
-### 2024-07-24 [10K Drop - Now Available for Purchase!](https://verse.works/series/10k-drop-by-rhea-myers)
+### 2024-07-24 [10K Drop - Sold out in under two hours!](https://verse.works/series/10k-drop-by-rhea-myers)
 
 [![Ten letter ks, dropped on a coloured background](/images/10Kdrop-1.png)](https://verse.works/series/10k-drop-by-rhea-myers)  
+
+### 2024-06-26 [Portents - Proof of Prophecy](https://verse.works/series/portents-by-rhea-myers)
+
+[![The word "Portents", in white-on-black Caslon Antique](/images/portents-logotype-wob.png)](https://verse.works/series/portents-by-rhea-myers)  
 
 #### 2024-02 [On NFTs](https://www.taschen.com/en/collection/on-nfts?utm_source=affiliates&utm_medium=socials&utm_campaign=ONNFTS47)
 
