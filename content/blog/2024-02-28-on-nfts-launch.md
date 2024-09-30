@@ -5,6 +5,10 @@ date: 2024-02-28
 layout: post
 slug: on-nfts-launch
 title: On NFTs Launch
+categories:
+- Art
+- Books
+- Events
 ---
 
 ![Me at the Taschen store in Paris with the "On NFTs" slipcases](/images/taschen-on-nfts-launch-rhea.jpg)

@@ -4,9 +4,12 @@ title: "Shows"
 
 ## Solo
 ##### 2023
-28th January — 15th April 2023. [*The Ego, and It’s 0wned*](https://nagel-draxler.de/exhibition/the-ego-and-its-0wned/), Nagel & Draxler Berlin.  
+28th January — 15th April 2023. [*The Ego, and It’s 0wned*](https://nagel-draxler.de/exhibition/the-ego-and-its-0wned/), Nagel & Draxler Berlin. (The Ego, and It's 0wned, Type Opposite Images, Facecoins, Tokens Equal Text)  
 
 ## Group
+##### 2024
+27th September 2024 — 27th January 2025. [*Electric Op*](https://buffaloakg.org/art/exhibitions/electric-op), Buffal AKG Museum, Buffalo. (Facecoin)  
+
 ##### 2023
 8th September — 7th October 2023. [*GEN/GEN: Generative Generations*](https://gazelliarthouse.com/exhibitions/174-gen-gen-generative-generations/), Gazelli Art House, London. (Mixes, PostScript Viruses, Surgical Strike, draw-something)  
 2nd September — 12th November 2023. [*Exploring the Decentralized Web - Art on the Blockchain*](https://hek.ch/en/program/events/vernissage-exploring-the-decentralized-web-kunst-auf-der-bockchain), HEK, Basel. (Is Art (Token), Type Opposite Images, The Ego and It's 0wned, Certificate of Inauthenticity)  

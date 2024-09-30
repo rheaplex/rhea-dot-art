@@ -31,6 +31,10 @@
 </div>
 <br>
 
+### 2024-09-27 [Facecoin in _Electric Op_ at Buffal AKG Museum](https://buffaloakg.org/art/exhibitions/electric-op)
+
+[![Electric Op show logotype](/third-party-images/electric_op_title2.png)](https://buffaloakg.org/art/exhibitions/electric-op)  
+
 ### 2024-07-24 [10K Drop - Sold out in under two hours!](https://verse.works/series/10k-drop-by-rhea-myers)
 
 [![Ten letter ks, dropped on a coloured background](/images/10Kdrop-1.png)](https://verse.works/series/10k-drop-by-rhea-myers)  
