@@ -9,12 +9,16 @@ staticDir = "assets"
 #disableKinds = ["contact", "post", "section", "taxonomy"]
 #ignoreErrors = ["error-disable-taxonomy"]
 
-[markup.goldmark.renderer]
-  # Allow raw html in markdown
-  unsafe= true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+    [markup.goldmark.renderer]
+      # Allow raw html in markdown
+      unsafe = true
 
 [params]
-  copyright ="Copyright © 2024 Myers Studio Ltd."
+  copyright = "Copyright © 2024 Myers Studio Ltd."
   subtitle = "Making NFTs into art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions

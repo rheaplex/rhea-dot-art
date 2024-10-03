@@ -1,15 +1,14 @@
 ---
-author: Rhea Myers
-date: 2024-09-30
-layout: post
-slug: anti-perspirant
-title: Anti-Perspirant
-categories:
-- Copyright
-- Free Culture
+title: "Anti-Perspirant"
+author: ["Rhea Myers"]
+date: 2024-10-01
+lastmod: 2024-10-02
+categories: ["Copyright", "Free Culture"]
+draft: false
+slug: "anti-perspirant"
 ---
 
-https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last
+<https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last>
 
 “Sweat of the brow” copyright was a legal confection created from whole cloth to support institutional enclosure of the public domain. It claimed that no originality is required to gain copyright as long as you have worked sufficiently hard to reproduce an out-of-copyright work, such as taking a competent photograph of an old painting. The legal cases cited to support it had to be egregiously misread in order to do so, and when an American court was faced with the only serious attempt to argue it, they threw it out. And they did so while taking English law into account.
 
