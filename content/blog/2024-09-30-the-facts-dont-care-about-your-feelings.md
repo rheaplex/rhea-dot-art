@@ -2,10 +2,10 @@
 title: "The Facts Don't Care About Your Feelings"
 author: ["Rhea Myers"]
 date: 2024-09-30
-lastmod: 2024-10-02
+lastmod: 2024-10-03
 categories: ["Personal", "Transition"]
 draft: false
-slug: "the-facts-dont-care-about-your-feelings"
+layout: "post"
 ---
 
 > Does it ever bother you, Amy, that your life doesn’t make any sense?<br />

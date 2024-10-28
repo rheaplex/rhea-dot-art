@@ -2,10 +2,10 @@
 title: "Anti-Perspirant"
 author: ["Rhea Myers"]
 date: 2024-10-01
-lastmod: 2024-10-02
-categories: ["Copyright", "Free Culture"]
+lastmod: 2024-10-03
+categories: ["Copyright", "FreeCulture"]
 draft: false
-slug: "anti-perspirant"
+layout: "post"
 ---
 
 <https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last>
