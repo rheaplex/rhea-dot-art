@@ -49,13 +49,8 @@ staticDir = "assets"
     weight = 10
 
 [[menu.main]]
-    name = "Shows"
-    url = "/shows/"
-    weight = 12
-
-[[menu.main]]
-    name = "Media"
-    url = "/media/"
+    name = "About Me"
+    url = "/about-me/"
     weight = 16
 
 # [[menu.main]]
