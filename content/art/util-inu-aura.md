@@ -10,9 +10,9 @@ date: "2024-10-31"
 
 **_UTIL/INU/AURA_ (2024), Ethereum ERC-20 Tokens.**
 
-There is no presale or ICO, but I am selling some premade auratic art NFTs here:
+There is no presale or ICO, but I will be selling some premade auratic art NFTs here:
 
-TBA
+_TBA_
 
 UTIL
 ----
