@@ -18,7 +18,7 @@ staticDir = "assets"
       unsafe = true
 
 [params]
-  copyright = "Copyright © 2024 Myers Studio Ltd."
+  copyright = "Copyright © 2025 Myers Studio Ltd."
   subtitle = "Making NFTs into art"
   #mainSections = ["post","posts"]
   #logo = "img/avatar-icon.png" # Expecting square dimensions

@@ -31,6 +31,9 @@
 </div>
 <br>
 
+### 2025-02-07 [The Fractionalized Phallus - Nagel & Draxler, Berlin](https://nagel-draxler.de/exhibition/the-fractionalized-phallus/)
+[![A glitch fragment of a digitized something](/images/self-identifying.png)](https://nagel-draxler.de/exhibition/the-fractionalized-phallus/)
+
 ### 2024-09-27 [Facecoin in _Electric Op_ at Buffal AKG Museum](https://buffaloakg.org/art/exhibitions/electric-op)
 
 [![Electric Op show logotype](/third-party-images/electric_op_title2.png)](https://buffaloakg.org/art/exhibitions/electric-op)  
