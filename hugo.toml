@@ -38,7 +38,7 @@ staticDir = "assets"
   # Be careful to avoid name collisions.
   art = '/:filename/'
   writing = '/:filename/'
-  information = '/:filename/'
+  about = '/:filename/'
   shows = '/:filename/'
   press = '/:filename/'
   blog = '/:year/:month/:day/:slug/'

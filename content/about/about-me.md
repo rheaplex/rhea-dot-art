@@ -1,6 +1,6 @@
 ---
 title: "Rhea Myers"
-image: "/images/rosette.png"
+image: "/third-party-images/rhea-kpp-square.jpg"
 type: "page"
 ---
 ###### Making NFTs into art.
