@@ -1,0 +1,11 @@
++++
+title = "Demo Day"
+date = 2017-09-24
+opening = 2017-09-24
+closing = 2017-10-28
+show_type = "group"
+venue = "Kunstraum LLC"
+location = "Brooklyn, USA"
+url_external = "https://www.kunstraumllc.com/single-post/2017/09/13/DEMO-DAY"
+artworks = ["demoday"]
++++
