@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-23 02:47:00+00:00
-layout: post
-slug: draw-something-more
-title: Draw Something More
-id: 157
-categories:
-- Projects
----
++++
+title = "Draw Something More"
+date = 2004-05-23 02:47:00+00:00
+path = "/2004/05/23/draw-something-more/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 The next thing I want to get Draw Something to do is to assemble and draw figures made from several simpler shapes.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-21 03:34:12+00:00
-layout: post
-slug: comrades-social-objects-and-affordances
-title: Comrades, Social Objects and Affordances
-id: 1565
-categories:
-- Aesthetics
----
++++
+title = "Comrades, Social Objects and Affordances"
+date = 2008-01-21 03:34:12+00:00
+path = "/2008/01/21/comrades-social-objects-and-affordances/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Imagine No Possessions](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10589)  
   

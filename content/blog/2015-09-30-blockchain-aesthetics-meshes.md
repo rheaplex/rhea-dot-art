@@ -1,9 +1,8 @@
----
-layout: post
-title: Blockchain Aesthetics - Meshes
-slug: blockchain-aesthetics-meshes
-date: 2015-09-30
----
++++
+title = "Blockchain Aesthetics - Meshes"
+date = 2015-09-30
+path = "/2015/09/30/blockchain-aesthetics-meshes/"
++++
 
 ![A transaction rendered as a mesh](/images/2015/blockchain-mesh.png)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-24 03:59:27+00:00
-layout: post
-slug: art-and-cognition
-title: Art And Cognition
-id: 801
-categories:
-- Aesthetics
----
++++
+title = "Art And Cognition"
+date = 2006-01-24 03:59:27+00:00
+path = "/2006/01/24/art-and-cognition/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 _Interdisciplines is an organisation that aims to link the humanities with the cognitive sciences and their latest online conference focuses on art and cognition.  

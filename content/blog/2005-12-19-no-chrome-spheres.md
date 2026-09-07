@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-19 03:21:10+00:00
-layout: post
-slug: no-chrome-spheres
-title: No Chrome Spheres…
-id: 757
-categories:
-- Aesthetics
-- Generative Art
-- Satire
----
++++
+title = "No Chrome Spheres…"
+date = 2005-12-19 03:21:10+00:00
+path = "/2005/12/19/no-chrome-spheres/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Satire",
+]
++++
 
   
 LOL:  

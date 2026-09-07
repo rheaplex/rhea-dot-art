@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 06:49:18+00:00
-layout: post
-slug: john-locke-the-copyright-pirate
-title: John Locke The Copyright Pirate
-id: 956
-categories:
-- Free Culture
----
++++
+title = "John Locke The Copyright Pirate"
+date = 2006-06-10 06:49:18+00:00
+path = "/2006/06/10/john-locke-the-copyright-pirate/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [John Locke the copyright pirate](/weblog/wp-admin/http3A2F2Ftom.acrewoods.net2Fnode2F432)  
   

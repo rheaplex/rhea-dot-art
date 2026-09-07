@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-14 20:36:56+00:00
-layout: post
-slug: good_thinking_on_free_art
-title: Good Thinking On Free Art
-id: 1871
-categories:
-- Art
-- Free Culture
----
++++
+title = "Good Thinking On Free Art"
+date = 2010-11-14 20:36:56+00:00
+path = "/2010/11/14/good_thinking_on_free_art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+]
++++
 
 <blockquote>_I follow these six easy steps to make sure my art doesn't get stolen online: _
 > 

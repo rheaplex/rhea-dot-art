@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-24 07:19:24+00:00
-layout: post
-slug: how-musicians-make-their-money
-title: How Musicians Make Their Money
-id: 1460
-categories:
-- Free Culture
----
++++
+title = "How Musicians Make Their Money"
+date = 2007-08-24 07:19:24+00:00
+path = "/2007/08/24/how-musicians-make-their-money/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Profits from recording vs. other revenue:  
   

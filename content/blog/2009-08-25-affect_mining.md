@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-25 00:20:56+00:00
-layout: post
-slug: affect_mining
-title: Affect Mining
-id: 1785
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Affect Mining"
+date = 2009-08-25 00:20:56+00:00
+path = "/2009/08/25/affect_mining/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 Extracting affect (or sentiment) from electronic text is a hard problem, and it's difficult to persuade people just how hard it is. [The Manhattan Times has an article](http://www.nytimes.com/2009/08/24/technology/internet/24emotion.html) that explains just how difficult it is, and has lots of useful links to projects and resources. The stand-out link is to Lillian Lee's paper "[Opinion mining and sentiment analysis](http://www.cs.cornell.edu/home/llee/opinion-mining-sentiment-analysis-survey.html)".   
   

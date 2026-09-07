@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-28 05:56:10+00:00
-layout: post
-slug: diamond-dust
-title: Diamond Dust
-id: 1379
-categories:
-- Aesthetics
-- Projects
-- Satire
----
++++
+title = "Diamond Dust"
+date = 2007-06-28 05:56:10+00:00
+path = "/2007/06/28/diamond-dust/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+    "Satire",
+]
++++
 
 I ordered some diamond dust.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-10 05:22:55+00:00
-layout: post
-slug: thought-for-the-day-3
-title: Thought For The Day
-id: 860
-categories:
-- Free Culture
----
++++
+title = "Thought For The Day"
+date = 2006-03-10 05:22:55+00:00
+path = "/2006/03/10/thought-for-the-day-3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free society needs free culture.  
   

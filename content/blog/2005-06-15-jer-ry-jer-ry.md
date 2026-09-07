@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 05:41:18+00:00
-layout: post
-slug: jer-ry-jer-ry
-title: Jer-ry, Jer-ry!
-id: 501
-categories:
-- Satire
----
++++
+title = "Jer-ry, Jer-ry!"
+date = 2005-06-15 05:41:18+00:00
+path = "/2005/06/15/jer-ry-jer-ry/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Via [Harry's Place](http://hurryupharry.bloghouse.net/archives/2005/06/14/cretinoleftism.php):  

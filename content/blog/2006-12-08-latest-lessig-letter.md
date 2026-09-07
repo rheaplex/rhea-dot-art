@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-12-08 06:23:39+00:00
-layout: post
-slug: latest-lessig-letter
-title: Latest Lessig Letter
-id: 1185
-categories:
-- Free Culture
----
++++
+title = "Latest Lessig Letter"
+date = 2006-12-08 06:23:39+00:00
+path = "/2006/12/08/latest-lessig-letter/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The latest Lessig letter has lots of good stuff in it:  
   

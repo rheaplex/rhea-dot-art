@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-15 20:14:45+00:00
-layout: post
-slug: exploring_art_data_6
-title: Exploring Art Data 6
-id: 1892
-categories:
-- Aesthetics
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 6"
+date = 2010-12-15 20:14:45+00:00
+path = "/2010/12/15/exploring_art_data_6/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's access an API and start analysing images.  
   

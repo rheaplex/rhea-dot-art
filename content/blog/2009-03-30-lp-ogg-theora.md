@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-30 21:14:45+00:00
-layout: post
-slug: lp-ogg-theora
-title: LP - Ogg Theora
-id: 1752
-categories:
-- Free Culture
----
++++
+title = "LP - Ogg Theora"
+date = 2009-03-30 21:14:45+00:00
+path = "/2009/03/30/lp-ogg-theora/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Christopher Montgomery gave a detail-packed presentation about the development, freeing and status of the Theora video codec. If you like video formats then the details of how Theora grids, quantizes, compresses, schedules and otherwise munges video data are fascinating. If you don't then the details of how Theora fits into the free video formats ecosystem are fascinating. Montgomery sees Theora as finding its natural place in the low-to-medium-end and online delivery sections of the market, and the BBC's Dirac finding its natural place at the high end and professional editing sections of the market (if I remember correctly).  
   

@@ -1,10 +1,8 @@
----
-layout: post
-title: About "Shareable Readymades"
-slug: about-shareable-readymades
-date: 2015-11-25
-
----
++++
+title = "About \"Shareable Readymades\""
+date = 2015-11-25
+path = "/2015/11/25/about-shareable-readymades/"
++++
 
 ![Balloon Dog](/images/2015/balloon-dog-at-ff.jpg)
 

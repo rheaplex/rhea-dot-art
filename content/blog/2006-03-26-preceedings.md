@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-26 09:26:41+00:00
-layout: post
-slug: preceedings
-title: Preceedings
-id: 871
-categories:
-- Aesthetics
----
++++
+title = "Preceedings"
+date = 2006-03-26 09:26:41+00:00
+path = "/2006/03/26/preceedings/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 

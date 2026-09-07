@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-09 23:06:50+00:00
-layout: post
-slug: artworld-ethereum-identity-ownership-and-authenticity
-title: Artworld Ethereum - Identity, Ownership and Authenticity
-id: 2569
-categories:
-- Art
-- Art Computing
-- Howto
-- Projects
----
++++
+title = "Artworld Ethereum - Identity, Ownership and Authenticity"
+date = 2014-05-09 23:06:50+00:00
+path = "/2014/05/09/artworld-ethereum-identity-ownership-and-authenticity/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Howto",
+    "Projects",
+]
++++
 
 Ethereum is a distributed computing system for writing and executing smart contracts. Inspired by Bitcoin, it's currently in development with a planned late 2014 release date. The term "smart contracts" was coined around 1993 by computer scientist Nick Szabo to describe computer-readable code that replaces lawyer-readable code to describe agreements and obligations between people.
 

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-31 23:41:38+00:00
-layout: post
-slug: the_r_cultural_analytics_library
-title: The R Cultural Analytics Library
-id: 1966
-categories:
-- Aesthetics
-- Art Computing
-- Art Open Data
-- Projects
----
++++
+title = "The R Cultural Analytics Library"
+date = 2011-10-31 23:41:38+00:00
+path = "/2011/10/31/the_r_cultural_analytics_library/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 I have gathered together much of the code from my series of posts on Exploring Art Data as a library for the R programming language which is now available as a package on R-Forge:  
 [  

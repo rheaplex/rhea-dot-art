@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-01 08:14:09+00:00
-layout: post
-slug: software-art-after-programming
-title: Software Art After Programming
-id: 200
-categories:
-- Generative Art
----
++++
+title = "Software Art After Programming"
+date = 2004-09-01 08:14:09+00:00
+path = "/2004/09/01/software-art-after-programming/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Flash is better than AARON, says Mute:  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-27 06:59:18+00:00
-layout: post
-slug: swanquake-the-user-manual
-title: SwanQuake - the user manual
-id: 1592
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "SwanQuake - the user manual"
+date = 2008-03-27 06:59:18+00:00
+path = "/2008/03/27/swanquake-the-user-manual/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 My latest review for Furtherfield is of igloo's excellent "SwanQuake the user manual".  
   

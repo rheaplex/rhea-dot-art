@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-07 06:28:28+00:00
-layout: post
-slug: the-agile-artist-2-web-20-productivity
-title: The Agile Artist 2 - Web 2.0 Productivity
-id: 1678
-categories:
-- Aesthetics
-- Howto
----
++++
+title = "The Agile Artist 2 - Web 2.0 Productivity"
+date = 2008-10-07 06:28:28+00:00
+path = "/2008/10/07/the-agile-artist-2-web-20-productivity/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Howto",
+]
++++
 
 There are many Web 2,0 sites that allow you to organize projects using Wikis, checklists of to-do items, calendars and other systems. These can be of use to artists.  
   

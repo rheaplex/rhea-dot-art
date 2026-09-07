@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-25 05:19:30+00:00
-layout: post
-slug: cc-by-sa-illustrations
-title: CC-BY-SA Illustrations
-id: 299
-categories:
-- Free Culture
----
++++
+title = "CC-BY-SA Illustrations"
+date = 2005-01-25 05:19:30+00:00
+path = "/2005/01/25/cc-by-sa-illustrations/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 CC-BY-SA Illustrations from Wikimedia, including a CC'd aardvark character for children's books:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-05 01:12:56+00:00
-layout: post
-slug: kuro5hin-on-relational-mathematics
-title: Kuro5hin on Relational Mathematics
-id: 462
-categories:
-- Generative Art
----
++++
+title = "Kuro5hin on Relational Mathematics"
+date = 2005-06-05 01:12:56+00:00
+path = "/2005/06/05/kuro5hin-on-relational-mathematics/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 A Kuro5hin article on an artificial intelligence program that can do analogies, with a very interesting take on "Relational Mathematics".
 

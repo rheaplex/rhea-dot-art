@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-10 22:39:40+00:00
-layout: post
-slug: freedom-of-simulation
-title: Freedom Of Simulation
-id: 1650
-categories:
-- Free Culture
----
++++
+title = "Freedom Of Simulation"
+date = 2008-08-10 22:39:40+00:00
+path = "/2008/08/10/freedom-of-simulation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 OpenSim is a Free Software re-implementation of the Second Life (SL) virtual world server. The popularity of Second Life and the availability of a Free server (from OpenSim) and a Free client (from Linden Labs, the original authors of SL) means that OpenSim and SL's scripting language may become the standard for networked virtual reality in the same way that the Apache server and HTML have for networked hypertext.  
   

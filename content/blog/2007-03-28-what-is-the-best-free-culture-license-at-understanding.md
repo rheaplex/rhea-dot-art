@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-03-28 05:54:06+00:00
-layout: post
-slug: what-is-the-best-free-culture-license-at-understanding
-title: What is the best Free Culture license? at Understanding
-id: 1251
-categories:
-- Free Culture
----
++++
+title = "What is the best Free Culture license? at Understanding"
+date = 2007-03-28 05:54:06+00:00
+path = "/2007/03/28/what-is-the-best-free-culture-license-at-understanding/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [What is the best Free Culture license? at Understanding](http://understandinglimited.com/2007/03/27/licensefun/)  
   

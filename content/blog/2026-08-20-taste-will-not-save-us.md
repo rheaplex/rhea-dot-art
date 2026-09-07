@@ -1,11 +1,12 @@
 +++
 title = "Taste Will Not Save Us"
-author = ["Rhea Myers"]
 date = 2026-08-20
-lastmod = 2026-08-20
-slug = "taste-will-not-save-us"
-categories = ["Essays"]
-draft = false
+path = "/2026/08/20/taste-will-not-save-us/"
+
+[taxonomies]
+categories = [
+    "Essays",
+]
 +++
 
 As llms solve mathematical problems that have stumped pencil-and-paper based human mathematicians for decades, some social media posters still take solace in the insistence that llms can’t count.

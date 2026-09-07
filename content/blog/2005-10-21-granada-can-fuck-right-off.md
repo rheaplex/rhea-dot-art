@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-21 06:21:06+00:00
-layout: post
-slug: granada-can-fuck-right-off
-title: Granada Can Fuck Right Off
-id: 704
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Granada Can Fuck Right Off"
+date = 2005-10-21 06:21:06+00:00
+path = "/2005/10/21/granada-can-fuck-right-off/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
   
 My copy of "The Company Of Wolves" DVD came from Amazon. Good film (90% of reviewers miss the point of it entirely, so ignore IMDB), terrible package.  

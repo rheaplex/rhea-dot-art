@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-29 04:03:58+00:00
-layout: post
-slug: new-order-waiting-for-the-sirens-call
-title: 'New Order: Waiting For The Sirens'' Call'
-id: 364
-categories:
-- Reviews
----
++++
+title = "New Order: Waiting For The Sirens' Call"
+date = 2005-03-29 04:03:58+00:00
+path = "/2005/03/29/new-order-waiting-for-the-sirens-call/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Very, very good.  
   

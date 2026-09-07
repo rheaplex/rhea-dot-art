@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-27 23:15:14+00:00
-layout: post
-slug: diffable-bitmaps
-title: Diffable Bitmaps
-id: 1734
-categories:
-- Art Computing
-- Free Culture
----
++++
+title = "Diffable Bitmaps"
+date = 2009-02-27 23:15:14+00:00
+path = "/2009/02/27/diffable-bitmaps/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 Is there a bitmap image format that can be diffed for meaningful version control? If not, could one be created?  
   

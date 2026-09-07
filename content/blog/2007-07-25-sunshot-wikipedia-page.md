@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-25 07:57:37+00:00
-layout: post
-slug: sunshot-wikipedia-page
-title: Sunshot Wikipedia Page
-id: 1418
-categories:
-- Projects
----
++++
+title = "Sunshot Wikipedia Page"
+date = 2007-07-25 07:57:37+00:00
+path = "/2007/07/25/sunshot-wikipedia-page/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've started a Wikipedia page for Sunshot. Until I can dig out some old magazines it's basically just a discography:  
   

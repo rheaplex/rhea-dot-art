@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-17 08:09:32+00:00
-layout: post
-slug: manik-blog
-title: MANIK Blog
-id: 514
-categories:
-- Aesthetics
----
++++
+title = "MANIK Blog"
+date = 2005-06-17 08:09:32+00:00
+path = "/2005/06/17/manik-blog/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 MANIK have a blog.  

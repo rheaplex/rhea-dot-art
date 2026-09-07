@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-12 09:24:46+00:00
-layout: post
-slug: allographic-art-and-freedom
-title: Allographic Art And Freedom
-id: 694
-categories:
-- Free Culture
----
++++
+title = "Allographic Art And Freedom"
+date = 2005-10-12 09:24:46+00:00
+path = "/2005/10/12/allographic-art-and-freedom/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 In "Languages of Art", Nelson Goodman distinguishes between allographic and autographic art. Allographic art has a score in some form of notation (such as music, drama, literature and in some cases dance). Autographic art does not have a score or notation (such as painting). It is immediate in a way that allographic work is not.  

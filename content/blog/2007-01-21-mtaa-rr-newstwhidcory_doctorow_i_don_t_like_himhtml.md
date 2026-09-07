@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-01-21 03:42:57+00:00
-layout: post
-slug: mtaa-rr-newstwhidcory_doctorow_i_don_t_like_himhtml
-title: MTAA-RR [ news/twhid/cory_doctorow_i_don_t_like_him.html ]
-id: 1212
-categories:
-- Free Culture
-- Generative Art
-- Satire
----
++++
+title = "MTAA-RR [ news/twhid/cory_doctorow_i_don_t_like_him.html ]"
+date = 2007-01-21 03:42:57+00:00
+path = "/2007/01/21/mtaa-rr-newstwhidcory_doctorow_i_don_t_like_himhtml/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+    "Satire",
+]
++++
 
 [MTAA-RR [ news/twhid/cory_doctorow_i_don_t_like_him.html ]](http://www.mtaa.net/mtaaRR/news/twhid/cory_doctorow_i_don_t_like_him.html)  
   

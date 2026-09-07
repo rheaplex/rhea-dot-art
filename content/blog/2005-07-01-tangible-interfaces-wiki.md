@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-01 03:13:46+00:00
-layout: post
-slug: tangible-interfaces-wiki
-title: Tangible Interfaces Wiki
-id: 558
-categories:
-- Generative Art
-- Howto
----
++++
+title = "Tangible Interfaces Wiki"
+date = 2005-07-01 03:13:46+00:00
+path = "/2005/07/01/tangible-interfaces-wiki/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 Via Doors Of Perception:  

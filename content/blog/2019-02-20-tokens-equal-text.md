@@ -1,17 +1,21 @@
----
-id: 3193
-title: 'Tokens Equal Text'
-date: '2019-02-20T16:20:46+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Ethereum
-    - Projects
----
++++
+title = "Tokens Equal Text"
+date = 2019-02-20 16:20:46+00:00
+path = "/2019/02/20/tokens-equal-text/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 “[Tokens Equal Text](/tokens-equal-text/)” (2019) is a Rare Art edition with a twist.
 

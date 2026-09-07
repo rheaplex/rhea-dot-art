@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-05 05:31:21+00:00
-layout: post
-slug: lessigs-new-book-remix
-title: Lessig's New Book - Remix
-id: 1645
-categories:
-- Free Culture
----
++++
+title = "Lessig's New Book - Remix"
+date = 2008-08-05 05:31:21+00:00
+path = "/2008/08/05/lessigs-new-book-remix/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Lawrence Lessig is finishing off his series of Free Culture books later this year with "Remix".  
   

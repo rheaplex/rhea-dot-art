@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-24 04:58:33+00:00
-layout: post
-slug: more-notes
-title: More Notes…
-id: 448
-categories:
-- Free Culture
----
++++
+title = "More Notes…"
+date = 2005-05-24 04:58:33+00:00
+path = "/2005/05/24/more-notes/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Public photography becoming "illegal" in the US, via [Copyfight](http://www.corante.com/copyfight/archives/2005/05/23/public_photography_becoming_illegal.php) :  
   

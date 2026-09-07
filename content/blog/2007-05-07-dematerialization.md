@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-07 09:02:02+00:00
-layout: post
-slug: dematerialization
-title: Dematerialization
-id: 1284
----
++++
+title = "Dematerialization"
+date = 2007-05-07 09:02:02+00:00
+path = "/2007/05/07/dematerialization/"
++++
 
 The market, like copyright and art theory, is an ontology of art, or at least some kind of substitute for one.  
 Conceptualism dematerialized the art object in favour of its theoretical description, an ontology.  

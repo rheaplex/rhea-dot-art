@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-27 05:13:22+00:00
-layout: post
-slug: the-problems-with-free-licensing-aesthetic-works
-title: “The problems with free-licensing aesthetic works”
-id: 1591
-categories:
-- Free Culture
----
++++
+title = "“The problems with free-licensing aesthetic works”"
+date = 2008-03-27 05:13:22+00:00
+path = "/2008/03/27/the-problems-with-free-licensing-aesthetic-works/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Terry Hancock has an excellent series of articles in ``[Free Software Magazine](http://www.freesoftwaremagazine.com/)'' called ``[Making the impossible happen: the rules of free culture](http://www.freesoftwaremagazine.com/books/making_the_impossible_happen_the_rules_of_free_culture)'' that examines the production of Free Culture in great detail. Go and read them all then come back here.  
   

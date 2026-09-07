@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-26 04:01:28+00:00
-layout: post
-slug: i-wish-i-understood-maths-better
-title: I wish I understood maths better
-id: 303
-categories:
-- Generative Art
----
++++
+title = "I wish I understood maths better"
+date = 2005-01-26 04:01:28+00:00
+path = "/2005/01/26/i-wish-i-understood-maths-better/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 I wish I understood maths better:[  
   

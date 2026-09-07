@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-18 06:33:54+00:00
-layout: post
-slug: how-culture-is-made
-title: How Culture is Made
-id: 701
-categories:
-- Free Culture
----
++++
+title = "How Culture is Made"
+date = 2005-10-18 06:33:54+00:00
+path = "/2005/10/18/how-culture-is-made/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 One objection that it might seem to be possible to make to applying Stallmanian freedom to culture is that culture isn't like code. You can't get a team to write a book then release it and let its readers send in bug fixes.  
   

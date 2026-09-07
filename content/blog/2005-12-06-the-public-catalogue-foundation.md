@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-06 07:30:53+00:00
-layout: post
-slug: the-public-catalogue-foundation
-title: The Public Catalogue Foundation
-id: 749
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "The Public Catalogue Foundation"
+date = 2005-12-06 07:30:53+00:00
+path = "/2005/12/06/the-public-catalogue-foundation/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
   
 [http://www.thepcf.org.uk/](http://www.thepcf.org.uk)  

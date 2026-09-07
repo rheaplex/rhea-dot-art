@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-06 01:56:27+00:00
-layout: post
-slug: draft-creative-commons-statement-of-intent-for-attribution-sharealike-licenses-creative-commons
-title: DRAFT Creative Commons Statement of Intent for Attribution-ShareAlike Licenses
-  - Creative Commons
-id: 1595
-categories:
-- Free Culture
----
++++
+title = "DRAFT Creative Commons Statement of Intent for Attribution-ShareAlike Licenses - Creative Commons"
+date = 2008-04-06 01:56:27+00:00
+path = "/2008/04/06/draft-creative-commons-statement-of-intent-for-attribution-sharealike-licenses-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [DRAFT Creative Commons Statement of Intent for Attribution-ShareAlike Licenses - Creative Commons](http://creativecommons.org/weblog/entry/8186)
 

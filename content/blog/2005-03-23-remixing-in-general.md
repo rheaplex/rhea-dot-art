@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-23 21:23:07+00:00
-layout: post
-slug: remixing-in-general
-title: Remixing In General
-id: 357
-categories:
-- Free Culture
----
++++
+title = "Remixing In General"
+date = 2005-03-23 21:23:07+00:00
+path = "/2005/03/23/remixing-in-general/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Life Isn't Just as You Want It? Remix It!](http://msnbc.msn.com/id/7243358/site/newsweek/)   
   

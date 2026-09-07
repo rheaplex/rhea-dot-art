@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-09 05:38:13+00:00
-layout: post
-slug: boing-boing-copyright-explained-through-a-wild-west-metaphor
-title: 'Boing Boing: Copyright explained through a wild west metaphor'
-id: 1163
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: Copyright explained through a wild west metaphor"
+date = 2006-11-09 05:38:13+00:00
+path = "/2006/11/09/boing-boing-copyright-explained-through-a-wild-west-metaphor/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: Copyright explained through a wild west metaphor](http://www.boingboing.net/2006/11/08/copyright_explained_.html)  
   

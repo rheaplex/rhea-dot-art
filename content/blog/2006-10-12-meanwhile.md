@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-12 06:24:47+00:00
-layout: post
-slug: meanwhile
-title: Meanwhile…
-id: 1132
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Meanwhile…"
+date = 2006-10-12 06:24:47+00:00
+path = "/2006/10/12/meanwhile/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 A glass and marble conference room with a view out over the docklands landscape. Jamie T walks through the door, glancing back at the PA who didn't offer him a coffee. A suit sits at the long oval table that fills most of the room, and Jamie reaches out to shake hands with him. The suit remains frozen. Jamie hesitantly withdraws his hand, then sits down awkwardly.  
   

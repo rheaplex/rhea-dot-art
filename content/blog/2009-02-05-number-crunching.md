@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-05 11:40:59+00:00
-layout: post
-slug: number-crunching
-title: Number Crunching
-id: 1717
-categories:
-- Politics
-- Satire
----
++++
+title = "Number Crunching"
+date = 2009-02-05 11:40:59+00:00
+path = "/2009/02/05/number-crunching/"
+
+[taxonomies]
+categories = [
+    "Politics",
+    "Satire",
+]
++++
 
 [from Private Eye]  
   

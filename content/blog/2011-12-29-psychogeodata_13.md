@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-29 19:28:45+00:00
-layout: post
-slug: psychogeodata_13
-title: Psychogeodata (1/3)
-id: 1972
-categories:
-- Aesthetics
-- Free Culture
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Psychogeodata (1/3)"
+date = 2011-12-29 19:28:45+00:00
+path = "/2011/12/29/psychogeodata_13/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 ![derive](/images/2011/12/29/derive.png)
 

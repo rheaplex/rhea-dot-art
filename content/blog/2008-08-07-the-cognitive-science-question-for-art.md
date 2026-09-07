@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-07 08:23:18+00:00
-layout: post
-slug: the-cognitive-science-question-for-art
-title: The Cognitive Science Question For Art
-id: 1649
-categories:
-- Add category
-- Aesthetics
----
++++
+title = "The Cognitive Science Question For Art"
+date = 2008-08-07 08:23:18+00:00
+path = "/2008/08/07/the-cognitive-science-question-for-art/"
+
+[taxonomies]
+categories = [
+    "Add category",
+    "Aesthetics",
+]
++++
 
 When I got to art school in the early 90s, cultural studies was the face of the literary theory land grab in that part of the academy. Its stranglehold wouldn't be broken until the Sokal Hoax some years later. I resisted semiotics and deconstruction as the hegemonic narratives of a coercive authoritarian culture. The long cry of denial of those who'd missed the boat in '68 echoed through the postmodern era. It was vapid, tedious bullshit entirely congruent with the managerial ideology of the day.  
   

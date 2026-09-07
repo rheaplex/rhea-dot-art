@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-26 23:04:25+00:00
-layout: post
-slug: exploring_art_data_15
-title: Exploring Art Data 15
-id: 1917
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 15"
+date = 2011-01-26 23:04:25+00:00
+path = "/2011/01/26/exploring_art_data_15/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's find an art historical data source that hasn't already been digitised and made freely available.  
   

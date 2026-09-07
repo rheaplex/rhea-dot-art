@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-02 12:27:41+00:00
-layout: post
-slug: exploring_art_data_20
-title: Exploring Art Data 20
-id: 1951
-categories:
-- Art Computing
-- Art Open Data
-- Projects
----
++++
+title = "Exploring Art Data 20"
+date = 2011-10-02 12:27:41+00:00
+path = "/2011/10/02/exploring_art_data_20/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 [Exploring Art Data 18 and 19 concern parsing and charting the Graves Art Sales data covering Constable. They will be published later.]  
   

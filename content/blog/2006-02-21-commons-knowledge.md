@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-21 08:31:03+00:00
-layout: post
-slug: commons-knowledge
-title: Commons Knowledge
-id: 843
-categories:
-- Free Culture
----
++++
+title = "Commons Knowledge"
+date = 2006-02-21 08:31:03+00:00
+path = "/2006/02/21/commons-knowledge/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 This is the first issue of Free Culture UK's new fortnightly newsletter.  
 Please pass this on to others who might be interested. To get your upcoming  

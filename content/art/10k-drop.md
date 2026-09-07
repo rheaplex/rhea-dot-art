@@ -1,22 +1,24 @@
 +++
 title = "10K Drop"
 date = 2024-07-24
+aliases = [
+    "/10K-drop/",
+]
+path = "/10k-drop/"
+
+[extra]
 image = "/art-images/10Kdrop-1.png"
-aliases = ["/10K-drop/"]
-mediums = ["Ethereum ERC-721 NFT", "HTML5"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+    "HTML5",
+]
+collaborators = [
+    { name = "Georg Bak", role = "Thanks / support" },
+    { name = "Nguyen Wahed", role = "Thanks / support" },
+    { name = "Verse", role = "Platform" },
+    { name = "[aside]", role = "Thanks / support" },
+]
 wp_id = 6619
-[[collaborators]]
-  name = "Georg Bak"
-  role = "Thanks / support"
-[[collaborators]]
-  name = "Nguyen Wahed"
-  role = "Thanks / support"
-[[collaborators]]
-  name = "Verse"
-  role = "Platform"
-[[collaborators]]
-  name = "[aside]"
-  role = "Thanks / support"
 +++
 
 A “10K Drop” is an NFT collection of ten thousand PFP character images released as a cultural event. The number ten thousand and the format of a series of characters generated programmatically from a library of visual elements is taken from the first collection of this kind, the _Cryptopunks_ by Larva Labs which dropped in June 2017. Successful drops provide community, inspiration, and wealth. Unsuccessful ones provide embarrassment and loss. Buying early rides one of these waves. Waiting to see how a collection performed reduces risk but also reduces reward. For every _Bored Apes_, a dozen _Disinterested Dogs_.

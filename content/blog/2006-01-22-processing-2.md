@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-22 05:54:24+00:00
-layout: post
-slug: processing-2
-title: Processing…
-id: 798
-categories:
-- Generative Art
----
++++
+title = "Processing…"
+date = 2006-01-22 05:54:24+00:00
+path = "/2006/01/22/processing-2/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 _[...] the work that is currently popular in the scene is often focused on immediate gratification, duplicating already existing work. It also often found lacking in niceties like software design, or even a more general understanding of good coding practices._  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-09 05:23:23+00:00
-layout: post
-slug: laws-of-form
-title: Laws Of Form
-id: 625
-categories:
-- Aesthetics
----
++++
+title = "Laws Of Form"
+date = 2005-08-09 05:23:23+00:00
+path = "/2005/08/09/laws-of-form/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 A&L; mentioned this in their article on Luhmann in Radical Philosophy:  

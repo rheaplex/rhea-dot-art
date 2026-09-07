@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-28 07:37:36+00:00
-layout: post
-slug: free-formats-are-not-enough
-title: Free Formats Are Not Enough
-id: 552
-categories:
-- Free Culture
----
++++
+title = "Free Formats Are Not Enough"
+date = 2005-06-28 07:37:36+00:00
+path = "/2005/06/28/free-formats-are-not-enough/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free formats are not enough.  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-10 06:54:29+00:00
-layout: post
-slug: hipster-freedom-1-smooth-beats
-title: Hipster Freedom 1 - Smooth Beats
-id: 1501
-categories:
-- Free Culture
-- Howto
----
++++
+title = "Hipster Freedom 1 - Smooth Beats"
+date = 2007-10-10 06:54:29+00:00
+path = "/2007/10/10/hipster-freedom-1-smooth-beats/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+]
++++
 
 You've got you MacBook Pro and you've taken a break from the conference to have a tall skinny decaf latte and listen to some music while you update your blog on the free wifi. You hipster, you. Could you be any cooler? Well, yes.  
   

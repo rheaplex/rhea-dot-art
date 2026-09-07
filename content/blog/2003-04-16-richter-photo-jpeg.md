@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-16 00:16:51+00:00
-layout: post
-slug: richter-photo-jpeg
-title: Richter, Photo, JPEG
-id: 13
-categories:
-- Aesthetics
----
++++
+title = "Richter, Photo, JPEG"
+date = 2003-04-16 00:16:51+00:00
+path = "/2003/04/16/richter-photo-jpeg/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Richter's blurry photo paintings as critique.   
 JPEGs are a 'green' format, conserving limited resources (in bad conscience). They prioritise distribution over fidelity. Their participant's gaze ignores loss. reconstituting it from expectation, glad to receive an approximation in less time.   

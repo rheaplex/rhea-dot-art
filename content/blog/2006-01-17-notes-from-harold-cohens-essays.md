@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-17 07:38:59+00:00
-layout: post
-slug: notes-from-harold-cohens-essays
-title: Notes From Harold Cohen's Essays
-id: 789
-categories:
-- Generative Art
----
++++
+title = "Notes From Harold Cohen's Essays"
+date = 2006-01-17 07:38:59+00:00
+path = "/2006/01/17/notes-from-harold-cohens-essays/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 **Notes from "What is an image"**  

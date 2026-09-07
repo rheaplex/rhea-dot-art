@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-01-03 08:38:18+00:00
-layout: post
-slug: notes-for-two-reviews
-title: Notes For Two Reviews
-id: 1701
-categories:
-- Aesthetics
-- Reviews
-- Sketchblog
----
++++
+title = "Notes For Two Reviews"
+date = 2009-01-03 08:38:18+00:00
+path = "/2009/01/03/notes-for-two-reviews/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+    "Sketchblog",
+]
++++
 
 When I'm at an art show I'm going to review, or as soon as possible after leaving it, I take notes. These may be taken in low-light conditions, on the last train of the night, under the influence of complimentary alcohol, or in otherwise sub-optimal conditions. But they tend to have an immediacy that the finished review replaces with more in-depth reflection. So as an experiment here are scans of the notes for my review of "Neurotic and the PVCs" at the ICA and "SwanQuake: House" at v22. Excuse my scrawl.[](http://flickr.com/photos/rheaplex/sets/72157612019632395/)
 

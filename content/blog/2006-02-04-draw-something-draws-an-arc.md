@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-04 08:34:15+00:00
-layout: post
-slug: draw-something-draws-an-arc
-title: draw-something draws an arc
-id: 811
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something draws an arc"
+date = 2006-02-04 08:34:15+00:00
+path = "/2006/02/04/draw-something-draws-an-arc/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 ![200602032329](/images/200602032329.jpg)  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-13 08:01:25+00:00
-layout: post
-slug: aesthetic-production
-title: Aesthetic Production
-id: 496
-categories:
-- Aesthetics
----
++++
+title = "Aesthetic Production"
+date = 2005-06-13 08:01:25+00:00
+path = "/2005/06/13/aesthetic-production/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 The review of Ranciere's and Badiou's respective aesthetics in Radical Philosophy 131 complains that neither tackle capitalism head-on.  

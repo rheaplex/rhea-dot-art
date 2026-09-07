@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-10 03:30:54+00:00
-layout: post
-slug: wikipedia-on-liberty
-title: Wikipedia on Liberty
-id: 628
-categories:
-- Free Culture
----
++++
+title = "Wikipedia on Liberty"
+date = 2005-08-10 03:30:54+00:00
+path = "/2005/08/10/wikipedia-on-liberty/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Liberty is what people often mean by "freedom". The freedom of "Free Culture" and "Free Software" is a matter of liberty, and is essentially liberal freedom, rather than a more radical freedom (such as anarchism).  

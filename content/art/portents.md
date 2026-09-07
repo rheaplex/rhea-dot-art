@@ -1,8 +1,16 @@
 +++
 title = "Portents"
 date = 2024-06-26
+path = "/portents/"
+
+[extra]
 image = "/art-images/portents-logotype-wob.png"
-mediums = ["Bitcoin Ordinal", "Graphic Identity", "Whitepaper", "Spreadsheet"]
+mediums = [
+    "Bitcoin Ordinal",
+    "Graphic Identity",
+    "Whitepaper",
+    "Spreadsheet",
+]
 wp_id = 6620
 +++
 

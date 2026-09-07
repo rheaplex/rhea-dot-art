@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-14 08:25:42+00:00
-layout: post
-slug: lonely-werewolf-girl
-title: Lonely Werewolf Girl
-id: 1444
-categories:
-- Reviews
----
++++
+title = "Lonely Werewolf Girl"
+date = 2007-08-14 08:25:42+00:00
+path = "/2007/08/14/lonely-werewolf-girl/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I've read and watched an awful lot of very bad werewolf stories over the years. I think the absolute worst was the episode of "Journey To The Bottom Of The Sea" where - actually it's so bad I'm not even going to tell you. But at least it didn't have the obsession with human squalor and misery that the likes of Alice Borchardt and S. P. Somtow inflict on page after page of for-the-love-of-god-get-on-with-it filler while failing to find anything to say or do with their characters.  
   

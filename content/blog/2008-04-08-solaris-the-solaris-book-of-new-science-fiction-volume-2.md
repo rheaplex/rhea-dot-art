@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-08 07:57:40+00:00
-layout: post
-slug: solaris-the-solaris-book-of-new-science-fiction-volume-2
-title: 'Solaris - The Solaris Book of New Science Fiction: Volume 2'
-id: 1596
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Solaris - The Solaris Book of New Science Fiction: Volume 2"
+date = 2008-04-08 07:57:40+00:00
+path = "/2008/04/08/solaris-the-solaris-book-of-new-science-fiction-volume-2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 [Solaris - The Solaris Book of New Science Fiction: Volume 2](http://www.solarisbooks.com/books/newbookscifi2/newbooksf2.asp)  
   

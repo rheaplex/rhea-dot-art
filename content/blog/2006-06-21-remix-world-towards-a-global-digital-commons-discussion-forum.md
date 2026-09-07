@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-21 03:22:50+00:00
-layout: post
-slug: remix-world-towards-a-global-digital-commons-discussion-forum
-title: 'Remix World: towards a global digital commons - Discussion forum'
-id: 992
-categories:
-- Free Culture
----
++++
+title = "Remix World: towards a global digital commons - Discussion forum"
+date = 2006-06-21 03:22:50+00:00
+path = "/2006/06/21/remix-world-towards-a-global-digital-commons-discussion-forum/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Remix World: towards a global digital commons - Discussion forum](http://www.opendemocracy.net/forums/thread.jspa?forumID=197&threadID=46774&messageID=85408&start=0ð”¶ )  
   

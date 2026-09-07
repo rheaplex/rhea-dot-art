@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-24 05:00:39+00:00
-layout: post
-slug: conclusive-proof-of-creationism
-title: Conclusive Proof Of Creationism!
-id: 449
-categories:
-- Satire
----
++++
+title = "Conclusive Proof Of Creationism!"
+date = 2005-05-24 05:00:39+00:00
+path = "/2005/05/24/conclusive-proof-of-creationism/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Tough luck, Darwin:  
   

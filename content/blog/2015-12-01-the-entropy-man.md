@@ -1,10 +1,8 @@
----
-layout: post
-title: The Entropy Man
-slug: the-entropy-man
-date: 2015-12-01
-
----
++++
+title = "The Entropy Man"
+date = 2015-12-01
+path = "/2015/12/01/the-entropy-man/"
++++
 
 ![A 16-Sided Die](/images/2015/D16_HEX_dice.jpg)
 

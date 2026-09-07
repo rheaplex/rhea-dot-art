@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-29 17:54:18+00:00
-layout: post
-slug: metaphors-that-dont-hold-water
-title: Metaphors That Don't Hold Water
-id: 314
-categories:
-- Free Culture
----
++++
+title = "Metaphors That Don't Hold Water"
+date = 2005-01-29 17:54:18+00:00
+path = "/2005/01/29/metaphors-that-dont-hold-water/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I'm a big fan of [Boing Boing](http://www.boingboing.net/), and I want to be [Cory Doctorow](http://www.craphound.com/) when I grow up, but I'm sorry to say that the metaphors in his interview [here](http://www.thefeature.com/article?articleid=101373) ring false:  
   

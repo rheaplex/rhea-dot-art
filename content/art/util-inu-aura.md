@@ -1,10 +1,19 @@
 +++
 title = "UTIL-INU-AURA"
 date = 2024-10-31
+path = "/util-inu-aura/"
+
+[extra]
 image = "/art-images/util-inu-aura-logotype.png"
-mediums = ["Ethereum ERC-20 Tokens"]
-repos = ["https://github.com/rheaplex/util-inu-aura"]
-demos = ["https://show.rhea.art/util-inu-aura/"]
+mediums = [
+    "Ethereum ERC-20 Tokens",
+]
+repos = [
+    "https://github.com/rheaplex/util-inu-aura",
+]
+demos = [
+    "https://show.rhea.art/util-inu-aura/",
+]
 wp_id = 6618
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-17 03:22:09+00:00
-layout: post
-slug: dembroski-and-art-hacking
-title: Dembroski and Art Hacking
-id: 431
-categories:
-- Free Culture
----
++++
+title = "Dembroski and Art Hacking"
+date = 2005-05-17 03:22:09+00:00
+path = "/2005/05/17/dembroski-and-art-hacking/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Ben Dembroski's site, devoted to "Open Content" (i.e. Free) Art:  
   

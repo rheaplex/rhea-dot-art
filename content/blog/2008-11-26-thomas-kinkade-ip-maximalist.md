@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-26 08:05:17+00:00
-layout: post
-slug: thomas-kinkade-ip-maximalist
-title: Thomas Kinkade, IP Maximalist
-id: 1695
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Thomas Kinkade, IP Maximalist"
+date = 2008-11-26 08:05:17+00:00
+path = "/2008/11/26/thomas-kinkade-ip-maximalist/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 Two of my least favourite things come together-  
   

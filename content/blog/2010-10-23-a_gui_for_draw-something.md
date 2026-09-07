@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-10-23 22:31:04+00:00
-layout: post
-slug: a_gui_for_draw-something
-title: A GUI For draw-something
-id: 1864
-categories:
-- Art
-- Art Computing
-- Free Software
-- Generative Art
-- Projects
----
++++
+title = "A GUI For draw-something"
+date = 2010-10-23 22:31:04+00:00
+path = "/2010/10/23/a_gui_for_draw-something/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+]
++++
 
 I've written a Gtk+ user interface for draw-something to help evaluate its output.  
   

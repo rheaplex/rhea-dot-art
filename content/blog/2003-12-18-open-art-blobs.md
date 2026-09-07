@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-18 03:23:33+00:00
-layout: post
-slug: open-art-blobs
-title: 'Open Art: Blobs'
-id: 66
-categories:
-- Free Culture
----
++++
+title = "Open Art: Blobs"
+date = 2003-12-18 03:23:33+00:00
+path = "/2003/12/18/open-art-blobs/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Blobs" is now available for download at the Open Content section of my site.  
 [Click here to go there.](/open_content/)  

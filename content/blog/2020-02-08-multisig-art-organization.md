@@ -1,15 +1,19 @@
----
-id: 3763
-title: 'Multisig Art Organization'
-date: '2020-02-08T17:11:19+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
----
++++
+title = "Multisig Art Organization"
+date = 2020-02-08 17:11:19+00:00
+path = "/2020/02/08/multisig-art-organization/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 > Was just thinking, Gnosis Safe Multisig is a great tool for hypothetical on-chain NFT art gallery/DAO group to secure and manage their pieces, particularly high-value ones
 > 

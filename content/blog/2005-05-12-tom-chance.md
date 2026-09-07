@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-12 08:49:05+00:00
-layout: post
-slug: tom-chance
-title: Tom Chance
-id: 415
-categories:
-- Free Culture
----
++++
+title = "Tom Chance"
+date = 2005-05-12 08:49:05+00:00
+path = "/2005/05/12/tom-chance/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Tom's the instigator of the amazingly successful [Remix Reading](http://www.remixreading.org/) project and very active in Free Software & Free Culture advocacy.  
   

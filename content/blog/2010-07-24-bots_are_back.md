@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-07-24 14:21:45+00:00
-layout: post
-slug: bots_are_back
-title: Bots Are Back
-id: 1851
-categories:
-- Projects
----
++++
+title = "Bots Are Back"
+date = 2010-07-24 14:21:45+00:00
+path = "/2010/07/24/bots_are_back/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I had to take the identi.ca bots that use my microblog-bot library offline for a while because an upgrade to status.net broke the underlying Lisp xml parsing library that it uses.  
   

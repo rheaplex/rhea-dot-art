@@ -1,9 +1,16 @@
 +++
 title = "Baldessarinator"
 date = 2011-01-04
+path = "/baldessarinator/"
+
+[extra]
 image = "/art-images/balderassinated.jpeg"
-mediums = ["Python"]
-repos = ["https://github.com/rheaplex/baldessarinator"]
+mediums = [
+    "Python",
+]
+repos = [
+    "https://github.com/rheaplex/baldessarinator",
+]
 wp_id = 6668
 +++
 

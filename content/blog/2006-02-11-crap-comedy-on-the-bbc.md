@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-11 08:45:12+00:00
-layout: post
-slug: crap-comedy-on-the-bbc
-title: Crap Comedy On The BBC
-id: 821
-categories:
-- Reviews
----
++++
+title = "Crap Comedy On The BBC"
+date = 2006-02-11 08:45:12+00:00
+path = "/2006/02/11/crap-comedy-on-the-bbc/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
   
 **Tittybangbang**  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-25 02:45:56+00:00
-layout: post
-slug: aaron-poster
-title: AARON Poster
-id: 255
-categories:
-- Generative Art
----
++++
+title = "AARON Poster"
+date = 2004-11-25 02:45:56+00:00
+path = "/2004/11/25/aaron-poster/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 A poster by AARON for the International Lisp Conference 2002:  
   

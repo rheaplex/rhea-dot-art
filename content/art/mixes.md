@@ -1,8 +1,13 @@
 +++
 title = "Mixes"
 date = 1993-01-01
+path = "/mixes/"
+
+[extra]
 image = "/art-images/GELVIS.png"
-mediums = ["TIFF"]
+mediums = [
+    "TIFF",
+]
 wp_id = 6691
 +++
 

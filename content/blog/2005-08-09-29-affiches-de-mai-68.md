@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-09 05:21:36+00:00
-layout: post
-slug: 29-affiches-de-mai-68
-title: 29 affiches de mai 68
-id: 624
-categories:
-- Aesthetics
----
++++
+title = "29 affiches de mai 68"
+date = 2005-08-09 05:21:36+00:00
+path = "/2005/08/09/29-affiches-de-mai-68/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Posters from May 1968 in France. Spot the Chemical Brothers cover...:  

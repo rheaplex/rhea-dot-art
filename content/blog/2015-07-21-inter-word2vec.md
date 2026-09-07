@@ -1,10 +1,8 @@
----
-layout: post
-title: inter-word2vec
-slug: inter-word2vec
-date: 2015-07-21
-
----
++++
+title = "inter-word2vec"
+date = 2015-07-21
+path = "/2015/07/21/inter-word2vec/"
++++
 
 [Word2Vec](https://code.google.com/p/word2vec/) is a word vector system that has received attention for the way that mathematical operations on the vectors it generates give meaningful results.
 

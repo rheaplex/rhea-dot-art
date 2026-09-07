@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-01 07:12:30+00:00
-layout: post
-slug: liquid-culture-cc-flawed-that-argument-is-secondary
-title: 'liquid culture: CC flawed? That argument is secondary'
-id: 1125
-categories:
-- Free Culture
----
++++
+title = "liquid culture: CC flawed? That argument is secondary"
+date = 2006-10-01 07:12:30+00:00
+path = "/2006/10/01/liquid-culture-cc-flawed-that-argument-is-secondary/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [liquid culture: CC flawed? That argument is secondary](http://liquidculture.blogspot.com/2006/09/cc-flawed-that-argument-is-secondary.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-01-17 03:04:58+00:00
-layout: post
-slug: jasia-reichardt
-title: Jasia Reichardt
-id: 80
-categories:
-- Generative Art
----
++++
+title = "Jasia Reichardt"
+date = 2004-01-17 03:04:58+00:00
+path = "/2004/01/17/jasia-reichardt/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Jasia Reichardt was Assistant Director of the ICA in London in the late 1960s at the time of "Cybernetic Serendipity".   
   

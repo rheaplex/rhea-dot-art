@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-21 08:06:50+00:00
-layout: post
-slug: why-should-the-licence-of-an-artwork-be-interesting
-title: Why should the licence of an artwork be interesting?
-id: 1361
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Why should the licence of an artwork be interesting?"
+date = 2007-06-21 08:06:50+00:00
+path = "/2007/06/21/why-should-the-licence-of-an-artwork-be-interesting/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [http://www.mtaa.net/mtaaRR/news/twhid/artificial_legal_add_ons_to_art.html](http://www.mtaa.net/mtaaRR/news/twhid/artificial_legal_add_ons_to_art.html)  
   

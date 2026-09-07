@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-22 08:00:57+00:00
-layout: post
-slug: chordinator-sort-by-value
-title: Chordinator - Sort By Value
-id: 1050
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Chordinator - Sort By Value"
+date = 2006-07-22 08:00:57+00:00
+path = "/2006/07/22/chordinator-sort-by-value/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 This version sorts by value (brightness - saturation), but still only alters brightness. The effects are good, although some colours are obviously too saturated for their position. Possibly saturation needs linearising as well. So the dark blue in the first palette below looks too dark for its position (it isn't, but it is too saturated), and the magenta in the palette below it looks too bright (again, it isn't, but the saturation is out of position).  

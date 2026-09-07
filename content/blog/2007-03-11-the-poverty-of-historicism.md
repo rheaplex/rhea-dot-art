@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-03-11 04:34:48+00:00
-layout: post
-slug: the-poverty-of-historicism
-title: The Poverty Of Historicism
-id: 1242
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "The Poverty Of Historicism"
+date = 2007-03-11 04:34:48+00:00
+path = "/2007/03/11/the-poverty-of-historicism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 Popper followed up "The Open Society And Its Enemies" with a critique of Marxism called "The Poverty Of Historicism". The Historicism of the title is Marxism's Hegelian spirit of history.  
   

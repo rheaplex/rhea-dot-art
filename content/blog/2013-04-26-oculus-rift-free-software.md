@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-26 12:06:12+00:00
-layout: post
-slug: oculus-rift-free-software
-title: Oculus Rift Free Software
-id: 2300
-categories:
-- Free Software
----
++++
+title = "Oculus Rift Free Software"
+date = 2013-04-26 12:06:12+00:00
+path = "/2013/04/26/oculus-rift-free-software/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 [![oculus1](/images/2013/04/oculus1.png)](/images/2013/04/oculus1.png)
 

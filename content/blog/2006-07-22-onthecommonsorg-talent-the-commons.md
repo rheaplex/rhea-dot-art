@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-22 18:50:03+00:00
-layout: post
-slug: onthecommonsorg-talent-the-commons
-title: OnTheCommons.org | Talent & The Commons
-id: 1052
-categories:
-- Free Culture
----
++++
+title = "OnTheCommons.org | Talent & The Commons"
+date = 2006-07-22 18:50:03+00:00
+path = "/2006/07/22/onthecommonsorg-talent-the-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [OnTheCommons.org | Talent & The Commons](http://onthecommons.org/node/933)  

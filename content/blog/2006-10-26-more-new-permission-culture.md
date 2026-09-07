@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-26 06:06:11+00:00
-layout: post
-slug: more-new-permission-culture
-title: More New Permission Culture
-id: 1148
-categories:
-- Free Culture
----
++++
+title = "More New Permission Culture"
+date = 2006-10-26 06:06:11+00:00
+path = "/2006/10/26/more-new-permission-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://icommons.org/2006/10/16/dinner-with-magnatunes-john-buckman/](http://icommons.org/2006/10/16/dinner-with-magnatunes-john-buckman/)  
   

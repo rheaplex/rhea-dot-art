@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-10 03:38:50+00:00
-layout: post
-slug: tesla-and-free-energy
-title: Tesla and Free Energy
-id: 629
-categories:
-- Free Culture
----
++++
+title = "Tesla and Free Energy"
+date = 2005-08-10 03:38:50+00:00
+path = "/2005/08/10/tesla-and-free-energy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Tesla](http://en.wikipedia.org/wiki/Tesla) rocks. I went to the Tesla museum whilst in Belgrade, and I saw a [Tesla Coil](http://en.wikipedia.org/wiki/Tesla_coil) operating (which impressed the kids standing near it holding neon tubes). The idea of transmitting energy, and the idea of radiant energy receivers, both Tesla ideas, are two types of Free Energy.  

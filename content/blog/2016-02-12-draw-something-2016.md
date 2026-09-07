@@ -1,14 +1,16 @@
----
-title: draw-something 2016
-date: 2016-02-12 19:22:14.000000000 -08:00
-type: post
-layout: post
-categories:
-- Art Computing
-- Generative Art
-- Projects
-author: Rhea Myers
----
++++
+title = "draw-something 2016"
+date = 2016-02-12 19:22:14-08:00
+path = "/2016/02/12/draw-something-2016/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
+
 ![draw-something drawing February 2016](/images/2016/02/draw-something-feb-2016-300x280.png)
 
 I've updated the [Common Lisp](http://www.gigamonkeys.com/book/) version of [draw-something](/draw-something/) to use modern technologies - [Roswell](https://github.com/roswell/roswell), [QuickLisp](https://www.quicklisp.org/beta/), [ASDF 3](http://fare.tunes.org/files/asdf3/asdf3-2014.html), [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk) and the [Plan](https://github.com/fukamachi/prove) testing library. The tests helped flush out bugs, changing my mis-uses of defmethod to defun silenced a lot of compiler warnings and that in turn helped find some more bugs. There's now a bit of technical debt in the form of function and class names, I'll address that later. Like the recent minara update, this is a bitrot update rather than a new feature release.

@@ -1,17 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-15 04:14:52+00:00
-layout: post
-slug: guardian-unlimited-comment-is-free-charlie-brooker-supposing-sandi-thom-is-the-musical-antichrist
-title: 'Guardian Unlimited | Comment is free | Charlie Brooker: Supposing … Sandi
-  Thom is the musical antichrist'
-id: 979
-categories:
-- Aesthetics
-- Free Culture
-- Satire
----
++++
+title = "Guardian Unlimited | Comment is free | Charlie Brooker: Supposing … Sandi Thom is the musical antichrist"
+date = 2006-06-15 04:14:52+00:00
+path = "/2006/06/15/guardian-unlimited-comment-is-free-charlie-brooker-supposing-sandi-thom-is-the-musical-antichrist/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Satire",
+]
++++
 
 [Guardian Unlimited | Comment is free | Charlie Brooker: Supposing ... Sandi Thom is the musical antichrist  
 ](http://www.guardian.co.uk/commentisfree/story/0,,1793785,00.html)  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-30 05:16:32+00:00
-layout: post
-slug: shoutbacks
-title: Shoutbacks
-id: 808
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Shoutbacks"
+date = 2006-01-30 05:16:32+00:00
+path = "/2006/01/30/shoutbacks/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 The weblog "Apologen: Anekdotes met een beethe moraal":  

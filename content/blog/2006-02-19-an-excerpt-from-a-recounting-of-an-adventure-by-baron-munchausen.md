@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-19 06:29:21+00:00
-layout: post
-slug: an-excerpt-from-a-recounting-of-an-adventure-by-baron-munchausen
-title: An Excerpt From A Recounting Of An Adventure By Baron Munchausen
-id: 836
-categories:
-- Aesthetics
----
++++
+title = "An Excerpt From A Recounting Of An Adventure By Baron Munchausen"
+date = 2006-02-19 06:29:21+00:00
+path = "/2006/02/19/an-excerpt-from-a-recounting-of-an-adventure-by-baron-munchausen/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 "And so, " said the Baron "the ringing of my diving bell allowed me to lift from the ocean floor the heaviest pearl ever discovered. I later had it made into a brooch by the finest craftsmen in the land."  
   

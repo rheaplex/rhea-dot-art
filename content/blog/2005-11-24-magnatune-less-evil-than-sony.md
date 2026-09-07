@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 10:57:28+00:00
-layout: post
-slug: magnatune-less-evil-than-sony
-title: 'Magnatune: Less Evil Than Sony'
-id: 733
-categories:
-- Free Culture
----
++++
+title = "Magnatune: Less Evil Than Sony"
+date = 2005-11-24 10:57:28+00:00
+path = "/2005/11/24/magnatune-less-evil-than-sony/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 A freeloader complains about Magnatune introducing a nagware policy for their noncommercial offerings:  

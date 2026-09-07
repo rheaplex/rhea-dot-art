@@ -1,16 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-16 06:25:17+00:00
-layout: post
-slug: aesthetic-computing-book-data-visualization-visual-culture-information-aesthetics
-title: aesthetic computing book - data visualization & visual culture - information
-  aesthetics
-id: 934
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "aesthetic computing book - data visualization & visual culture - information aesthetics"
+date = 2006-05-16 06:25:17+00:00
+path = "/2006/05/16/aesthetic-computing-book-data-visualization-visual-culture-information-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [aesthetic computing book - data visualization & visual culture - information aesthetics](http://infosthetics.com/archives/2006/05/aesthetic_computing_book.html)  
   

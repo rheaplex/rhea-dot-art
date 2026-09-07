@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-09-05 17:56:04+00:00
-layout: post
-slug: this_is_it_-_work_in_progress
-title: This Is It - Work In Progress
-id: 1854
-categories:
-- Projects
-- Sketchblog
----
++++
+title = "This Is It - Work In Progress"
+date = 2010-09-05 17:56:04+00:00
+path = "/2010/09/05/this_is_it_-_work_in_progress/"
+
+[taxonomies]
+categories = [
+    "Projects",
+    "Sketchblog",
+]
++++
 
 [![This Is It 1](/images/assets_c/2010/09/g5103-thumb-200x124-19.png)](/weblog/assets_c/2010/09/g5103-19.html)"This Is It" is currently at the five-finger-excercise stage.   
   

@@ -1,10 +1,25 @@
 +++
 title = "Blobs"
 date = 1994-01-02
+path = "/blobs/"
+
+[extra]
 image = "/art-images/arching.png"
-mediums = ["SVG"]
-tools = ["Adobe Illustrator 5.5", "LetraStudio Envelopes", "System 7.x", "Macintosh Performa", "CorelDraw! 2", "Windows 3.1", "386 PC"]
-repos = ["https://github.com/rheaplex/shapes"]
+mediums = [
+    "SVG",
+]
+tools = [
+    "Adobe Illustrator 5.5",
+    "LetraStudio Envelopes",
+    "System 7.x",
+    "Macintosh Performa",
+    "CorelDraw! 2",
+    "Windows 3.1",
+    "386 PC",
+]
+repos = [
+    "https://github.com/rheaplex/shapes",
+]
 wp_id = 6688
 +++
 

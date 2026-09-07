@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-11 09:06:33+00:00
-layout: post
-slug: aesthetic-experience
-title: Aesthetic Experience
-id: 187
-categories:
-- Aesthetics
----
++++
+title = "Aesthetic Experience"
+date = 2004-08-11 09:06:33+00:00
+path = "/2004/08/11/aesthetic-experience/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 (From Aesthetics-L)  
   

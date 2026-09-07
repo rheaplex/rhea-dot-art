@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-01 03:36:10+00:00
-layout: post
-slug: requiring-modifiable-sources-via-cc-license
-title: Requiring Modifiable Sources (via cc-license)
-id: 256
-categories:
-- Free Culture
----
++++
+title = "Requiring Modifiable Sources (via cc-license)"
+date = 2004-12-01 03:36:10+00:00
+path = "/2004/12/01/requiring-modifiable-sources-via-cc-license/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 If I release an image in, say, Photoshop format, I am limiting my audience.  
 If, however, I convert the image to a non-proprietary format, I will lose some of the editability of the work. Which is more important, breadth of access or depth of access? (Hmmm. This parallels some current governmental debates on the arts here in the UK :-) ).  

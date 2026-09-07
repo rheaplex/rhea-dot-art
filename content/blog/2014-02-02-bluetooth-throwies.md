@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-02 02:47:15+00:00
-layout: post
-slug: bluetooth-throwies
-title: Bluetooth Throwies
-id: 2504
-categories:
-- Art
-- Art Computing
-- Howto
-- Projects
----
++++
+title = "Bluetooth Throwies"
+date = 2014-02-02 02:47:15+00:00
+path = "/2014/02/02/bluetooth-throwies/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Howto",
+    "Projects",
+]
++++
 
 LED throwies are light grafitti Improvised Aesthetic Devices:
 

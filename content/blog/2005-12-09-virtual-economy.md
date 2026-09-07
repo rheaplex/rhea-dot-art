@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-09 00:31:36+00:00
-layout: post
-slug: virtual-economy
-title: Virtual Economy
-id: 752
-categories:
-- Generative Art
----
++++
+title = "Virtual Economy"
+date = 2005-12-09 00:31:36+00:00
+path = "/2005/12/09/virtual-economy/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.generatorx.no/20051208/openstudio-collaboration-and-capitalism-in-art/](http://www.generatorx.no/20051208/openstudio-collaboration-and-capitalism-in-art/)
 

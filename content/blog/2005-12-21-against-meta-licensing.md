@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-21 23:37:40+00:00
-layout: post
-slug: against-meta-licensing
-title: Against Meta-Licensing
-id: 760
-categories:
-- Free Culture
----
++++
+title = "Against Meta-Licensing"
+date = 2005-12-21 23:37:40+00:00
+path = "/2005/12/21/against-meta-licensing/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [http://creativecommons.org/weblog/entry/5709](http://creativecommons.org/weblog/entry/5709)  

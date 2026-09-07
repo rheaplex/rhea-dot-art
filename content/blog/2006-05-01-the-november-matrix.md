@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-01 23:23:02+00:00
-layout: post
-slug: the-november-matrix
-title: The “November” Matrix
-id: 909
-categories:
-- Aesthetics
----
++++
+title = "The “November” Matrix"
+date = 2006-05-01 23:23:02+00:00
+path = "/2006/05/01/the-november-matrix/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [NEWSgrist - where spin is art: The "November" Matrix: Art, Theory, Criticism, Palaver  
 ](http://newsgrist.typepad.com/underbelly/2006/04/the_november_ma.html)  

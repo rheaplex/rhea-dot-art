@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-12 06:04:18+00:00
-layout: post
-slug: joy-garnett
-title: Joy Garnett
-id: 1291
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Joy Garnett"
+date = 2007-05-12 06:04:18+00:00
+path = "/2007/05/12/joy-garnett/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [iCommons » Blog Archive » Art Intercom: featuring painter, Joy Garnett](http://icommons.org/2007/05/11/art-intercom-featuring-painter-joy-garnett/#more-635)  
   

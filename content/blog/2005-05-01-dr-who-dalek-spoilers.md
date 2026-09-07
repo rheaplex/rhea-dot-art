@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-01 05:54:39+00:00
-layout: post
-slug: dr-who-dalek-spoilers
-title: 'Dr. Who: Dalek (Spoilers!)'
-id: 406
-categories:
-- Reviews
----
++++
+title = "Dr. Who: Dalek (Spoilers!)"
+date = 2005-05-01 05:54:39+00:00
+path = "/2005/05/01/dr-who-dalek-spoilers/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 That was terrible.  
   

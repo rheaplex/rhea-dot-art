@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-22 16:35:07+00:00
-layout: post
-slug: cubism-as-a-form-of-complexity
-title: Cubism As A Form Of Complexity
-id: 354
-categories:
-- Aesthetics
----
++++
+title = "Cubism As A Form Of Complexity"
+date = 2005-03-22 16:35:07+00:00
+path = "/2005/03/22/cubism-as-a-form-of-complexity/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Article on the science of Cubism:  
   

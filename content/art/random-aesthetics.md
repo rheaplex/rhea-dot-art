@@ -1,9 +1,18 @@
 +++
 title = "Random Aesthetics Microbloggers"
 date = 2009-01-01
+path = "/random-aesthetics/"
+
+[extra]
 image = "/art-images/random-aesthetics-microbloggers.png"
-mediums = ["JavaScript", "Python", "Common Lisp"]
-repos = ["https://github.com/rheaplex/artbots"]
+mediums = [
+    "JavaScript",
+    "Python",
+    "Common Lisp",
+]
+repos = [
+    "https://github.com/rheaplex/artbots",
+]
 wp_id = 6671
 +++
 

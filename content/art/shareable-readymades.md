@@ -1,14 +1,21 @@
 +++
 title = "Shareable Readymades"
 date = 2011-01-01
+path = "/shareable-readymades/"
+
+[extra]
 image = "/art-images/urinal.png"
-mediums = ["3D Printable Model"]
-aliases_names = ["Balloon Dog", "Urinal"]
+mediums = [
+    "3D Printable Model",
+]
+aliases_names = [
+    "Balloon Dog",
+    "Urinal",
+]
+collaborators = [
+    { name = "Dr. Charlotte Frost", role = "Named the series", url = "http://digitalcritic.org/" },
+]
 wp_id = 6669
-[[collaborators]]
-  name = "Dr. Charlotte Frost"
-  role = "Named the series"
-  url = "http://digitalcritic.org/"
 +++
 
 ![A 3D print of the hash tag #arthistory, in white plastic](/images/hasharthistory.png)

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-09 05:40:27+00:00
-layout: post
-slug: minara-pan-zoom
-title: Minara Pan & Zoom
-id: 666
-categories:
-- Projects
----
++++
+title = "Minara Pan & Zoom"
+date = 2005-09-09 05:40:27+00:00
+path = "/2005/09/09/minara-pan-zoom/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Pan and zoom are working a little. The concept works, which is a relief. Once I've majorly tidied up the code and written an API for getting the cursor position on the page rather than in the window they'll be done.  
   

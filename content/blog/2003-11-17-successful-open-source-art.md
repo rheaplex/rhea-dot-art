@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-17 02:10:45+00:00
-layout: post
-slug: successful-open-source-art
-title: Successful Open Source Art
-id: 51
-categories:
-- Free Culture
----
++++
+title = "Successful Open Source Art"
+date = 2003-11-17 02:10:45+00:00
+path = "/2003/11/17/successful-open-source-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Successful open source software projects tackle well-defined tasks  
 with a sense of shared purpose, good acceptance criteria and good  

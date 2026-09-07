@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-07 06:37:28+00:00
-layout: post
-slug: orange-is-cc-attribution-only
-title: Orange Is CC Attribution Only
-id: 815
-categories:
-- Free Culture
----
++++
+title = "Orange Is CC Attribution Only"
+date = 2006-02-07 06:37:28+00:00
+path = "/2006/02/07/orange-is-cc-attribution-only/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 It looks like Orange (the Blender Movie project) will be Attribution 2.5 (CC-BY-2.5).  

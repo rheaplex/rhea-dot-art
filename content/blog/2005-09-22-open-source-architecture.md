@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-22 07:43:09+00:00
-layout: post
-slug: open-source-architecture
-title: Open Source Architecture
-id: 677
-categories:
-- Free Culture
----
++++
+title = "Open Source Architecture"
+date = 2005-09-22 07:43:09+00:00
+path = "/2005/09/22/open-source-architecture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 From Haque:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-23 06:47:56+00:00
-layout: post
-slug: ru-sirius-dj-spooky
-title: RU Sirius & DJ Spooky
-id: 538
-categories:
-- Free Culture
----
++++
+title = "RU Sirius & DJ Spooky"
+date = 2005-06-23 06:47:56+00:00
+path = "/2005/06/23/ru-sirius-dj-spooky/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 If you like Wired, you'd have loved Mondo 2000. If you'd have loved Mondo 2000, you'll like this:  

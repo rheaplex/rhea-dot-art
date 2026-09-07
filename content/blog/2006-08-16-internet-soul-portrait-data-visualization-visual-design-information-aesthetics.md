@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-16 20:35:11+00:00
-layout: post
-slug: internet-soul-portrait-data-visualization-visual-design-information-aesthetics
-title: internet soul portrait - data visualization & visual design - information aesthetics
-id: 1067
-categories:
-- Aesthetics
----
++++
+title = "internet soul portrait - data visualization & visual design - information aesthetics"
+date = 2006-08-16 20:35:11+00:00
+path = "/2006/08/16/internet-soul-portrait-data-visualization-visual-design-information-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [internet soul portrait - data visualization & visual design - information aesthetics](http://infosthetics.com/archives/2006/08/internet_soul_portrait.html)  
   

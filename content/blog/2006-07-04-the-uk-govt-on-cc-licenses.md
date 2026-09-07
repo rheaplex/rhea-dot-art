@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-04 04:11:14+00:00
-layout: post
-slug: the-uk-govt-on-cc-licenses
-title: The UK Govt. On CC Licenses
-id: 1022
-categories:
-- Free Culture
----
++++
+title = "The UK Govt. On CC Licenses"
+date = 2006-07-04 04:11:14+00:00
+path = "/2006/07/04/the-uk-govt-on-cc-licenses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Will the Industry Approach to "Exclusivity" be Tempered by the "New Reality"? | Creative Commons](http://creativecommons.org/weblog/5958)  
   

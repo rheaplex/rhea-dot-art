@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-23 06:27:45+00:00
-layout: post
-slug: baudie-on-art
-title: Baudie On Art
-id: 678
-categories:
-- Aesthetics
----
++++
+title = "Baudie On Art"
+date = 2005-09-23 06:27:45+00:00
+path = "/2005/09/23/baudie-on-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Via the deeply necessary [NewsGrist](http://newsgist.typepad.com/):  

@@ -1,16 +1,20 @@
----
-id: 3800
-title: 'Facecoin Cash'
-date: '2020-02-24T21:04:25+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Projects
----
++++
+title = "Facecoin Cash"
+date = 2020-02-24 21:04:25+00:00
+path = "/2020/02/24/facecoin-cash/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 Facecoin Cash is a new higher-resolution, lower pixel bit-depth advancement on the original Facecoin.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-10 05:13:57+00:00
-layout: post
-slug: charlotte-street-on-badiou
-title: Charlotte Street on Badiou
-id: 572
-categories:
-- Aesthetics
----
++++
+title = "Charlotte Street on Badiou"
+date = 2005-07-10 05:13:57+00:00
+path = "/2005/07/10/charlotte-street-on-badiou/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 The Drink-Soaked Trotskyite Popinjays may have described this blog as reading like a parody, but I quite like it, although I have just bought a new packet of sea salt.  

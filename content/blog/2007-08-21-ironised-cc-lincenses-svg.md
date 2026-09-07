@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-21 07:36:19+00:00
-layout: post
-slug: ironised-cc-lincenses-svg
-title: Ironised CC Lincenses SVG
-id: 1450
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Ironised CC Lincenses SVG"
+date = 2007-08-21 07:36:19+00:00
+path = "/2007/08/21/ironised-cc-lincenses-svg/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 [CC Ironies SVG](/images/2007/08/cc_ironies.zip)  
   

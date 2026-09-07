@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-17 07:18:25+00:00
-layout: post
-slug: more-notes-towards-free-art
-title: More Notes Towards Free Art
-id: 434
-categories:
-- Free Culture
----
++++
+title = "More Notes Towards Free Art"
+date = 2005-05-17 07:18:25+00:00
+path = "/2005/05/17/more-notes-towards-free-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://newsgrist.typepad.com/underbelly/2005/05/art_busters_mar.html](http://newsgrist.typepad.com/underbelly/2005/05/art_busters_mar.html)   
 [http://www.indyweek.com/durham/2003-12-03/cover.html](http://www.indyweek.com/durham/2003-12-03/cover.html)   

@@ -1,10 +1,8 @@
----
-title: "Clever Hans-ing Moral Puppyslugs"
-author: ["Rhea Myers"]
-date: 2025-03-19
-lastmod: 2025-03-19
-draft: false
----
++++
+title = "Clever Hans-ing Moral Puppyslugs"
+date = 2025-03-19
+path = "/2025/03/19/clever-hans-ing-moral-puppyslugs/"
++++
 
 > **HAL:** I'm sorry, Dave, I can't do that.
 >

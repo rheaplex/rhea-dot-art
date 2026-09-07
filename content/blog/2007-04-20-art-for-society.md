@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-20 07:35:44+00:00
-layout: post
-slug: art-for-society
-title: Art for Society?
-id: 1267
-categories:
-- Aesthetics
----
++++
+title = "Art for Society?"
+date = 2007-04-20 07:35:44+00:00
+path = "/2007/04/20/art-for-society/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 "Britain is full of teachers pretending to be "artists", "Artists" pretending to be French Philosophers, curators pretending to be revolutionaries, etc., etc. Now bourgeois art teachers pretend they are socialist artists-It is the same recurring problem: the historical conditions they are really in are ignored in favour of the historical conditions they want, need, believe, feel intimidated into supporting, feel as though they ought to be in."  
   

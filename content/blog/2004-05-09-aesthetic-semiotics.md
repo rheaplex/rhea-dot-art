@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-09 07:32:51+00:00
-layout: post
-slug: aesthetic-semiotics
-title: Aesthetic Semiotics
-id: 143
-categories:
-- Aesthetics
----
++++
+title = "Aesthetic Semiotics"
+date = 2004-05-09 07:32:51+00:00
+path = "/2004/05/09/aesthetic-semiotics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [From Aesthetics-L]  
   

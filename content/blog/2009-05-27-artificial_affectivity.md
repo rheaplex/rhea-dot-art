@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-05-27 21:29:31+00:00
-layout: post
-slug: artificial_affectivity
-title: Artificial Affectivity, Artificial Affectivities
-id: 1763
-categories:
-- Aesthetics
-- Art Computing
-- Generative Art
----
++++
+title = "Artificial Affectivity, Artificial Affectivities"
+date = 2009-05-27 21:29:31+00:00
+path = "/2009/05/27/artificial_affectivity/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Generative Art",
+]
++++
 
 Artificial affectivity is the emotional equivalent of artificial intelligence. It is the simulation, emulation, or functional replacement of human affect by software or hardware models. Not neccessarily or just the simulation of emotion, but the simulation of the effects and expression of emotion.  
   

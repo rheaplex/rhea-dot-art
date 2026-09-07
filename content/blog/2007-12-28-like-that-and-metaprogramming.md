@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-28 23:58:23+00:00
-layout: post
-slug: like-that-and-metaprogramming
-title: Like That And Metaprogramming
-id: 1545
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Like That And Metaprogramming"
+date = 2007-12-28 23:58:23+00:00
+path = "/2007/12/28/like-that-and-metaprogramming/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 [Like That](/art/like-that/) is a series of moving images made using Processing. It's intended as a long series of works. So far I've been writing each one by hand, which has hampered my rate of progress.  
   

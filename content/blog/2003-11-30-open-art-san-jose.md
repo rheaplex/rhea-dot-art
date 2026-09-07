@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-30 03:14:25+00:00
-layout: post
-slug: open-art-san-jose
-title: 'Open Art: San Jose'
-id: 55
-categories:
-- Free Culture
----
++++
+title = "Open Art: San Jose"
+date = 2003-11-30 03:14:25+00:00
+path = "/2003/11/30/open-art-san-jose/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "San Jose" is the first work available for download at the Open Content section of my site. The download includes discarded work as extras.  
 [Click here to go there.](/open_content/)  

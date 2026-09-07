@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 08:48:55+00:00
-layout: post
-slug: pixel-sumo
-title: Pixel Sumo
-id: 728
-categories:
-- Generative Art
----
++++
+title = "Pixel Sumo"
+date = 2005-11-24 08:48:55+00:00
+path = "/2005/11/24/pixel-sumo/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 One of the main speakers at dorkbotlondon 33 was Chris O'Shea, whose generative art weblog [pixelsumo](http://www.pixelsumo.com/archives/2005/11/dorkbot_london_1.php) has a write-up of the event:  

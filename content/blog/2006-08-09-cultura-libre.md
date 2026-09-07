@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-09 05:12:07+00:00
-layout: post
-slug: cultura-libre
-title: Cultura Libre
-id: 1064
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Cultura Libre"
+date = 2006-08-09 05:12:07+00:00
+path = "/2006/08/09/cultura-libre/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 A couple of links to this site. Thanks guys!  
   

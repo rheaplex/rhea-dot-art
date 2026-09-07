@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-25 00:20:42+00:00
-layout: post
-slug: bitfastness
-title: Bitfastness
-id: 22
-categories:
-- Generative Art
----
++++
+title = "Bitfastness"
+date = 2003-04-25 00:20:42+00:00
+path = "/2003/04/25/bitfastness/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Programming in Perl or Java is the conservational equivalent of painting with household gloss. For software, conservation means being able to run the program. Targeting specific systems or fashionable languages (Windows XP or Perl) will not immediately cause problems beyond limiting distribution, but when the targeted hardware starts breaking and the system or language used is no longer current or even maintained, work is left unexhibitable.  
 In the worst case, decades from now, software artworks will be completely incompatible with contemporary systems and they will have to be remade from source code. The language used should therefore have shown longevity and be easy to re-implement. To make it suitable for programming in the first place, the language should be expressive and should be Turing complete.  

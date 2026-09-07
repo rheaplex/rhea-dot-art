@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-14 06:14:28+00:00
-layout: post
-slug: by-sa-sketches-on-flickr
-title: BY-SA Sketches On Flickr
-id: 785
-categories:
-- Free Culture
----
++++
+title = "BY-SA Sketches On Flickr"
+date = 2006-01-14 06:14:28+00:00
+path = "/2006/01/14/by-sa-sketches-on-flickr/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Need a score or source material to derive from?  

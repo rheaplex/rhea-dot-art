@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-26 09:13:07+00:00
-layout: post
-slug: cultural-sources
-title: Cultural Sources
-id: 1465
-categories:
-- Free Culture
----
++++
+title = "Cultural Sources"
+date = 2007-08-26 09:13:07+00:00
+path = "/2007/08/26/cultural-sources/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 On my art foundation course at Kingston Polytechnic [1] I was set the task of making a painting by combining two other paintings. A mash-up, in other words. The two images I chose were a Jackson Pollock drip painting and a Fututist cyclist by Umberto Boccioni. I hadn't encountered the work of Art &  Language at the time, so this wasn't based on their "Portrait of Lenin In The Style Of Jackson Pollock".  
   

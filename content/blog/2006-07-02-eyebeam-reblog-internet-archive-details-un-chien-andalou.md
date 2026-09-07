@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-02 03:53:33+00:00
-layout: post
-slug: eyebeam-reblog-internet-archive-details-un-chien-andalou
-title: 'Eyebeam reBlog: Internet Archive: Details: Un Chien Andalou'
-id: 1016
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Eyebeam reBlog: Internet Archive: Details: Un Chien Andalou"
+date = 2006-07-02 03:53:33+00:00
+path = "/2006/07/02/eyebeam-reblog-internet-archive-details-un-chien-andalou/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [Eyebeam reBlog: Internet Archive: Details: Un Chien Andalou](http://www.eyebeam.org/reblog/archives/2006/07/internet_archive_details_un_chie.html)  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-12 08:20:49+00:00
-layout: post
-slug: the-state-of-art
-title: The State Of Art
-id: 639
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "The State Of Art"
+date = 2005-08-12 08:20:49+00:00
+path = "/2005/08/12/the-state-of-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
   
 The state of Art is hereby declared. For now its government must sit in exile.  

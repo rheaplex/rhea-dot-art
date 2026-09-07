@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-24 07:16:12+00:00
-layout: post
-slug: a-matter-of-principle-jim-baens-universe
-title: A Matter of Principle - Jim Baen's Universe
-id: 999
-categories:
-- Free Culture
----
++++
+title = "A Matter of Principle - Jim Baen's Universe"
+date = 2006-06-24 07:16:12+00:00
+path = "/2006/06/24/a-matter-of-principle-jim-baens-universe/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [A Matter of Principle - Jim Baen's Universe](http://www.baens-universe.com/articles/principle)  
   

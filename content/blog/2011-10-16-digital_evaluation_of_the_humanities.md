@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-16 16:48:13+00:00
-layout: post
-slug: digital_evaluation_of_the_humanities
-title: Digital Evaluation Of The Humanities
-id: 1959
-categories:
-- Art Computing
-- Art Open Data
-- Satire
----
++++
+title = "Digital Evaluation Of The Humanities"
+date = 2011-10-16 16:48:13+00:00
+path = "/2011/10/16/digital_evaluation_of_the_humanities/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+    "Satire",
+]
++++
 
 Humanities Computing dates back to the use of mainframe computers with museum catalogues in the 1950s. The first essays on Humanities Computing appeared in academic journals in the 1960s, the first conventions on the subject (and the Icon programming language) emerged in the 1970s, and ChArt was founded in the 1980s. But it isn't until the advent of Big Data in the 2000s and the rebranding of Humanities Computing as the "Digital Humanities" that it became the subject of moral panic in the broader humanities.  
   

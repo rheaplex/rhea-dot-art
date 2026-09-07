@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-06 06:51:01+00:00
-layout: post
-slug: howto-report
-title: HOWTO Report
-id: 607
-categories:
-- Free Culture
-- Generative Art
-- Projects
----
++++
+title = "HOWTO Report"
+date = 2005-08-06 06:51:01+00:00
+path = "/2005/08/06/howto-report/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 In the second half of 2004 I began exchanging emails with a pair of artists called MANIK (MArija Vauda & NIKola Pipilovic). We had met on the New-York-based Rhizome mailing list. I live in Peterborough in England. Manik live in Belgrade in Serbia (formerly Yugoslavia). The Internet dissolved that distance, allowing us to discuss art, aesthetics, and occasionally old television comedy programs.  

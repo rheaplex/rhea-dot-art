@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-06 08:25:07+00:00
-layout: post
-slug: wrtj-feedback
-title: 'WRTJ: Feedback'
-id: 1398
-categories:
-- Free Culture
----
++++
+title = "WRTJ: Feedback"
+date = 2007-07-06 08:25:07+00:00
+path = "/2007/07/06/wrtj-feedback/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://wherearethejoneses.wikidot.com/set:feedback-home-make](http://wherearethejoneses.wikidot.com/set:feedback-home-make)  
   

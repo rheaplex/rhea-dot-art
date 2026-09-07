@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-01 05:53:43+00:00
-layout: post
-slug: art-after-neoliberalism
-title: Art After Neoliberalism
-id: 1674
-categories:
-- Aesthetics
----
++++
+title = "Art After Neoliberalism"
+date = 2008-10-01 05:53:43+00:00
+path = "/2008/10/01/art-after-neoliberalism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 In "Count Zero", the 1986 sequel to his genre-defining cyberpunk novel "Neuromancer", William Gibson described a gallery system based on ownership of shares in unimaginably expensive artworks circulating in the market.   
   

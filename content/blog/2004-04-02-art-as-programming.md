@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-02 09:13:20+00:00
-layout: post
-slug: art-as-programming
-title: Art As Programming
-id: 105
-categories:
-- Aesthetics
----
++++
+title = "Art As Programming"
+date = 2004-04-02 09:13:20+00:00
+path = "/2004/04/02/art-as-programming/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Here's Knuth's original "Art As Programming" lecture as a PDF:  
   

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-11-13 03:08:47+00:00
-layout: post
-slug: blockchain-aesthetics
-title: Blockchain Aesthetics
-id: 2657
-categories:
-- Aesthetics
-- Art Computing
-- Generative Art
-- Projects
----
++++
+title = "Blockchain Aesthetics"
+date = 2014-11-13 03:08:47+00:00
+path = "/2014/11/13/blockchain-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
 
 [![squares](/images/2014/11/squares.png)](https://show.rhea.art/blockchain-aesthetics/bitcoin-html5/transactions-squares.html)
 

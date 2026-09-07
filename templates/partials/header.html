@@ -1,0 +1,14 @@
+<header class="border-bottom">
+  <nav class="container navbar navbar-expand-md py-3">
+    <a class="navbar-brand site-title me-auto" href="{{ get_url(path="/") }}">
+      {{ config.title }}
+      <small class="d-block fw-normal text-body-secondary site-subtitle">{{ config.extra.subtitle }}</small>
+    </a>
+    <ul class="navbar-nav flex-row flex-wrap gap-3 gap-md-4">
+      {%- for item in config.extra.menu %}
+      {%- set u = item.url %}{%- set active = (current_path or "") is starting_with(pat=u) %}
+      <li class="nav-item"><a class="nav-link p-0{% if active %} active{% endif %}"{% if active %} aria-current="page"{% endif %} href="{{ get_url(path=item.url) }}">{{ item.name }}</a></li>
+      {%- endfor %}
+    </ul>
+  </nav>
+</header>

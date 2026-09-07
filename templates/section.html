@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
+<ul class="list-unstyled reading">
+  {%- for p in section.pages %}<li class="mb-2"><a href="{{ p.permalink | safe }}" class="link-body-emphasis">{{ p.title }}</a></li>{% endfor %}
+</ul>
+{% endblock content %}

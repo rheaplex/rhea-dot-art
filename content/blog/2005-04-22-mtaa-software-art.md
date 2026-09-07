@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-22 06:25:21+00:00
-layout: post
-slug: mtaa-software-art
-title: MTAA Software Art
-id: 397
-categories:
-- Generative Art
----
++++
+title = "MTAA Software Art"
+date = 2005-04-22 06:25:21+00:00
+path = "/2005/04/22/mtaa-software-art/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.mteww.com/mtaaRR/news/twhid/aiotd_art_by_computers_for_computers.html](http://www.mteww.com/mtaaRR/news/twhid/aiotd_art_by_computers_for_computers.html)   
   

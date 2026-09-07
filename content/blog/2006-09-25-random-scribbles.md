@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-25 09:17:07+00:00
-layout: post
-slug: random-scribbles
-title: Random Scribbles
-id: 1114
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Random Scribbles"
+date = 2006-09-25 09:17:07+00:00
+path = "/2006/09/25/random-scribbles/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 I'm working on a vector graphics equivalent to Latham & Todd's mutator. The first (trivial) stage is to create random vector scribbles.  
   

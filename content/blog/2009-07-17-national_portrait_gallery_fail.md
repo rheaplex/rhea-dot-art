@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-17 19:49:37+00:00
-layout: post
-slug: national_portrait_gallery_fail
-title: National Portrait Gallery Fail
-id: 1771
-categories:
-- Free Culture
----
++++
+title = "National Portrait Gallery Fail"
+date = 2009-07-17 19:49:37+00:00
+path = "/2009/07/17/national_portrait_gallery_fail/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Wikimedia Foundation's statement, correcting a few details that The Guardian and The Register have got wrong -  
   

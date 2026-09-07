@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-17 09:29:50+00:00
-layout: post
-slug: boing-boing-gw-bushs-ipod-contains
-title: 'Boing Boing: GW Bush''s iPod contains'
-id: 893
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: GW Bush's iPod contains"
+date = 2006-04-17 09:29:50+00:00
+path = "/2006/04/17/boing-boing-gw-bushs-ipod-contains/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: GW Bush's iPod contains "illegal" (according to RIAA) music](http://www.boingboing.net/2006/04/16/gw_bushs_ipod_contai.html)  
   

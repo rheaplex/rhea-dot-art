@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-14 21:49:42+00:00
-layout: post
-slug: forepaw_one_step_forward
-title: 'Forepaw: One Step Forward....'
-id: 1946
-categories:
-- Projects
----
++++
+title = "Forepaw: One Step Forward...."
+date = 2011-09-14 21:49:42+00:00
+path = "/2011/09/14/forepaw_one_step_forward/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 ![IMG_20110914_213645.jpg](/IMG_20110914_213645.jpg)I've finished the armature (hand sewn as I don't have a sewing machine), added a connector so the display can be removed from the main circuit, and boxed up the main circuit.  
   

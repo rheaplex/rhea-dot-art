@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-17 05:57:06+00:00
-layout: post
-slug: blogs-quotes-and-cc
-title: Blogs, Quotes and CC
-id: 1512
-categories:
-- Free Culture
----
++++
+title = "Blogs, Quotes and CC"
+date = 2007-10-17 05:57:06+00:00
+path = "/2007/10/17/blogs-quotes-and-cc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 It is a truth universally acknowledged that a Creative Commons licenced blog that quotes other sources is not placing them under a CC licence.  
   

@@ -1,9 +1,11 @@
----
-title: "Regarding Quantum"
-image: "/third-party-images/quantum.jpg"
-type: "page"
-date: "2022-02-17"
----
++++
+title = "Regarding Quantum"
+date = 2022-02-17
+path = "/regarding-quantum/"
+
+[extra]
+image = "/third-party-images/quantum.jpg"
++++
 
 ![Kevin McCoy's "Quantum"](/third-party-images/quantum.jpg)
 

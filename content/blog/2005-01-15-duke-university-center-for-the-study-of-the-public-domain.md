@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-15 03:21:43+00:00
-layout: post
-slug: duke-university-center-for-the-study-of-the-public-domain
-title: Duke University Center For The Study Of The Public Domain
-id: 288
-categories:
-- Free Culture
----
++++
+title = "Duke University Center For The Study Of The Public Domain"
+date = 2005-01-15 03:21:43+00:00
+path = "/2005/01/15/duke-university-center-for-the-study-of-the-public-domain/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Duke University (home of Parapsychology) have a Center For The Study Of The Public Domain.  
   

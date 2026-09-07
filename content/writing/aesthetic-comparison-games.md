@@ -1,9 +1,11 @@
----
-title: "Aesthetic Comparison Games"
-image: "/images/bad-comparison.png"
-type: "page"
-date: 2020-09-18
----
++++
+title = "Aesthetic Comparison Games"
+date = 2020-09-18
+path = "/aesthetic-comparison-games/"
+
+[extra]
+image = "/images/bad-comparison.png"
++++
 
 Using ideas from design theory, provable computation, and calculus we
 can construct games of aesthetic comparison with arbitrary precision.

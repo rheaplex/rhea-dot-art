@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-01-18 21:42:56+00:00
-layout: post
-slug: notes_toward_free_culture
-title: Notes Toward Free Culture
-id: 1824
-categories:
-- Free Culture
----
++++
+title = "Notes Toward Free Culture"
+date = 2010-01-18 21:42:56+00:00
+path = "/2010/01/18/notes_toward_free_culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Artist's exploration of extremism stymied](http://newsgrist.typepad.com/underbelly/2010/01/in-uk-artists-exploration-of-extremism-stymied.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fnewsgrist%2Funderbelly+%28NEWSgrist+-+where+spin+is+art%29&utm_content=Google+Reader)
 

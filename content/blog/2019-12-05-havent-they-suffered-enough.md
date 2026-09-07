@@ -1,14 +1,15 @@
----
-id: 3036
-title: "Haven't They Suffered Enough?"
-date: '2019-12-05T21:07:35+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Aesthetics
-    - Politics
-    - Reviews
----
++++
+title = "Haven't They Suffered Enough?"
+date = 2019-12-05 21:07:35+00:00
+path = "/2019/12/05/havent-they-suffered-enough/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Politics",
+    "Reviews",
+]
++++
 
 The original Blade Runner was a postmodern film noir. It had a noir movie’s nihilism and pathos, its archetypes of character, plot, and visuals. The events of Blade Runner make sense within that framework, they are justified as story choices and pay off narratively and conceptually within it. Los Angles 2019 seen from 1982 was a decaying dead-end of sterile images and simulation. From culture and architecture that loops back on and consumes itself, through empty rotting buildings and a few overcrowded streets, everything is second order and running out of time between its quotation marks. Everyone wants to defect. Human beings want to leave the dying Earth for the Offworld Colonies, dying Replicants want to escape their handlers and get back to Earth to escape their pre-programmed obsolescence.
 

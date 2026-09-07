@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-15 04:12:59+00:00
-layout: post
-slug: mummers-atheism
-title: Mummers Atheism
-id: 1693
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Mummers Atheism"
+date = 2008-11-15 04:12:59+00:00
+path = "/2008/11/15/mummers-atheism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 If God exists and He is the cause of truth, beauty and goodness then His death would remove those qualities from human experience.  
   

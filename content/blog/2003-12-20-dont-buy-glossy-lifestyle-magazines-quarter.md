@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-20 03:22:06+00:00
-layout: post
-slug: dont-buy-glossy-lifestyle-magazines-quarter
-title: Don't Buy Glossy Lifestyle Magazines Quarter
-id: 68
-categories:
-- Free Culture
----
++++
+title = "Don't Buy Glossy Lifestyle Magazines Quarter"
+date = 2003-12-20 03:22:06+00:00
+path = "/2003/12/20/dont-buy-glossy-lifestyle-magazines-quarter/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Adbusters" were unimpressed by "MTV" not showing an advertisement for "Turn Off Your TV" week.  
   

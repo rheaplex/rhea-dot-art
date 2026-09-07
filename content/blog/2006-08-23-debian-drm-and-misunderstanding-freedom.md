@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-23 10:20:38+00:00
-layout: post
-slug: debian-drm-and-misunderstanding-freedom
-title: Debian, DRM, And Misunderstanding Freedom
-id: 1088
-categories:
-- Free Culture
----
++++
+title = "Debian, DRM, And Misunderstanding Freedom"
+date = 2006-08-23 10:20:38+00:00
+path = "/2006/08/23/debian-drm-and-misunderstanding-freedom/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Some years before the DMCA became law, Debian filed the serial number off the Free Software Definition, added some confusion, and produced the Debian Free Software Guidelines (DFSG). Over the years the DFSG have suffered bitrot as copyright law and the strategies used to attack freedom have evolved. In particular, the DFSG predate the laws used to support DRM. With the emergence of the Creative Commons licenses, the DFSG have started to cause problems for free licensing, not surprisingly around the issue of DRM.  

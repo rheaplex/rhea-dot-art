@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-01 04:45:07+00:00
-layout: post
-slug: open-origami
-title: Open Origami
-id: 852
-categories:
-- Free Culture
----
++++
+title = "Open Origami"
+date = 2006-03-01 04:45:07+00:00
+path = "/2006/03/01/open-origami/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via [Alex](http://yaxu.org/):  
   

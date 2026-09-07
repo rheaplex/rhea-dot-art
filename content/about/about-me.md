@@ -1,8 +1,12 @@
----
-title: "Rhea Myers"
-image: "/third-party-images/rhea-kpp-square.jpg"
-type: "page"
----
++++
+weight = 1
+title = "Rhea Myers"
+path = "/about-me/"
+
+[extra]
+image = "/third-party-images/rhea-kpp-square.jpg"
++++
+
 ###### Making NFTs into art.
 
 ![A picture of Rhea. Photo credit: Kristy Powers photography](/third-party-images/rhea-kpp.jpg)

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-05 22:26:08+00:00
-layout: post
-slug: come-together-like-that
-title: Come Together (Like That)
-id: 1594
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Come Together (Like That)"
+date = 2008-04-05 22:26:08+00:00
+path = "/2008/04/05/come-together-like-that/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
   

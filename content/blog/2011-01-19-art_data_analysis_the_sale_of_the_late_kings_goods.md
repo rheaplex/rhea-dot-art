@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-19 22:19:50+00:00
-layout: post
-slug: art_data_analysis_the_sale_of_the_late_kings_goods
-title: 'Art Data Analysis: The Sale Of The Late King''s Goods'
-id: 1916
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: The Sale Of The Late King's Goods"
+date = 2011-01-19 22:19:50+00:00
+path = "/2011/01/19/art_data_analysis_the_sale_of_the_late_kings_goods/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![late_king.png](/images/2011/01/19/late_king.png)In "The Sale Of The Late King's Goods" (Macmillan, 2006, ISBN 1405041528) Jerry Brotton surveys the inventories, invoices and auction records of the art collected by King Charles I.  
   

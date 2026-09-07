@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-06-06 15:31:20+00:00
-layout: post
-slug: notes_towards_free_culture_3
-title: Notes Towards Free Culture
-id: 1844
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2010-06-06 15:31:20+00:00
+path = "/2010/06/06/notes_towards_free_culture_3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free jam:  
   

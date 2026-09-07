@@ -1,13 +1,8 @@
----
-id: 3330
-title: '“Code Is Law” Shall Be The Whole Of The Law'
-date: '2019-10-21T16:08:07+00:00'
-author: Rhea Myers
-layout: post
-    - block-editor
-categories:
-    - Uncategorized
----
++++
+title = "“Code Is Law” Shall Be The Whole Of The Law"
+date = 2019-10-21 16:08:07+00:00
+path = "/2019/10/21/code-is-law-shall-be-the-whole-of-the-law/"
++++
 
 In “[Code And Other Laws of Cyberspace](http://codev2.cc/)“, American legal scholar Lawrence Lessig distilled the argument of his earlier essay “[The Constitution of Code](https://scholarship.law.edu/commlaw/vol5/iss2/5/)” to sum up the unintended effects of Internet network protocols and server software on the regulation of human behaviour in what was then called “cyberspace’:
 

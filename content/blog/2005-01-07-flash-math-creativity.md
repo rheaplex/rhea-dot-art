@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-07 02:43:02+00:00
-layout: post
-slug: flash-math-creativity
-title: Flash Math Creativity
-id: 281
-categories:
-- Generative Art
----
++++
+title = "Flash Math Creativity"
+date = 2005-01-07 02:43:02+00:00
+path = "/2005/01/07/flash-math-creativity/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Another site that I missed mentioning this blog recently is the excellent [dataisnature](http://www.dataisnature.com/).  
   

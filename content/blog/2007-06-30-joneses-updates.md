@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-30 04:30:30+00:00
-layout: post
-slug: joneses-updates
-title: Joneses Updates
-id: 1382
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Joneses Updates"
+date = 2007-06-30 04:30:30+00:00
+path = "/2007/06/30/joneses-updates/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 The Where Are The Joneses website has been improved based on comments from people who have been using it:  
   

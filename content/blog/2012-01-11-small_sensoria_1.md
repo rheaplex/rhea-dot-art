@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-01-11 22:44:52+00:00
-layout: post
-slug: small_sensoria_1
-title: Small Sensoria 1
-id: 1980
-categories:
-- Art
-- Art Computing
-- Free Software
-- Generative Art
-- Projects
----
++++
+title = "Small Sensoria 1"
+date = 2012-01-11 22:44:52+00:00
+path = "/2012/01/11/small_sensoria_1/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+]
++++
 
 [![The electronics](/images/assets_c/2012/01/small_sensoria_board-thumb-500x375-72.png)](/weblog/2012/01/11/small_sensoria_board.png)
 

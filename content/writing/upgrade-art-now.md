@@ -1,9 +1,11 @@
----
-title: "Upgrade Art Now"
-image: "/third-party-images/Shiva_laser_target_chamber.jpg"
-type: "page"
-date: 2021-03-18
----
++++
+title = "Upgrade Art Now"
+date = 2021-03-18
+path = "/upgrade-art-now/"
+
+[extra]
+image = "/third-party-images/Shiva_laser_target_chamber.jpg"
++++
 
 ![Shiva laser target chamber](/third-party-images/Shiva_laser_target_chamber.jpg)
 

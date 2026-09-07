@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-09-16 15:11:02+00:00
-layout: post
-slug: connecting-to-lambdamoo-with-editor-clients
-title: Connecting To LambdaMOO With Editor Clients
-id: 2062
-categories:
-- LambdaMOO
----
++++
+title = "Connecting To LambdaMOO With Editor Clients"
+date = 2012-09-16 15:11:02+00:00
+path = "/2012/09/16/connecting-to-lambdamoo-with-editor-clients/"
+
+[taxonomies]
+categories = [
+    "LambdaMOO",
+]
++++
 
 Some more advanced MOO clients go beyond simply enabling you to connect to the MOO. They also support editing of the content of the MOO using their own interface rather than the MOO's built-in facilities. This is often more convenient and flexible than using the MOO's built in text editor. These clients are all cross-platform.
 

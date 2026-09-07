@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-20 07:34:36+00:00
-layout: post
-slug: moglens-utopia
-title: Moglen's Utopia
-id: 869
-categories:
-- Free Culture
----
++++
+title = "Moglen's Utopia"
+date = 2006-03-20 07:34:36+00:00
+path = "/2006/03/20/moglens-utopia/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 _The reason why our plans for freedom work better than other peoples' is that they include a sequence of activities ” proof of concept, running code and the solicitation of partnership. First you make it, then it works, then you invite people to make it better._  
   

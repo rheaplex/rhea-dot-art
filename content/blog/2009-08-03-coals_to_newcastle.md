@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-03 19:01:47+00:00
-layout: post
-slug: coals_to_newcastle
-title: Coals To Newcastle
-id: 1778
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Coals To Newcastle"
+date = 2009-08-03 19:01:47+00:00
+path = "/2009/08/03/coals_to_newcastle/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 Having read Marx, Lacan, Deleuze, Negri, Zizek, and possibly having nipped back for a bit of supplementary Spinoza, you might think you are ready to tell Free Software what it has got wrong and how it can be made better. Not so fast! There are just two more things you need to read.  
   

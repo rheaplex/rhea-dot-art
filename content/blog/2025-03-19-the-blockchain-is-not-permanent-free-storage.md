@@ -1,10 +1,8 @@
----
-title: "The Blockchain is not Permanent Free Storage"
-author: ["Rhea Myers"]
-date: 2025-03-19
-lastmod: 2025-03-19
-draft: false
----
++++
+title = "The Blockchain is not Permanent Free Storage"
+date = 2025-03-19
+path = "/2025/03/19/the-blockchain-is-not-permanent-free-storage/"
++++
 
 In the Bitcoin Whitepaper, Satoshi Nakamoto describes a timestamp server, not a storage network. That timestamp server exists only to establish the order of transactions within Bitcoin's system of electronic money. Nakamoto goes as far as to suggest that:
 

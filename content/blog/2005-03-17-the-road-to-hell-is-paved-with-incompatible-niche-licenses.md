@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-17 23:12:04+00:00
-layout: post
-slug: the-road-to-hell-is-paved-with-incompatible-niche-licenses
-title: The Road To Hell Is Paved With Incompatible Niche Licenses
-id: 348
-categories:
-- Free Culture
----
++++
+title = "The Road To Hell Is Paved With Incompatible Niche Licenses"
+date = 2005-03-17 23:12:04+00:00
+path = "/2005/03/17/the-road-to-hell-is-paved-with-incompatible-niche-licenses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 CC are working on a CC-Wiki license:  
 	  

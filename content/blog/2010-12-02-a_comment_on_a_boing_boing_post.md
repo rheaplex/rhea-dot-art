@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-02 16:37:08+00:00
-layout: post
-slug: a_comment_on_a_boing_boing_post
-title: A Comment On A Boing Boing Post
-id: 1882
-categories:
-- Art History
-- Free Culture
----
++++
+title = "A Comment On A Boing Boing Post"
+date = 2010-12-02 16:37:08+00:00
+path = "/2010/12/02/a_comment_on_a_boing_boing_post/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Free Culture",
+]
++++
 
 Boing Boing don't seem to be publishing my comment on their post here -  
   

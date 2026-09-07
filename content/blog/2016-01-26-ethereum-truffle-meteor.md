@@ -1,13 +1,15 @@
----
-title: 'Ethereum: Truffle + Meteor'
-date: 2016-01-26 22:04:48.000000000 -08:00
-type: post
-layout: post
-categories:
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "Ethereum: Truffle + Meteor"
+date = 2016-01-26 22:04:48-08:00
+path = "/2016/01/26/ethereum-truffle--meteor/"
+
+[taxonomies]
+categories = [
+    "Ethereum",
+    "Projects",
+]
++++
+
 Meteor is the recommended development framework for Ethereum dApps. Truffle is Consensys' development  system for Ethereum dApps. We cannot currently add a Meteor build phase to Truffle, but we can integrate them easily enough with a script.
 
 Install Meteor, Truffle and testrpc:

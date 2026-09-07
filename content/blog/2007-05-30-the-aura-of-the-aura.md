@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-30 06:16:16+00:00
-layout: post
-slug: the-aura-of-the-aura
-title: The Aura Of The Aura
-id: 1321
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "The Aura Of The Aura"
+date = 2007-05-30 06:16:16+00:00
+path = "/2007/05/30/the-aura-of-the-aura/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [Finding The Aura](/weblog/2003/04/25/finding-the-aura/)  
   

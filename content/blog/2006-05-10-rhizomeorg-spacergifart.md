@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-10 05:55:35+00:00
-layout: post
-slug: rhizomeorg-spacergifart
-title: 'Rhizome.org: spacer.gif{ART}'
-id: 922
-categories:
-- Aesthetics
----
++++
+title = "Rhizome.org: spacer.gif{ART}"
+date = 2006-05-10 05:55:35+00:00
+path = "/2006/05/10/rhizomeorg-spacergifart/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Rhizome.org: spacer.gif{ART}  
 ](http://rhizome.org/fp.rhiz?id=1898)  

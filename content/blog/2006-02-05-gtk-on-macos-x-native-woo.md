@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-05 07:40:43+00:00
-layout: post
-slug: gtk-on-macos-x-native-woo
-title: Gtk+ on MacOS X Native. Woo!
-id: 813
-categories:
-- Generative Art
----
++++
+title = "Gtk+ on MacOS X Native. Woo!"
+date = 2006-02-05 07:40:43+00:00
+path = "/2006/02/05/gtk-on-macos-x-native-woo/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 [http://developer.imendio.com/wiki/Gtk_Mac_OS_X](http://developer.imendio.com/wiki/Gtk_Mac_OS_X)  

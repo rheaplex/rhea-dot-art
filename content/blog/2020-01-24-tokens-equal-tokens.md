@@ -1,15 +1,19 @@
----
-id: 3756
-title: 'Tokens Equal Tokens'
-date: '2020-01-24T19:09:20+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
----
++++
+title = "Tokens Equal Tokens"
+date = 2020-01-24 19:09:20+00:00
+path = "/2020/01/24/tokens-equal-tokens/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 The Nifty Report’s excellent post on the MATH token and two projects inspired by it provide an interesting contrast with “Tokens Equal Text”:
 

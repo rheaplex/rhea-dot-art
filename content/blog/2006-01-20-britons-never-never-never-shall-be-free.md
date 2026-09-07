@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-20 07:05:01+00:00
-layout: post
-slug: britons-never-never-never-shall-be-free
-title: Britons Never Never Never Shall Be Free
-id: 794
-categories:
-- Free Culture
----
++++
+title = "Britons Never Never Never Shall Be Free"
+date = 2006-01-20 07:05:01+00:00
+path = "/2006/01/20/britons-never-never-never-shall-be-free/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _NERVOUS TV bosses have axed an episode of South Park which OUTS a fictional Tom Cruise character as gay ” because they are scared the real actor will SUE.  

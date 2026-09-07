@@ -1,9 +1,16 @@
 +++
 title = "Psychogeodata"
 date = 2011-04-04
+path = "/psychogeodata/"
+
+[extra]
 image = "/art-images/cemetary_random_walk.png"
-mediums = ["Python"]
-repos = ["https://github.com/rheaplex/psychogeodata"]
+mediums = [
+    "Python",
+]
+repos = [
+    "https://github.com/rheaplex/psychogeodata",
+]
 wp_id = 6667
 +++
 

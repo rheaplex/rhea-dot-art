@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 06:41:44+00:00
-layout: post
-slug: a-previous-four-freedoms
-title: A Previous Four Freedoms
-id: 611
-categories:
-- Free Culture
----
++++
+title = "A Previous Four Freedoms"
+date = 2005-08-07 06:41:44+00:00
+path = "/2005/08/07/a-previous-four-freedoms/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 In 1941 Franklin Roosevelt gave a speech in which he outlined four freedoms. They're different from Stallman's. :-)  

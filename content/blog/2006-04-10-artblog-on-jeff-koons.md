@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-10 02:17:54+00:00
-layout: post
-slug: artblog-on-jeff-koons
-title: artblog on Jeff Koons
-id: 884
-categories:
-- Aesthetics
----
++++
+title = "artblog on Jeff Koons"
+date = 2006-04-10 02:17:54+00:00
+path = "/2006/04/10/artblog-on-jeff-koons/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [artblog](http://www.fallonandrosof.com/2006/04/huckster-jeff-koons-at-penn.html)  
   

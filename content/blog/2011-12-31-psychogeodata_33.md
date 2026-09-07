@@ -1,23 +1,22 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-31 13:02:51+00:00
-layout: post
-slug: psychogeodata_33
-title: Psychogeodata (3/3)
-id: 1974
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Art History
-- Free Culture
-- Free Software
-- Generative Art
-- Howto
-- Projects
-- Satire
----
++++
+title = "Psychogeodata (3/3)"
+date = 2011-12-31 13:02:51+00:00
+path = "/2011/12/31/psychogeodata_33/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Art History",
+    "Free Culture",
+    "Free Software",
+    "Generative Art",
+    "Howto",
+    "Projects",
+    "Satire",
+]
++++
 
 ![cemetary random walk](/images/2011/12/31/cemetary_random_walk.png)
 

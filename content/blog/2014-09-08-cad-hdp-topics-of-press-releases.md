@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-08 03:44:15+00:00
-layout: post
-slug: cad-hdp-topics-of-press-releases
-title: CAD - HDP Topics Of Press Releases
-id: 2623
-categories:
-- Art
-- Projects
----
++++
+title = "CAD - HDP Topics Of Press Releases"
+date = 2014-09-08 03:44:15+00:00
+path = "/2014/09/08/cad-hdp-topics-of-press-releases/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+]
++++
 
 Topics chosen from press releases on the Contemporary Art Daily blog using gensim's Hierarchical Dirichlet Process model:
 

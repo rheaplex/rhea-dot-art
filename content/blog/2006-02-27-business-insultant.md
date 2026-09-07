@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-27 08:16:10+00:00
-layout: post
-slug: business-insultant
-title: Business Insultant
-id: 846
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Business Insultant"
+date = 2006-02-27 08:16:10+00:00
+path = "/2006/02/27/business-insultant/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 An individual should focus on their core competences to provide best value. This is their unique value proposition. If we look at the most prominent value adding individuals in business and the media, their most striking feature is their rudeness. Rudeness is therefore the core competence and unique value proposition of the people who add the most value to a business.  
   

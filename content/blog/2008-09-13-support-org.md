@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-13 06:22:30+00:00
-layout: post
-slug: support-org
-title: Support ORG!
-id: 1665
-categories:
-- Free Culture
----
++++
+title = "Support ORG!"
+date = 2008-09-13 06:22:30+00:00
+path = "/2008/09/13/support-org/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ORG, the Open RIghts Group, are the UK equivalent of the EFF (differences in law and political culture aside).  
   

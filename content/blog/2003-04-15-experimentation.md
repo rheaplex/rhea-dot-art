@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-15 00:15:58+00:00
-layout: post
-slug: experimentation
-title: Experimentation
-id: 11
-categories:
-- Aesthetics
----
++++
+title = "Experimentation"
+date = 2003-04-15 00:15:58+00:00
+path = "/2003/04/15/experimentation/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Practice masking acrylic with advesive vinyl.   
 Is it possible to photosensitise oil paint, or to dry oil by exposing it to UV through a negative and then wash off any unexposed areas with solvent? 

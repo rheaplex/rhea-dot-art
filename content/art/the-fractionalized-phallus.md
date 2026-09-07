@@ -1,8 +1,14 @@
 +++
 title = "The Fractionalized Phallus"
 date = 2025-03-07
+path = "/the-fractionalized-phallus/"
+
+[extra]
 image = "/art-images/the-fractionalized-phallus.png"
-mediums = ["NFTs", "glTF 3D Scan Fragments"]
+mediums = [
+    "NFTs",
+    "glTF 3D Scan Fragments",
+]
 wp_id = 6617
 +++
 

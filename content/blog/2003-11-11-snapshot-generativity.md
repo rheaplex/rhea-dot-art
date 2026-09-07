@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-11 05:21:11+00:00
-layout: post
-slug: snapshot-generativity
-title: Snapshot Generativity
-id: 49
-categories:
-- Generative Art
----
++++
+title = "Snapshot Generativity"
+date = 2003-11-11 05:21:11+00:00
+path = "/2003/11/11/snapshot-generativity/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 "Frieze" ran an article on "Lomography" some time ago, concluding that  
 however designerish "Lomo" photographers may feel they're being they  

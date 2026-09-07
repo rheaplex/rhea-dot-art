@@ -1,8 +1,15 @@
 +++
 title = "Self-Identifying"
 date = 2025-03-07
+path = "/self-identifying/"
+
+[extra]
 image = "/art-images/self-identifying.png"
-mediums = ["NFTs", "Adobe PostScript", "Floppy Disks"]
+mediums = [
+    "NFTs",
+    "Adobe PostScript",
+    "Floppy Disks",
+]
 wp_id = 6616
 +++
 

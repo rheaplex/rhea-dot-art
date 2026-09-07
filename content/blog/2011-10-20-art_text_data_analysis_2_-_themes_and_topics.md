@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-20 20:52:12+00:00
-layout: post
-slug: art_text_data_analysis_2_-_themes_and_topics
-title: Art Text Data Analysis 2 - Themes And Topics
-id: 1963
-categories:
-- Art Open Data
----
++++
+title = "Art Text Data Analysis 2 - Themes And Topics"
+date = 2011-10-20 20:52:12+00:00
+path = "/2011/10/20/art_text_data_analysis_2_-_themes_and_topics/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+]
++++
 
 [Discovering Themes](http://mininghumanities.com/2010/05/11/text-mining-19th-century-novels-with-the-stanford-humanities-computing-lab/)  
   

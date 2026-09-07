@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-13 05:56:56+00:00
-layout: post
-slug: shoutbacks-for-draw-something
-title: Shoutbacks for draw-something
-id: 780
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Shoutbacks for draw-something"
+date = 2006-01-13 05:56:56+00:00
+path = "/2006/01/13/shoutbacks-for-draw-something/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 Some of my favourite blogs have picked up on draw-something, which is very cool:  

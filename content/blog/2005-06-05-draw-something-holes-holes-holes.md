@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-05 09:00:05+00:00
-layout: post
-slug: draw-something-holes-holes-holes
-title: 'draw-something: holes, holes, holes'
-id: 463
-categories:
-- Projects
----
++++
+title = "draw-something: holes, holes, holes"
+date = 2005-06-05 09:00:05+00:00
+path = "/2005/06/05/draw-something-holes-holes-holes/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 draw-something already draws holes.  

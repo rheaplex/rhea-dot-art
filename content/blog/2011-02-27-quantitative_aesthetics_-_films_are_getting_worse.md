@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-27 00:13:46+00:00
-layout: post
-slug: quantitative_aesthetics_-_films_are_getting_worse
-title: Quantitative Aesthetics - Films Are Getting Worse
-id: 1924
-categories:
-- Aesthetics
----
++++
+title = "Quantitative Aesthetics - Films Are Getting Worse"
+date = 2011-02-27 00:13:46+00:00
+path = "/2011/02/27/quantitative_aesthetics_-_films_are_getting_worse/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 ![starwars.png](/images/2011/02/27/starwars.png)  
   

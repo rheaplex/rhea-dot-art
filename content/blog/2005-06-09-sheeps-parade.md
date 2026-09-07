@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-09 07:15:32+00:00
-layout: post
-slug: sheeps-parade
-title: Sheep's Parade
-id: 482
-categories:
-- Free Culture
----
++++
+title = "Sheep's Parade"
+date = 2005-06-09 07:15:32+00:00
+path = "/2005/06/09/sheeps-parade/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Fun free art project:  

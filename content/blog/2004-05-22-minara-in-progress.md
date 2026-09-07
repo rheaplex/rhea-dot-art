@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-22 09:00:00+00:00
-layout: post
-slug: minara-in-progress
-title: Minara In Progress
-id: 155
-categories:
-- Projects
----
++++
+title = "Minara In Progress"
+date = 2004-05-22 09:00:00+00:00
+path = "/2004/05/22/minara-in-progress/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've finished most of the object picking code I need so far, just line and curve intersection to do (these are well-known standard algorithms. The curve one I'll implement in C for speed). They'll be as sloooow as I expected: rendering the scene to find where the graphics are under the mouse then doing a text search of the image source to find this point in the program is insanely inefficient. And how we'll handle symbols and functions I don't know (keep hashtables of each and have some sort of lookup scheme, probably, with the user responsible for writing picking versions of functions as a worst case).  
   

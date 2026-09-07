@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-02 07:28:54+00:00
-layout: post
-slug: confusing-symbols-and-reality
-title: Confusing Symbols And Reality
-id: 595
-categories:
-- Aesthetics
----
++++
+title = "Confusing Symbols And Reality"
+date = 2005-08-02 07:28:54+00:00
+path = "/2005/08/02/confusing-symbols-and-reality/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Via MindHacks, how kiddies confuse symbols and reality:  

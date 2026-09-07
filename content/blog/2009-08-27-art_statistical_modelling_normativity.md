@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-27 00:11:04+00:00
-layout: post
-slug: art_statistical_modelling_normativity
-title: Art, Statistical Modelling, Normativity
-id: 1786
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Art, Statistical Modelling, Normativity"
+date = 2009-08-27 00:11:04+00:00
+path = "/2009/08/27/art_statistical_modelling_normativity/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 Cross-referencing David Bowie's songs against their chart success to produce a perfect Bowie song - [http://newslite.tv/2009/08/26/scientist-writes-ideal-david-b.html](http://newslite.tv/2009/08/26/scientist-writes-ideal-david-b.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-23 21:56:40+00:00
-layout: post
-slug: remix-reading-competiton
-title: Remix Reading Competiton
-id: 358
-categories:
-- Free Culture
----
++++
+title = "Remix Reading Competiton"
+date = 2005-03-23 21:56:40+00:00
+path = "/2005/03/23/remix-reading-competiton/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 RR are running a remix competition, prizes include getting your music included on a future Loca Records compilation:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-05 06:50:11+00:00
-layout: post
-slug: fans-being-locked-out-again
-title: Fans Being Locked Out Again
-id: 876
-categories:
-- Free Culture
----
++++
+title = "Fans Being Locked Out Again"
+date = 2006-04-05 06:50:11+00:00
+path = "/2006/04/05/fans-being-locked-out-again/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Fans being denied access to something they've helped make great. But not music fans this time, sports fans:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-12-23 22:53:48+00:00
-layout: post
-slug: creating-a-morph-using-sicks-sick-player-class
-title: Creating A Morph Using Sick's Sick Player Class
-id: 2274
-categories:
-- LambdaMOO
----
++++
+title = "Creating A Morph Using Sick's Sick Player Class"
+date = 2012-12-23 22:53:48+00:00
+path = "/2012/12/23/creating-a-morph-using-sicks-sick-player-class/"
+
+[taxonomies]
+categories = [
+    "LambdaMOO",
+]
++++
 
 Once you've set your LambdaMOO character's description using `@describe me as`, set its gender using `@gender` and set Sick's Sick Player Class as your character's parent using `@chparent me to #49900` you can add morphs to them.
 

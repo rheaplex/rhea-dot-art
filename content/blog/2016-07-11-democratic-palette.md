@@ -1,16 +1,18 @@
----
-title: Democratic Palette
-date: 2016-07-11 21:27:58.000000000 -07:00
-type: post
-layout: post
-categories:
-- Aesthetics
-- Art
-- Crypto
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "Democratic Palette"
+date = 2016-07-11 21:27:58-07:00
+path = "/2016/07/11/democratic-palette/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![palette-spots](/images/2016/07/palette-spots.png)
 
 *Democratic Palette, 2016, Ethereum Contract and HTML/JavaScript/CSS.*

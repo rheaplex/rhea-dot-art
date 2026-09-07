@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-02 17:08:08+00:00
-layout: post
-slug: art_data_analysis_dating_site_aesthetics
-title: 'Art Data Analysis: Dating Site Aesthetics'
-id: 1909
-categories:
-- Aesthetics
-- Art Open Data
----
++++
+title = "Art Data Analysis: Dating Site Aesthetics"
+date = 2011-01-02 17:08:08+00:00
+path = "/2011/01/02/art_data_analysis_dating_site_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Open Data",
+]
++++
 
 <blockquote>[http://blog.okcupid.com/index.php/2009/11/17/your-looks-and-online-dating/](http://blog.okcupid.com/index.php/2009/11/17/your-looks-and-online-dating/)  
   

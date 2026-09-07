@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 06:29:54+00:00
-layout: post
-slug: on-the-commons
-title: On The Commons
-id: 610
-categories:
-- Free Culture
----
++++
+title = "On The Commons"
+date = 2005-08-07 06:29:54+00:00
+path = "/2005/08/07/on-the-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Good articles from (and a couple via) On The Commons:  

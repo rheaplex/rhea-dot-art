@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-16 07:35:00+00:00
-layout: post
-slug: forum-on-open-content
-title: Forum On Open Content
-id: 829
-categories:
-- Free Culture
----
++++
+title = "Forum On Open Content"
+date = 2006-02-16 07:35:00+00:00
+path = "/2006/02/16/forum-on-open-content/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 = Forum on Open Content =  
   

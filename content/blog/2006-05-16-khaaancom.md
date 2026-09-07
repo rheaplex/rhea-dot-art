@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-16 07:54:06+00:00
-layout: post
-slug: khaaancom
-title: khaaan.com
-id: 936
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "khaaan.com"
+date = 2006-05-16 07:54:06+00:00
+path = "/2006/05/16/khaaancom/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [khaan.com](http://khaaan.com/)  
   

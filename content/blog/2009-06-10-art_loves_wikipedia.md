@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-06-10 22:16:56+00:00
-layout: post
-slug: art_loves_wikipedia
-title: Art Loves Wikipedia
-id: 1764
-categories:
-- Free Culture
-- Howto
----
++++
+title = "Art Loves Wikipedia"
+date = 2009-06-10 22:16:56+00:00
+path = "/2009/06/10/art_loves_wikipedia/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+]
++++
 
 Furtherfield have published an essay by me on how digital artists can work to help improve Wikipedia's representation of digital art by becoming editors and participating in Wikipedia. There's been some good discussion of the article on mailing lists, and hopefully the article has demystified Wikipedia's editing process a bit for artists and encouraged people to get involved. Click here to read it -   
 [  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-17 02:54:51+00:00
-layout: post
-slug: sharecropping-mash-ups
-title: Sharecropping Mash-Ups
-id: 1071
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Sharecropping Mash-Ups"
+date = 2006-08-17 02:54:51+00:00
+path = "/2006/08/17/sharecropping-mash-ups/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
   
 [Lawrence Lessig](http://www.lessig.org/blog/archives/003487.shtml)  

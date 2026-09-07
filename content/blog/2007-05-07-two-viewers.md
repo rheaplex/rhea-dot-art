@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-07 08:34:38+00:00
-layout: post
-slug: two-viewers
-title: Two Viewers
-id: 1283
-categories:
-- Aesthetics
----
++++
+title = "Two Viewers"
+date = 2007-05-07 08:34:38+00:00
+path = "/2007/05/07/two-viewers/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Viewer A looks at artworks as more or less competent illustrations of theory. They are expert in the latest translated French theory and understand the semiotic and technical content of the work. The economics and social relations of an artworks production are admissable only inasmuchas they excuse theoretical failings.  
   

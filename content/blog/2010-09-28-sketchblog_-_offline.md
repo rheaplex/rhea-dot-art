@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-09-28 21:46:54+00:00
-layout: post
-slug: sketchblog_-_offline
-title: Sketchblog - Offline
-id: 1861
-categories:
-- Art
-- Projects
-- Sketchblog
----
++++
+title = "Sketchblog - Offline"
+date = 2010-09-28 21:46:54+00:00
+path = "/2010/09/28/sketchblog_-_offline/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+    "Sketchblog",
+]
++++
 
 ![Rack 1](/images/2010/09/28/g4358.png)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-27 21:38:29+00:00
-layout: post
-slug: windows_7_sins
-title: Windows 7 Sins
-id: 1787
-categories:
-- Free Culture
----
++++
+title = "Windows 7 Sins"
+date = 2009-08-27 21:38:29+00:00
+path = "/2009/08/27/windows_7_sins/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 When I first heard about Windows 7 Sins I didn't like the idea. But then I saw the website, read the arguments, and I found the whole approach very effective.  
   

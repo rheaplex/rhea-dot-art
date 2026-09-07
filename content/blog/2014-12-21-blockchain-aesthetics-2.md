@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-12-21 23:03:34+00:00
-layout: post
-slug: blockchain-aesthetics-2
-title: Blockchain Aesthetics 2
-id: 2668
-categories:
-- Art
-- Art Computing
-- Crypto
----
++++
+title = "Blockchain Aesthetics 2"
+date = 2014-12-21 23:03:34+00:00
+path = "/2014/12/21/blockchain-aesthetics-2/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Crypto",
+]
++++
 
 Visualizing Bitcoin blockchain transactions - click on each image to run in your browser.
 

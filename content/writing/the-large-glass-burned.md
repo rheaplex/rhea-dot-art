@@ -1,9 +1,11 @@
----
-title: "The Large Glass, Burned"
-image: "/images/page_1.jpg"
-type: "page"
-date: "2018-10-01"
----
++++
+title = "The Large Glass, Burned"
+date = 2018-10-01
+path = "/the-large-glass-burned/"
+
+[extra]
+image = "/images/page_1.jpg"
++++
 
 ![A VR sculpture of a steampunk-ish figure](/images/page_1.jpg)
 

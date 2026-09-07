@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-07 04:59:01+00:00
-layout: post
-slug: simian-spanking-science
-title: Simian Spanking Science
-id: 469
-categories:
-- Satire
----
++++
+title = "Simian Spanking Science"
+date = 2005-06-07 04:59:01+00:00
+path = "/2005/06/07/simian-spanking-science/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 The people who regard Prisoner's Dilemma as an illustration of economics rather than an attempt to justify a pathological ideology will probably take this as showing how natural money and markets are:  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-27 07:41:12+00:00
-layout: post
-slug: gps-from-home
-title: GPS From Home
-id: 1008
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "GPS From Home"
+date = 2006-06-27 07:41:12+00:00
+path = "/2006/06/27/gps-from-home/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
   
 Home is top left. This is a round trip of a couple of kilometres.  

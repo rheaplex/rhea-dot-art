@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-09 05:14:19+00:00
-layout: post
-slug: lets-cultural-value-and-remix-reading
-title: LETS, Cultural Value, and Remix Reading
-id: 621
-categories:
-- Free Culture
----
++++
+title = "LETS, Cultural Value, and Remix Reading"
+date = 2005-08-09 05:14:19+00:00
+path = "/2005/08/09/lets-cultural-value-and-remix-reading/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [LETS](http://www.letslinkuk.net/), Local Exchange Trading Schemes, are local money systems. They aim to keep value within the local community by using a kind of labour barter system.  

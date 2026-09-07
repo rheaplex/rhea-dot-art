@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-27 05:03:32+00:00
-layout: post
-slug: on-hipsterism
-title: On Hipsterism
-id: 1659
-categories:
-- Aesthetics
-- Culture
----
++++
+title = "On Hipsterism"
+date = 2008-08-27 05:03:32+00:00
+path = "/2008/08/27/on-hipsterism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Culture",
+]
++++
 
 Adbusters have noticed hipsterism:  
   

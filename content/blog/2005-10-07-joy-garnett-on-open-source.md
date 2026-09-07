@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-07 06:00:23+00:00
-layout: post
-slug: joy-garnett-on-open-source
-title: Joy Garnett On Open Source
-id: 689
-categories:
-- Free Culture
----
++++
+title = "Joy Garnett On Open Source"
+date = 2005-10-07 06:00:23+00:00
+path = "/2005/10/07/joy-garnett-on-open-source/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 New article by Joy Garnett:  
   

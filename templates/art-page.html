@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content %}
+{%- set slug = page.relative_path | split(pat="/") | last | trim_end(pat=".md") -%}
+{%- set ex = get_section(path="exhibitions/_index.md") -%}
+<article class="artwork">
+  <header class="reading-wide mx-auto mb-4">
+    <h1 class="mb-1">{{ page.title }}</h1>
+    {%- if page.extra?.aliases_names %}<p class="text-body-secondary mb-0">Also known as {{ page.extra?.aliases_names | join(sep=", ") }}</p>{% endif %}
+  </header>
+
+  {{ <featured_image page={page} /> }}
+
+  <div class="reading-wide mx-auto">
+    <dl class="work-meta mb-4">
+      <div class="work-meta__row">
+        <dt>Date</dt>
+        <dd><time datetime="{{ page.date }}">{{ page.date | date(format="%Y") }}</time>{% if page.extra?.date_provisional %} <span class="text-body-secondary">(approx.)</span>{% endif %}</dd>
+      </div>
+      {%- if page.extra?.mediums %}
+      <div class="work-meta__row"><dt>Medium{% if page.extra?.mediums | length > 1 %}s{% endif %}</dt><dd>{{ page.extra?.mediums | join(sep=", ") }}</dd></div>
+      {%- endif %}
+      {%- if page.extra?.tools %}
+      <div class="work-meta__row"><dt>Tools</dt><dd>{{ page.extra?.tools | join(sep=", ") }}</dd></div>
+      {%- endif %}
+      {%- if page.extra?.collaborators %}
+      <div class="work-meta__row"><dt>With</dt><dd>
+        {%- for c in page.extra?.collaborators %}{% if not loop.first %}<br>{% endif %}{% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.role %} <span class="work-meta__role">{{ c.role }}</span>{% endif %}{% endfor %}
+      </dd></div>
+      {%- endif %}
+      {%- if page.extra?.demos %}
+      <div class="work-meta__row"><dt>Run</dt><dd>{% for u in page.extra?.demos %}<a href="{{ u }}">{{ u | regex_replace(pattern="^https?://", rep="") }}</a><br>{% endfor %}</dd></div>
+      {%- endif %}
+      {%- if page.extra?.repos %}
+      <div class="work-meta__row"><dt>Source</dt><dd>{% for u in page.extra?.repos %}<a href="{{ u }}">{{ u | regex_replace(pattern="^https?://(www\\.)?", rep="") }}</a><br>{% endfor %}</dd></div>
+      {%- endif %}
+      {%- set shown = [e for e in ex.pages if slug in (e.extra?.artworks or [])] %}
+      {%- if shown | length > 0 %}
+      <div class="work-meta__row"><dt>Exhibited in</dt><dd>
+        {%- for e in shown %}<a href="{{ e.permalink | safe }}">{{ e.title }}</a>{% if e.extra?.venue %}, {{ e.extra?.venue }}{% endif %} ({{ e.date | date(format="%Y") }})<br>{% endfor %}
+      </dd></div>
+      {%- endif %}
+    </dl>
+  </div>
+
+  <div class="content">{{ page.content | safe }}</div>
+
+  <nav class="reading-wide mx-auto d-flex justify-content-between mt-5 pt-3 border-top small" aria-label="Neighbouring works">
+    <span>{% if page.higher %}<a href="{{ page.higher.permalink | safe }}" class="link-body-emphasis text-decoration-none">&larr; {{ page.higher.title }}</a>{% endif %}</span>
+    <span>{% if page.lower %}<a href="{{ page.lower.permalink | safe }}" class="link-body-emphasis text-decoration-none">{{ page.lower.title }} &rarr;</a>{% endif %}</span>
+  </nav>
+</article>
+{% endblock content %}

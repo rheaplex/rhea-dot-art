@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-11-18 17:35:38+00:00
-layout: post
-slug: connecting-to-lambdamoo-persistently
-title: Connecting To LambdaMOO Persistently
-id: 2064
-categories:
-- Howto
-- LambdaMOO
----
++++
+title = "Connecting To LambdaMOO Persistently"
+date = 2012-11-18 17:35:38+00:00
+path = "/2012/11/18/connecting-to-lambdamoo-persistently/"
+
+[taxonomies]
+categories = [
+    "Howto",
+    "LambdaMOO",
+]
++++
 
 It's easy to connect to LambdaMOO whenever you wish from mobile devices or desktop computers, but you can miss out on what's happening when you're not online. If you have a desktop computer that you keep permanently online you can keep a MOO client open on it, but then you cannot connect on the move.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-16 05:53:37+00:00
-layout: post
-slug: three-cultures
-title: Three Cultures
-id: 699
-categories:
-- Free Culture
----
++++
+title = "Three Cultures"
+date = 2005-10-16 05:53:37+00:00
+path = "/2005/10/16/three-cultures/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Copyright is traditionally intended to apply to Mass Culture. That is, mass-produced commercial culture. Mass Culture is appropriated Folk Culture, it is kitsch by definition.  

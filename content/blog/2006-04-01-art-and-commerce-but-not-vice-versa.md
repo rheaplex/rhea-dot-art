@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-01 07:27:28+00:00
-layout: post
-slug: art-and-commerce-but-not-vice-versa
-title: Art And Commerce, But Not Vice Versa
-id: 874
-categories:
-- Free Culture
----
++++
+title = "Art And Commerce, But Not Vice Versa"
+date = 2006-04-01 07:27:28+00:00
+path = "/2006/04/01/art-and-commerce-but-not-vice-versa/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A little while back, Lessig (rightly) praised The Andy Warhol Foundation for their permissive stance on artists re-appropriating Warhol's media appropriations:  
   

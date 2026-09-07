@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-07 00:00:57+00:00
-layout: post
-slug: aesthetics_statistics_social_software
-title: Aesthetics, Statistics, Social Software
-id: 1796
-categories:
-- Aesthetics
----
++++
+title = "Aesthetics, Statistics, Social Software"
+date = 2009-09-07 00:00:57+00:00
+path = "/2009/09/07/aesthetics_statistics_social_software/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 The problems of colour psychology for advertising -  
 [  

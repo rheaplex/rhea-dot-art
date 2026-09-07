@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-08 07:30:40+00:00
-layout: post
-slug: where-are-the-joneses-ending-up
-title: Where Are The Joneses Ending Up?
-id: 1481
-categories:
-- Free Culture
----
++++
+title = "Where Are The Joneses Ending Up?"
+date = 2007-09-08 07:30:40+00:00
+path = "/2007/09/08/where-are-the-joneses-ending-up/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Last few episodes of Where Are The Joneses?:  
 90: [http://wherearethejoneses.com/2007/09/05/](http://wherearethejoneses.com/2007/09/05/)  

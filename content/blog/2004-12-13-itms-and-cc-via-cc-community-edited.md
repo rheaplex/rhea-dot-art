@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-13 06:48:16+00:00
-layout: post
-slug: itms-and-cc-via-cc-community-edited
-title: iTMS and CC (via cc-community, edited)
-id: 266
-categories:
-- Free Culture
----
++++
+title = "iTMS and CC (via cc-community, edited)"
+date = 2004-12-13 06:48:16+00:00
+path = "/2004/12/13/itms-and-cc-via-cc-community-edited/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 It would be great if there was a CC metadata plugin for iTunes. I don't know how open the iTunes APIs are, though. Perhaps Apple could add it, it wouldn't take much work (surely?) and would help with their record-company-placating DRM by showing what rights are reserved.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-28 19:43:25+00:00
-layout: post
-slug: copying_is_better
-title: Copying Is Better
-id: 1813
-categories:
-- Free Culture
----
++++
+title = "Copying Is Better"
+date = 2009-11-28 19:43:25+00:00
+path = "/2009/11/28/copying_is_better/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I believe that being free to copy is better for culture, society and the economy than trying to turn copying into the subject of usury. This is a belief I gained at art school and that wasn't shaken by my experience in industry. But while I can mention many examples of why I believe this to be true, in art and technology and for democracy, I've never had the kind of hard numbers to hand that the copyright lobby makes up, er, calculates.   
   

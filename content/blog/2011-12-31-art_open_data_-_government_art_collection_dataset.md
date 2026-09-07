@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-31 17:09:59+00:00
-layout: post
-slug: art_open_data_-_government_art_collection_dataset
-title: Art Open Data - Government Art Collection Dataset
-id: 1976
-categories:
-- Art
-- Art History
-- Art Open Data
-- Free Culture
-- Free Software
-- Projects
----
++++
+title = "Art Open Data - Government Art Collection Dataset"
+date = 2011-12-31 17:09:59+00:00
+path = "/2011/12/31/art_open_data_-_government_art_collection_dataset/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Art Open Data",
+    "Free Culture",
+    "Free Software",
+    "Projects",
+]
++++
 
 I have written a script to download a dataset containing collection information from the UK [Government Art Collection](http://www.gac.culture.gov.uk/) site and save it in tab-seperated-value files and an sqlite database for easy access. As the data is from a UK government agency it's under the [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/).  
   

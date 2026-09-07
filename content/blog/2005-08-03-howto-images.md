@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-03 09:06:04+00:00
-layout: post
-slug: howto-images
-title: 'HOWTO Images'
-id: 600
-categories:
-- Projects
----
++++
+title = "HOWTO Images"
+date = 2005-08-03 09:06:04+00:00
+path = "/2005/08/03/howto-images/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Click on images to view full-size:  

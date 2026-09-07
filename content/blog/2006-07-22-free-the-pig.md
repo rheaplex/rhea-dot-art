@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-22 06:57:03+00:00
-layout: post
-slug: free-the-pig
-title: Free the Pig
-id: 1049
-categories:
-- Free Culture
----
++++
+title = "Free the Pig"
+date = 2006-07-22 06:57:03+00:00
+path = "/2006/07/22/free-the-pig/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Push the Third Button Twice: Free the Pig](http://dustrunners.blogspot.com/2006/07/free-pig.html)  
   

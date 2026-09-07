@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-07 05:05:54+00:00
-layout: post
-slug: openbusiness-survey
-title: OpenBusiness Survey
-id: 855
-categories:
-- Free Culture
----
++++
+title = "OpenBusiness Survey"
+date = 2006-03-07 05:05:54+00:00
+path = "/2006/03/07/openbusiness-survey/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The OpenBusiness survey I mentioned is back. And this time you could win an iPod! See:  
   

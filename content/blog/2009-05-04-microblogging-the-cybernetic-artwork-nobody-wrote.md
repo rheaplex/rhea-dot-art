@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-05-04 19:36:11+00:00
-layout: post
-slug: microblogging-the-cybernetic-artwork-nobody-wrote
-title: Microblogging The Cybernetic Artwork Nobody Wrote
-id: 1761
-categories:
-- Art Computing
----
++++
+title = "Microblogging The Cybernetic Artwork Nobody Wrote"
+date = 2009-05-04 19:36:11+00:00
+path = "/2009/05/04/microblogging-the-cybernetic-artwork-nobody-wrote/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+]
++++
 
 The Cybernetic Artwork Nobody Wrote is now microblogging descriptions of possible artworks on identi.ca. You can follow it by clicking here -  
   

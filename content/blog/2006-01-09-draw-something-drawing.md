@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-09 07:02:16+00:00
-layout: post
-slug: draw-something-drawing
-title: draw-something Drawing
-id: 777
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something Drawing"
+date = 2006-01-09 07:02:16+00:00
+path = "/2006/01/09/draw-something-drawing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 ![Drawing-20060108-215804](/images/drawing-20060108-215804.png)  

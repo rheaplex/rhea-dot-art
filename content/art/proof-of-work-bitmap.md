@@ -1,8 +1,16 @@
 +++
 title = "Proof of Work Bitmap"
 date = 2019-07-20
+path = "/proof-of-work-bitmap/"
+
+[extra]
 image = "/art-images/powb-1.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6632
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-10-08 20:26:55+00:00
-layout: post
-slug: steampunk_primary_sources_from_google_books_and_archiveorg
-title: Steampunk Primary Sources From Google Books And archive.org
-id: 1804
-categories:
-- Culture
----
++++
+title = "Steampunk Primary Sources From Google Books And archive.org"
+date = 2009-10-08 20:26:55+00:00
+path = "/2009/10/08/steampunk_primary_sources_from_google_books_and_archiveorg/"
+
+[taxonomies]
+categories = [
+    "Culture",
+]
++++
 
 Here is a list of PDFs of books from the Victorian (and Edwardian) era that Steampunks can take ideas and illustrations from. There are many more that can be found, see my post on how to search to help you find them. Let me know in the comments if you find anything good!  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-06 06:16:21+00:00
-layout: post
-slug: drawing-on-enclosures
-title: Drawing On Enclosures
-id: 466
-categories:
-- Generative Art
----
++++
+title = "Drawing On Enclosures"
+date = 2005-06-06 06:16:21+00:00
+path = "/2005/06/06/drawing-on-enclosures/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Projects that use content enclosures as source:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-24 08:55:05+00:00
-layout: post
-slug: some-excellent-free-culture-related-blogs
-title: Some Excellent Free Culture-Related Blogs
-id: 1642
-categories:
-- Free Culture
----
++++
+title = "Some Excellent Free Culture-Related Blogs"
+date = 2008-07-24 08:55:05+00:00
+path = "/2008/07/24/some-excellent-free-culture-related-blogs/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Mike Linksvayer has an insightful and thought-provoking blog  [here](http://gondwanaland.com/mlog/).  
   

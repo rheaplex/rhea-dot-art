@@ -1,12 +1,13 @@
----
-id: 3902
-title: 'Oracles Are The Oracle Problem'
-date: '2020-09-17T15:13:36+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Crypto
----
++++
+title = "Oracles Are The Oracle Problem"
+date = 2020-09-17 15:13:36+00:00
+path = "/2020/09/17/oracles-are-the-oracle-problem/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+]
++++
 
 In computer science, an “[oracle](https://en.wikipedia.org/wiki/Oracle_machine)” is a source of truth from outside the system. On a blockchain, this means that oracles provide information that is not part of the transaction protocol. This can be the price of the US dollar, the weather in a particular location, whether a particular celebrity is still alive, or other facts that are not simply protocol-level transfers of coins secured by cryptographic signatures.
 

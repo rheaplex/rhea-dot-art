@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-14 06:24:03+00:00
-layout: post
-slug: no-business
-title: No Business
-id: 498
-categories:
-- Free Culture
----
++++
+title = "No Business"
+date = 2005-06-14 06:24:03+00:00
+path = "/2005/06/14/no-business/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 My copy of "[No Business](http://www.negativland.com/nobiz/index.html)" arrived.  

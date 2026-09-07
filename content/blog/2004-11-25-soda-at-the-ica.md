@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-25 02:38:05+00:00
-layout: post
-slug: soda-at-the-ica
-title: SoDA at the ICA
-id: 253
-categories:
-- Generative Art
----
++++
+title = "SoDA at the ICA"
+date = 2004-11-25 02:38:05+00:00
+path = "/2004/11/25/soda-at-the-ica/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 I've just seen that my old associates SoDA are at the ICA in London at the moment:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-26 04:11:08+00:00
-layout: post
-slug: some-good-projects
-title: Some Good Projects..
-id: 304
-categories:
-- Generative Art
----
++++
+title = "Some Good Projects.."
+date = 2005-01-26 04:11:08+00:00
+path = "/2005/01/26/some-good-projects/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 ...that I'm not just mentioning because they link to me. :-)  
   

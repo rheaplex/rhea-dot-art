@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-27 18:40:45+00:00
-layout: post
-slug: rhizomeorg-art-emergence-and-the-computational-sublime
-title: 'Rhizome.org: Art, Emergence, and the Computational Sublime'
-id: 944
-categories:
-- Generative Art
----
++++
+title = "Rhizome.org: Art, Emergence, and the Computational Sublime"
+date = 2006-05-27 18:40:45+00:00
+path = "/2006/05/27/rhizomeorg-art-emergence-and-the-computational-sublime/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Rhizome.org: Art, Emergence, and the Computational Sublime](http://rhizome.org/fp.rhiz?id=1963)  
   

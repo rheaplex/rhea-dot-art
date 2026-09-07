@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-25 08:13:06+00:00
-layout: post
-slug: lots-of-cool-stuff-from-creative-commons
-title: Lots Of Cool Stuff From Creative Commons
-id: 734
-categories:
-- Free Culture
----
++++
+title = "Lots Of Cool Stuff From Creative Commons"
+date = 2005-11-25 08:13:06+00:00
+path = "/2005/11/25/lots-of-cool-stuff-from-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [iCommons is being launched](http://creativecommons.org/weblog/entry/5700) as an international focus for commons activism:  

@@ -1,0 +1,91 @@
+{#- Shared components (Tera v2). Registered globally; no import needed. -#}
+
+{% component card(page) %}
+<div class="col">
+  <a href="{{ page.permalink | safe }}" class="card h-100 border-0 bg-transparent text-decoration-none artwork-card">
+    {%- if page.extra?.image %}
+    {%- set thumb = resize_image(path=page.extra.image, width=400, height=400, op="fill") %}
+    <img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="card-img-top rounded-0" loading="lazy">
+    {%- endif %}
+    <div class="card-body px-0 pb-0 text-center">
+      <h2 class="card-title h6 mb-1 text-body">{{ page.title }}</h2>
+      {%- if page.date %}<p class="card-text text-body-secondary small mb-0">{{ page.date | date(format="%Y") }}</p>{% endif %}
+    </div>
+  </a>
+</div>
+{% endcomponent card %}
+
+{#- Exhibition date range, e.g. "27 September 2024 – 27 January 2025" -#}
+{% component exhibition_dates(page) %}
+{%- set o = page.extra?.opening or page.date -%}
+{%- set c = page.extra?.closing or "" -%}
+{%- if not c or c == o -%}
+{{ o | date(format="%-d %B %Y") }}
+{%- elif o | date(format="%Y-%m") == c | date(format="%Y-%m") -%}
+{{ o | date(format="%-d") }} &ndash; {{ c | date(format="%-d %B %Y") }}
+{%- elif o | date(format="%Y") == c | date(format="%Y") -%}
+{{ o | date(format="%-d %B") }} &ndash; {{ c | date(format="%-d %B %Y") }}
+{%- else -%}
+{{ o | date(format="%-d %B %Y") }} &ndash; {{ c | date(format="%-d %B %Y") }}
+{%- endif -%}
+{% endcomponent exhibition_dates %}
+
+{#- Date honouring extra.date_precision (year / month / day) -#}
+{% component precision_date(page) %}
+{%- set p = page.extra?.date_precision or "day" -%}
+{%- if p == "year" %}{{ page.date | date(format="%Y") }}{% elif p == "month" %}{{ page.date | date(format="%B %Y") }}{% else %}{{ page.date | date(format="%-d %B %Y") }}{% endif -%}
+{% endcomponent precision_date %}
+
+{% component venue_line(page) %}
+{%- set v = page.extra?.venue or "" -%}{%- set l = page.extra?.location or "" -%}
+{{ v }}{% if l %}{% if v %}, {% endif %}{{ l }}{% endif %}
+{%- endcomponent venue_line %}
+
+{% component exhibition_line(page) %}
+<div class="row gx-3 py-2 border-bottom exhibition-row">
+  <div class="col-md-4 text-body-secondary small pt-1">{{ <exhibition_dates page={page} /> }}</div>
+  <div class="col-md-8">
+    <a href="{{ page.permalink | safe }}" class="link-body-emphasis text-decoration-none fw-medium">{{ page.title }}</a>
+    <div class="text-body-secondary small">{{ <venue_line page={page} /> }}</div>
+  </div>
+</div>
+{% endcomponent exhibition_line %}
+
+{#- Press / publication list row. Title links out when there is no local body. -#}
+{% component publication_line(page) %}
+{%- set org = page.extra?.outlet or page.extra?.publisher or "" -%}
+{%- set kind = page.extra?.press_type or page.extra?.publication_type or "" -%}
+{%- set inn = page.extra?.in or "" -%}
+{%- set ext = page.word_count == 0 and page.extra?.url_external -%}
+{%- set href = page.extra.url_external if ext else page.permalink -%}
+<div class="row gx-3 py-2 border-bottom exhibition-row">
+  <div class="col-md-4 text-body-secondary small pt-1"><time datetime="{{ page.date }}">{% if (page.extra?.date_precision or "day") != "year" %}{{ <precision_date page={page} /> }}{% endif %}</time></div>
+  <div class="col-md-8">
+    <a href="{{ href | safe }}" class="link-body-emphasis text-decoration-none fw-medium"{% if ext %} rel="external"{% endif %}>{{ page.title }}</a>
+    <div class="text-body-secondary small">{% if inn %}<em>{{ inn }}</em>{% if org %}, {% endif %}{% endif %}{{ org }}{% if kind %}{% if org or inn %} &middot; {% endif %}{{ kind | replace(from="-", to=" ") | title }}{% endif %}</div>
+  </div>
+</div>
+{% endcomponent publication_line %}
+
+{#- Year-grouped list. Section pages are newest-first by default. -#}
+{% component by_year(pages, kind: string = "publication") %}
+{%- set last = "" -%}
+{%- for p in pages -%}
+{%- set y = p.date | date(format="%Y") -%}
+{%- if y != last %}<h3 class="h6 text-body-secondary mt-4 mb-1">{{ y }}</h3>{% set last = y %}{% endif -%}
+{%- if kind == "exhibition" %}{{ <exhibition_line page={p} /> }}{% else %}{{ <publication_line page={p} /> }}{% endif -%}
+{%- endfor -%}
+{% endcomponent by_year %}
+
+{#- Featured image, skipped if the body already embeds the same file -#}
+{% component featured_image(page) %}
+{%- if page.extra?.image -%}
+{%- set base = page.extra.image | split(pat="/") | last -%}
+{%- if base not in page.content -%}
+{%- set img = resize_image(path=page.extra.image, width=1600, height=1600, op="fit") %}
+<figure class="figure d-block text-center mb-4">
+  <img src="{{ img.url }}" width="{{ img.width }}" height="{{ img.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="figure-img img-fluid mb-0">
+</figure>
+{%- endif -%}
+{%- endif -%}
+{% endcomponent featured_image %}

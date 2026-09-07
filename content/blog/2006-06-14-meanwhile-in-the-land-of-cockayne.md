@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-14 04:28:44+00:00
-layout: post
-slug: meanwhile-in-the-land-of-cockayne
-title: Meanwhile, In The Land Of Cockayne
-id: 971
-categories:
-- Satire
----
++++
+title = "Meanwhile, In The Land Of Cockayne"
+date = 2006-06-14 04:28:44+00:00
+path = "/2006/06/14/meanwhile-in-the-land-of-cockayne/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 _YOU ARE INVITED TO TAKE PART IN COLLIDE/COLLABO A WEEK LONG EVENT  
 DEALING THE NOTION OF HOW TO BRIDGE ART AND ACTIVISM CHALLENGING  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-26 08:30:20+00:00
-layout: post
-slug: back-on-debian
-title: Back On Debian
-id: 1497
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Back On Debian"
+date = 2007-09-26 08:30:20+00:00
+path = "/2007/09/26/back-on-debian/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![drawing-20070925x.png](/images/2007/09/drawing-20070925x.png)  
   

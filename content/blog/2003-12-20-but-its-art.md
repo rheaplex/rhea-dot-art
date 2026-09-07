@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-20 03:22:38+00:00
-layout: post
-slug: but-its-art
-title: But It's Art…
-id: 69
-categories:
-- Satire
----
++++
+title = "But It's Art…"
+date = 2003-12-20 03:22:38+00:00
+path = "/2003/12/20/but-its-art/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Earlier in the year, some researchers wired rat neurons to a couple of coloured felt-tip pens over the internet to get scribbly "drawings". Voila! Art, not bad vivisectionist "science". The transformational power of art is truly amazing.  
 [Article.](http://news.bbc.co.uk/1/hi/sci/tech/3096973.stm)  

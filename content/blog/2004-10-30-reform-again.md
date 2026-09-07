@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-30 09:18:49+00:00
-layout: post
-slug: reform-again
-title: Reform Again
-id: 238
-categories:
-- Free Culture
----
++++
+title = "Reform Again"
+date = 2004-10-30 09:18:49+00:00
+path = "/2004/10/30/reform-again/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I've posted about Open Source as being a [reform movement](/weblog/2003/10/11/reform) before (confusingly in the Aesthetics section of this blog).  
   

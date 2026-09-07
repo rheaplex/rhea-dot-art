@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-14 00:43:49+00:00
-layout: post
-slug: cryptocurrency-culture
-title: Cryptocurrency Culture
-id: 2571
-categories:
-- Art
-- Art Computing
-- Culture
----
++++
+title = "Cryptocurrency Culture"
+date = 2014-05-14 00:43:49+00:00
+path = "/2014/05/14/cryptocurrency-culture/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Culture",
+]
++++
 
 [http://thecypherfunks.com/](http://thecypherfunks.com/)
 

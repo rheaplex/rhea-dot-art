@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-20 07:17:12+00:00
-layout: post
-slug: my-first-remix
-title: My First Remix
-id: 248
-categories:
-- Free Culture
----
++++
+title = "My First Remix"
+date = 2004-11-20 07:17:12+00:00
+path = "/2004/11/20/my-first-remix/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I saw the first remix of my work today. It's quite a coincidence that the remixer added arrows as they are the central motif of my next project.  
   

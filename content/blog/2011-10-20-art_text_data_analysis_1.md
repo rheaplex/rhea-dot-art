@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-20 20:39:20+00:00
-layout: post
-slug: art_text_data_analysis_1
-title: Art Text Data Analysis 1
-id: 1962
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Art Text Data Analysis 1"
+date = 2011-10-20 20:39:20+00:00
+path = "/2011/10/20/art_text_data_analysis_1/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 [Network Analysis and the Art Market: Goupil 1880 - 1895](http://digitalarthistory.weebly.com/uploads/6/9/4/3/6943163/helmreich_malaga_short.pdf) [PDF]  
   

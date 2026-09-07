@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-06-19 11:23:32+00:00
-layout: post
-slug: work_in_progress_-_streaming_aesthetics
-title: Work In Progress - Streaming Aesthetics
-id: 1848
-categories:
-- Aesthetics
-- Art Computing
-- Free Software
----
++++
+title = "Work In Progress - Streaming Aesthetics"
+date = 2010-06-19 11:23:32+00:00
+path = "/2010/06/19/work_in_progress_-_streaming_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Software",
+]
++++
 
 This is a visualization of common colour names as they appear in the main twitter stream -  
   

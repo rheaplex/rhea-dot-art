@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 10:08:14+00:00
-layout: post
-slug: pic-stamp-macos-x
-title: PIC, STAMP, MacOS X
-id: 507
-categories:
-- Generative Art
-- Howto
----
++++
+title = "PIC, STAMP, MacOS X"
+date = 2005-06-15 10:08:14+00:00
+path = "/2005/06/15/pic-stamp-macos-x/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 Programming microcontrollers on MacOS X:  

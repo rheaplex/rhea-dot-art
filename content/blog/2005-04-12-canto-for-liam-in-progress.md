@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-12 06:30:15+00:00
-layout: post
-slug: canto-for-liam-in-progress
-title: Canto (For Liam) - In Progress
-id: 380
-categories:
-- Sketchblog
----
++++
+title = "Canto (For Liam) - In Progress"
+date = 2005-04-12 06:30:15+00:00
+path = "/2005/04/12/canto-for-liam-in-progress/"
+
+[taxonomies]
+categories = [
+    "Sketchblog",
+]
++++
 
 ![](/images/canto_for_liam.png)
 

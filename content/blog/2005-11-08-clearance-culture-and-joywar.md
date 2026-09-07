@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-08 18:27:39+00:00
-layout: post
-slug: clearance-culture-and-joywar
-title: Clearance Culture (And JoyWar)
-id: 717
-categories:
-- Free Culture
----
++++
+title = "Clearance Culture (And JoyWar)"
+date = 2005-11-08 18:27:39+00:00
+path = "/2005/11/08/clearance-culture-and-joywar/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _[...]culture is a shared endeavor. Artistic innovation, creative communities, culture - none could work without an open commons of access and sharing. (Did Susan Meisalas pay the Catholic Church for her depiction of the cross, or Pepsi for depicted its trademarked can?)_  

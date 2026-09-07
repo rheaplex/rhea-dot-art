@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-09 05:39:45+00:00
-layout: post
-slug: stallman-rejects-cc
-title: Stallman Rejects CC
-id: 816
-categories:
-- Free Culture
----
++++
+title = "Stallman Rejects CC"
+date = 2006-02-09 05:39:45+00:00
+path = "/2006/02/09/stallman-rejects-cc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _As your question illustrates, people have a tendency to disregard the differences between the various Creative Commons licenses, lumping them together as a single thing. That is as mixed-up as supposing San Francisco and Death Valley have similar weather because they're both in California._  

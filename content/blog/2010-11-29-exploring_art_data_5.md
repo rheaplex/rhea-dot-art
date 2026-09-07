@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-29 20:32:05+00:00
-layout: post
-slug: exploring_art_data_5
-title: Exploring Art Data 5
-id: 1879
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 5"
+date = 2010-11-29 20:32:05+00:00
+path = "/2010/11/29/exploring_art_data_5/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's look at some institutional data. We can scrape the Tate Galleries attendance figures from [here](http://www.tate.org.uk/about/ourpriorities/audiences/marketresearch/visitor_figures.htm) and make a csv file of them. The first few lines of attendance.csv look like this:  
   

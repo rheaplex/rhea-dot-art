@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-08 08:50:55+00:00
-layout: post
-slug: tile-generator
-title: Tile Generator
-id: 751
-categories:
-- Generative Art
----
++++
+title = "Tile Generator"
+date = 2005-12-08 08:50:55+00:00
+path = "/2005/12/08/tile-generator/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 If only it was linked to a tile factory so you could decorate your bathroom On Demand:  

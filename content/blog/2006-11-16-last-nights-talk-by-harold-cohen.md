@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-16 07:04:23+00:00
-layout: post
-slug: last-nights-talk-by-harold-cohen
-title: Last Night's Talk By Harold Cohen
-id: 1169
-categories:
-- Aesthetics
-- Generative Art
-- Reviews
----
++++
+title = "Last Night's Talk By Harold Cohen"
+date = 2006-11-16 07:04:23+00:00
+path = "/2006/11/16/last-nights-talk-by-harold-cohen/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Reviews",
+]
++++
 
 Harold gave an excellent presentation of how and why AARON's new colouring system works. I've just about hacked up an implementation of the system for draw-something from my notes in a couple of hours, so you can tell that Harold is a thorough speaker as well as an insightful and sometimes humorous one. ;-)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-02 07:27:01+00:00
-layout: post
-slug: idea-generation-methods
-title: Idea Generation Methods
-id: 659
-categories:
-- Howto
----
++++
+title = "Idea Generation Methods"
+date = 2005-09-02 07:27:01+00:00
+path = "/2005/09/02/idea-generation-methods/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 Via [43 Folders](http://www.43folders.com/2005/08/ways_to_generat.html):  
   

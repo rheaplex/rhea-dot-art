@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-13 06:31:51+00:00
-layout: post
-slug: the-red-krayola-with-art-language-sighs-trapped-by-liars
-title: The Red Krayola With Art & Language - Sighs Trapped By Liars
-id: 1507
-categories:
-- Reviews
----
++++
+title = "The Red Krayola With Art & Language - Sighs Trapped By Liars"
+date = 2007-10-13 06:31:51+00:00
+path = "/2007/10/13/the-red-krayola-with-art-language-sighs-trapped-by-liars/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Art and Language wrote lyrics that The Red Krayola (nee Crayola) set to music for three albums in the 1970s and 1980s. After a gap of more than twenty years they have got together again a fourth time for "Sighs Trapped By Liars".  
   

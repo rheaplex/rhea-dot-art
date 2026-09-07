@@ -1,14 +1,18 @@
----
-id: 3765
-title: 'Self-Encoding Tokens'
-date: '2020-02-08T22:18:36+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Crypto
----
++++
+title = "Self-Encoding Tokens"
+date = 2020-02-08 22:18:36+00:00
+path = "/2020/02/08/self-encoding-tokens/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 I just wanted to re-emphasize the idea of self-encoding tokens, Ethereum ERC-721 non-fungible tokens that contain their entire representation within the 256 bits of their numeric ID. I mentioned this in “[Tokens Equal Tokens](/2020/01/24/tokens-equal-tokens/)” and it’s an idea I’ve used in the last couple of years in both “[Tokens Equal Text](/tokens-equal-text)” and my story for Art Review.
 

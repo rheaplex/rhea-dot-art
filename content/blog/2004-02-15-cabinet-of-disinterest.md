@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-02-15 02:50:36+00:00
-layout: post
-slug: cabinet-of-disinterest
-title: Cabinet Of Disinterest
-id: 92
-categories:
-- Aesthetics
----
++++
+title = "Cabinet Of Disinterest"
+date = 2004-02-15 02:50:36+00:00
+path = "/2004/02/15/cabinet-of-disinterest/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Cabinet paintings are reviled as the precursor of kitsch. Kitsch is reviled by critics. Left-wing critics object to the content of Kitsch, which they regard as saccharine distraction, sentimental, void of social content, worse than null. Right-wing critics object to the form of kitsch; its low quality and therefore its low value. Neither particularly object to the subjects of kitsch. People, animals, scenery, all can be found in high art. If realism is the necessity of the translations required to maintain isomorphism between real-world referents and aesthetic signs, then Kitsch transformations are degenerate, destroying value and reference and substituting low-level self-referential sentimentality. Kitsch is unrealistic, even anti-realistic.  
   

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-23 09:33:14+00:00
-layout: post
-slug: indexical-environment
-title: Indexical Environment
-id: 1494
-categories:
-- Aesthetics
-- Personal
-- Satire
----
++++
+title = "Indexical Environment"
+date = 2007-09-23 09:33:14+00:00
+path = "/2007/09/23/indexical-environment/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Personal",
+    "Satire",
+]
++++
 
 In 1994 I was living in a student house with a psychopath. One of the other people resisting this suggested we go and see "The Lion King" at the cinema and I said yes.  
   

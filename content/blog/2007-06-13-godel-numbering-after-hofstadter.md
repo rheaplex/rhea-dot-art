@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-13 05:56:20+00:00
-layout: post
-slug: godel-numbering-after-hofstadter
-title: Godel Numbering (After Hofstadter)
-id: 1347
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Godel Numbering (After Hofstadter)"
+date = 2007-06-13 05:56:20+00:00
+path = "/2007/06/13/godel-numbering-after-hofstadter/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706121954](/images/2007/06/200706121954.jpg)  
 

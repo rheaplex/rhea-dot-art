@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-25 02:43:21+00:00
-layout: post
-slug: more-open-music
-title: More Open Music
-id: 254
-categories:
-- Free Culture
----
++++
+title = "More Open Music"
+date = 2004-11-25 02:43:21+00:00
+path = "/2004/11/25/more-open-music/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Opsound have joined Loca in the Creative-Commons-licensed CD market, and Positron are kinda sorta gonna start CC-licensing work:  
   

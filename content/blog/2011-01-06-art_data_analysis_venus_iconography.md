@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-06 21:34:12+00:00
-layout: post
-slug: art_data_analysis_venus_iconography
-title: 'Art Data Analysis: Venus Iconography'
-id: 1913
-categories:
-- Add category
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Venus Iconography"
+date = 2011-01-06 21:34:12+00:00
+path = "/2011/01/06/art_data_analysis_venus_iconography/"
+
+[taxonomies]
+categories = [
+    "Add category",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![Afbeelding 4.png](/images/2011/01/06/Afbeelding%204.png)[Venus Iconography](http://sites.google.com/site/venusiconography/)  
 

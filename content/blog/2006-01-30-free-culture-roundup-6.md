@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-30 04:10:08+00:00
-layout: post
-slug: free-culture-roundup-6
-title: Free Culture Roundup
-id: 807
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-01-30 04:10:08+00:00
+path = "/2006/01/30/free-culture-roundup-6/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _vectorizeme vs julian opie_  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-26 06:47:16+00:00
-layout: post
-slug: minara-dragging-is-done
-title: minara - dragging is done
-id: 1003
-categories:
-- Generative Art
-- Projects
----
++++
+title = "minara - dragging is done"
+date = 2006-06-26 06:47:16+00:00
+path = "/2006/06/26/minara-dragging-is-done/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 How to select and drag in minara.  

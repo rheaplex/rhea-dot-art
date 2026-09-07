@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-05 19:16:35+00:00
-layout: post
-slug: sharing-is-sexy-open-source-porn-laboratory-sex-positive-collective
-title: Sharing Is Sexy | open source porn laboratory // sex positive collective
-id: 1554
-categories:
-- Free Culture
----
++++
+title = "Sharing Is Sexy | open source porn laboratory // sex positive collective"
+date = 2008-01-05 19:16:35+00:00
+path = "/2008/01/05/sharing-is-sexy-open-source-porn-laboratory-sex-positive-collective/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Sharing Is Sexy | open source porn laboratory // sex positive collective](http://www.sharingissexy.org/)  
   

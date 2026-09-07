@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-26 06:52:38+00:00
-layout: post
-slug: ive-created-a-monster-and-nobody
-title: I've Created A Monster, And Nobody…
-id: 1373
-categories:
-- Free Culture
----
++++
+title = "I've Created A Monster, And Nobody…"
+date = 2007-06-26 06:52:38+00:00
+path = "/2007/06/26/ive-created-a-monster-and-nobody/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://wherearethejoneses.com/2007/06/24/day10/](http://wherearethejoneses.com/2007/06/24/day10/)  
   

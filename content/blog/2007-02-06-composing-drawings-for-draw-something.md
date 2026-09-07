@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-02-06 07:41:55+00:00
-layout: post
-slug: composing-drawings-for-draw-something
-title: composing drawings for draw-something
-id: 1223
-categories:
-- Generative Art
-- Projects
----
++++
+title = "composing drawings for draw-something"
+date = 2007-02-06 07:41:55+00:00
+path = "/2007/02/06/composing-drawings-for-draw-something/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 **Stage One **  
   

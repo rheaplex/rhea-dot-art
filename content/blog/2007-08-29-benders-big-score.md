@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-29 08:54:41+00:00
-layout: post
-slug: benders-big-score
-title: Bender's Big Score
-id: 1469
-categories:
-- Satire
----
++++
+title = "Bender's Big Score"
+date = 2007-08-29 08:54:41+00:00
+path = "/2007/08/29/benders-big-score/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 As a consumer in that irrelevant secondary market known only as "the rest of the world" who specifically bought all the Futurama DVDs in order to communicate to the market that I would like more Futurama cartoons, can I ask what the best places to search for torrents of "Bender's Big Score" will be when it is released in the US? I only ask because someone seems to have forgotten to arrange for releases anywhere else, and I wouldn't want to trouble them with silly little things like rewarding them monetarily for their effort.  
   

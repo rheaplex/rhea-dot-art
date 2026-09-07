@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-08 06:01:56+00:00
-layout: post
-slug: commons-enterprise-working-group
-title: Commons Enterprise Working Group
-id: 858
-categories:
-- Free Culture
----
++++
+title = "Commons Enterprise Working Group"
+date = 2006-03-08 06:01:56+00:00
+path = "/2006/03/08/commons-enterprise-working-group/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Commons Enterprise Working Group:  
 Many business, non-profit and public projects use creative commons licenced works to accomplish their mission. A substantial number of these the non-profit and public projects are interested in some type of revenue generation from work under creative commons licences, to ensure sustainability of the projects. These projects are all commons enterprises.  

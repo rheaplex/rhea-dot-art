@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-13 20:39:36+00:00
-layout: post
-slug: to-encourage-creativity
-title: To Encourage Creativity…
-id: 643
-categories:
-- Free Culture
----
++++
+title = "To Encourage Creativity…"
+date = 2005-08-13 20:39:36+00:00
+path = "/2005/08/13/to-encourage-creativity/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Stuff The Suits](http://onthecommons.org/node/650)  

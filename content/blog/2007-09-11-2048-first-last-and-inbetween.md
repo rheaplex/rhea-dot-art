@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-11 08:23:11+00:00
-layout: post
-slug: 2048-first-last-and-inbetween
-title: 2048 - First, Last and Inbetween
-id: 1486
-categories:
-- Generative Art
-- Projects
----
++++
+title = "2048 - First, Last and Inbetween"
+date = 2007-09-11 08:23:11+00:00
+path = "/2007/09/11/2048-first-last-and-inbetween/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 Click on thumbnails for full size images:  
   

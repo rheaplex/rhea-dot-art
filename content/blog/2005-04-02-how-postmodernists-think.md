@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-02 23:59:14+00:00
-layout: post
-slug: how-postmodernists-think
-title: How Postmodernists “Think”
-id: 372
-categories:
-- Satire
----
++++
+title = "How Postmodernists “Think”"
+date = 2005-04-02 23:59:14+00:00
+path = "/2005/04/02/how-postmodernists-think/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 There is no such thing as toxicity. A toxic substance is only toxic to a given system. Therefore we are mistaken if we identify the system-given property of "toxicity" with a particular substance, or example of such a substance.   
   

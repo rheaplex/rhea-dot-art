@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-21 01:13:54+00:00
-layout: post
-slug: figurinegroundhogfigment
-title: Figurine/Groundhog/Figment
-id: 15
-categories:
-- Generative Art
----
++++
+title = "Figurine/Groundhog/Figment"
+date = 2003-04-21 01:13:54+00:00
+path = "/2003/04/21/figurinegroundhogfigment/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Most AI art producers begin from a model of child art.   
 Children's art is knowledge-based, figure based, and emergent (unplanned).   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-12-01 04:38:56+00:00
-layout: post
-slug: negativland-on-nc
-title: Negativland on NC
-id: 1177
-categories:
-- Free Culture
----
++++
+title = "Negativland on NC"
+date = 2006-12-01 04:38:56+00:00
+path = "/2006/12/01/negativland-on-nc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.negativland.com/riaa/tenets.html](http://www.negativland.com/riaa/tenets.html)  
   

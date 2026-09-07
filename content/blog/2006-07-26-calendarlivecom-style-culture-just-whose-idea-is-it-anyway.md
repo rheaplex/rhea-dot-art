@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-26 08:16:48+00:00
-layout: post
-slug: calendarlivecom-style-culture-just-whose-idea-is-it-anyway
-title: 'calendarlive.com: STYLE & CULTURE - Just whose idea is it anyway?'
-id: 1056
-categories:
-- Free Culture
----
++++
+title = "calendarlive.com: STYLE & CULTURE - Just whose idea is it anyway?"
+date = 2006-07-26 08:16:48+00:00
+path = "/2006/07/26/calendarlivecom-style-culture-just-whose-idea-is-it-anyway/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [calendarlive.com: STYLE & CULTURE - Just whose idea is it anyway?](http://www.calendarlive.com/printedition/calendar/cl-ca-copyright23jul23,0,1472076.story?coll=cl-calendar)  
   

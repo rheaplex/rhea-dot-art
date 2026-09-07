@@ -1,15 +1,17 @@
----
-title: Shareable Readymades At "Common Property"
-date: 2015-12-12 13:07:18.000000000 -08:00
-type: post
-layout: post
-categories:
-- 3D Printing
-- Art
-- Projects
-- Shows
-author: Rhea Myers
----
++++
+title = "Shareable Readymades At \"Common Property\""
+date = 2015-12-12 13:07:18-08:00
+path = "/2015/12/12/shareable-readymades-at-common-property/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Art",
+    "Projects",
+    "Shows",
+]
++++
+
 ![Antonio Roberts, Dead Copyright, 2015. Courtesy the artist](/images/2015/12/ANTONIO_ROBERTS_564daf3013d24.jpg)  
 
 *[Antonio Roberts](http://www.hellocatfood.com/), Dead Copyright, 2015. Courtesy the artist.*

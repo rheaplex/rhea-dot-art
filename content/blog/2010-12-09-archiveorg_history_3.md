@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-09 21:43:46+00:00
-layout: post
-slug: archiveorg_history_3
-title: archive.org Art History 3
-id: 1889
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "archive.org Art History 3"
+date = 2010-12-09 21:43:46+00:00
+path = "/2010/12/09/archiveorg_history_3/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Some searches that give good results:  
   

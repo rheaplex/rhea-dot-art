@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-08-07 08:16:08+00:00
-layout: post
-slug: fear-of-smart-contracts
-title: Fear Of Smart Contracts
-id: 2613
-categories:
-- Satire
----
++++
+title = "Fear Of Smart Contracts"
+date = 2014-08-07 08:16:08+00:00
+path = "/2014/08/07/fear-of-smart-contracts/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 **Babylon, 1772BC, about tea time.
 **King Hammurabi is explaining the idea of laws to several learned persons.

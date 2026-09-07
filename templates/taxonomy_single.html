@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="mb-4"><h1>{{ term.name }}</h1><p class="text-body-secondary">{{ taxonomy.name | title }}</p></header>
+<main class="reading">
+  {%- for p in paginator.pages %}
+  <p class="mb-2"><a href="{{ p.permalink | safe }}" class="link-body-emphasis">{{ p.title }}</a> <span class="text-body-secondary small">{{ p.date | date(format="%-d %B %Y") }}</span></p>
+  {%- endfor %}
+  <nav class="d-flex justify-content-between small mt-4" aria-label="Pagination">
+    <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="link-body-emphasis">&larr; Newer</a>{% endif %}</span>
+    <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="link-body-emphasis">Older &rarr;</a>{% endif %}</span>
+  </nav>
+</main>
+{% endblock content %}

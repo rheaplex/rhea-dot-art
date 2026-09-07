@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-10 06:56:41+00:00
-layout: post
-slug: lemon-harangue
-title: Lemon Harangue
-id: 376
-categories:
-- Aesthetics
----
++++
+title = "Lemon Harangue"
+date = 2005-04-10 06:56:41+00:00
+path = "/2005/04/10/lemon-harangue/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [You can't say what we think, by Jingo!](http://www.iconoduel.org/archives/2005/04/000594_lemon_harangue.php)  
   

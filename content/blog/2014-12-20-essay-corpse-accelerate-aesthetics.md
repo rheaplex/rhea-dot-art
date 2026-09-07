@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-12-20 06:21:07+00:00
-layout: post
-slug: essay-corpse-accelerate-aesthetics
-title: Essay Corpse - Accelerate Aesthetics
-id: 2653
----
++++
+title = "Essay Corpse - Accelerate Aesthetics"
+date = 2014-12-20 06:21:07+00:00
+path = "/2014/12/20/essay-corpse-accelerate-aesthetics/"
++++
 
 **_(This essay wouldn't gel and I abandoned it. "XXXX..." means "do more here in the next writing or edit pass."
 Do get "Speculative Aesthetics" and "Class Wargames", they are both wonderful books.)_**

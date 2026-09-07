@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-16 06:28:36+00:00
-layout: post
-slug: look-see-painting-the-digital-river
-title: 'Look, See: Painting The Digital River'
-id: 935
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Look, See: Painting The Digital River"
+date = 2006-05-16 06:28:36+00:00
+path = "/2006/05/16/look-see-painting-the-digital-river/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [Look, See: Painting The Digital River](http://www.chrisashley.net/weblog/archives/week_2006_05_14.html#001413)  
   

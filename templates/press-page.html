@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+{%- set kind = page.extra?.press_type  or page.extra?.publication_type | default(value="") -%}
+<article>
+  <header class="reading-wide mx-auto mb-4">
+    {%- if kind %}<p class="text-body-secondary small text-uppercase mb-1">{{ kind | replace(from="-", to=" ") }}</p>{% endif %}
+    <h1 class="mb-1">{{ page.title }}</h1>
+  </header>
+  <div class="reading-wide mx-auto">
+    <dl class="work-meta mb-4">
+      {%- if page.extra?.in %}<div class="work-meta__row"><dt>In</dt><dd><em>{{ page.extra?.in }}</em></dd></div>{% endif %}
+      {%- if page.extra?.outlet %}<div class="work-meta__row"><dt>Outlet</dt><dd>{{ page.extra?.outlet }}</dd></div>{% endif %}
+      {%- if page.extra?.publisher %}<div class="work-meta__row"><dt>Publisher</dt><dd>{{ page.extra?.publisher }}</dd></div>{% endif %}
+      {%- if page.extra?.authors %}<div class="work-meta__row"><dt>By</dt><dd>{{ page.extra?.authors | join(sep=", ") }}</dd></div>{% endif %}
+      <div class="work-meta__row"><dt>Published</dt><dd><time datetime="{{ page.date }}">{{ <precision_date page={page} /> }}</time></dd></div>
+      {%- if kind %}<div class="work-meta__row"><dt>Type</dt><dd>{{ kind | replace(from="-", to=" ") | title }}</dd></div>{% endif %}
+      {%- if page.extra?.isbn %}<div class="work-meta__row"><dt>ISBN</dt><dd>{{ page.extra?.isbn }}</dd></div>{% endif %}
+      {%- if page.extra?.related_works %}
+      <div class="work-meta__row"><dt>Related works</dt><dd>
+        {%- for s in page.extra?.related_works %}{% set w = get_page(path="art/" ~ s ~ ".md", allow_missing=true) %}{% if not loop.first %}, {% endif %}{% if w %}<a href="{{ w.permalink | safe }}">{{ w.title }}</a>{% else %}{{ s }}{% endif %}{% endfor %}
+      </dd></div>
+      {%- endif %}
+      {%- if page.extra?.url_external %}<div class="work-meta__row"><dt>Link</dt><dd><a href="{{ page.extra?.url_external }}" rel="external">{{ page.extra?.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") }}</a></dd></div>{% endif %}
+    </dl>
+  </div>
+  {{ <featured_image page={page} /> }}
+  {%- if page.content %}<div class="content">{{ page.content | safe }}</div>{% endif %}
+</article>
+{% endblock content %}

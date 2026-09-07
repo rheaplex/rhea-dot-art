@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-01 06:18:20+00:00
-layout: post
-slug: subjects-objects
-title: Subjects, Objects
-id: 1274
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Subjects, Objects"
+date = 2007-05-01 06:18:20+00:00
+path = "/2007/05/01/subjects-objects/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 Processing work in progress:  
   

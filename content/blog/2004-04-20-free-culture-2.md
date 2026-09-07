@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-20 04:07:07+00:00
-layout: post
-slug: free-culture-2
-title: Free Culture
-id: 126
-categories:
-- Free Culture
----
++++
+title = "Free Culture"
+date = 2004-04-20 04:07:07+00:00
+path = "/2004/04/20/free-culture-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I've just finished [Lessig](http://www.lessig.org/) 's "[Free Culture](http://www.free-culture.cc/) ". It's excellent. Read it. Now. :-)  
   

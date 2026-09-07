@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-07 05:02:51+00:00
-layout: post
-slug: furny-and-licencing
-title: Furny And Licencing
-id: 1519
-categories:
-- Free Culture
----
++++
+title = "Furny And Licencing"
+date = 2007-11-07 05:02:51+00:00
+path = "/2007/11/07/furny-and-licencing/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [furny](http://furny.co.uk/) are a band with a shitty website. No, that's their own words. What isn't shitty about furny is their licencing.  
   

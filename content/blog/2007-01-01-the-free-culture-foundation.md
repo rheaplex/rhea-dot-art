@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-01-01 22:32:17+00:00
-layout: post
-slug: the-free-culture-foundation
-title: The Free Culture Foundation
-id: 1199
-categories:
-- Free Culture
----
++++
+title = "The Free Culture Foundation"
+date = 2007-01-01 22:32:17+00:00
+path = "/2007/01/01/the-free-culture-foundation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 <blockquote>_The Free Culture Foundation was launched today to promote and protect cultural freedoms. The Foundation provides an accessible, independent introduction to the free culture movement, now a global phenomenon thanks to the Creative Commons licenses, organisations like Open Business and artists like the Beastie Boys[](http://freeculturefoundation.org/about/pr/#four). _</blockquote>
 

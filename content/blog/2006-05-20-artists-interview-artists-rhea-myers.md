@@ -1,10 +1,7 @@
 +++
 title = "Artists Interview Artists: Rhea Myers"
-author = ["Rhea Myers"]
 date = 2006-05-20
-lastmod = 2006-05-20
-slug = "artists-interview-artists-rhea-myers"
-draft = false
+path = "/2006/05/20/artists-interview-artists-rhea-myers/"
 +++
 
 [Thinking About Art: Artists Interview Artists: Rhea Myers](http://thinkingaboutart.blogs.com/art/2006/05/artists_intervi_7.html)_

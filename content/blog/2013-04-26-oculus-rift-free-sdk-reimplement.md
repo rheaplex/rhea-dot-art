@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-26 12:49:17+00:00
-layout: post
-slug: oculus-rift-free-sdk-reimplement
-title: Oculus Rift SDK Free Software Re-Implementation
-id: 2303
-categories:
-- Free Software
----
++++
+title = "Oculus Rift SDK Free Software Re-Implementation"
+date = 2013-04-26 12:49:17+00:00
+path = "/2013/04/26/oculus-rift-free-sdk-reimplement/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 The proprietary Oculus Rift SDK doesn't yet support GNU/Linux. When it does so, it will still not be possible to use it as part of a free software system. A replacement free software SDK will need to be created. This requires two bits of information. Firstly, the projections required to map rendered imagery for use in the eyepiece displays. And secondly, the format that the position sensor data is encoded in when sent over USB.
 

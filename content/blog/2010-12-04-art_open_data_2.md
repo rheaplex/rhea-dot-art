@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-04 14:24:20+00:00
-layout: post
-slug: art_open_data_2
-title: Art Open Data 2
-id: 1885
-categories:
-- Art Open Data
-- Free Culture
-- Free Software
----
++++
+title = "Art Open Data 2"
+date = 2010-12-04 14:24:20+00:00
+path = "/2010/12/04/art_open_data_2/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+    "Free Culture",
+    "Free Software",
+]
++++
 
 How To Use Art Open Data
   

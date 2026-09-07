@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-10 05:11:20+00:00
-layout: post
-slug: the-retina-seeks-novelty
-title: The Retina Seeks Novelty
-id: 571
-categories:
-- Aesthetics
----
++++
+title = "The Retina Seeks Novelty"
+date = 2005-07-10 05:11:20+00:00
+path = "/2005/07/10/the-retina-seeks-novelty/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Does this explain the horror that is the Crazy F***?:  

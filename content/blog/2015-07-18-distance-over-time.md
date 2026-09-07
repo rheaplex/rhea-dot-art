@@ -1,10 +1,8 @@
----
-layout: post
-title: Distance Over Time
-slug: distance-over-time
-date: 2015-07-18
-
----
++++
+title = "Distance Over Time"
+date = 2015-07-18
+path = "/2015/07/18/distance-over-time/"
++++
 
 To #accelerate creativity, look at historical precedents.
 

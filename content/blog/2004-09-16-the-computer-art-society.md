@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-16 07:05:44+00:00
-layout: post
-slug: the-computer-art-society
-title: The Computer Art Society
-id: 207
-categories:
-- Generative Art
----
++++
+title = "The Computer Art Society"
+date = 2004-09-16 07:05:44+00:00
+path = "/2004/09/16/the-computer-art-society/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 The rebooted Computer Art Society looks like it's off to a good start:  
   

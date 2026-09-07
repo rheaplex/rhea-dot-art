@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-24 05:39:21+00:00
-layout: post
-slug: reveals-cliffhangers-endings-and-spoilers-in-participatory-media
-title: Reveals, Cliffhangers, Endings and Spoilers In Participatory Media
-id: 1416
-categories:
-- Free Culture
----
++++
+title = "Reveals, Cliffhangers, Endings and Spoilers In Participatory Media"
+date = 2007-07-24 05:39:21+00:00
+path = "/2007/07/24/reveals-cliffhangers-endings-and-spoilers-in-participatory-media/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Authors and media companies often try to build buzz or create an event around their work by holding back some information about it. The ending of the final Harry Potter book is a good example of this, as is what happens at the end of a series of Doctor Who. It's not just that the book or programme isn't released until its launch date, its that an often legally enforced code of conduct creates an active conspiracy of silence around what the denoument of the story will be.  
   

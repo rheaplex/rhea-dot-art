@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-17 05:51:45+00:00
-layout: post
-slug: wordpress-page-help
-title: Wordpress Page Help
-id: 1511
-categories:
-- Projects
----
++++
+title = "Wordpress Page Help"
+date = 2007-10-17 05:51:45+00:00
+path = "/2007/10/17/wordpress-page-help/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I am trying to add some pages to this blog but they are not showing up.  
   

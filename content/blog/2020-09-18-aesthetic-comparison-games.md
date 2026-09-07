@@ -1,15 +1,19 @@
----
-id: 3764
-title: 'Aesthetic Comparison Games'
-date: '2020-09-18T12:10:00+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Aesthetics
-    - Crypto
----
++++
+title = "Aesthetic Comparison Games"
+date = 2020-09-18 12:10:00+00:00
+path = "/2020/09/18/aesthetic-comparison-games/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 Using ideas from design theory, provable computation, and calculus we can construct games of aesthetic comparison with arbitrary precision. These games can be represented in a form that allows them to be resolved using blockchain smart contracts via reference to materials submitted to set up the game, by reference to on-chain precedent, or as a last resort by appeal to a third party oracle.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-11 07:14:29+00:00
-layout: post
-slug: unstable-images
-title: Unstable Images
-id: 635
-categories:
-- Aesthetics
----
++++
+title = "Unstable Images"
+date = 2005-08-11 07:14:29+00:00
+path = "/2005/08/11/unstable-images/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Impossible Figures:  

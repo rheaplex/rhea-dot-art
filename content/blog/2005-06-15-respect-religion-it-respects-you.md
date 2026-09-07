@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 10:14:04+00:00
-layout: post
-slug: respect-religion-it-respects-you
-title: Respect Religion, It Respects You
-id: 509
-categories:
-- Satire
----
++++
+title = "Respect Religion, It Respects You"
+date = 2005-06-15 10:14:04+00:00
+path = "/2005/06/15/respect-religion-it-respects-you/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Salman Rushdie on why secularism is wrong to want love from religion:  

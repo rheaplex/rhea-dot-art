@@ -1,8 +1,14 @@
 +++
 title = "Critical Coins"
 date = 2015-01-07
+path = "/critical-coins/"
+
+[extra]
 image = "/art-images/dogeart.jpg"
-mediums = ["Counterparty Tokens", "Dogeparty Tokens"]
+mediums = [
+    "Counterparty Tokens",
+    "Dogeparty Tokens",
+]
 wp_id = 6655
 +++
 

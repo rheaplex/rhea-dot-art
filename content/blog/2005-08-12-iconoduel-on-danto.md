@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-12 07:54:00+00:00
-layout: post
-slug: iconoduel-on-danto
-title: Iconoduel on Danto
-id: 638
-categories:
-- Aesthetics
----
++++
+title = "Iconoduel on Danto"
+date = 2005-08-12 07:54:00+00:00
+path = "/2005/08/12/iconoduel-on-danto/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Good debunking of Danto's latest excesses at iconoduel:  

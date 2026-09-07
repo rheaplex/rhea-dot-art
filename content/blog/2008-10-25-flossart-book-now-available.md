@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-25 06:00:14+00:00
-layout: post
-slug: flossart-book-now-available
-title: FLOSS+Art Book Now Available
-id: 1683
-categories:
-- Free Culture
----
++++
+title = "FLOSS+Art Book Now Available"
+date = 2008-10-25 06:00:14+00:00
+path = "/2008/10/25/flossart-book-now-available/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://goto10.org/flossart/](http://goto10.org/flossart/)  
   

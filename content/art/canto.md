@@ -1,10 +1,21 @@
 +++
 title = "Canto"
 date = 2007-01-01
+path = "/canto/"
+
+[extra]
 image = "/art-images/canto_for_liam_version.png"
-mediums = ["SVG"]
-tools = ["iBook G4", "Debian GNU/Linux", "Inkscape"]
-repos = ["https://github.com/rheaplex/canto"]
+mediums = [
+    "SVG",
+]
+tools = [
+    "iBook G4",
+    "Debian GNU/Linux",
+    "Inkscape",
+]
+repos = [
+    "https://github.com/rheaplex/canto",
+]
 wp_id = 6674
 +++
 

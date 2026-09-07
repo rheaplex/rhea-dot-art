@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-31 07:45:07+00:00
-layout: post
-slug: back-in-the-uk
-title: Back In the UK
-id: 589
-categories:
-- Personal
----
++++
+title = "Back In the UK"
+date = 2005-07-31 07:45:07+00:00
+path = "/2005/07/31/back-in-the-uk/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
   
 I'm back home now.  

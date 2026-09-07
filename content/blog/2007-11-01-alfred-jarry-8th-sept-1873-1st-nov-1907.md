@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-01 17:00:24+00:00
-layout: post
-slug: alfred-jarry-8th-sept-1873-1st-nov-1907
-title: Alfred Jarry, 8th Sept 1873 – 1st Nov 1907
-id: 1517
-categories:
-- Aesthetics
----
++++
+title = "Alfred Jarry, 8th Sept 1873 – 1st Nov 1907"
+date = 2007-11-01 17:00:24+00:00
+path = "/2007/11/01/alfred-jarry-8th-sept-1873-1st-nov-1907/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Today at 4.15pm French time 100 years ago, Alfred Jarry's final request was for a toothpick.  
   

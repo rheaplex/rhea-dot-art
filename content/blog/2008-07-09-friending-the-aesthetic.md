@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-09 07:07:51+00:00
-layout: post
-slug: friending-the-aesthetic
-title: Friending The Aesthetic
-id: 1632
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Friending The Aesthetic"
+date = 2008-07-09 07:07:51+00:00
+path = "/2008/07/09/friending-the-aesthetic/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 Friend the aesthetic on MySpace.  
   

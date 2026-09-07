@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-11 08:54:29+00:00
-layout: post
-slug: joneses-at-the-internet-archive
-title: Joneses At The Internet Archive
-id: 1404
-categories:
-- Free Culture
----
++++
+title = "Joneses At The Internet Archive"
+date = 2007-07-11 08:54:29+00:00
+path = "/2007/07/11/joneses-at-the-internet-archive/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Grab the flv, mp4 or mov format versions of every episode so far of Where Are The joneses? from The Internet Archive:  
   

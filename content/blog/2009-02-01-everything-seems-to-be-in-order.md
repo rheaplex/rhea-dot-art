@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-01 21:09:49+00:00
-layout: post
-slug: everything-seems-to-be-in-order
-title: Everything Seems To Be In Order
-id: 1711
-categories:
-- Personal
----
++++
+title = "Everything Seems To Be In Order"
+date = 2009-02-01 21:09:49+00:00
+path = "/2009/02/01/everything-seems-to-be-in-order/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 I've changed hosts again and swapped this weblog back to Wordpress because Matt said to.  
   

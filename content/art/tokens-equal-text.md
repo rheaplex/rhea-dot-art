@@ -1,8 +1,14 @@
 +++
 title = "Tokens Equal Text"
 date = 2019-02-19
+path = "/tokens-equal-text/"
+
+[extra]
 image = "/art-images/tet-16.png"
-mediums = ["Ethereum ERC-721 NFT", "Ethereum ERC-998 Composite NFT"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+    "Ethereum ERC-998 Composite NFT",
+]
 wp_id = 6635
 +++
 

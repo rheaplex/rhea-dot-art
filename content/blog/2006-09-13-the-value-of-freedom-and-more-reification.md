@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-13 06:04:55+00:00
-layout: post
-slug: the-value-of-freedom-and-more-reification
-title: The Value of Freedom and More Reification
-id: 1102
-categories:
-- Free Culture
----
++++
+title = "The Value of Freedom and More Reification"
+date = 2006-09-13 06:04:55+00:00
+path = "/2006/09/13/the-value-of-freedom-and-more-reification/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 **The Value Of Freedom**  

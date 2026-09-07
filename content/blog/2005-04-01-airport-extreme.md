@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-01 07:34:49+00:00
-layout: post
-slug: airport-extreme
-title: Airport Extreme
-id: 370
-categories:
-- Reviews
----
++++
+title = "Airport Extreme"
+date = 2005-04-01 07:34:49+00:00
+path = "/2005/04/01/airport-extreme/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I got an Airport Extreme brick. It's very good. "Regret" by New Order is playing over my old speakers plugged into it at the moment. And I'm posting this from my iBook over the other side of the room.  
   

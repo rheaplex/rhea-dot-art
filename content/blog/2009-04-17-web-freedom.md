@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-04-17 22:14:53+00:00
-layout: post
-slug: web-freedom
-title: Web Freedom
-id: 1757
-categories:
-- Free Culture
----
++++
+title = "Web Freedom"
+date = 2009-04-17 22:14:53+00:00
+path = "/2009/04/17/web-freedom/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Gnash is freeing web users from proprietary software and HTML 5 can free them from proprietary formats.  
   

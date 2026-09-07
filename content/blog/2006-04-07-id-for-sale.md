@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-07 05:41:09+00:00
-layout: post
-slug: id-for-sale
-title: ID For Sale
-id: 882
-categories:
-- Free Culture
----
++++
+title = "ID For Sale"
+date = 2006-04-07 05:41:09+00:00
+path = "/2006/04/07/id-for-sale/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Bid on a genuine British identity on eBay:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-23 23:15:42+00:00
-layout: post
-slug: flash-formalism
-title: Flash Formalism
-id: 295
-categories:
-- Generative Art
----
++++
+title = "Flash Formalism"
+date = 2005-01-23 23:15:42+00:00
+path = "/2005/01/23/flash-formalism/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Like all good names for art movements, "Flash Formalism" came about as a criticism of a perceived negative trend. That trend is the increase of work based on mathematical or algorithmic aesthetics, at first written with Flash and increasingly with Processing.  
   

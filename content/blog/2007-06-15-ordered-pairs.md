@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-15 06:01:35+00:00
-layout: post
-slug: ordered-pairs
-title: Ordered Pairs
-id: 1351
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Ordered Pairs"
+date = 2007-06-15 06:01:35+00:00
+path = "/2007/06/15/ordered-pairs/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706142001](/images/2007/06/200706142001.jpg)  
   

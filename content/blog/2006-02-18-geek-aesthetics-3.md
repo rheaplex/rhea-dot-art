@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-18 07:11:15+00:00
-layout: post
-slug: geek-aesthetics-3
-title: Geek Aesthetics 3
-id: 834
-categories:
-- Aesthetics
----
++++
+title = "Geek Aesthetics 3"
+date = 2006-02-18 07:11:15+00:00
+path = "/2006/02/18/geek-aesthetics-3/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Jeff Koons doesn't sleep. He waits.  
   

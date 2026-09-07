@@ -1,10 +1,8 @@
----
-layout: post
-title: Entity Hash IDs
-slug: entity-hash-ids
-date: 2015-12-01
-
----
++++
+title = "Entity Hash IDs"
+date = 2015-12-01
+path = "/2015/12/01/entity-hash-ids/"
++++
 
 Some schemes for encoding non-monetary information using Bitcoin (or other cryptocurrency systems) require identifiers to be encoded as addresses.
 

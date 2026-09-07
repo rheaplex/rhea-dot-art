@@ -1,0 +1,66 @@
+# Zola configuration for rhea.art
+base_url = "https://rhea.art"
+title = "Rhea Myers"
+description = "Making code(s) into art"
+default_language = "en"
+compile_sass = false
+minify_html = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+feed_limit = 20
+build_search_index = false
+exclude_paginated_pages_in_sitemap = "all"
+skip_content_templating = ["blog/*", "writing/*", "about/*"]
+
+taxonomies = [
+  { name = "categories", paginate_by = 20 },
+  { name = "tags", paginate_by = 20 },
+]
+
+[markdown]
+smart_punctuation = false
+external_links_external = false
+bottom_footnotes = true
+lazy_async_image = false
+
+[link_checker]
+internal_level = "warn"
+
+[slugify]
+paths = "safe"
+
+[extra]
+copyright = "Copyright © 2026 Myers Studio Ltd."
+subtitle = "Making code(s) into art"
+
+menu = [
+  { name = "Art", url = "/art/" },
+  { name = "Exhibitions", url = "/exhibitions/" },
+  { name = "Press", url = "/press/" },
+  { name = "Publications", url = "/publications/" },
+  { name = "Blog", url = "/blog/" },
+  { name = "About", url = "/about/" },
+]
+
+# Home page "As seen with" logo strip.
+logos = [
+  { name = "Taschen", src = "/third-party-logos/taschen_logo.png", height = 28 },
+  { name = "Buffalo AKG Art Museum", src = "/third-party-logos/akg.png" },
+  { name = "Feral File", src = "/third-party-logos/feralfile.png" },
+  { name = "Foundation", src = "/third-party-logos/foundation.png" },
+  { name = "Furtherfield", src = "/third-party-logos/furtherfield_logo.png" },
+  { name = "Kate Vass Galerie", src = "/third-party-logos/kvg_logo.png" },
+  { name = "Galerie Nagel Draxler", src = "/third-party-logos/nagel-draxler-logo.png" },
+  { name = "Sotheby's", src = "/third-party-logos/sothebys.png" },
+]
+
+social = [
+  { name = "newsletter", url = "/newsletter/" },
+  { name = "email", url = "mailto:rhea@myers.studio" },
+  { name = "bluesky", url = "https://bsky.app/profile/rhea.art" },
+  { name = "fedi", url = "https://social.rhea.art/@rheaplex" },
+  { name = "instagram", url = "https://www.instagram.com/rheapl3x/" },
+  { name = "linkedin", url = "https://ca.linkedin.com/in/rheamyers" },
+  { name = "twitter", url = "https://twitter.com/rheaplex" },
+  { name = "github", url = "https://github.com/rheaplex" },
+]

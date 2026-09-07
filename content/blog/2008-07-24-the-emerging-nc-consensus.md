@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-24 09:08:38+00:00
-layout: post
-slug: the-emerging-nc-consensus
-title: The Emerging NC Consensus
-id: 1643
-categories:
-- Free Culture
----
++++
+title = "The Emerging NC Consensus"
+date = 2008-07-24 09:08:38+00:00
+path = "/2008/07/24/the-emerging-nc-consensus/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 NonCommercial is Creative Commons's most popular licence module (Attribution doesn't count, it is automatic). Richard Stallman and Tim Berners-Lee support a baseline of non-commercial use. And cool music acts like Radiohead and Girl Talk release work under NC.  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-18 21:41:41+00:00
-layout: post
-slug: turning-software-inside-out
-title: Turning Software Inside Out
-id: 1729
-categories:
-- Free Culture
-- Reviews
----
++++
+title = "Turning Software Inside Out"
+date = 2009-02-18 21:41:41+00:00
+path = "/2009/02/18/turning-software-inside-out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Reviews",
+]
++++
 
 A review of FLOSS+Art (the new book I have an essay in):  
 

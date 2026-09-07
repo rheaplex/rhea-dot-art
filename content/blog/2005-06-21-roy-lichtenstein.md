@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 03:39:34+00:00
-layout: post
-slug: roy-lichtenstein
-title: Roy Lichtenstein
-id: 528
-categories:
-- Aesthetics
----
++++
+title = "Roy Lichtenstein"
+date = 2005-06-21 03:39:34+00:00
+path = "/2005/06/21/roy-lichtenstein/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Via [Boing Boing](http://www.boingboing.net/2005/06/19/roy_lichtensteins_so.html):  

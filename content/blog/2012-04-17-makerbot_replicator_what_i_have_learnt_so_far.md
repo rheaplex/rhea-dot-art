@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-04-17 00:09:49+00:00
-layout: post
-slug: makerbot_replicator_what_i_have_learnt_so_far
-title: 'MakerBot Replicator: What I Have Learnt So Far'
-id: 1988
-categories:
-- 3D Printing
-- Howto
-- Projects
----
++++
+title = "MakerBot Replicator: What I Have Learnt So Far"
+date = 2012-04-17 00:09:49+00:00
+path = "/2012/04/17/makerbot_replicator_what_i_have_learnt_so_far/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Howto",
+    "Projects",
+]
++++
 
 ![Test Prints](/images/medium-failure-to-signify.jpg)Here's what I've learnt about the practical side of using my MakerBot Replicator so far.  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-12 05:56:42+00:00
-layout: post
-slug: look-see-may-06-2007-may-12-2007-archives
-title: 'Look, See: May 06, 2007 - May 12, 2007 Archives'
-id: 1290
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Look, See: May 06, 2007 - May 12, 2007 Archives"
+date = 2007-05-12 05:56:42+00:00
+path = "/2007/05/12/look-see-may-06-2007-may-12-2007-archives/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 [Look, See: May 06, 2007 - May 12, 2007 Archives](http://www.chrisashley.net/weblog/archives/week_2007_05_06.html#001931)  
   

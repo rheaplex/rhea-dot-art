@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-05 08:28:53+00:00
-layout: post
-slug: i-love-you-i-know
-title: I love you. I know.
-id: 1609
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "I love you. I know."
+date = 2008-06-05 08:28:53+00:00
+path = "/2008/06/05/i-love-you-i-know/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 One of the tenets I hold to is that creative genius is often transformative. Yes, creating a new axiom is amazing, but as much as Shakespeare created new forms and idioms in English that have lasted for centuries he also plagiarized existing work. The two may not be unrelated. But in our current culture of the monetization of small differences (what is the difference between yBA art and German art of the 1960s and 1970s, or between Britney and Christina?) they have a restraining order on each other.  
   

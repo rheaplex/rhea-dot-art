@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+{%- set art = get_section(path="art/_index.md") -%}
+{%- set works = art.pages -%}
+{%- set ex = get_section(path="exhibitions/_index.md") -%}
+{%- set exhibitions = ex.pages -%}
+
+{%- if section.content %}
+<section class="home-intro mb-5 pb-4 border-bottom">
+  {{ section.content | safe }}
+</section>
+{%- endif %}
+
+{%- set feature = works | first %}
+<section class="home-feature mb-5">
+  <a href="{{ feature.permalink | safe }}" class="text-decoration-none link-body-emphasis">
+    {%- if feature.extra?.image %}
+    {%- set img = resize_image(path=feature.extra?.image, width=1600, height=900, op="fit") %}
+    <img src="{{ img.url }}" width="{{ img.width }}" height="{{ img.height }}" alt="{{ feature.extra?.image_alt  or feature.title }}" class="img-fluid d-block">
+    {%- endif %}
+    <div class="mt-2">
+      <h2 class="h4 mb-0 d-inline">{{ feature.title }}</h2>
+      <span class="text-body-secondary small ms-2">{{ feature.date | date(format="%Y") }}{% if feature.extra?.mediums %} &middot; {{ feature.extra?.mediums | first }}{% endif %}</span>
+    </div>
+  </a>
+</section>
+
+<section class="mb-5">
+  <div class="d-flex justify-content-between align-items-baseline mb-3 section-head">
+    <h2 class="h5 mb-0">Recent work</h2>
+    <a href="{{ art.permalink | safe }}" class="small">All work &rarr;</a>
+  </div>
+  <div class="row row-cols-2 row-cols-md-4 g-4">
+    {%- for p in works [1:5] %}{{ <card page={p} /> }}{% endfor %}
+  </div>
+</section>
+
+<section class="mb-5">
+  <div class="d-flex justify-content-between align-items-baseline mb-2 section-head">
+    <h2 class="h5 mb-0">Recent exhibitions</h2>
+    <a href="{{ ex.permalink | safe }}" class="small">All exhibitions &rarr;</a>
+  </div>
+  {%- for p in exhibitions [:6] %}
+  <div class="row gx-3 py-2 border-bottom exhibition-row align-items-center">
+    <div class="col-md-3 text-body-secondary small">{{ <exhibition_dates page={p} /> }}</div>
+    <div class="col-md-7">
+      <a href="{{ p.permalink | safe }}" class="link-body-emphasis text-decoration-none fw-medium">{{ p.title }}</a>
+      <div class="text-body-secondary small">{{ p.extra?.venue  or "" }}{% if p.extra?.location %}{% if p.extra?.venue %}, {% endif %}{{ p.extra?.location }}{% endif %}{% if p.extra?.exhibition_type == "solo" %} &middot; Solo{% endif %}</div>
+    </div>
+    <div class="col-md-2 d-none d-md-block text-end">
+      {%- if p.extra?.image %}{% set t = resize_image(path=p.extra?.image, width=160, height=90, op="fill") %}<a href="{{ p.permalink | safe }}"><img src="{{ t.url }}" width="80" height="45" alt="" class="exhibition-thumb"></a>{% endif %}
+    </div>
+  </div>
+  {%- endfor %}
+</section>
+
+<section class="home-logos mb-4">
+  <h2 class="h6 text-body-secondary text-uppercase small mb-3">As seen with</h2>
+  <ul class="list-unstyled d-flex flex-wrap align-items-center gap-4 mb-0">
+    {%- for l in config.extra.logos %}
+    <li><img src="{{ get_url(path=l.src) }}" alt="{{ l.name }}" title="{{ l.name }}" height="{{ l.height  or 32 }}"></li>
+    {%- endfor %}
+  </ul>
+</section>
+{% endblock content %}

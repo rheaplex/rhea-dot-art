@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-10 05:21:34+00:00
-layout: post
-slug: bob-dylan-on-the-commons
-title: Bob Dylan On The Commons
-id: 574
-categories:
-- Free Culture
----
++++
+title = "Bob Dylan On The Commons"
+date = 2005-07-10 05:21:34+00:00
+path = "/2005/07/10/bob-dylan-on-the-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I'm not a Bob Dylan fan. I used to make fun of people offering bootlegs on comp.lang.dylan . But this article is an excellent explanation of how someone who is regarded as an original artist, indeed a musician who was regarded as the unprecedented voice of a generation, built on the work of others:  

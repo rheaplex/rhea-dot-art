@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-14 13:43:46+00:00
-layout: post
-slug: a-uk-bloggers-guide
-title: A UK Blogger's Guide
-id: 1725
-categories:
-- Free Culture
-- Howto
----
++++
+title = "A UK Blogger's Guide"
+date = 2009-02-14 13:43:46+00:00
+path = "/2009/02/14/a-uk-bloggers-guide/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+]
++++
 
 [UK blogs, boards, Web 2.0 sites: how to not get sued - A Consuming Experience](http://www.consumingexperience.com/2008/01/uk-blogs-boards-web-20-sites-how-to-not.html).  
   

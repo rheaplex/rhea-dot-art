@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-14 00:14:19+00:00
-layout: post
-slug: the-cult-of-reduction-modern-kicks-discussion
-title: 'The Cult of Reduction: Modern Kicks Discussion'
-id: 341
-categories:
-- Generative Art
----
++++
+title = "The Cult of Reduction: Modern Kicks Discussion"
+date = 2005-03-14 00:14:19+00:00
+path = "/2005/03/14/the-cult-of-reduction-modern-kicks-discussion/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Retrotech hacking and rock authenticity:  
   

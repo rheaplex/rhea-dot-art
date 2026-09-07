@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-09 13:08:03+00:00
-layout: post
-slug: google_books_art_history
-title: Google Books Art History
-id: 1888
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Google Books Art History"
+date = 2010-12-09 13:08:03+00:00
+path = "/2010/12/09/google_books_art_history/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Don't buy DRM-encumbered ebooks from Google.
 

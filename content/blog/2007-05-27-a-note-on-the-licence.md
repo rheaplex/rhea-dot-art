@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-27 04:40:44+00:00
-layout: post
-slug: a-note-on-the-licence
-title: A Note On The Licence
-id: 1317
-categories:
-- Projects
----
++++
+title = "A Note On The Licence"
+date = 2007-05-27 04:40:44+00:00
+path = "/2007/05/27/a-note-on-the-licence/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 This weblog has a BY-SA 3.0 licence at the bottom.  
   

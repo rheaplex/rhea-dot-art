@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-24 06:37:33+00:00
-layout: post
-slug: the-noncommercial-fallacy-three
-title: The NonCommercial Fallacy Three
-id: 707
-categories:
-- Free Culture
----
++++
+title = "The NonCommercial Fallacy Three"
+date = 2005-10-24 06:37:33+00:00
+path = "/2005/10/24/the-noncommercial-fallacy-three/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _"I don't mind other people using my work but if they make money off it I want my cut."_  

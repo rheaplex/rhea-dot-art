@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-01 08:19:27+00:00
-layout: post
-slug: common-property
-title: Common Property
-id: 201
-categories:
-- Free Culture
----
++++
+title = "Common Property"
+date = 2004-09-01 08:19:27+00:00
+path = "/2004/09/01/common-property/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 German media art festival with emphasis on Free Culture:[  
   

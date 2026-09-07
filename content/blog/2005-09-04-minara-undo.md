@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-04 09:35:51+00:00
-layout: post
-slug: minara-undo
-title: Minara Undo
-id: 664
-categories:
-- Projects
----
++++
+title = "Minara Undo"
+date = 2005-09-04 09:35:51+00:00
+path = "/2005/09/04/minara-undo/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Undo works. But not redo. Pressing z makes drawn objects disappear. Pressing Z does nothing.  
   

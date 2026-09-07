@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-26 22:25:08+00:00
-layout: post
-slug: cc-star-charts
-title: CC Star Charts
-id: 403
-categories:
-- Free Culture
----
++++
+title = "CC Star Charts"
+date = 2005-04-26 22:25:08+00:00
+path = "/2005/04/26/cc-star-charts/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via [Boing Boing](http://www.boingboing.net/2005/04/25/cclicensed_starchart.html) :  
   

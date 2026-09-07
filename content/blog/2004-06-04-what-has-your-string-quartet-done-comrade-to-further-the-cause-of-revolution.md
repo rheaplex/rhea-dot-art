@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-04 07:47:00+00:00
-layout: post
-slug: what-has-your-string-quartet-done-comrade-to-further-the-cause-of-revolution
-title: “What has your string quartet done, comrade, to further the cause of revolution?”
-id: 162
-categories:
-- Aesthetics
----
++++
+title = "“What has your string quartet done, comrade, to further the cause of revolution?”"
+date = 2004-06-04 07:47:00+00:00
+path = "/2004/06/04/what-has-your-string-quartet-done-comrade-to-further-the-cause-of-revolution/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 UK Arts Minister questions artistic instrumentalism:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-10 04:48:54+00:00
-layout: post
-slug: you-couldnt-make-it-up
-title: You Couldn't Make It Up
-id: 412
-categories:
-- Satire
----
++++
+title = "You Couldn't Make It Up"
+date = 2005-05-10 04:48:54+00:00
+path = "/2005/05/10/you-couldnt-make-it-up/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Update: Post pulled due to original story being fake. Whoops.  
   

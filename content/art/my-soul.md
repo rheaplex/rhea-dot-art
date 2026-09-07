@@ -1,8 +1,14 @@
 +++
 title = "My Soul"
 date = 2014-11-16
+path = "/my-soul/"
+
+[extra]
 image = "/art-images/mysoul.png"
-mediums = ["Counterparty Assets", "Dogeparty Assets"]
+mediums = [
+    "Counterparty Assets",
+    "Dogeparty Assets",
+]
 wp_id = 6657
 +++
 

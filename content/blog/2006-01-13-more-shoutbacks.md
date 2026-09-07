@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-13 07:02:21+00:00
-layout: post
-slug: more-shoutbacks
-title: More Shoutbacks
-id: 782
-categories:
-- Projects
----
++++
+title = "More Shoutbacks"
+date = 2006-01-13 07:02:21+00:00
+path = "/2006/01/13/more-shoutbacks/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Links to my site from the following interesting places:  

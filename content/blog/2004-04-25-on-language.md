@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-25 09:17:12+00:00
-layout: post
-slug: on-language
-title: On “Language”
-id: 133
-categories:
-- Aesthetics
----
++++
+title = "On “Language”"
+date = 2004-04-25 09:17:12+00:00
+path = "/2004/04/25/on-language/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 (From a discussion on Aesthetics-L)  
   

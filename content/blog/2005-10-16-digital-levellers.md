@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-16 05:16:24+00:00
-layout: post
-slug: digital-levellers
-title: Digital Levellers
-id: 698
-categories:
-- Free Culture
----
++++
+title = "Digital Levellers"
+date = 2005-10-16 05:16:24+00:00
+path = "/2005/10/16/digital-levellers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 So culture is a commons, and there is a movement devoted to reclaiming that commons from enclosure and the excesses of law.  

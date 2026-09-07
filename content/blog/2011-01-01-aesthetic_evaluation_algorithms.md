@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-01 23:32:49+00:00
-layout: post
-slug: aesthetic_evaluation_algorithms
-title: Aesthetic Evaluation
-id: 1907
-categories:
-- Aesthetics
-- Art Open Data
----
++++
+title = "Aesthetic Evaluation"
+date = 2011-01-01 23:32:49+00:00
+path = "/2011/01/01/aesthetic_evaluation_algorithms/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Open Data",
+]
++++
 
 [Birkhoff](http://www.maa.org/mathland/mathtrek_05_24_04.html):  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-01-11 03:11:29+00:00
-layout: post
-slug: generative-art-links
-title: Generative Art Links
-id: 74
-categories:
-- Generative Art
----
++++
+title = "Generative Art Links"
+date = 2004-01-11 03:11:29+00:00
+path = "/2004/01/11/generative-art-links/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Here are some generative art links:  
 [Kandid - A generative imaging application (GIA)](http://sourceforge.net/projects/kandid/)  

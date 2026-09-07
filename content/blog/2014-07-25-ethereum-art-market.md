@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-07-25 04:07:03+00:00
-layout: post
-slug: ethereum-art-market
-title: Ethereum - Art Market
-id: 2597
-categories:
-- Art
-- Ethereum
-- Projects
----
++++
+title = "Ethereum - Art Market"
+date = 2014-07-25 04:07:03+00:00
+path = "/2014/07/25/ethereum-art-market/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Ethereum",
+    "Projects",
+]
++++
 
 Here is [a contract](https://github.com/rheaplex/artworld-ethereum/) that allows you to register as the owner of a digital artwork contained in a particular file (identified by its cryptographic hash value) at a particular URL. The use of a URL is inspired by the excellent [Monegraph](https://medium.com/message/a-bitcoin-for-digital-art-8c7db719e495), which launched shortly after I started working on Ethereum contracts for art. Monegraph uses the existing NameCoin system, which can be implemented in Ethereum as [a two line contract](https://github.com/ethereum/wiki/wiki/%5BEnglish%5D-White-Paper#identity-and-reputation-systems).
 

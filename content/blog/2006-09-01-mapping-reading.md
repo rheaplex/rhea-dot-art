@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-01 08:22:38+00:00
-layout: post
-slug: mapping-reading
-title: Mapping Reading
-id: 1090
-categories:
-- Free Culture
----
++++
+title = "Mapping Reading"
+date = 2006-09-01 08:22:38+00:00
+path = "/2006/09/01/mapping-reading/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I spent Saturday [mapping Reading for OSM](http://wiki.openstreetmap.org/index.php/Reading). This consisted of walking around an estate with a GPS and Matt Lee from [CNUK](http://www.cnuk.org/). We did a depth-first search of the roads, and you can see our trace here in puce (I think it's puce, I thought it was purple but that doesn't look right. Tom?):  

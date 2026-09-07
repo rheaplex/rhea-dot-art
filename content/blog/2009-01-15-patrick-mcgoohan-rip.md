@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-01-15 07:56:13+00:00
-layout: post
-slug: patrick-mcgoohan-rip
-title: Patrick McGoohan RIP
-id: 1704
-categories:
-- Aesthetics
----
++++
+title = "Patrick McGoohan RIP"
+date = 2009-01-15 07:56:13+00:00
+path = "/2009/01/15/patrick-mcgoohan-rip/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 The actor Patrick McGoohan has died, he was 80 years old. He appeared in everything from "Ice Station Zebra" to "Braveheart" but he was best known for his 1960s TV series "The Prisoner", which  
 followed his starring role in the long-running spy drama "Danger Man".   

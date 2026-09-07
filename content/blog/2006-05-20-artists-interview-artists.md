@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-20 03:03:37+00:00
-layout: post
-slug: artists-interview-artists
-title: 'Artists Interview Artists'
-id: 938
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Artists Interview Artists"
+date = 2006-05-20 03:03:37+00:00
+path = "/2006/05/20/artists-interview-artists/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 [Thinking About Art: Artists Interview Artists: Rhea Myers  
 ](http://thinkingaboutart.blogs.com/art/2006/05/artists_intervi_7.html)_  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-28 05:56:07+00:00
-layout: post
-slug: usb-adaptor-for-atari-joysticks
-title: USB Adaptor For Atari Joysticks
-id: 548
-categories:
-- Howto
----
++++
+title = "USB Adaptor For Atari Joysticks"
+date = 2005-06-28 05:56:07+00:00
+path = "/2005/06/28/usb-adaptor-for-atari-joysticks/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 Via [make](http://www.makezine.com/blog/):  

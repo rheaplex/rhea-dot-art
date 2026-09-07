@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-19 04:49:19+00:00
-layout: post
-slug: tango-icon-gallery
-title: Tango Icon Gallery
-id: 866
-categories:
-- Free Culture
----
++++
+title = "Tango Icon Gallery"
+date = 2006-03-19 04:49:19+00:00
+path = "/2006/03/19/tango-icon-gallery/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 BY-SA SVG icons:  
   

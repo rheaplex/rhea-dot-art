@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-01 07:26:15+00:00
-layout: post
-slug: draw-something-2
-title: draw-something
-id: 369
-categories:
-- Projects
----
++++
+title = "draw-something"
+date = 2005-04-01 07:26:15+00:00
+path = "/2005/04/01/draw-something-2/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I refactored draw-something to be an ASDF package. Which means it's easier to load and debug in slime.  
   

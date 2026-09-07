@@ -1,10 +1,22 @@
 +++
 title = "Paintr"
 date = 2005-01-04
+path = "/paintr/"
+
+[extra]
 image = "/art-images/804.png"
-mediums = ["Node.JS", "PHP", "Lisp"]
-aliases_names = ["paintr"]
-repos = ["https://github.com/rheaplex/paintrnode", "https://github.com/rheaplex/paintr"]
+mediums = [
+    "Node.JS",
+    "PHP",
+    "Lisp",
+]
+aliases_names = [
+    "paintr",
+]
+repos = [
+    "https://github.com/rheaplex/paintrnode",
+    "https://github.com/rheaplex/paintr",
+]
 wp_id = 6675
 +++
 

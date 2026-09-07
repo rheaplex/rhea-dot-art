@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-18 18:52:45+00:00
-layout: post
-slug: new-rem-videos-under-free-software-license
-title: New R.E.M. Videos Under Free Software License
-id: 1573
-categories:
-- Free Culture
----
++++
+title = "New R.E.M. Videos Under Free Software License"
+date = 2008-02-18 18:52:45+00:00
+path = "/2008/02/18/new-rem-videos-under-free-software-license/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [R.E.M. Releases New Videos Under Open Source License - ReadWriteWeb](http://www.readwriteweb.com/archives/rem_releases_new_videos_under_open_source_license.php)  
   

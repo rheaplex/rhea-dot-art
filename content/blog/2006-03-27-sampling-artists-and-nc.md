@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-27 06:20:15+00:00
-layout: post
-slug: sampling-artists-and-nc
-title: Sampling Artists and NC
-id: 872
-categories:
-- Free Culture
----
++++
+title = "Sampling Artists and NC"
+date = 2006-03-27 06:20:15+00:00
+path = "/2006/03/27/sampling-artists-and-nc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I've just read another apologia from a sampling artist who is releasing their work under a NonCommercial Creative Commons license.  
   

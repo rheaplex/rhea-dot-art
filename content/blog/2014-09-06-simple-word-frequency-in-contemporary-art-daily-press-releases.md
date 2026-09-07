@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-06 06:26:55+00:00
-layout: post
-slug: simple-word-frequency-in-contemporary-art-daily-press-releases
-title: Simple Word Frequency in Contemporary Art Daily Press Releases
-id: 2618
-categories:
-- Art
-- Art History
-- Projects
----
++++
+title = "Simple Word Frequency in Contemporary Art Daily Press Releases"
+date = 2014-09-06 06:26:55+00:00
+path = "/2014/09/06/simple-word-frequency-in-contemporary-art-daily-press-releases/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Projects",
+]
++++
 
 A simple word frequency count of press releases on Contemporary Art Daily (note split city names):
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-03 05:06:56+00:00
-layout: post
-slug: stephen-fry-happy-birthday-to-gnu
-title: Stephen Fry -- Happy birthday to GNU
-id: 1663
-categories:
-- Free Culture
----
++++
+title = "Stephen Fry -- Happy birthday to GNU"
+date = 2008-09-03 05:06:56+00:00
+path = "/2008/09/03/stephen-fry-happy-birthday-to-gnu/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.gnu.org/fry/](http://www.gnu.org/fry/)  
   

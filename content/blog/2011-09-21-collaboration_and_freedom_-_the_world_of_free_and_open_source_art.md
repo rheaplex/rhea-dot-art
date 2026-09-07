@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-21 21:20:49+00:00
-layout: post
-slug: collaboration_and_freedom_-_the_world_of_free_and_open_source_art
-title: Collaboration and Freedom - The World of Free and Open Source Art
-id: 1948
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Collaboration and Freedom - The World of Free and Open Source Art"
+date = 2011-09-21 21:20:49+00:00
+path = "/2011/09/21/collaboration_and_freedom_-_the_world_of_free_and_open_source_art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 A collection of artworks, texts and resources about freedom and openness in the arts, in the age of the Internet. Freedom to collaborate - to use, modify and redistribute ideas, artworks, experiences, media and tools. Openness to the ideas and contributions of others, and new ways of organising and making decisions together.
   

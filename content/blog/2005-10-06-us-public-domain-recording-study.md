@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-06 07:25:14+00:00
-layout: post
-slug: us-public-domain-recording-study
-title: US Public Domain Recording Study
-id: 688
-categories:
-- Aesthetics
----
++++
+title = "US Public Domain Recording Study"
+date = 2005-10-06 07:25:14+00:00
+path = "/2005/10/06/us-public-domain-recording-study/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Via [Boing Boing](http://www.boingboing.net/):  
   

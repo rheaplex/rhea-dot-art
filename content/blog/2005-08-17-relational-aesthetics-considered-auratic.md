@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-17 04:35:10+00:00
-layout: post
-slug: relational-aesthetics-considered-auratic
-title: Relational Aesthetics Considered Auratic
-id: 648
-categories:
-- Aesthetics
----
++++
+title = "Relational Aesthetics Considered Auratic"
+date = 2005-08-17 04:35:10+00:00
+path = "/2005/08/17/relational-aesthetics-considered-auratic/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Relational Aesthetics (Bourriaud) is a special plea for the value (virtue, even) of visually impoverished 1990s neo-conceptual art. Bourriaud is careful to distinguish Relational art from what he regards as exhausted modernist forms. But his concept of Relational art is haunted by that modernist prophet Walter Benjamin.  
   

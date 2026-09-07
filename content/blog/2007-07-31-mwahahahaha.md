@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-31 06:00:03+00:00
-layout: post
-slug: mwahahahaha
-title: Mwahahahaha!
-id: 1427
-categories:
-- Personal
----
++++
+title = "Mwahahahaha!"
+date = 2007-07-31 06:00:03+00:00
+path = "/2007/07/31/mwahahahaha/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 My Sunshot t-shirt has arrived.  
   

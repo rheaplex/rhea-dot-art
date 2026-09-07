@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-09-25 21:47:08+00:00
-layout: post
-slug: remember_we_said_no_future
-title: Remember We Said No Future?
-id: 1859
-categories:
-- Aesthetics
----
++++
+title = "Remember We Said No Future?"
+date = 2010-09-25 21:47:08+00:00
+path = "/2010/09/25/remember_we_said_no_future/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 When I was a child, outdated visions of the future seemed comical.  
   

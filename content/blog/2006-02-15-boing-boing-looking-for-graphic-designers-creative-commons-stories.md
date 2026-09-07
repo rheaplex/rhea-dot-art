@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-15 06:33:07+00:00
-layout: post
-slug: boing-boing-looking-for-graphic-designers-creative-commons-stories
-title: 'Boing Boing: Looking for graphic designers'' Creative Commons stories'
-id: 828
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: Looking for graphic designers' Creative Commons stories"
+date = 2006-02-15 06:33:07+00:00
+path = "/2006/02/15/boing-boing-looking-for-graphic-designers-creative-commons-stories/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: Looking for graphic designers' Creative Commons stories](http://www.boingboing.net/2006/02/14/looking_for_graphic_.html)  
   

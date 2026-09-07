@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-03-30 08:29:59+00:00
-layout: post
-slug: inbetween-cities
-title: Inbetween Cities
-id: 96
-categories:
-- Projects
----
++++
+title = "Inbetween Cities"
+date = 2004-03-30 08:29:59+00:00
+path = "/2004/03/30/inbetween-cities/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I spend far too much of my life commuting as a passenger on mass transport systems. Looking out of the window of a fast-moving vehicle close up all you see are blurs. Further away objects rotate serenely by revealing a good two hundred and seventy degrees of their appearance to you by the time they're gone. These works are a fairly literal record of this observation. Just with the volume turned up to eleven.  
   

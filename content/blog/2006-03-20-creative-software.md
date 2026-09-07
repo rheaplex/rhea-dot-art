@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-20 07:25:55+00:00
-layout: post
-slug: creative-software
-title: Creative Software
-id: 868
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Creative Software"
+date = 2006-03-20 07:25:55+00:00
+path = "/2006/03/20/creative-software/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 I will be at the Creative Software conference on Thursday to talk about my art computing work (such as [minara](http://minara.sourceforge.net/) and [draw-something](http://rheart.sourceforge.net/)) and why it is Free Software:  
   

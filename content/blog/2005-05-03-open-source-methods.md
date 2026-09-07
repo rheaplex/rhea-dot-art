@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-03 01:51:12+00:00
-layout: post
-slug: open-source-methods
-title: Open Source Methods
-id: 408
-categories:
-- Free Culture
----
++++
+title = "Open Source Methods"
+date = 2005-05-03 01:51:12+00:00
+path = "/2005/05/03/open-source-methods/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via [eyebeam](http://www.eyebeam.org/) :  
   

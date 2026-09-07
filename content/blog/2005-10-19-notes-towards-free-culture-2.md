@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-19 08:28:38+00:00
-layout: post
-slug: notes-towards-free-culture-2
-title: Notes Towards Free Culture
-id: 702
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2005-10-19 08:28:38+00:00
+path = "/2005/10/19/notes-towards-free-culture-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 JibJab fail to share alike:  

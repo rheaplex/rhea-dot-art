@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 05:58:55+00:00
-layout: post
-slug: scratchpad
-title: Scratchpad
-id: 503
-categories:
-- Free Culture
----
++++
+title = "Scratchpad"
+date = 2005-06-15 05:58:55+00:00
+path = "/2005/06/15/scratchpad/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Groovy multi-user drawing applet via [idletype](http://idletype.com/archives/78):  

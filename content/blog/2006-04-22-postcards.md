@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-22 08:27:53+00:00
-layout: post
-slug: postcards
-title: Postcards
-id: 901
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Postcards"
+date = 2006-04-22 08:27:53+00:00
+path = "/2006/04/22/postcards/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 ![DSCF0071.JPG](/images/2006/04/DSCF0071.thumbnail.JPG)  
   

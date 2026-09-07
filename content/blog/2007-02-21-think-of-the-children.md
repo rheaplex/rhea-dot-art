@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-02-21 03:41:31+00:00
-layout: post
-slug: think-of-the-children
-title: Think Of The Children
-id: 1231
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Think Of The Children"
+date = 2007-02-21 03:41:31+00:00
+path = "/2007/02/21/think-of-the-children/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 This just in:  
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-07 07:19:46+00:00
-layout: post
-slug: fisking-fisking-fisking-lessigs-new-permission-culture
-title: Fisking Fisking Fisking Lessig's New Permission Culture
-id: 1130
-categories:
-- Free Culture
----
++++
+title = "Fisking Fisking Fisking Lessig's New Permission Culture"
+date = 2006-10-07 07:19:46+00:00
+path = "/2006/10/07/fisking-fisking-fisking-lessigs-new-permission-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 In response to my rant on Lessig's blog comments pages (reproduced on this blog as "Fisking Lessig's New Permission Culture") [M. David Peterson writes](http://www.oreillynet.com/xml/blog/2006/09/on_colors_collaboration_and_th.html):  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-22 08:59:34+00:00
-layout: post
-slug: transparency-and-shadow
-title: Transparency and Shadow
-id: 16
-categories:
-- Aesthetics
----
++++
+title = "Transparency and Shadow"
+date = 2003-04-22 08:59:34+00:00
+path = "/2003/04/22/transparency-and-shadow/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 "The quintessentially modernist ideal of a transparent, shadowless work" - 'States of Secrecy', Michael Gauthier in ''Too Dark To Read.  
   

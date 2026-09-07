@@ -1,6 +1,0 @@
-{{- $src := .Destination -}}
-{{- $r := resources.Get (strings.TrimPrefix "/" $src) -}}
-<figure class="figure d-block text-center my-3">
-  <img src="{{ $src | safeURL }}" alt="{{ .Text }}" class="figure-img img-fluid mb-1" loading="lazy"{{ with $r }}{{ if ne .MediaType.SubType "svg" }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}{{ end }}>
-  {{- with .Title }}<figcaption class="figure-caption">{{ . }}</figcaption>{{ end -}}
-</figure>

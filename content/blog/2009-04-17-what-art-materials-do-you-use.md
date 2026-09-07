@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-04-17 22:04:38+00:00
-layout: post
-slug: what-art-materials-do-you-use
-title: What Art Materials Do You Use?
-id: 1756
-categories:
-- Aesthetics
----
++++
+title = "What Art Materials Do You Use?"
+date = 2009-04-17 22:04:38+00:00
+path = "/2009/04/17/what-art-materials-do-you-use/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 **Substrates**  
   

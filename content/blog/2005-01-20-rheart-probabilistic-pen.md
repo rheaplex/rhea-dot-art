@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-20 05:24:00+00:00
-layout: post
-slug: rheart-probabilistic-pen
-title: 'rheart: Probabilistic Pen'
-id: 293
-categories:
-- Projects
----
++++
+title = "rheart: Probabilistic Pen"
+date = 2005-01-20 05:24:00+00:00
+path = "/2005/01/20/rheart-probabilistic-pen/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 A probabilistic pen for draw-something that uncannily resembles my freehand line:  
 ![](/images/drawing3.png)![](/images/drawing1.png)![](/images/drawing2.png)  

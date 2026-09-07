@@ -1,12 +1,17 @@
 +++
 title = "Bad Shibe"
 date = 2017-05-04
+path = "/bad-shibe/"
+
+[extra]
 image = "/art-images/C-6DUI-XgAA6Aaa.png"
-mediums = ["Short Story"]
+mediums = [
+    "Short Story",
+]
+collaborators = [
+    { name = "Lina Theodorou", role = "Illustrations" },
+]
 wp_id = 6640
-[[collaborators]]
-  name = "Lina Theodorou"
-  role = "Illustrations"
 +++
 
 **Book Chapter Version**

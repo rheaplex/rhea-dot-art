@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-16 22:00:33+00:00
-layout: post
-slug: the-public-domain-our-shared-culture-judiths-web
-title: 'The Public Domain: Our Shared Culture: Judith''s Web'
-id: 1069
-categories:
-- Aesthetics
----
++++
+title = "The Public Domain: Our Shared Culture: Judith's Web"
+date = 2006-08-16 22:00:33+00:00
+path = "/2006/08/16/the-public-domain-our-shared-culture-judiths-web/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [The Public Domain: Our Shared Culture: Judith's Web](http://opendomain.blogspot.com/2006/08/judiths-web.html)  
   

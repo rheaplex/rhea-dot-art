@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-29 07:00:47+00:00
-layout: post
-slug: copyleft-concepts
-title: Copyleft Concepts
-id: 1060
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Copyleft Concepts"
+date = 2006-07-29 07:00:47+00:00
+path = "/2006/07/29/copyleft-concepts/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
   
 **Reification**  

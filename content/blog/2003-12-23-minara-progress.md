@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-23 03:15:52+00:00
-layout: post
-slug: minara-progress
-title: Minara Progress
-id: 70
-categories:
-- Projects
----
++++
+title = "Minara Progress"
+date = 2003-12-23 03:15:52+00:00
+path = "/2003/12/23/minara-progress/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've created a web page on my site for Minara.  
 [Here.](/minara/)  

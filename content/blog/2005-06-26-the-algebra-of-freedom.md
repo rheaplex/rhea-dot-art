@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-26 08:28:12+00:00
-layout: post
-slug: the-algebra-of-freedom
-title: The Algebra Of Freedom
-id: 543
-categories:
-- Free Culture
----
++++
+title = "The Algebra Of Freedom"
+date = 2005-06-26 08:28:12+00:00
+path = "/2005/06/26/the-algebra-of-freedom/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Free Culture does not owe Free Software its fealty. Free Software is concerned with the freedom of hackers to continue hacking, any other concerns are secondary unless they interfere with this freedom. Hardware, for example, is of interest to Free Software only when it prevents the hacker from hacking. Closed BIOSes and 'Trusted Computing' microprocessors are examples of this.  

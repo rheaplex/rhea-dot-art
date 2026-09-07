@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-11-13 17:32:45+00:00
-layout: post
-slug: artbollocks-mode_update
-title: artbollocks-mode update
-id: 1967
-categories:
-- Free Software
-- Satire
----
++++
+title = "artbollocks-mode update"
+date = 2011-11-13 17:32:45+00:00
+path = "/2011/11/13/artbollocks-mode_update/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Satire",
+]
++++
 
 artbollocks-mode now calculates various text metrics: word and sentence count and several readability scores. You can access these through the mode's keymap.  
   

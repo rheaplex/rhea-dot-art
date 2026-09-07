@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-02 16:44:20+00:00
-layout: post
-slug: culture_hack_days
-title: Culture Hack Days
-id: 1883
-categories:
-- Art Open Data
-- Free Software
-- Projects
----
++++
+title = "Culture Hack Days"
+date = 2010-12-02 16:44:20+00:00
+path = "/2010/12/02/culture_hack_days/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+    "Free Software",
+    "Projects",
+]
++++
 
 I'd like to organize an Art Open Data Hack Day next year.  
   

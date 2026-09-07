@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-01-19 23:47:26+00:00
-layout: post
-slug: facecoin-in-more-detail
-title: Facecoin In More Detail
-id: 2502
-categories:
-- Art
-- Art Computing
-- Generative Art
-- Projects
----
++++
+title = "Facecoin In More Detail"
+date = 2014-01-19 23:47:26+00:00
+path = "/2014/01/19/facecoin-in-more-detail/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
 
 Facecoin is Bitcoin with a different Proof Of Work system. I'll try to
 explain what this means here but I also recommend the following articles

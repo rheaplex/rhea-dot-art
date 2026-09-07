@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-10 03:09:38+00:00
-layout: post
-slug: clairefontaine-recto-verso-polypro
-title: Clairefontaine Recto Verso Polypro
-id: 886
-categories:
-- Personal
-- Satire
----
++++
+title = "Clairefontaine Recto Verso Polypro"
+date = 2006-04-10 03:09:38+00:00
+path = "/2006/04/10/clairefontaine-recto-verso-polypro/"
+
+[taxonomies]
+categories = [
+    "Personal",
+    "Satire",
+]
++++
 
 I bought one of these and used it to take notes at the fc-uk meetup: [](http://www.officedog.co.uk/267.group.html)  
   

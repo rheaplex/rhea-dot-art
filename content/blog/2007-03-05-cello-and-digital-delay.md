@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-03-05 01:16:29+00:00
-layout: post
-slug: cello-and-digital-delay
-title: Cello And Digital Delay
-id: 1238
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Cello And Digital Delay"
+date = 2007-03-05 01:16:29+00:00
+path = "/2007/03/05/cello-and-digital-delay/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 I found another MySpace page for someone who uses a cello and a digital delay to make music. If you're not familiar with digital delays they're short loop sampler foot pedals, like KT Tunstall uses for performing "The Black Horse And The Cherry Tree" live. If you're not familiar with cellos, go and listen to some Rasputina or to "Hounds Of Love".  
   

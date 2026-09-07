@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-17 05:56:03+00:00
-layout: post
-slug: sharecropping-and-entryism
-title: Sharecropping And Entryism
-id: 1447
-categories:
-- Free Culture
----
++++
+title = "Sharecropping And Entryism"
+date = 2007-08-17 05:56:03+00:00
+path = "/2007/08/17/sharecropping-and-entryism/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Any successful movement or cause will attract those that cannot generate their own social capital. Free Software and Free Culture are no exception. From a right-wing ultra-corporate position comes the threat of sharecropping. From a left-wing paleo-marxist position comes the threat of entryism. Both threaten the value of Free Culture to society as a whole and thereby to themselves.  
   

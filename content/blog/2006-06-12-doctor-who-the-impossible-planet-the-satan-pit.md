@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-12 06:17:32+00:00
-layout: post
-slug: doctor-who-the-impossible-planet-the-satan-pit
-title: 'Doctor Who: The Impossible Planet / The Satan Pit'
-id: 969
-categories:
-- Reviews
----
++++
+title = "Doctor Who: The Impossible Planet / The Satan Pit"
+date = 2006-06-12 06:17:32+00:00
+path = "/2006/06/12/doctor-who-the-impossible-planet-the-satan-pit/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
   
 Of a different key to previous series highpoint "The Girl In The Fireplace", this two-parter took The Doctor and Rose to a planet orbiting a black hole ("The Impossible Planet") and to the prison that something claiming to be the devil has been locked in since before the start of the universe ("The Satan Pit"). This was perfect science fiction TV. The murderous aliens, the possessed humans, the lost civilisations and a climax fought with synapses rather than sidearms, the tragedy of the loss of individuals against the backdrop of a threat to the entire universe.  

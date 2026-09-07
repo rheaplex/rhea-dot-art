@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-24 21:24:29+00:00
-layout: post
-slug: exploring_art_data_4
-title: Exploring Art Data 4
-id: 1876
-categories:
-- Art Computing
-- Art History
-- Art Open Data
-- Free Software
-- Howto
----
++++
+title = "Exploring Art Data 4"
+date = 2010-11-24 21:24:29+00:00
+path = "/2010/11/24/exploring_art_data_4/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Free Software",
+    "Howto",
+]
++++
 
 Let's draw some more graphs.  
   

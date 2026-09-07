@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-09 08:18:10+00:00
-layout: post
-slug: cc-art-competition-in-reading
-title: CC Art Competition In Reading
-id: 818
-categories:
-- Free Culture
----
++++
+title = "CC Art Competition In Reading"
+date = 2006-02-09 08:18:10+00:00
+path = "/2006/02/09/cc-art-competition-in-reading/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _Have your work shown in an exhibition running at the Riverside Museum at Blake's Lock, 28th-30th April! We are running a competition to gather eleven great pieces of work that interpret the local area and local art._  

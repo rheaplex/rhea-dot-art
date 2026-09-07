@@ -1,8 +1,13 @@
 +++
 title = "Art Coins (Coloured)"
 date = 2015-01-05
+path = "/art-coins-coloured/"
+
+[extra]
 image = "/art-images/colourcoinbalances.png"
-mediums = ["Counterparty Tokens"]
+mediums = [
+    "Counterparty Tokens",
+]
 wp_id = 6656
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-07 06:11:32+00:00
-layout: post
-slug: rhizome-commissions-program
-title: Rhizome Commissions Program
-id: 1582
-categories:
-- Generative Art
----
++++
+title = "Rhizome Commissions Program"
+date = 2008-03-07 06:11:32+00:00
+path = "/2008/03/07/rhizome-commissions-program/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 _Rhizome is now in the midst of the sixth year of our Commissions Program -- a singular initiative that supports the creation of original works of new media art work. This year, we will award seven artists/ collectives with commissions ranging from $3000-$5000.  
   

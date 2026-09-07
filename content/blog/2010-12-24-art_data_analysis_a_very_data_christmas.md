@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-24 20:31:08+00:00
-layout: post
-slug: art_data_analysis_a_very_data_christmas
-title: 'Art Data Analysis: A Very Data Christmas'
-id: 1898
-categories:
-- Aesthetics
-- Art Open Data
-- Culture
----
++++
+title = "Art Data Analysis: A Very Data Christmas"
+date = 2010-12-24 20:31:08+00:00
+path = "/2010/12/24/art_data_analysis_a_very_data_christmas/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Open Data",
+    "Culture",
+]
++++
 
 [http://www.r-bloggers.com/a-very-data-christmas/](http://www.r-bloggers.com/a-very-data-christmas/)  
 _  

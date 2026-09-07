@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-13 05:41:39+00:00
-layout: post
-slug: redistribution-of-cultural-wealth
-title: Redistribution Of (Cultural) Wealth
-id: 642
-categories:
-- Free Culture
----
++++
+title = "Redistribution Of (Cultural) Wealth"
+date = 2005-08-13 05:41:39+00:00
+path = "/2005/08/13/redistribution-of-cultural-wealth/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I'm not a Marxist. I don't know Marx and his followers' work well enough to be able to say whether Marxism makes any more sense than the Cult Of The [Invisible Hand](http://en.wikipedia.org/wiki/Invisible_hand). But trawling the web for articles on aesthetics I found this Trotskyite essay on the value of culture that starts from a debate on the virtues of Oscar Wilde:  

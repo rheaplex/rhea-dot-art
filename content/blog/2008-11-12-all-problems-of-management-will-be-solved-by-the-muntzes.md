@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-12 06:09:41+00:00
-layout: post
-slug: all-problems-of-management-will-be-solved-by-the-muntzes
-title: All Problems Of Management Will Be Solved By The Muntzes
-id: 1692
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "All Problems Of Management Will Be Solved By The Muntzes"
+date = 2008-11-12 06:09:41+00:00
+path = "/2008/11/12/all-problems-of-management-will-be-solved-by-the-muntzes/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 **Marie Antoinette**  
   

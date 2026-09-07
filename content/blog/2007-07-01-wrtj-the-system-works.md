@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-01 03:49:27+00:00
-layout: post
-slug: wrtj-the-system-works
-title: 'WRTJ: The System Works!'
-id: 1384
-categories:
-- Free Culture
----
++++
+title = "WRTJ: The System Works!"
+date = 2007-07-01 03:49:27+00:00
+path = "/2007/07/01/wrtj-the-system-works/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I added a script to the Joneses wiki:  
   

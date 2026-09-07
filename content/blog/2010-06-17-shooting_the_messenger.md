@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-06-17 11:05:27+00:00
-layout: post
-slug: shooting_the_messenger
-title: Shooting The Messenger
-id: 1846
-categories:
-- Free Software
----
++++
+title = "Shooting The Messenger"
+date = 2010-06-17 11:05:27+00:00
+path = "/2010/06/17/shooting_the_messenger/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 There's been another round of criticism on various blogs of the FSF's media campaigns to draw people's attention to the harm that not respecting software users freedom does. But the FSF's campaigns explaining why Microsoft and Apple's failure to
 respect users freedom is harmful have been successful in getting out the

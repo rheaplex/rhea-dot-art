@@ -1,26 +1,20 @@
----
-id: 3061
-title: 'Gray Area and SchellingFlags'
-date: '2018-09-03T13:22:51+00:00'
-author: Rhea Myers
-layout: post
-responsive_meta_box_designation:
-    - ''
-responsive_meta_box_facebook:
-    - ''
-responsive_meta_box_twitter:
-    - ''
-responsive_meta_box_googleplus:
-    - ''
-responsive_meta_box_text_linkedin:
-    - ''
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Crypto
-    - Ethereum
-    - Shows
----
++++
+title = "Gray Area and SchellingFlags"
+date = 2018-09-03 13:22:51+00:00
+path = "/2018/09/03/gray-area-and-schellingflags/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Ethereum",
+    "Shows",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 I was invited to show something at the 2018 [Gray Area Festival](http://grayareafestival.io/), a great Art &amp; Technology event in San Francisco. This year it was on from July 26-29, 2018. I took the opportunity to make something new.
 

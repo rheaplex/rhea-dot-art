@@ -1,14 +1,15 @@
----
-id: 3760
-title: "Flinging An NFT In The Public's Face"
-date: '2020-02-08T15:19:20+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
----
++++
+title = "Flinging An NFT In The Public's Face"
+date = 2020-02-08 15:19:20+00:00
+path = "/2020/02/08/flinging-an-nft-in-the-publics-face/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+]
++++
 
 > The “Rare Art” market demands something aesthetic to own. “Tokens Equal Text” loops this back through a complexly unownable genre of aesthetics to both satisfy and frustrate this demand and to place blockchain (quasi-)property and the history of art into a state of mutually critical interrogation.
 

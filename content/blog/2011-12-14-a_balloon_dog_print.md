@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-14 22:08:00+00:00
-layout: post
-slug: a_balloon_dog_print
-title: A Balloon Dog Print
-id: 1971
-categories:
-- Art
-- Art Open Data
-- Free Culture
----
++++
+title = "A Balloon Dog Print"
+date = 2011-12-14 22:08:00+00:00
+path = "/2011/12/14/a_balloon_dog_print/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Open Data",
+    "Free Culture",
+]
++++
 
 Here's a picture of the Balloon Dog printed on a Makerbot:  
   

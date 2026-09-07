@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-01-15 19:59:18+00:00
-layout: post
-slug: small_sensoria_2
-title: Small Sensoria 2
-id: 1981
-categories:
-- Art
-- Art Computing
-- Projects
----
++++
+title = "Small Sensoria 2"
+date = 2012-01-15 19:59:18+00:00
+path = "/2012/01/15/small_sensoria_2/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Projects",
+]
++++
 
 [![bluetooth small sensorium](/images/assets_c/2012/01/small_sensorium_bluetooth-thumb-500x375-76.jpg)](/weblog/2012/01/15/small_sensorium_bluetooth.jpg)  
 That's a Bluetooth wireless small sensorium. The code to support this is a bit hacky as rxtx doesn't seem to want to play with Bluetooth serial ports, but it works.  

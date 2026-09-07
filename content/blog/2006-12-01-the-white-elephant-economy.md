@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-12-01 04:41:00+00:00
-layout: post
-slug: the-white-elephant-economy
-title: The White Elephant Economy
-id: 1178
-categories:
-- Free Culture
----
++++
+title = "The White Elephant Economy"
+date = 2006-12-01 04:41:00+00:00
+path = "/2006/12/01/the-white-elephant-economy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 If you cannot chareg to support the making of your art, and people cannot charge for keeping or sharing your art, that art is a financial burden. The more involved the creation of your art and the larger it is as a resource copy, the greater the burden. This burden can be great enough to prevent the creation of work, and may effect the distribution of it as well. Fortunately CC wrote an exception for the new generation of media corporations into the NC license, but that doesn't apply to creators.  
   

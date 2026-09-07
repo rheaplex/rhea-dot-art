@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-29 15:49:25+00:00
-layout: post
-slug: fixing-a-dishwasher-with-3d-printing-and-lisp
-title: Fixing a Dishwasher with 3D Printing and Lisp
-id: 1747
-categories:
-- Art Computing
----
++++
+title = "Fixing a Dishwasher with 3D Printing and Lisp"
+date = 2009-03-29 15:49:25+00:00
+path = "/2009/03/29/fixing-a-dishwasher-with-3d-printing-and-lisp/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+]
++++
 
 [Andreas Fuchs' Journal: Clojure and Art of Illusion: BFF](http://boinkor.net/archives/2009/03/clojure_and_art_of_illusion_bf.html).  
   

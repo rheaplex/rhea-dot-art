@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-03 06:32:28+00:00
-layout: post
-slug: draw-something-filled
-title: draw-something-filled
-id: 772
-categories:
-- Projects
----
++++
+title = "draw-something-filled"
+date = 2006-01-03 06:32:28+00:00
+path = "/2006/01/03/draw-something-filled/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 The current version of draw-something uses PostScript's **fill** operator to fill the shape with flat colour. Problem solved.  

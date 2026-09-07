@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-17 22:24:28+00:00
-layout: post
-slug: mono_and_patents_1
-title: Mono And Patents
-id: 1772
-categories:
-- Free Culture
----
++++
+title = "Mono And Patents"
+date = 2009-07-17 22:24:28+00:00
+path = "/2009/07/17/mono_and_patents_1/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Mono is a bad idea even without patents. If you want a restrictive statically-typed bytecoded language from a corporation that's a sworn enemy of Free Software, at least Oracle's Java is under the GPL.  
   

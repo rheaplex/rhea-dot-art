@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-04 10:01:00+00:00
-layout: post
-slug: ventriloquism-2
-title: Ventriloquism 2
-id: 915
-categories:
-- Aesthetics
----
++++
+title = "Ventriloquism 2"
+date = 2006-05-04 10:01:00+00:00
+path = "/2006/05/04/ventriloquism-2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Imagine a horror film about an insane ventriloquist who believes that his possessed dummy is talking. What he believes the dummy to be saying is not what the dummy is saying. The dummy can appeal to the audience, but the ventriloquist will not understand the audience's reactions. Especially when the dummy tells the audience that the ventriloquist thinks it wants him to murder his wife.  

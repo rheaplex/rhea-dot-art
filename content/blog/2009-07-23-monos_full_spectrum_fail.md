@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-23 23:39:06+00:00
-layout: post
-slug: monos_full_spectrum_fail
-title: Mono's Full Spectrum Fail
-id: 1775
-categories:
-- Free Culture
----
++++
+title = "Mono's Full Spectrum Fail"
+date = 2009-07-23 23:39:06+00:00
+path = "/2009/07/23/monos_full_spectrum_fail/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Great post that explains why Mono is bad for free software in Microsoft's own words -  
   

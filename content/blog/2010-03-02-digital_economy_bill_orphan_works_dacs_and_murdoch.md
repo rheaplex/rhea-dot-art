@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-02 18:55:05+00:00
-layout: post
-slug: digital_economy_bill_orphan_works_dacs_and_murdoch
-title: Digital Economy Bill Orphan Works, DACS and Murdoch
-id: 1831
-categories:
-- Free Culture
----
++++
+title = "Digital Economy Bill Orphan Works, DACS and Murdoch"
+date = 2010-03-02 18:55:05+00:00
+path = "/2010/03/02/digital_economy_bill_orphan_works_dacs_and_murdoch/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.copyrightaction.com/forum/uk-gov-nationalises-orphans-and-bans-non-consensual-photography-in-public?page=1](http://www.copyrightaction.com/forum/uk-gov-nationalises-orphans-and-bans-non-consensual-photography-in-public?page=1)
 

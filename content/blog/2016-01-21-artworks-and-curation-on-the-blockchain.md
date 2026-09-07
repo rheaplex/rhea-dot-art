@@ -1,13 +1,15 @@
----
-title: Artworks And Curation On The Blockchain
-date: 2016-01-21 20:48:31.000000000 -08:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-author: Rhea Myers
----
++++
+title = "Artworks And Curation On The Blockchain"
+date = 2016-01-21 20:48:31-08:00
+path = "/2016/01/21/artworks-and-curation-on-the-blockchain/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+]
++++
+
 Artworks and curation can both take place on or be represented on the blockchain.
 
 Artworks can be stored directly as data on the Bitcoin blockchain or represented by various proxy schemes.

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-04 09:53:29+00:00
-layout: post
-slug: relational-art-3
-title: Relational Art 3
-id: 913
-categories:
-- Aesthetics
----
++++
+title = "Relational Art 3"
+date = 2006-05-04 09:53:29+00:00
+path = "/2006/05/04/relational-art-3/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 **1**  

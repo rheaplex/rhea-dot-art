@@ -1,10 +1,8 @@
----
-title: "Nananananananana"
-author: ["Rhea Myers"]
-date: 2025-03-19
-lastmod: 2025-03-19
-draft: false
----
++++
+title = "Nananananananana"
+date = 2025-03-19
+path = "/2025/03/19/nananananananana/"
++++
 
 _Comedian_ is a tuck. We all get that, right? it's a phallic object held in place with duck tape. Tucking is a way of putting your penis, should you be burdened with one, out of the way for reasons of comfort, safety, or fashion. Two pairs of underwear, one too small, is a good way of doing it. Tape may be more professional but it's not something you want to do on skin that is less than perfectly hairless.
 

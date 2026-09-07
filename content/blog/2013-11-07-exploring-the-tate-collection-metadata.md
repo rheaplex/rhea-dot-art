@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-11-07 00:51:56+00:00
-layout: post
-slug: exploring-the-tate-collection-metadata
-title: Exploring the Tate Collection Metadata
-id: 2400
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Exploring the Tate Collection Metadata"
+date = 2013-11-07 00:51:56+00:00
+path = "/2013/11/07/exploring-the-tate-collection-metadata/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 The Tate have released their collection metadata in an exemplary way here:
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-16 20:32:21+00:00
-layout: post
-slug: new-media-art-shouldnt-suck
-title: New media art shouldn't suck
-id: 1065
-categories:
-- Generative Art
----
++++
+title = "New media art shouldn't suck"
+date = 2006-08-16 20:32:21+00:00
+path = "/2006/08/16/new-media-art-shouldnt-suck/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Rhizome.org: New media art shouldn't suck](http://rhizome.org/fp.rhiz?id=2480)  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-10 19:09:32+00:00
-layout: post
-slug: you_cant_spell_fungible_without_fun
-title: You Can't Spell Fungible Without Fun
-id: 1868
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "You Can't Spell Fungible Without Fun"
+date = 2010-11-10 19:09:32+00:00
+path = "/2010/11/10/you_cant_spell_fungible_without_fun/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 There are artworks that are very similar technically but utterly
 distinct culturally and historically. Take the examples of a Kasimir

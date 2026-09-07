@@ -1,15 +1,19 @@
----
-id: 3718
-title: 'Los Angeles November, 2019'
-date: '2019-12-18T22:49:19+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Culture
-    - Reviews
----
++++
+title = "Los Angeles November, 2019"
+date = 2019-12-18 22:49:19+00:00
+path = "/2019/12/18/los-angeles-november-2019/"
+
+[taxonomies]
+categories = [
+    "Culture",
+    "Reviews",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 (Extremely random notes on “Blade Runner”)
 

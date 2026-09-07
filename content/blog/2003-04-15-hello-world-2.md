@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-15 00:11:42+00:00
-layout: post
-slug: hello-world-2
-title: Hello World
-id: 6
-categories:
-- Aesthetics
----
++++
+title = "Hello World"
+date = 2003-04-15 00:11:42+00:00
+path = "/2003/04/15/hello-world-2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 • Paint splashes and pours with words masked over   
 • Tie-dye with words masked over.   

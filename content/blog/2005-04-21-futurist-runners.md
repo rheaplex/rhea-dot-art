@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-21 07:15:00+00:00
-layout: post
-slug: futurist-runners
-title: “Futurist” Runners
-id: 392
-categories:
-- Sketchblog
----
++++
+title = "“Futurist” Runners"
+date = 2005-04-21 07:15:00+00:00
+path = "/2005/04/21/futurist-runners/"
+
+[taxonomies]
+categories = [
+    "Sketchblog",
+]
++++
 
 ![](/images/futurists.jpg)
 

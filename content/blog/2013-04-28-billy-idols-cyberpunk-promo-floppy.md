@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-28 16:16:57+00:00
-layout: post
-slug: billy-idols-cyberpunk-promo-floppy
-title: Billy Idol's "Cyberpunk" Promo Floppy
-id: 2308
-categories:
-- Art
-- Art Computing
----
++++
+title = "Billy Idol's \"Cyberpunk\" Promo Floppy"
+date = 2013-04-28 16:16:57+00:00
+path = "/2013/04/28/billy-idols-cyberpunk-promo-floppy/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+]
++++
 
 Billy Idols' 1993 concept album "Cyberpunk" (see [Wikipedia](http://en.wikipedia.org/wiki/Cyberpunk_(album))) was ahead of its time in its production and promotion. It's the latter that I am interested in here. Idol gave out his email address, toured the online virtual reality communities of the day, and sent out a Macintosh floppy disk containing a multimedia introduction to the album along with the press pack.
 

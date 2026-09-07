@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-21 06:02:11+00:00
-layout: post
-slug: dorkbotlondon
-title: dorkbotlondon
-id: 703
-categories:
-- Generative Art
-- Projects
----
++++
+title = "dorkbotlondon"
+date = 2005-10-21 06:02:11+00:00
+path = "/2005/10/21/dorkbotlondon/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 I spoke at [dorkbotlondon](http://dorkbot.org/dorkbotlondon/) last night.  

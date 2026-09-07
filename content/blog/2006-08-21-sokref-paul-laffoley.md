@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-21 02:07:28+00:00
-layout: post
-slug: sokref-paul-laffoley
-title: 'Sokref: Paul Laffoley'
-id: 1080
-categories:
-- Aesthetics
----
++++
+title = "Sokref: Paul Laffoley"
+date = 2006-08-21 02:07:28+00:00
+path = "/2006/08/21/sokref-paul-laffoley/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Paul Laffoley on Flickr - Photo Sharing!](http://www.flickr.com/photos/sokref1/219174840/)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-17 07:07:25+00:00
-layout: post
-slug: fine-art-adoption-network
-title: Fine Art Adoption Network
-id: 1072
-categories:
-- Free Culture
----
++++
+title = "Fine Art Adoption Network"
+date = 2006-08-17 07:07:25+00:00
+path = "/2006/08/17/fine-art-adoption-network/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Fine Art Adoption Network](http://fineartadoption.net/)  
   

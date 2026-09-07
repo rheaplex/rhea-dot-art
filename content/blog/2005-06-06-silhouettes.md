@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-06 00:29:39+00:00
-layout: post
-slug: silhouettes
-title: Silhouettes
-id: 465
-categories:
-- Aesthetics
----
++++
+title = "Silhouettes"
+date = 2005-06-06 00:29:39+00:00
+path = "/2005/06/06/silhouettes/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Via Web Zen and Boing Boing:
 

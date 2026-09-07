@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-15 21:40:12+00:00
-layout: post
-slug: exploring_art_data_22
-title: Exploring Art Data 22
-id: 1958
-categories:
-- Art Computing
-- Art Open Data
----
++++
+title = "Exploring Art Data 22"
+date = 2011-10-15 21:40:12+00:00
+path = "/2011/10/15/exploring_art_data_22/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+]
++++
 
 So far we have used the R REPL to run code. Let's write a script that provides a command-line interface for the plotting code we have just written.  
 

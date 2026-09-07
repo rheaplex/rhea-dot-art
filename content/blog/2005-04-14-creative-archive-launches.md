@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-14 05:04:48+00:00
-layout: post
-slug: creative-archive-launches
-title: Creative Archive Launches
-id: 386
-categories:
-- Free Culture
----
++++
+title = "Creative Archive Launches"
+date = 2005-04-14 05:04:48+00:00
+path = "/2005/04/14/creative-archive-launches/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via me :-P :  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-29 05:40:49+00:00
-layout: post
-slug: wacom-xorgconf-for-lenny-laptop
-title: Wacom xorg.conf For Lenny Laptop
-id: 1696
-categories:
-- Art Computing
-- Howto
----
++++
+title = "Wacom xorg.conf For Lenny Laptop"
+date = 2008-11-29 05:40:49+00:00
+path = "/2008/11/29/wacom-xorgconf-for-lenny-laptop/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Howto",
+]
++++
 
 # This may be useful to someone else  
   

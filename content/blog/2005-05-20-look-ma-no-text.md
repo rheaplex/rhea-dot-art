@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-20 03:05:39+00:00
-layout: post
-slug: look-ma-no-text
-title: Look Ma, No Text
-id: 439
-categories:
-- Aesthetics
----
++++
+title = "Look Ma, No Text"
+date = 2005-05-20 03:05:39+00:00
+path = "/2005/05/20/look-ma-no-text/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 removing the text makes this wonderfully composed photograph all but abstract:  
   

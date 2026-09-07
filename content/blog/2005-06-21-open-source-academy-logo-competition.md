@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 03:47:55+00:00
-layout: post
-slug: open-source-academy-logo-competition
-title: Open Source Academy Logo Competition
-id: 529
-categories:
-- Free Culture
----
++++
+title = "Open Source Academy Logo Competition"
+date = 2005-06-21 03:47:55+00:00
+path = "/2005/06/21/open-source-academy-logo-competition/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Via [NewsForge](http://trends.newsforge.com/article.pl?sid=05/06/17/1843223):  

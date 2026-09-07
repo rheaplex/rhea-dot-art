@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-26 06:20:46+00:00
-layout: post
-slug: happy-christmas
-title: Happy Christmas!
-id: 766
-categories:
-- Free Culture
-- Personal
-- Satire
----
++++
+title = "Happy Christmas!"
+date = 2005-12-26 06:20:46+00:00
+path = "/2005/12/26/happy-christmas/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Personal",
+    "Satire",
+]
++++
 
   
 **Happy Christmas!**  

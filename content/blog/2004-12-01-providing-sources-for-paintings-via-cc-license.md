@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-01 03:37:27+00:00
-layout: post
-slug: providing-sources-for-paintings-via-cc-license
-title: Providing Sources For Paintings (via cc-license)
-id: 257
-categories:
-- Free Culture
----
++++
+title = "Providing Sources For Paintings (via cc-license)"
+date = 2004-12-01 03:37:27+00:00
+path = "/2004/12/01/providing-sources-for-paintings-via-cc-license/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 For many artistic works there is source that can be provided: the preparatory work. Preparatory sketches can be provided online or in printed book format. Having access to the preparatory work for an artwork can be incredibly useful for understanding and building on the work, much like having the source code for a binary.   
   

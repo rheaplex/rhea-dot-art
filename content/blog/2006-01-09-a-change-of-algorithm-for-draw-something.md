@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-09 05:28:16+00:00
-layout: post
-slug: a-change-of-algorithm-for-draw-something
-title: A Change Of Algorithm For draw-something
-id: 776
-categories:
-- Generative Art
-- Projects
----
++++
+title = "A Change Of Algorithm For draw-something"
+date = 2006-01-09 05:28:16+00:00
+path = "/2006/01/09/a-change-of-algorithm-for-draw-something/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 I changed the way that figure bounds were decided, and started varying the size of the drawing as well. This has made draw-something's output more how I want it to look. But it's disturbing that random images look this good. I'm reminded of Harold Cohen's comments regarding AARON about the (un)importance of composition in aesthetics.  
   

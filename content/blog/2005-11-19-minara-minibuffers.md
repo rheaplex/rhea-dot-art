@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-19 07:47:20+00:00
-layout: post
-slug: minara-minibuffers
-title: Minara Minibuffers
-id: 726
-categories:
-- Projects
----
++++
+title = "Minara Minibuffers"
+date = 2005-11-19 07:47:20+00:00
+path = "/2005/11/19/minara-minibuffers/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 ![200511182245](/images/200511182245.jpg)  

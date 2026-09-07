@@ -1,15 +1,17 @@
----
-title: '"Is Art" On Homestead'
-date: 2016-03-28 23:20:28.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "\"Is Art\" On Homestead"
+date = 2016-03-28 23:20:28-07:00
+path = "/2016/03/28/is-art-on-homestead/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![is1](/images/2016/03/is1.png)
 
 [Ethereum](https://ethereum.org/) has been live for several months now and has progressed to the point where the network has been declared stable.

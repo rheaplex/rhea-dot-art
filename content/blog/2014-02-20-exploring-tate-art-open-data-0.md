@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-20 02:51:10+00:00
-layout: post
-slug: exploring-tate-art-open-data-0
-title: Exploring Tate Art Open Data 0
-id: 2525
-categories:
-- Art History
-- Art Open Data
-- Projects
----
++++
+title = "Exploring Tate Art Open Data 0"
+date = 2014-02-20 02:51:10+00:00
+path = "/2014/02/20/exploring-tate-art-open-data-0/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 Why visualise the Tate's collection dataset?
 

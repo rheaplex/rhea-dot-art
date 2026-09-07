@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-26 08:20:15+00:00
-layout: post
-slug: what-is-the-schillinger-system
-title: What Is The Schillinger System
-id: 1057
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "What Is The Schillinger System"
+date = 2006-07-26 08:20:15+00:00
+path = "/2006/07/26/what-is-the-schillinger-system/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [What Is The Schillinger System](http://www.schillingersystem.com/whatis.htm)  
   

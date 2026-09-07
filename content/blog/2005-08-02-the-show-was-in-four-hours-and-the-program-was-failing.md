@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-02 07:43:19+00:00
-layout: post
-slug: the-show-was-in-four-hours-and-the-program-was-failing
-title: The Show Was In Four Hours And The Program Was Failing
-id: 597
-categories:
-- Projects
----
++++
+title = "The Show Was In Four Hours And The Program Was Failing"
+date = 2005-08-02 07:43:19+00:00
+path = "/2005/08/02/the-show-was-in-four-hours-and-the-program-was-failing/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 I sat in the gallery, using its wireless network connection. As I formatted up images for my talk, something was nagging at my brain. I looked up at draw-something, projected on the wall to my left. A complete image, no problems. After a couple more minutes in GImp, I got that nagging feeling again. Looking up, I saw that draw-something was still showing the same image.  

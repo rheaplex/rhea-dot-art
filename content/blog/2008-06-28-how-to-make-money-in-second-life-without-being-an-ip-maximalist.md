@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-28 08:04:47+00:00
-layout: post
-slug: how-to-make-money-in-second-life-without-being-an-ip-maximalist
-title: How To Make Money In Second Life Without Being An IP Maximalist
-id: 1623
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "How To Make Money In Second Life Without Being An IP Maximalist"
+date = 2008-06-28 08:04:47+00:00
+path = "/2008/06/28/how-to-make-money-in-second-life-without-being-an-ip-maximalist/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 **The Problem**  
   

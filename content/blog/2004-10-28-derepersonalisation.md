@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-28 07:21:17+00:00
-layout: post
-slug: derepersonalisation
-title: De/Repersonalisation
-id: 233
-categories:
-- Generative Art
----
++++
+title = "De/Repersonalisation"
+date = 2004-10-28 07:21:17+00:00
+path = "/2004/10/28/derepersonalisation/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Generative art, making external processes make your art, is a form of depersonalisation. Yet getting the art you want is "repersonalisation". It's a form of irony, I suppose, if I can add that leaden weight to the idea without it heading straight to the bottom.  
   

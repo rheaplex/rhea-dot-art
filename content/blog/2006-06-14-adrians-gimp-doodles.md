@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-14 04:33:55+00:00
-layout: post
-slug: adrians-gimp-doodles
-title: Adrian's Gimp Doodles
-id: 973
-categories:
-- Free Culture
----
++++
+title = "Adrian's Gimp Doodles"
+date = 2006-06-14 04:33:55+00:00
+path = "/2006/06/14/adrians-gimp-doodles/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Adrian's Gimp Doodles](http://adrian.gimp.org/doodle/gallery/)  
   

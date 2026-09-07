@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-30 04:12:18+00:00
-layout: post
-slug: fisking-lessigs-new-permission-culture
-title: Fisking Lessig's New Permission Culture
-id: 1123
-categories:
-- Free Culture
----
++++
+title = "Fisking Lessig's New Permission Culture"
+date = 2006-09-30 04:12:18+00:00
+path = "/2006/09/30/fisking-lessigs-new-permission-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Former self-appointed "leader of the Free Culture Movement" Lawrence Lessig [writes](http://www.lessig.org/blog/archives/003550.shtml):  
   

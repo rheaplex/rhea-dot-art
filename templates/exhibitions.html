@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
+<main class="reading reading-wide">
+  {%- set all = section.pages %}
+  {%- for kind in ["solo", "group"] %}
+  {%- set of = [p for p in all if (p.extra?.exhibition_type or "") == kind] %}
+  {%- if of | length > 0 %}
+  <section class="mb-5">
+    <h2 class="h3 mb-3">{{ kind | title }} <span class="text-body-secondary fw-normal fs-6">{{ of | length }}</span></h2>
+    {{ <by_year pages={of} kind="exhibition" /> }}
+  </section>
+  {%- endif %}
+  {%- endfor %}
+</main>
+{% endblock content %}

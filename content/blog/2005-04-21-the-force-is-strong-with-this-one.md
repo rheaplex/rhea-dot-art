@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-21 21:01:31+00:00
-layout: post
-slug: the-force-is-strong-with-this-one
-title: The Force Is Strong With This One
-id: 395
-categories:
-- Free Culture
----
++++
+title = "The Force Is Strong With This One"
+date = 2005-04-21 21:01:31+00:00
+path = "/2005/04/21/the-force-is-strong-with-this-one/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Greg London, author of the excellent "[Drafting The Gift Domain](http://www.greglondon.com/dtgd/index.htm) " has a new essay out, this time an exploration and allegory of Intellectual Property law:  
   

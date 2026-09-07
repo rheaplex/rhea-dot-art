@@ -1,10 +1,8 @@
----
-layout: post
-title: Shareable Readymades Watch
-slug: shareable-readymades-watch
-date: 2015-11-24
-
----
++++
+title = "Shareable Readymades Watch"
+date = 2015-11-24
+path = "/2015/11/24/shareable-readymades-watch/"
++++
 
 ![Pipe](/images/2015/pipe-at-ff.jpg)
 

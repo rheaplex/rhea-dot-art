@@ -1,17 +1,21 @@
----
-id: 3259
-title: 'State Machines: The Quest For The One True Chain'
-date: '2019-07-05T15:19:07+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Books
-    - Crypto
-    - Culture
-    - Projects
----
++++
+title = "State Machines: The Quest For The One True Chain"
+date = 2019-07-05 15:19:07+00:00
+path = "/2019/07/05/state-machines-the-quest-for-the-one-true-chain/"
+
+[taxonomies]
+categories = [
+    "Books",
+    "Crypto",
+    "Culture",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 The story that I wrote for Dogecon 2018 has been published in the book “State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art”:
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-16 08:33:54+00:00
-layout: post
-slug: use-mere-use-and-cultural-use
-title: Use, Mere Use and Cultural Use
-id: 1139
-categories:
-- Free Culture
----
++++
+title = "Use, Mere Use and Cultural Use"
+date = 2006-10-16 08:33:54+00:00
+path = "/2006/10/16/use-mere-use-and-cultural-use/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free Software does not have or privilege a concept of "creativity". This is not to say that Free Software advocates are not creative (or "innovative"). Software must be written, and Hacking is generally regarded as creative. Free Software removes impediments to creativity, giving positive protection for it without explicitly mentioning it.  
   

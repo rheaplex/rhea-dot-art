@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-14 05:45:20+00:00
-layout: post
-slug: the-agile-artist-3-getting-real
-title: The Agile Artist 3 - Getting Real
-id: 1681
-categories:
-- Aesthetics
-- Howto
----
++++
+title = "The Agile Artist 3 - Getting Real"
+date = 2008-10-14 05:45:20+00:00
+path = "/2008/10/14/the-agile-artist-3-getting-real/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Howto",
+]
++++
 
 "[Getting Real](http://gettingreal.37signals.com/)" is 37 Signals' book of advice for developing internet software more quickly, more easily, and more successfully. As with "Getting Things Done", this may not at first sound particularly relevant for making art. But Getting Real's approach to projects is a very dynamic and creative one, and even if not all of its details are appropriate for art making (or for every artist), there's lots of good ideas if you take the time to map them onto art practice.   
   

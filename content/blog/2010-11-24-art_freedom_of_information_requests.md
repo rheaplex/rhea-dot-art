@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-24 21:51:00+00:00
-layout: post
-slug: art_freedom_of_information_requests
-title: Art Freedom Of Information Requests
-id: 1877
-categories:
-- Art Open Data
-- Free Culture
----
++++
+title = "Art Freedom Of Information Requests"
+date = 2010-11-24 21:51:00+00:00
+path = "/2010/11/24/art_freedom_of_information_requests/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+    "Free Culture",
+]
++++
 
 [WhatDoTheyKnow](http://www.whatdotheyknow.com/) is an excellent website that allows you to make,check on and search Freedom of Information (FoI) requests in the UK.  
   

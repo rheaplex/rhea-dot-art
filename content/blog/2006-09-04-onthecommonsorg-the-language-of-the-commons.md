@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-04 06:36:53+00:00
-layout: post
-slug: onthecommonsorg-the-language-of-the-commons
-title: OnTheCommons.org | The Language of the Commons
-id: 1094
-categories:
-- Free Culture
----
++++
+title = "OnTheCommons.org | The Language of the Commons"
+date = 2006-09-04 06:36:53+00:00
+path = "/2006/09/04/onthecommonsorg-the-language-of-the-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [OnTheCommons.org | The Language of the Commons](http://onthecommons.org/node/969)  

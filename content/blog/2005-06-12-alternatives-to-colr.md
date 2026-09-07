@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-12 04:18:23+00:00
-layout: post
-slug: alternatives-to-colr
-title: Alternatives to colr
-id: 491
-categories:
-- Projects
----
++++
+title = "Alternatives to colr"
+date = 2005-06-12 04:18:23+00:00
+path = "/2005/06/12/alternatives-to-colr/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 colr.org is down at the moment. One of the questions paintr asks is "What happens if a service you base your work on goes down?". I didn't expect to get such a quick answer. :-)  

@@ -1,9 +1,17 @@
 +++
 title = "Blockchain Aesthetics"
 date = 2015-01-09
+path = "/blockchain-aesthetics/"
+
+[extra]
 image = "/art-images/squares.png"
-mediums = ["HTML5", "JavaScript"]
-aliases_names = ["Bitcoin Aesthetics"]
+mediums = [
+    "HTML5",
+    "JavaScript",
+]
+aliases_names = [
+    "Bitcoin Aesthetics",
+]
 wp_id = 6652
 +++
 

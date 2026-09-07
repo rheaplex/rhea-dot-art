@@ -1,9 +1,8 @@
----
-layout: post
-title: Facecoin at Moneylab2
-slug: facecoin-at-moneylab2
-date: 2015-11-29
----
++++
+title = "Facecoin at Moneylab2"
+date = 2015-11-29
+path = "/2015/11/29/facecoin-at-moneylab2/"
++++
 
 ![Facecoin At Furtherfield Gallery](/images/2015/facecoin-at-furtherfield.jpg)
 

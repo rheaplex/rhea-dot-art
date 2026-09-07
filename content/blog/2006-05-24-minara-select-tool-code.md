@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-24 06:49:59+00:00
-layout: post
-slug: minara-select-tool-code
-title: minara - select tool code
-id: 939
-categories:
-- Projects
----
++++
+title = "minara - select tool code"
+date = 2006-05-24 06:49:59+00:00
+path = "/2006/05/24/minara-select-tool-code/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Selection is just about there:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-19 08:23:32+00:00
-layout: post
-slug: postscript-from-processing
-title: PostScript From Processing
-id: 672
-categories:
-- Generative Art
----
++++
+title = "PostScript From Processing"
+date = 2005-09-19 08:23:32+00:00
+path = "/2005/09/19/postscript-from-processing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 PostScript was my first coding love. I worked on PostScript viruses at art school, and I still use it today as the output format for draw-something.  

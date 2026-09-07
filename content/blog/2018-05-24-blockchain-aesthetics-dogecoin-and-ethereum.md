@@ -1,24 +1,15 @@
----
-id: 3050
-title: 'Blockchain Aesthetics: Dogecoin and Ethereum'
-date: '2018-05-24T21:55:44+00:00'
-author: Rhea Myers
-layout: post
-responsive_meta_box_designation:
-    - ''
-responsive_meta_box_facebook:
-    - ''
-responsive_meta_box_twitter:
-    - ''
-responsive_meta_box_googleplus:
-    - ''
-responsive_meta_box_text_linkedin:
-    - ''
-categories:
-    - Art
-    - 'Art Computing'
-    - Crypto
----
++++
+title = "Blockchain Aesthetics: Dogecoin and Ethereum"
+date = 2018-05-24 21:55:44+00:00
+path = "/2018/05/24/blockchain-aesthetics-dogecoin-and-ethereum/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Crypto",
+]
++++
 
 ![](/images/2018/05/doge-squares.png)
 

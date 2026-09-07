@@ -1,20 +1,19 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-14 16:02:31+00:00
-layout: post
-slug: exploring_art_history_data
-title: Exploring Art History Data 1
-id: 1870
-categories:
-- Art
-- Art Computing
-- Art History
-- Art Open Data
-- Free Software
-- Howto
-- Projects
----
++++
+title = "Exploring Art History Data 1"
+date = 2010-11-14 16:02:31+00:00
+path = "/2010/11/14/exploring_art_history_data/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Free Software",
+    "Howto",
+    "Projects",
+]
++++
 
 Freebase have a section of visual art data: [here](http://www.freebase.com/view/visual_art).  
   

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-03-28 08:37:33+00:00
-layout: post
-slug: flickr-photos-tagged-with-psychetecture
-title: 'Flickr: photos tagged with psychetecture'
-id: 1252
-categories:
-- Aesthetics
-- Free Culture
-- Projects
----
++++
+title = "Flickr: photos tagged with psychetecture"
+date = 2007-03-28 08:37:33+00:00
+path = "/2007/03/28/flickr-photos-tagged-with-psychetecture/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Projects",
+]
++++
 
 [Flickr: photos tagged with psychetecture  
 ](http://www.flickr.com/photos/rheaplex/tags/psychetecture/)  

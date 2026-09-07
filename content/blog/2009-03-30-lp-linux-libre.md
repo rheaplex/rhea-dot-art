@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-30 21:00:24+00:00
-layout: post
-slug: lp-linux-libre
-title: LP - Linux Libre
-id: 1749
-categories:
-- Free Culture
----
++++
+title = "LP - Linux Libre"
+date = 2009-03-30 21:00:24+00:00
+path = "/2009/03/30/lp-linux-libre/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Alexandre Oliva's talk on the [Linux Libre](http://www.fsfla.org/svnwiki/selibre/linux-libre/) kernel was one of the clearest and most persuasive presentations of the what, why and how of a project that I've ever seen. It's shocking that the Linux kernel has non-free software in it. The Linux Libre project has written a system to clean out that non-free software (not so much removing functionality as adding freedom) and provide a truly free kernel.  
   

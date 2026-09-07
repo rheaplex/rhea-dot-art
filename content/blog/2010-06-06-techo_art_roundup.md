@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-06-06 15:34:22+00:00
-layout: post
-slug: techo_art_roundup
-title: Techo Art Roundup
-id: 1845
-categories:
-- Aesthetics
-- Art Computing
-- Free Software
-- Generative Art
-- Howto
----
++++
+title = "Techo Art Roundup"
+date = 2010-06-06 15:34:22+00:00
+path = "/2010/06/06/techo_art_roundup/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Howto",
+]
++++
 
 HOW TO: Connect an anemometer to the Internet:  
   

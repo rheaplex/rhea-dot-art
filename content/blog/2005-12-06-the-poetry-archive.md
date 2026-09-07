@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-06 06:29:30+00:00
-layout: post
-slug: the-poetry-archive
-title: The Poetry Archive
-id: 745
-categories:
-- Free Culture
----
++++
+title = "The Poetry Archive"
+date = 2005-12-06 06:29:30+00:00
+path = "/2005/12/06/the-poetry-archive/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [http://www.poetryarchive.org](http://www.poetryarchive.org)/  

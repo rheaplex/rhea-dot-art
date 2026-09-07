@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-11 09:01:12+00:00
-layout: post
-slug: appear-with-the-joneses-via-channel-4
-title: Appear With The Joneses Via Channel 4
-id: 1405
-categories:
-- Free Culture
----
++++
+title = "Appear With The Joneses Via Channel 4"
+date = 2007-07-11 09:01:12+00:00
+path = "/2007/07/11/appear-with-the-joneses-via-channel-4/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Last bit of WRTJ spam news for today:  
   

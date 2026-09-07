@@ -1,10 +1,8 @@
----
-layout: post
-title: Ethereum Art Ecosystem
-slug: ethereum-art-ecosystem
-date: 2015-12-01
-
----
++++
+title = "Ethereum Art Ecosystem"
+date = 2015-12-01
+path = "/2015/12/01/ethereum-art-ecosystem/"
++++
 
 The Blockchain is an obvious medium for storing titles to property beyond currency. This includes property titles for artworks, particularly digital artworks. But there is nothing smart about using smart contracts for that. Rather than seeking to bring the failings of DRM to the blockchain, we should seek to use smart contracts to formalize more interesting economies of relationships between art and its audiences.
 

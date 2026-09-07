@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-06 07:17:13+00:00
-layout: post
-slug: books-by-rss
-title: Books By RSS
-id: 277
-categories:
-- Free Culture
----
++++
+title = "Books By RSS"
+date = 2005-01-06 07:17:13+00:00
+path = "/2005/01/06/books-by-rss/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via Chris Double, programmer extraordinaire:  
   

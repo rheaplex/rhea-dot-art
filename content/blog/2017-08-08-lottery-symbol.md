@@ -1,16 +1,17 @@
----
-title: Lottery Symbol
-date: 2017-08-08 21:54:15.000000000 -07:00
-type: post
-layout: post
-categories:
-- Aesthetics
-- Art
-- Ethereum
-- Projects
-author:
-  login: Rhea Myers
----
++++
+title = "Lottery Symbol"
+date = 2017-08-08 21:54:15-07:00
+path = "/2017/08/08/lottery-symbol/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![](/images/2017/08/lottery-symbol-300x297.png)
 
 **"Lottery Symbol",2017, DApp.**

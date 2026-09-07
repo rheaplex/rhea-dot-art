@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-17 03:43:11+00:00
-layout: post
-slug: cc-uk-enw-launch
-title: CC-UK (EnW) Launch
-id: 346
-categories:
-- Free Culture
----
++++
+title = "CC-UK (EnW) Launch"
+date = 2005-03-17 03:43:11+00:00
+path = "/2005/03/17/cc-uk-enw-launch/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 It's the launch party for the first of the CC-UK licenses for England and Wales tonight:  
   

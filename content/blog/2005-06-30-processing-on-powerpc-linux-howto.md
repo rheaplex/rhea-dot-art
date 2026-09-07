@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-30 06:52:11+00:00
-layout: post
-slug: processing-on-powerpc-linux-howto
-title: Processing on PowerPC Linux Howto
-id: 557
-categories:
-- Generative Art
-- Howto
----
++++
+title = "Processing on PowerPC Linux Howto"
+date = 2005-06-30 06:52:11+00:00
+path = "/2005/06/30/processing-on-powerpc-linux-howto/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 Processing on PowerPC Linux:  

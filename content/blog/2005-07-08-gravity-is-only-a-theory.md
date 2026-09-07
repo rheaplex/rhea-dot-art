@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-08 09:35:34+00:00
-layout: post
-slug: gravity-is-only-a-theory
-title: Gravity Is “Only A Theory”
-id: 568
-categories:
-- Satire
----
++++
+title = "Gravity Is “Only A Theory”"
+date = 2005-07-08 09:35:34+00:00
+path = "/2005/07/08/gravity-is-only-a-theory/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Remember, kids, gravity is "only a theory":  

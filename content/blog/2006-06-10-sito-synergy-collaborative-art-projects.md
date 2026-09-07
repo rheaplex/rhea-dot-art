@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 07:21:56+00:00
-layout: post
-slug: sito-synergy-collaborative-art-projects
-title: SITO - Synergy - Collaborative Art Projects
-id: 962
-categories:
-- Generative Art
----
++++
+title = "SITO - Synergy - Collaborative Art Projects"
+date = 2006-06-10 07:21:56+00:00
+path = "/2006/06/10/sito-synergy-collaborative-art-projects/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [SITO - Synergy - Collaborative Art Projects](http://www.ibiblio.org/sito/synergy/)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-15 16:20:55+00:00
-layout: post
-slug: name_that_license
-title: Name That License
-id: 1872
-categories:
-- Free Culture
----
++++
+title = "Name That License"
+date = 2010-11-15 16:20:55+00:00
+path = "/2010/11/15/name_that_license/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 When you are blogging, tweeting, denting, or otherwise writing about a Creative Commons licensed work, please always state the actual licence rather than just saying "Creative Commons licensed" or "under a Creative Commons license".  
   

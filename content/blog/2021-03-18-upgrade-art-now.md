@@ -1,13 +1,14 @@
----
-id: 3974
-title: 'Upgrade Art Now!'
-date: '2021-03-18T21:56:46+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Art
-    - Crypto
----
++++
+title = "Upgrade Art Now!"
+date = 2021-03-18 21:56:46+00:00
+path = "/2021/03/18/upgrade-art-now/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+]
++++
 
 [![Shiva laser target chamber.jpg](https://upload.wikimedia.org/wikipedia/en/d/d2/Shiva_laser_target_chamber.jpg)](https://en.wikipedia.org/wiki/File:Shiva_laser_target_chamber.jpg#/media/File:Shiva_laser_target_chamber.jpg)  
 <small>Image taken from LLNL document “Laser Programs, the first 25 years”. [\[1\]](https://www.osti.gov/bridge/servlets/purl/16710-UOC0xx/native/16710.pdf), Public Domain, [Link](https://en.wikipedia.org/w/index.php?curid=7227129)</small>

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-06 23:38:18+00:00
-layout: post
-slug: code_stencils
-title: Code Stencils
-id: 1794
-categories:
-- Art Computing
----
++++
+title = "Code Stencils"
+date = 2009-09-06 23:38:18+00:00
+path = "/2009/09/06/code_stencils/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+]
++++
 
 Pall Thayer rules. And stencils.  
   

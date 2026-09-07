@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-25 20:47:22+00:00
-layout: post
-slug: lp-libre-planet-2009
-title: LP - Libre Planet 2009
-id: 1743
-categories:
-- Free Culture
-- Personal
----
++++
+title = "LP - Libre Planet 2009"
+date = 2009-03-25 20:47:22+00:00
+path = "/2009/03/25/lp-libre-planet-2009/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Personal",
+]
++++
 
 [Libre Planet](http://groups.fsf.org/index.php/LibrePlanet2009) was great.  
   

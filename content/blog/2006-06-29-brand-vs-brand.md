@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-29 05:54:07+00:00
-layout: post
-slug: brand-vs-brand
-title: Brand Vs. Brand
-id: 1012
-categories:
-- Aesthetics
----
++++
+title = "Brand Vs. Brand"
+date = 2006-06-29 05:54:07+00:00
+path = "/2006/06/29/brand-vs-brand/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 ["Zero influence!" » Blog Archive » Brand Vs. Brand](http://zeroinfluence.wordpress.com/2006/06/26/brand-vs-brand/)  
   

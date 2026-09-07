@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-29 05:55:21+00:00
-layout: post
-slug: drawings-from-photos-on-flickr
-title: Drawings From Photos on Flickr
-id: 712
-categories:
-- Aesthetics
----
++++
+title = "Drawings From Photos on Flickr"
+date = 2005-10-29 05:55:21+00:00
+path = "/2005/10/29/drawings-from-photos-on-flickr/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Joining the flock of blogs reporting this, here's a cool flickr group of drawings from photos:  

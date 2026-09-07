@@ -1,8 +1,14 @@
 +++
 title = "Dogecode"
 date = 2015-01-09
+path = "/dogecode/"
+
+[extra]
 image = "/art-images/sierpinski.png"
-mediums = ["Python", "Dogeparty Tokens"]
+mediums = [
+    "Python",
+    "Dogeparty Tokens",
+]
 wp_id = 6653
 +++
 

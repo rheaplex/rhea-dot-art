@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-08 04:57:56+00:00
-layout: post
-slug: latest-fsf-newsletter-is-now-online
-title: Latest FSF Newsletter Is Now Online
-id: 1537
-categories:
-- Free Culture
----
++++
+title = "Latest FSF Newsletter Is Now Online"
+date = 2007-12-08 04:57:56+00:00
+path = "/2007/12/08/latest-fsf-newsletter-is-now-online/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The latest FSF newsletter is now online:  
   

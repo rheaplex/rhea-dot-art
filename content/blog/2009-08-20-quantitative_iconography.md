@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-20 22:44:45+00:00
-layout: post
-slug: quantitative_iconography
-title: Quantitative Iconography
-id: 1782
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Quantitative Iconography"
+date = 2009-08-20 22:44:45+00:00
+path = "/2009/08/20/quantitative_iconography/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 This is clearly intended just as a bit of fun, but it is also a good example of using statistical methods to analyse images -  
   

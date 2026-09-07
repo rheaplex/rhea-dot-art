@@ -1,11 +1,12 @@
 +++
 title = "My Use of LLMs"
-author = ["Rhea Myers"]
 date = 2026-08-23
-lastmod = 2026-08-23
-slug = "my-use-of-llms"
-categories = ["Essays"]
-draft = false
+path = "/2026/08/23/my-use-of-llms/"
+
+[taxonomies]
+categories = [
+    "Essays",
+]
 +++
 
 I use Large Language Models. I mostly use Claude at the moment, with some Qwen through Hermes, and local frontier model distillations through llama.cpp to keep track of the experience of the technology as it is rapidly evolving.

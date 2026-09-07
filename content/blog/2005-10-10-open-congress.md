@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-10 07:39:42+00:00
-layout: post
-slug: open-congress
-title: Open Congress
-id: 692
-categories:
-- Free Culture
----
++++
+title = "Open Congress"
+date = 2005-10-10 07:39:42+00:00
+path = "/2005/10/10/open-congress/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Open Congress was very good. The word "notion" was intoned into oblivion, Deleuze was indeed mentioned, and too many institutional types were confusing cultural openness with organisational openness, but the art ecology was great.  

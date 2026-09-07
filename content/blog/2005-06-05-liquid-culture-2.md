@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-05 01:08:26+00:00
-layout: post
-slug: liquid-culture-2
-title: Liquid Culture
-id: 461
-categories:
-- Free Culture
----
++++
+title = "Liquid Culture"
+date = 2005-06-05 01:08:26+00:00
+path = "/2005/06/05/liquid-culture-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Liquid Culture](http://liquidculture.info/) 5.06 was a well-organised and very engaging event. Concentrating on Free Software and Free Culture together is absolutely what is needed. Overviews of Free Software, software patents and Creative Commons licenses were given, with case studies of "Open Source" software from Goldsmiths and free culture from Remix Reading. Siva's dissenting response at the end was excellent, and nobody really disagreed with him. :-)
 

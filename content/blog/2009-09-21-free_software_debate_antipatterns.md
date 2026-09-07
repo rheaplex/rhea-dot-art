@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-21 22:27:04+00:00
-layout: post
-slug: free_software_debate_antipatterns
-title: Free Software Debate Antipatterns
-id: 1800
-categories:
-- Free Culture
----
++++
+title = "Free Software Debate Antipatterns"
+date = 2009-09-21 22:27:04+00:00
+path = "/2009/09/21/free_software_debate_antipatterns/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A collection of fallacious arguments commonly encountered in debates about Free Software.  
   

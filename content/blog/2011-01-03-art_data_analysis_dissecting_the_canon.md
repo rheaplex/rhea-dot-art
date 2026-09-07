@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-03 20:30:13+00:00
-layout: post
-slug: art_data_analysis_dissecting_the_canon
-title: 'Art Data Analysis: Dissecting The Canon'
-id: 1910
-categories:
-- Aesthetics
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Dissecting The Canon"
+date = 2011-01-03 20:30:13+00:00
+path = "/2011/01/03/art_data_analysis_dissecting_the_canon/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![venus-long-tail.png](/images/2011/01/03/venus-long-tail.png)[Dissecting the Canon: Visual Subject Co-Popularity Networks in Art Research](http://www.jeruccs2008.org/node/114)  
   

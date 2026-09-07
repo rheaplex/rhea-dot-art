@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-02-06 04:23:21+00:00
-layout: post
-slug: art-for-algorithms
-title: Art For Algorithms
-id: 2765
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Culture
-- Politics
-- Projects
----
++++
+title = "Art For Algorithms"
+date = 2015-02-06 04:23:21+00:00
+path = "/2015/02/06/art-for-algorithms/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Culture",
+    "Politics",
+    "Projects",
+]
++++
 
 [![art-for-algorithms](/images/2015/02/art-for-algorithms.png)](/images/2015/02/art-for-algorithms.png)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-18 08:23:05+00:00
-layout: post
-slug: cc-licenses-getting-to-version-30
-title: '[cc-licenses] Getting to Version 3.0'
-id: 937
-categories:
-- Free Culture
----
++++
+title = "[cc-licenses] Getting to Version 3.0"
+date = 2006-05-18 08:23:05+00:00
+path = "/2006/05/18/cc-licenses-getting-to-version-30/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [[cc-licenses] Getting to Version 3.0](http://lists.ibiblio.org/pipermail/cc-licenses/2006-May/003557.html)  
   

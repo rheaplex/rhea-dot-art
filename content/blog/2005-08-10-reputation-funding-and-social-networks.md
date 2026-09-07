@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-10 06:54:53+00:00
-layout: post
-slug: reputation-funding-and-social-networks
-title: Reputation, Funding and Social Networks
-id: 631
-categories:
-- Free Culture
----
++++
+title = "Reputation, Funding and Social Networks"
+date = 2005-08-10 06:54:53+00:00
+path = "/2005/08/10/reputation-funding-and-social-networks/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Following on from Remix Reading and LETS schemes, a local social networking system for sharing out grants in Vienna, via [BoingBoing](http://www.boingboing.net/2005/08/08/vienna_netart_commun.html):  

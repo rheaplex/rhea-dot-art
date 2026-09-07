@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-04-17 22:01:05+00:00
-layout: post
-slug: the-sisters-of-mercy-forum-9409
-title: The Sisters Of Mercy - Forum, 9/4/09
-id: 1755
-categories:
-- Reviews
----
++++
+title = "The Sisters Of Mercy - Forum, 9/4/09"
+date = 2009-04-17 22:01:05+00:00
+path = "/2009/04/17/the-sisters-of-mercy-forum-9409/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Half a lifetime ago I saw the Sisters of Mercy at the NEC in Birmingham. It was the biggest and loudest gig I've ever been to, a spectacle that left me unable to hear properly until I got back off the coach on the return journey. Every time the Sisters headed offshore after that I promised myself I'd go to see them again.  
   

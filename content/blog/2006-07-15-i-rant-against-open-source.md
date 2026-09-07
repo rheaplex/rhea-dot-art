@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-15 09:15:19+00:00
-layout: post
-slug: i-rant-against-open-source
-title: I Rant Against “Open Source”…
-id: 1041
-categories:
-- Free Culture
----
++++
+title = "I Rant Against “Open Source”…"
+date = 2006-07-15 09:15:19+00:00
+path = "/2006/07/15/i-rant-against-open-source/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 ...as opposed to "Free Software", and how it melts artists and philosophers brains:  

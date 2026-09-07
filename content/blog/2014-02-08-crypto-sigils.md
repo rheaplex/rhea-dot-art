@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-08 07:33:57+00:00
-layout: post
-slug: crypto-sigils
-title: Crypto Sigils
-id: 2503
-categories:
-- Generative Art
-- Magick
-- Projects
----
++++
+title = "Crypto Sigils"
+date = 2014-02-08 07:33:57+00:00
+path = "/2014/02/08/crypto-sigils/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Magick",
+    "Projects",
+]
++++
 
 [![sigil](/images/2014/02/sigil.png)](/images/2014/02/sigil.png)
 

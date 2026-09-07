@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-11 06:37:10+00:00
-layout: post
-slug: auratic-artwork-test-1
-title: Auratic Artwork Test 1
-id: 634
-categories:
-- Projects
-- Sketchblog
----
++++
+title = "Auratic Artwork Test 1"
+date = 2005-08-11 06:37:10+00:00
+path = "/2005/08/11/auratic-artwork-test-1/"
+
+[taxonomies]
+categories = [
+    "Projects",
+    "Sketchblog",
+]
++++
 
   
 ![Imag0048](/images/IMAG0048.jpg)  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-13 05:24:42+00:00
-layout: post
-slug: notes-you-cant-do-that-with-our-boxes
-title: Notes… You Can't Do That With Our Boxes
-id: 641
-categories:
-- Free Culture
----
++++
+title = "Notes… You Can't Do That With Our Boxes"
+date = 2005-08-13 05:24:42+00:00
+path = "/2005/08/13/notes-you-cant-do-that-with-our-boxes/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Copyfight on the DMCA being misused to threaten someone who used some boxes to make furinture:  

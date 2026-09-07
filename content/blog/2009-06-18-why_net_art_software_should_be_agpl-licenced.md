@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-06-18 21:17:16+00:00
-layout: post
-slug: why_net_art_software_should_be_agpl-licenced
-title: Why Net Art Software Should Be AGPL-Licenced
-id: 1767
-categories:
-- Art Computing
-- Free Culture
----
++++
+title = "Why Net Art Software Should Be AGPL-Licenced"
+date = 2009-06-18 21:17:16+00:00
+path = "/2009/06/18/why_net_art_software_should_be_agpl-licenced/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 Restricting the study, production, display, preservation or other uses of artworks removes the freedom of those involved in art and thereby damages the cultural, social and economic value of art. Where restrictions take the form of copyright, copyleft licences are a good way of restoring peoples freedom. The freedom of curators, critics and academics, collectors, audience, and artists to use software is part of their freedom to use software-based net art as art.  
   

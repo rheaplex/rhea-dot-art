@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-17 09:58:39+00:00
-layout: post
-slug: operation-remix
-title: 'Operation: Remix'
-id: 515
-categories:
-- Free Culture
----
++++
+title = "Operation: Remix"
+date = 2005-06-17 09:58:39+00:00
+path = "/2005/06/17/operation-remix/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Another excellent competition from [Creative Commons](http://www.creativecommons.org/):  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-22 06:47:08+00:00
-layout: post
-slug: new-rhizome-site-design-launch
-title: New Rhizome Site Design Launch
-id: 763
-categories:
-- Generative Art
----
++++
+title = "New Rhizome Site Design Launch"
+date = 2005-12-22 06:47:08+00:00
+path = "/2005/12/22/new-rhizome-site-design-launch/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 The excellent Rhizome have a new site design:  

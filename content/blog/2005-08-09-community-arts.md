@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-09 05:17:08+00:00
-layout: post
-slug: community-arts
-title: Community Arts
-id: 622
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Community Arts"
+date = 2005-08-09 05:17:08+00:00
+path = "/2005/08/09/community-arts/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
   
 Saul mentions Community Arts in one essay. WtK are Community Arts? Must research...  

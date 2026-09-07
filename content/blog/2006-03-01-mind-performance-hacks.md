@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-01 04:56:13+00:00
-layout: post
-slug: mind-performance-hacks
-title: Mind Performance Hacks
-id: 853
-categories:
-- Reviews
----
++++
+title = "Mind Performance Hacks"
+date = 2006-03-01 04:56:13+00:00
+path = "/2006/03/01/mind-performance-hacks/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 [](http://www.oreilly.com/catalog/mindperfhks/index.html) Mind Performance Hacks  
   

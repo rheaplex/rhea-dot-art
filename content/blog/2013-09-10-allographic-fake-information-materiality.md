@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-09-10 00:40:25+00:00
-layout: post
-slug: allographic-fake-information-materiality
-title: Allographic, Fake, Information, Materiality
-id: 2396
-categories:
-- Aesthetics
-- Art
-- Art History
----
++++
+title = "Allographic, Fake, Information, Materiality"
+date = 2013-09-10 00:40:25+00:00
+path = "/2013/09/10/allographic-fake-information-materiality/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art History",
+]
++++
 
 In "Languages Of Art" Nelson Goodman describes two types of art, allographic and autographic. Allographic art has a notational score and is distributed by reproduction, like a novel or a DVD. Autographic art is a unique original artwork, like a painting or sculpture.
 

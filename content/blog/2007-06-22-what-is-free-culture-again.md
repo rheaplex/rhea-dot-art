@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-22 06:21:27+00:00
-layout: post
-slug: what-is-free-culture-again
-title: What Is Free Culture? (Again)
-id: 1363
-categories:
-- Free Culture
----
++++
+title = "What Is Free Culture? (Again)"
+date = 2007-06-22 06:21:27+00:00
+path = "/2007/06/22/what-is-free-culture-again/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free Culture[1] is the culture of an Open Society[2]. An open society must be Pluralistic[3]. Freedom of Speech[4] is a necessary condition for pluralism.  
   

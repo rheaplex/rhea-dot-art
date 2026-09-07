@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 05:45:20+00:00
-layout: post
-slug: sciencedaily-composer-reveals-musical-chords-hidden-geometry
-title: 'ScienceDaily: Composer Reveals Musical Chords'' Hidden Geometry'
-id: 1024
-categories:
-- Aesthetics
----
++++
+title = "ScienceDaily: Composer Reveals Musical Chords' Hidden Geometry"
+date = 2006-07-08 05:45:20+00:00
+path = "/2006/07/08/sciencedaily-composer-reveals-musical-chords-hidden-geometry/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [ScienceDaily: Composer Reveals Musical Chords' Hidden Geometry](http://www.sciencedaily.com/releases/2006/07/060707094055.htm)  
   

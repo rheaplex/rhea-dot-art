@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 22:46:19+00:00
-layout: post
-slug: defending-the-gpl
-title: Defending the GPL
-id: 615
-categories:
-- Free Culture
----
++++
+title = "Defending the GPL"
+date = 2005-08-07 22:46:19+00:00
+path = "/2005/08/07/defending-the-gpl/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Groklaw on Eric Laffoon on:  

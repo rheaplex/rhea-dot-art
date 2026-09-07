@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 06:58:42+00:00
-layout: post
-slug: against-game-theory
-title: Against Game Theory
-id: 613
-categories:
-- Free Culture
----
++++
+title = "Against Game Theory"
+date = 2005-08-07 06:58:42+00:00
+path = "/2005/08/07/against-game-theory/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Game theory seems to have displace the "invisible hand" as the moral excuser for economics. From "it will be OK" to "it cannot be OK".  

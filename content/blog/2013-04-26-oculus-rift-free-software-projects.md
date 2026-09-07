@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-26 13:11:15+00:00
-layout: post
-slug: oculus-rift-free-software-projects
-title: Oculus Rift Free Software Projects
-id: 2304
-categories:
-- Free Software
----
++++
+title = "Oculus Rift Free Software Projects"
+date = 2013-04-26 13:11:15+00:00
+path = "/2013/04/26/oculus-rift-free-software-projects/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 Although the Oculus Rift SDK isn't itself free software, there are already a number of projects that use or replace it that are.
 

@@ -1,11 +1,8 @@
----
-author: Rhea Myers
-comments: false
-date: 2024-01-28 17:03:53+08:00
-layout: post
-slug: and-were-back
-title: And We're Back
----
++++
+title = "And We're Back"
+date = 2024-01-28 17:03:53+08:00
+path = "/2024/01/28/and-were-back/"
++++
 
 I have restored the blog and my full art catalogue to this version of the site.
 

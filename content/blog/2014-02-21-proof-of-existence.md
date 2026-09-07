@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-21 00:06:24+00:00
-layout: post
-slug: proof-of-existence
-title: Proof of Existence
-id: 2526
-categories:
-- Art
-- Projects
----
++++
+title = "Proof of Existence"
+date = 2014-02-21 00:06:24+00:00
+path = "/2014/02/21/proof-of-existence/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+]
++++
 
 [![Genome Bitcoin Address](/images/2014/02/genome.png)](/images/2014/02/genome.png)
 

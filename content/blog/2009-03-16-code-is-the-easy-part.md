@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-16 22:03:26+00:00
-layout: post
-slug: code-is-the-easy-part
-title: Code is the Easy Part
-id: 1741
-categories:
-- Free Culture
----
++++
+title = "Code is the Easy Part"
+date = 2009-03-16 22:03:26+00:00
+path = "/2009/03/16/code-is-the-easy-part/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I once offended some BBC backstage hackers by claiming that the hardware and software for an online media service was the easy part. I didn't mean to imply that making and maintaining a large datacentre to serve audio and video streams to hundreds of thousands of users is easy, quite the opposite. It's just that the even compared to such a striking technological achievement, the contractual negotiations with rightsholders are a harder problem.  
   

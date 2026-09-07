@@ -1,8 +1,17 @@
 +++
 title = "The Ego, and It’s 0wned"
 date = 2023-01-27
+path = "/the-ego-and-its-0wned/"
+
+[extra]
 image = "/art-images/hugging-shark-friend.png"
-mediums = ["HTML5", "EEG Data", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "EEG Data",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6622
 +++
 

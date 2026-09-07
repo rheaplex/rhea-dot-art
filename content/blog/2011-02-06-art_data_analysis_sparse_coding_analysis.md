@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-06 12:27:21+00:00
-layout: post
-slug: art_data_analysis_sparse_coding_analysis
-title: 'Art Data Analysis: Sparse Coding Analysis'
-id: 1919
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Sparse Coding Analysis"
+date = 2011-02-06 12:27:21+00:00
+path = "/2011/02/06/art_data_analysis_sparse_coding_analysis/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![Bruegel](/images/2011/02/06/_47033536_n8200093-spl.h.jpg)  
   

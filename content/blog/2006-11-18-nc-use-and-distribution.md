@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-18 05:14:09+00:00
-layout: post
-slug: nc-use-and-distribution
-title: NC, Use and Distribution
-id: 1171
-categories:
-- Free Culture
----
++++
+title = "NC, Use and Distribution"
+date = 2006-11-18 05:14:09+00:00
+path = "/2006/11/18/nc-use-and-distribution/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The GPL concerns Use of software but is triggered by Distribution. Use is not the same as Distribution. In particular Distribution is not a form of Use. It is common to confuse the two, but this is a mistake similar to confusing use value with exchange value in economics. Strictly speaking only users of software have the right to distribute it (well, receive its source).  
   

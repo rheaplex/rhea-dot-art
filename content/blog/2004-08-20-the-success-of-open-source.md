@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-20 08:39:15+00:00
-layout: post
-slug: the-success-of-open-source
-title: The Success Of Open Source
-id: 193
-categories:
-- Free Culture
----
++++
+title = "The Success Of Open Source"
+date = 2004-08-20 08:39:15+00:00
+path = "/2004/08/20/the-success-of-open-source/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A book on why Open Source works, how it's good for business, and how its principles are more broadly applicable  
   

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-12-19 17:54:03+00:00
-layout: post
-slug: how-draw-something-works
-title: How draw-something Works
-id: 2472
-categories:
-- Art Computing
-- Generative Art
-- Projects
----
++++
+title = "How draw-something Works"
+date = 2013-12-19 17:54:03+00:00
+path = "/2013/12/19/how-draw-something-works/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
 
 The version of draw-something on tumblr is a simple model of creative drawing. It's meant to be a minimally defensible model of art, although probably a pre-postmodern art.
 

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-10 23:16:49+00:00
-layout: post
-slug: urinal_follow-up
-title: Urinal Follow-Up
-id: 1922
-categories:
-- Art
-- Projects
----
++++
+title = "Urinal Follow-Up"
+date = 2011-02-10 23:16:49+00:00
+path = "/2011/02/10/urinal_follow-up/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+]
++++
 
 The conversation in the comments at Thingiverse has been great, do take a look -  
   

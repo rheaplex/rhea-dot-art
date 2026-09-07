@@ -1,13 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-31 17:52:25+00:00
-layout: post
-slug: various_links
-title: Various Links
-id: 1835
----
-
++++
+title = "Various Links"
+date = 2010-03-31 17:52:25+00:00
+path = "/2010/03/31/various_links/"
++++
 
 [Werewolves in Music](http://werewolf-news.com/2010/03/werewolves-in-music/)
 

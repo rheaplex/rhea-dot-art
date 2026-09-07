@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-21 02:09:06+00:00
-layout: post
-slug: flickr-photos-with-a-creative-commons-attribution-sharealike-license
-title: Flickr photos with a Creative Commons Attribution-ShareAlike License
-id: 1081
-categories:
-- Free Culture
----
++++
+title = "Flickr photos with a Creative Commons Attribution-ShareAlike License"
+date = 2006-08-21 02:09:06+00:00
+path = "/2006/08/21/flickr-photos-with-a-creative-commons-attribution-sharealike-license/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Flickr photos with a Creative Commons Attribution-ShareAlike License](http://www.flickr.com/creativecommons/by-sa-2.0/)  
   

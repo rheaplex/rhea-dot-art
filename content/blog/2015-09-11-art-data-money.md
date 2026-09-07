@@ -1,9 +1,9 @@
----
-layout: post
-title: Art Data Money
-slug: art-data-money
-date: 2015-09-11
----
++++
+title = "Art Data Money"
+date = 2015-09-11
+path = "/2015/09/11/art-data-money/"
++++
+
 [![Art Data Money](/images/2015/adm-logo.png)](http://www.furtherfield.org/artdatamoney/)
 
 [Art Data Money](http://www.furtherfield.org/artdatamoney/) is [Furtherfield](http://www.furtherfield.org/)'s new programme of art shows, lab events and debates.

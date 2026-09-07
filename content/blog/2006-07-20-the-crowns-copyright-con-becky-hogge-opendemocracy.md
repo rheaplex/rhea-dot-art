@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-20 06:03:01+00:00
-layout: post
-slug: the-crowns-copyright-con-becky-hogge-opendemocracy
-title: The Crown's copyright con Becky Hogge - openDemocracy
-id: 1047
-categories:
-- Free Culture
----
++++
+title = "The Crown's copyright con Becky Hogge - openDemocracy"
+date = 2006-07-20 06:03:01+00:00
+path = "/2006/07/20/the-crowns-copyright-con-becky-hogge-opendemocracy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [The Crown's copyright con Becky Hogge - openDemocracy](http://www.opendemocracy.net/media/copyright_con_3746.jsp)  
   

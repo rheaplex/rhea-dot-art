@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-10 19:48:33+00:00
-layout: post
-slug: screwdriver_sketch
-title: Screwdriver Sketch
-id: 1806
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Screwdriver Sketch"
+date = 2009-11-10 19:48:33+00:00
+path = "/2009/11/10/screwdriver_sketch/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 SCENE 16.  
 --------  

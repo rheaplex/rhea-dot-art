@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-23 23:52:22+00:00
-layout: post
-slug: being_fair_and_balanced_about_the_npg
-title: Being Fair And Balanced About the NPG
-id: 1776
-categories:
-- Free Culture
----
++++
+title = "Being Fair And Balanced About the NPG"
+date = 2009-07-23 23:52:22+00:00
+path = "/2009/07/23/being_fair_and_balanced_about_the_npg/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ORG have commented -  
   

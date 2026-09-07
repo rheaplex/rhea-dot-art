@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-14 20:34:25+00:00
-layout: post
-slug: debasing-wikipedia
-title: Debasing Wikipedia
-id: 644
-categories:
-- Free Culture
----
++++
+title = "Debasing Wikipedia"
+date = 2005-08-14 20:34:25+00:00
+path = "/2005/08/14/debasing-wikipedia/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Viral marketing debasing Wikipedia:  

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-04 23:27:44+00:00
-layout: post
-slug: explor_update
-title: Explor Update
-id: 1911
-categories:
-- Art
-- Art Computing
-- Art History
----
++++
+title = "Explor Update"
+date = 2011-01-04 23:27:44+00:00
+path = "/2011/01/04/explor_update/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Art History",
+]
++++
 
 ![example6.png](/images/2011/01/04/example6.png)I have updated my Explor compiler.  
   

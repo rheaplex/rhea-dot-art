@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-03 09:28:00+00:00
-layout: post
-slug: danica-phelps
-title: Danica Phelps
-id: 1017
-categories:
-- Aesthetics
----
++++
+title = "Danica Phelps"
+date = 2006-07-03 09:28:00+00:00
+path = "/2006/07/03/danica-phelps/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 ![200607022341](/images/2006/07/200607022341.jpg)  

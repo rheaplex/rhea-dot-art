@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-28 04:45:46+00:00
-layout: post
-slug: seed-projects-via-cc-community
-title: “Seed Projects”, via cc-community
-id: 946
-categories:
-- Free Culture
----
++++
+title = "“Seed Projects”, via cc-community"
+date = 2006-05-28 04:45:46+00:00
+path = "/2006/05/28/seed-projects-via-cc-community/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 There are two interesting examples of commercial CC projects that pay for themselves. Loca Records license their music BY-SA and make money through CD sales and performances. It can be done. :-) And Elephants Dream, a short (11 minute) computer animated film, was paid for by pre-sales of DVDs (the "street performer protocol"). Elephants Dream is also a seed project, it has all the 3D files and other media needed to make a complete short film, but it is BY rather than BY-SA.  

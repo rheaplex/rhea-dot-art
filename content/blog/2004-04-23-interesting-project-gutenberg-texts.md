@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-23 06:48:45+00:00
-layout: post
-slug: interesting-project-gutenberg-texts
-title: Interesting Project Gutenberg Texts
-id: 129
-categories:
-- Aesthetics
----
++++
+title = "Interesting Project Gutenberg Texts"
+date = 2004-04-23 06:48:45+00:00
+path = "/2004/04/23/interesting-project-gutenberg-texts/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Leonardo's Notebooks](http://www.gutenberg.net/etext/5000)   
 [Psychology of Beauty](http://www.gutenberg.net/etext/3751)   

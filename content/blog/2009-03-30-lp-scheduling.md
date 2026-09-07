@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-30 20:56:59+00:00
-layout: post
-slug: lp-scheduling
-title: LP - Scheduling
-id: 1748
-categories:
-- Free Culture
----
++++
+title = "LP - Scheduling"
+date = 2009-03-30 20:56:59+00:00
+path = "/2009/03/30/lp-scheduling/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The first day of talks at Libre Planet was scheduled, the second day was open to suggestions. These were gathered using sticky notes and organized on a wiki. This worked very well, with a good balance of thorough presentations of projects and issues and more open discussions.  
   

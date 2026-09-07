@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-10 08:26:42+00:00
-layout: post
-slug: on-crap-installation-art
-title: On Crap Installation Art
-id: 753
-categories:
-- Aesthetics
----
++++
+title = "On Crap Installation Art"
+date = 2005-12-10 08:26:42+00:00
+path = "/2005/12/10/on-crap-installation-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 A posting on crap installation art:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-17 03:40:07+00:00
-layout: post
-slug: lawrence-liang-essays
-title: Lawrence Liang Essays
-id: 345
-categories:
-- Free Culture
----
++++
+title = "Lawrence Liang Essays"
+date = 2005-03-17 03:40:07+00:00
+path = "/2005/03/17/lawrence-liang-essays/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Guide To Open Content Licenses:  
   

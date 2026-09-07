@@ -1,10 +1,7 @@
 +++
 title = "RHIZOME_RAW: WITH THE NAKED EYE-Interview with Rhea Myers (by Manik)"
-author = ["Rhea Myers"]
 date = 2005-06-23
-lastmod = 2005-06-23
-slug = "rhizome_raw-with-the-naked-eye-interview-with-rhea-myers-by-manik"
-draft = false
+path = "/2005/06/23/rhizome_raw-with-the-naked-eye-interview-with-rhea-myers-by-manik/"
 +++
 
 **1.The highly developed products of software, net. or web art require a transparent (free) infrastructure and free access to source (code). Your work is connected with [Creative Commons](http://www.creativecommons.org/), [Free Software](http://www.gnu.org/), [Free Culture.](http://www.free-culture.cc/)**

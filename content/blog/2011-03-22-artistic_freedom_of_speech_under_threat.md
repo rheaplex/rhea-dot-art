@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-03-22 19:01:42+00:00
-layout: post
-slug: artistic_freedom_of_speech_under_threat
-title: Artistic Freedom Of Speech Under Threat
-id: 1925
-categories:
-- Art
-- Free Culture
----
++++
+title = "Artistic Freedom Of Speech Under Threat"
+date = 2011-03-22 19:01:42+00:00
+path = "/2011/03/22/artistic_freedom_of_speech_under_threat/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+]
++++
 
 In the US a judge has declared a series of paintings illegal because of copyright. [They cannot be shown](https://twitter.com/#%21/joygarnett/status/50208162787246080) by their owners:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-16 08:07:10+00:00
-layout: post
-slug: cool-processing-work-with-source
-title: Cool Processing Work With Source
-id: 510
-categories:
-- Generative Art
----
++++
+title = "Cool Processing Work With Source"
+date = 2005-06-16 08:07:10+00:00
+path = "/2005/06/16/cool-processing-work-with-source/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 I love the fact that [Processing](http://www.processing.org/) defaults to giving you the source when you publish work with it. This means that you get to see how work like this is created:  

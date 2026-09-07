@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-15 05:50:31+00:00
-layout: post
-slug: open-score-in-progress
-title: Open Score In Progress
-id: 981
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Open Score In Progress"
+date = 2006-06-15 05:50:31+00:00
+path = "/2006/06/15/open-score-in-progress/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
   
 ![Open Score](/images/2006/06/open_score_large.png)  

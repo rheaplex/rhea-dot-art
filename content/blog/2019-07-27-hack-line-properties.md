@@ -1,16 +1,20 @@
----
-id: 3296
-title: 'Hack Line Properties'
-date: '2019-07-27T06:00:32+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Projects
----
++++
+title = "Hack Line Properties"
+date = 2019-07-27 06:00:32+00:00
+path = "/2019/07/27/hack-line-properties/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 **Hack Line Properties, 2019, Ethereum DApp.**
 

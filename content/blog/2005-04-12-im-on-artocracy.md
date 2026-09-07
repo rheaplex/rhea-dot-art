@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-12 06:37:36+00:00
-layout: post
-slug: im-on-artocracy
-title: I'm on Artocracy
-id: 381
-categories:
-- Projects
----
++++
+title = "I'm on Artocracy"
+date = 2005-04-12 06:37:36+00:00
+path = "/2005/04/12/im-on-artocracy/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 You can now buy some of my images at Artocracy.  
   

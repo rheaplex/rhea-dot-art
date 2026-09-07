@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-24 07:31:49+00:00
-layout: post
-slug: notes-towards-free-culture-6
-title: Notes Towards Free Culture
-id: 1002
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2006-06-24 07:31:49+00:00
+path = "/2006/06/24/notes-towards-free-culture-6/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [The Commoner N.11 - spring/summer 2006 Re(in)fusing the Commons](http://www.commoner.org.uk/)  

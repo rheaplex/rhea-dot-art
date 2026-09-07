@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-05-04 20:32:25+00:00
-layout: post
-slug: magazine-electronique-du-ciac-ciacs-electronic-magazine
-title: Magazine électronique du CIAC - CIAC's Electronic Magazine
-id: 1762
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Magazine électronique du CIAC - CIAC's Electronic Magazine"
+date = 2009-05-04 20:32:25+00:00
+path = "/2009/05/04/magazine-electronique-du-ciac-ciacs-electronic-magazine/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 [Magazine électronique du CIAC - CIAC's Electronic Magazine](http://www.ciac.ca/magazine/).  
   

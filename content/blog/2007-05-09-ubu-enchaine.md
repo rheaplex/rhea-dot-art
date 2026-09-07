@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-09 06:22:23+00:00
-layout: post
-slug: ubu-enchaine
-title: Ubu Enchaine
-id: 1287
-categories:
-- Aesthetics
-- Free Culture
-- Satire
----
++++
+title = "Ubu Enchaine"
+date = 2007-05-09 06:22:23+00:00
+path = "/2007/05/09/ubu-enchaine/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Satire",
+]
++++
 
 Ubu Enchaine (Ubu Enchained) is the third of Alfred Jarry's Pere Ubu (Pa Ubu) plays. After refusing to say "merdre", Pere Ubu arrives in France sets himself against the ideal of liberty, demanding to be made a slave.  
   

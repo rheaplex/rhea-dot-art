@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-05-03 07:29:42+00:00
-layout: post
-slug: what-is-art
-title: What Is Art?
-id: 40
-categories:
-- Satire
----
++++
+title = "What Is Art?"
+date = 2003-05-03 07:29:42+00:00
+path = "/2003/05/03/what-is-art/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 I asked ThoughtTreasure (a natural language/commonsense system):  
   

@@ -1,14 +1,16 @@
----
-title: Using The Palette
-date: 2016-07-17 15:55:37.000000000 -07:00
-type: post
-layout: post
-categories:
-- Aesthetics
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "Using The Palette"
+date = 2016-07-17 15:55:37-07:00
+path = "/2016/07/17/using-the-palette/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![palette-chooser](/images/2016/07/palette-chooser.png)
 
 The "[Democratic Palette](/2016/07/11/democratic-palette/)" contract provides 12 colours to use. What happens if griefers set the palette to 12 colours that are almost exactly the same? What happens if you need colours with more or less contrast or hue difference? What if you need more or fewer colours? The only guarantee about them is that they will all be different by at least one point.

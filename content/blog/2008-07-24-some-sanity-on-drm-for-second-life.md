@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-24 07:40:17+00:00
-layout: post
-slug: some-sanity-on-drm-for-second-life
-title: Some Sanity On DRM For Second Life
-id: 1640
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "Some Sanity On DRM For Second Life"
+date = 2008-07-24 07:40:17+00:00
+path = "/2008/07/24/some-sanity-on-drm-for-second-life/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 [http://gwala.net/blog/2008/07/virtual-worlds-why-drm-cannot-protect-you-for-long/](http://gwala.net/blog/2008/07/virtual-worlds-why-drm-cannot-protect-you-for-long/)  
   

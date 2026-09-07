@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-12 02:31:08+00:00
-layout: post
-slug: peter-the-pirate-squid
-title: Peter The Pirate Squid
-id: 1441
-categories:
-- Reviews
----
++++
+title = "Peter The Pirate Squid"
+date = 2007-08-12 02:31:08+00:00
+path = "/2007/08/12/peter-the-pirate-squid/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Cover by ROMAN DIRGE. Story by ROMAN DIRGE.  
   

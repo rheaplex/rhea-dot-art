@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-25 02:12:19+00:00
-layout: post
-slug: whatever-happened-to-ai
-title: Whatever Happened To AI?
-id: 402
-categories:
-- Generative Art
----
++++
+title = "Whatever Happened To AI?"
+date = 2005-04-25 02:12:19+00:00
+path = "/2005/04/25/whatever-happened-to-ai/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Asks Newscientist, via Mindhacks:  
   

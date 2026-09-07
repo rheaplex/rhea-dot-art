@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-11 02:28:37+00:00
-layout: post
-slug: running-your-own-opensim-sim
-title: Running Your Own OpenSim Sim
-id: 1651
-categories:
-- Art Computing
-- Free Culture
-- Generative Art
-- Howto
----
++++
+title = "Running Your Own OpenSim Sim"
+date = 2008-08-11 02:28:37+00:00
+path = "/2008/08/11/running-your-own-opensim-sim/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+    "Generative Art",
+    "Howto",
+]
++++
 
 I've found it surprisingly easy to get started running OpenSim. Here are some good guides to going beyond just starting a sim.  
   

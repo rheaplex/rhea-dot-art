@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 06:23:41+00:00
-layout: post
-slug: the-image-does-not-become-secondary
-title: The Image Does Not Become Secondary
-id: 609
-categories:
-- Generative Art
----
++++
+title = "The Image Does Not Become Secondary"
+date = 2005-08-07 06:23:41+00:00
+path = "/2005/08/07/the-image-does-not-become-secondary/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 The image only becomes secondary in _amateur_ art. Much electronic art is amateur because of this; making the work was far more engaging and interesting than suffering the finished piece is. But To privilege code over image simply makes the work code, not art. Code is preparatory work, it is underpainting, it is not, of itself, art in any useful sense.  

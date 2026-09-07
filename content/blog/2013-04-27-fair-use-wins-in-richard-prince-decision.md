@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-27 17:51:54+00:00
-layout: post
-slug: fair-use-wins-in-richard-prince-decision
-title: Fair Use Wins In Richard Prince Decision
-id: 2306
-categories:
-- Art
-- Free Culture
----
++++
+title = "Fair Use Wins In Richard Prince Decision"
+date = 2013-04-27 17:51:54+00:00
+path = "/2013/04/27/fair-use-wins-in-richard-prince-decision/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+]
++++
 
 [![Patrick Cariou, Yes Rats, 2000](/images/2013/04/cariou.jpg)](/images/2013/04/cariou.jpg)
 

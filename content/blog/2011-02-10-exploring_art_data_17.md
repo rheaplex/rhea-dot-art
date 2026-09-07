@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-10 20:19:06+00:00
-layout: post
-slug: exploring_art_data_17
-title: Exploring Art Data 17
-id: 1921
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 17"
+date = 2011-02-10 20:19:06+00:00
+path = "/2011/02/10/exploring_art_data_17/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's clean up the Constable data from Graves Art Sales.  
   

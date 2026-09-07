@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 09:46:31+00:00
-layout: post
-slug: flickr-not-hosting-drawngs
-title: Flickr Not Hosting Drawngs?
-id: 731
-categories:
-- Free Culture
----
++++
+title = "Flickr Not Hosting Drawngs?"
+date = 2005-11-24 09:46:31+00:00
+path = "/2005/11/24/flickr-not-hosting-drawngs/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Via [Boing Boing](http://www.boingboing.net/):  

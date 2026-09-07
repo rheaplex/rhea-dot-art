@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-13 07:34:59+00:00
-layout: post
-slug: complements
-title: Complements
-id: 890
-categories:
-- Aesthetics
----
++++
+title = "Complements"
+date = 2006-04-13 07:34:59+00:00
+path = "/2006/04/13/complements/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Complicit art is radicalism to radicalism (two lefts make a right). It is a way of shocking the bourgeoisie when the chattering classes are all as radical as fuck. The complicity of shocking the complicit bourgeoisie with radicalism (modernism) simply swapped for the complicity of shocking the radical bourgeoisie with complicity (relational aesthetics). This is as naive a negativity as that alleged for modernism. Nothing to see here, move along.  
   

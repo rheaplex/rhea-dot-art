@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-09 09:44:43+00:00
-layout: post
-slug: draw-something-in-progress
-title: draw something In Progress
-id: 1482
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw something In Progress"
+date = 2007-09-09 09:44:43+00:00
+path = "/2007/09/09/draw-something-in-progress/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![200709082343](/images/2007/09/200709082343.jpg)  
   

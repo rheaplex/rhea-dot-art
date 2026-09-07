@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-18 05:07:28+00:00
-layout: post
-slug: nc-is-not-magnatunes-secret-sauce
-title: NC Is Not Magnatune's Secret Sauce
-id: 1170
-categories:
-- Free Culture
----
++++
+title = "NC Is Not Magnatune's Secret Sauce"
+date = 2006-11-18 05:07:28+00:00
+path = "/2006/11/18/nc-is-not-magnatunes-secret-sauce/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The NC business model that Magnatune use has clearly inspired Creative Commons. Magnatune's success makes them a very positive model for a record label, but not in the way that might be expected from their use of NC. The problem is that the threats to their livelihoods that recording artists actually face are not the same as the ones that NC actually tackles.  
   

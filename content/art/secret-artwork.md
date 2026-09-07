@@ -1,9 +1,20 @@
 +++
 title = "Secret Artwork"
 date = 2018-09-18
+path = "/secret-artwork/"
+
+[extra]
 image = "/art-images/secret-artwork.png"
-mediums = ["Ethereum ERC-721 NFT", "HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
-aliases_names = ["Secret Artwork (Content)"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
+aliases_names = [
+    "Secret Artwork (Content)",
+]
 wp_id = 6636
 +++
 

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-06-19 21:25:30+00:00
-layout: post
-slug: evie_matthieson_parallel_space
-title: '[Evie Matthieson] Parallel Space'
-id: 1936
-categories:
-- Art Computing
-- Art History
-- Evie Matthieson
-- Generative Art
----
++++
+title = "[Evie Matthieson] Parallel Space"
+date = 2011-06-19 21:25:30+00:00
+path = "/2011/06/19/evie_matthieson_parallel_space/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Evie Matthieson",
+    "Generative Art",
+]
++++
 
 **Parallel Space  
 

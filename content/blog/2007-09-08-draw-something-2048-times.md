@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-08 06:59:37+00:00
-layout: post
-slug: draw-something-2048-times
-title: draw-something 2048 times
-id: 1480
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something 2048 times"
+date = 2007-09-08 06:59:37+00:00
+path = "/2007/09/08/draw-something-2048-times/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 I've just started a version of draw-something running that is going to generate 2048 images. I wonder if it will be finished by Monday?  
   

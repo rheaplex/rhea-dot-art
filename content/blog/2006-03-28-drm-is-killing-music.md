@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-28 05:34:10+00:00
-layout: post
-slug: drm-is-killing-music
-title: DRM is Killing Music
-id: 873
-categories:
-- Free Culture
-- Satire
----
++++
+title = "DRM is Killing Music"
+date = 2006-03-28 05:34:10+00:00
+path = "/2006/03/28/drm-is-killing-music/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 [Boing Boing: DRM is Killing Music parody of "Home Taping is Killing Music"](http://www.boingboing.net/2006/03/27/drm_is_killing_music.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-30 21:05:57+00:00
-layout: post
-slug: lp-floss-manuals-book-sprint
-title: LP - FLOSS Manuals Book Sprint
-id: 1751
-categories:
-- Free Culture
----
++++
+title = "LP - FLOSS Manuals Book Sprint"
+date = 2009-03-30 21:05:57+00:00
+path = "/2009/03/30/lp-floss-manuals-book-sprint/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 After making friends with the FLOSS Manuals guys I was initially worried by how few people were in the base room for their book sprint. I needn't have worried. As well as more people joining the room over the course of the weekend many other people were joining in from neighbouring rooms using the Harvard Science Centre's wireless network and also online.  
   

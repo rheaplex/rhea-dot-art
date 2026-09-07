@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-26 00:37:28+00:00
-layout: post
-slug: draw-something_2
-title: draw-something
-id: 1777
-categories:
-- Aesthetics
-- Art Computing
-- Free Culture
-- Generative Art
----
++++
+title = "draw-something"
+date = 2009-07-26 00:37:28+00:00
+path = "/2009/07/26/draw-something_2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 The version of draw-something running on this server now has web pages for each drawing and an rss feed of the most recent drawings.  
   

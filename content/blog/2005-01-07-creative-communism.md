@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-07 02:34:17+00:00
-layout: post
-slug: creative-communism
-title: Creative Communism
-id: 280
-categories:
-- Free Culture
----
++++
+title = "Creative Communism"
+date = 2005-01-07 02:34:17+00:00
+path = "/2005/01/07/creative-communism/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Pause to remember that Copyleft isn't Communism, then view the image below and laugh your backside off:  
   

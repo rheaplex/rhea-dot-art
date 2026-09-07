@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-06 06:38:21+00:00
-layout: post
-slug: draw-something-current-output
-title: draw-something Current Output
-id: 1500
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something Current Output"
+date = 2007-10-06 06:38:21+00:00
+path = "/2007/10/06/draw-something-current-output/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![drawing-20071005-202749.png](/images/2007/10/drawing-20071005-202749.png)  
   

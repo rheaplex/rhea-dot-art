@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-19 04:50:29+00:00
-layout: post
-slug: wiki-explosion
-title: Wiki Explosion
-id: 581
-categories:
-- Free Culture
----
++++
+title = "Wiki Explosion"
+date = 2005-07-19 04:50:29+00:00
+path = "/2005/07/19/wiki-explosion/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 On The Commons on wikis:  

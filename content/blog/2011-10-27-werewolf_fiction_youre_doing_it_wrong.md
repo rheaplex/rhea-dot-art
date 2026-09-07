@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-27 12:55:24+00:00
-layout: post
-slug: werewolf_fiction_youre_doing_it_wrong
-title: Werewolf Fiction. You're doing it wrong.
-id: 1964
----
++++
+title = "Werewolf Fiction. You're doing it wrong."
+date = 2011-10-27 12:55:24+00:00
+path = "/2011/10/27/werewolf_fiction_youre_doing_it_wrong/"
++++
 
 Werewolf fiction lacks the confidence of Vampire fiction. Vampire
 fiction is novel, reflexive, indexical, and complete. It is novel

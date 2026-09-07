@@ -1,17 +1,21 @@
----
-id: 3219
-title: 'Token Grid'
-date: '2019-05-05T19:49:55+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
-    - Projects
----
++++
+title = "Token Grid"
+date = 2019-05-05 19:49:55+00:00
+path = "/2019/05/05/token-grid/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 **Token Grid, 2019, Ethereum DApp.**
 

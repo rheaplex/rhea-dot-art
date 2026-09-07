@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-11 05:52:40+00:00
-layout: post
-slug: copy-rip-burn
-title: Copy Rip Burn
-id: 633
-categories:
-- Free Culture
----
++++
+title = "Copy Rip Burn"
+date = 2005-08-11 05:52:40+00:00
+path = "/2005/08/11/copy-rip-burn/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [http://www.libresociety.org/library/libre.pl/Copy%2c_Rip%2c_Burn](http://www.libresociety.org/library/libre.pl/Copy%2c_Rip%2c_Burn)  

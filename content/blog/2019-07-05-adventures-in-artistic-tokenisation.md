@@ -1,16 +1,20 @@
----
-id: 3261
-title: 'Adventures in Artistic Tokenisation'
-date: '2019-07-05T15:30:39+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Media
----
++++
+title = "Adventures in Artistic Tokenisation"
+date = 2019-07-05 15:30:39+00:00
+path = "/2019/07/05/adventures-in-artistic-tokenisation/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Media",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 ![](/images/2018/09/secret-artwork-1024x539.png)
 

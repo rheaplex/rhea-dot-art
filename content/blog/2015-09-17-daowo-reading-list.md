@@ -1,10 +1,9 @@
----
-layout: post
-title: A DAOWO Reading List
-slug: a-daowo-reading-list
-date: 2015-09-17
++++
+title = "A DAOWO Reading List"
+date = 2015-09-17
+path = "/2015/09/17/a-daowo-reading-list/"
++++
 
----
 [![DAOWO](/images/2015/daowo-cover.png)](http://www.furtherfield.org/artdatamoney/debate/)
 *Cover image by Martin Grandjean, 2014, Licensed Creative Commons Attribution-Sharealike.*
 

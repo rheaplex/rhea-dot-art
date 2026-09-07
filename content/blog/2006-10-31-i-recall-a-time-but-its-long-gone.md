@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-31 05:56:39+00:00
-layout: post
-slug: i-recall-a-time-but-its-long-gone
-title: I Recall A Time But It's Long Gone
-id: 1155
-categories:
-- Reviews
----
++++
+title = "I Recall A Time But It's Long Gone"
+date = 2006-10-31 05:56:39+00:00
+path = "/2006/10/31/i-recall-a-time-but-its-long-gone/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 First and Last and Always, Floodland and Vision Thing by The Sisters of Mercy have been reissued on Rhino Records. The albums all have additional tracks (b-sides, cover versions, and demos), new liner notes, and new typos on the covers. You can, and should, buy them from any online record store.  
 The stand out addition is the full version of "Never Land" on Floodland, a track that lead singer Andrew Eldritch has always denied the existence of. Their cover version of Hot Chocolate's "Emma" and the First & Last era B-Sides are welcome additions as well.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-29 10:33:31+00:00
-layout: post
-slug: paintr-using-the-online-autotrace-service
-title: paintr using the online autotrace service
-id: 455
-categories:
-- Projects
----
++++
+title = "paintr using the online autotrace service"
+date = 2005-05-29 10:33:31+00:00
+path = "/2005/05/29/paintr-using-the-online-autotrace-service/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 ![50](/images/50.png)  

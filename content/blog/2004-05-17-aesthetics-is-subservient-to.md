@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-17 00:14:00+00:00
-layout: post
-slug: aesthetics-is-subservient-to
-title: Aesthetics Is Subservient to…
-id: 150
-categories:
-- Aesthetics
----
++++
+title = "Aesthetics Is Subservient to…"
+date = 2004-05-17 00:14:00+00:00
+path = "/2004/05/17/aesthetics-is-subservient-to/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 (From Aesthetics-L)  
   

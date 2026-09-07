@@ -1,12 +1,13 @@
----
-id: 3909
-title: 'Crypto Manifold'
-date: '2020-09-18T16:56:53+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Shows
----
++++
+title = "Crypto Manifold"
+date = 2020-09-18 16:56:53+00:00
+path = "/2020/09/18/crypto-manifold/"
+
+[taxonomies]
+categories = [
+    "Shows",
+]
++++
 
 > **2020.6.27 – 2020.10.25**
 > 

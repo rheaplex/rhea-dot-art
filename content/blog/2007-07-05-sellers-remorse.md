@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-05 18:15:45+00:00
-layout: post
-slug: sellers-remorse
-title: Seller's Remorse
-id: 1395
-categories:
-- Free Culture
----
++++
+title = "Seller's Remorse"
+date = 2007-07-05 18:15:45+00:00
+path = "/2007/07/05/sellers-remorse/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Dave Winer placed one of the RSS specs under a CC Licence.  
   

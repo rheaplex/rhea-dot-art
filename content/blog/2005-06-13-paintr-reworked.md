@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-13 04:56:10+00:00
-layout: post
-slug: paintr-reworked
-title: paintr reworked
-id: 494
-categories:
-- Projects
----
++++
+title = "paintr reworked"
+date = 2005-06-13 04:56:10+00:00
+path = "/2005/06/13/paintr-reworked/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 colr.org going down has forced a switch to colourlovers.com, which in turn has caused me to reconsider paintr.  

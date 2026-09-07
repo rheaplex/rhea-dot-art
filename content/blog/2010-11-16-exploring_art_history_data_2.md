@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: false
-date: 2010-11-16 18:36:07+00:00
-layout: post
-slug: exploring_art_history_data_2
-title: Exploring Art History Data 2
-id: 1874
-categories:
-- Aesthetics
-- Art Computing
-- Art History
-- Art Open Data
-- Free Software
-- Howto
----
++++
+title = "Exploring Art History Data 2"
+date = 2010-11-16 18:36:07+00:00
+path = "/2010/11/16/exploring_art_history_data_2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Free Software",
+    "Howto",
+]
++++
 
 Let's see how art form and genre relate in the Freebase "Visual Art" dataset of artworks.  
   

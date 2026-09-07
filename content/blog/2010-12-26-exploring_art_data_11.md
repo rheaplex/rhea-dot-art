@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-26 13:12:41+00:00
-layout: post
-slug: exploring_art_data_11
-title: Exploring Art Data 11
-id: 1900
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 11"
+date = 2010-12-26 13:12:41+00:00
+path = "/2010/12/26/exploring_art_data_11/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's look at a more contemporary source than Vasari, [Cultural Bloggers Interviewed](http://www.labforculture.org/en/resources-for-research/contents/research-in-focus/cultural-blogging-in-europe).  
   

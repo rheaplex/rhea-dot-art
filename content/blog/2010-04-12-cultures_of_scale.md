@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-04-12 20:16:47+00:00
-layout: post
-slug: cultures_of_scale
-title: Cultures Of Scale
-id: 1839
-categories:
-- Aesthetics
----
++++
+title = "Cultures Of Scale"
+date = 2010-04-12 20:16:47+00:00
+path = "/2010/04/12/cultures_of_scale/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 I call it "the cultural smog of the Internet". If you want just about any novel or album or film ever produced you can find it in a matter of seconds or hours. The focus of high culture that restricted culture to a canon, and the amnesia of mass culture that replaced bands and TV shows every couple of years, has given way to a flat or post-historical cultural simultaneity even as time has started to flow again after the brief post-cold-war fantasy of "the end of history".
 

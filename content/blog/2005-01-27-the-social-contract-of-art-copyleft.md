@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-27 07:34:56+00:00
-layout: post
-slug: the-social-contract-of-art-copyleft
-title: The Social Contract Of Art Copyleft
-id: 311
-categories:
-- Free Culture
----
++++
+title = "The Social Contract Of Art Copyleft"
+date = 2005-01-27 07:34:56+00:00
+path = "/2005/01/27/the-social-contract-of-art-copyleft/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The GPL is an attempt to formalise the code sharing social contract of hackers. It does this through the mechanism of copyleft, using a copyright license to ensure that code is made publicly available. The closest thing to a GPL for art are the Creative Commons licenses. But how well do they match the social contract of artists creatively using the work of others?  
   

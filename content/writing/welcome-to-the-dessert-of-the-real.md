@@ -1,9 +1,11 @@
----
-title: "Welcome To The Dessert Of The Real"
-image: "/images/wrapper-art.png"
-type: "page"
-date: 2021-01-03
----
++++
+title = "Welcome To The Dessert Of The Real"
+date = 2021-01-03
+path = "/welcome-to-the-dessert-of-the-real/"
+
+[extra]
+image = "/images/wrapper-art.png"
++++
 
 ## *On certain developments in the content of NFT art as we enter 2021*
 

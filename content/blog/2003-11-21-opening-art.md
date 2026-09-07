@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-21 02:37:17+00:00
-layout: post
-slug: opening-art
-title: Opening Art
-id: 52
-categories:
-- Free Culture
----
++++
+title = "Opening Art"
+date = 2003-11-21 02:37:17+00:00
+path = "/2003/11/21/opening-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Digging through my archives I found an unfinished license drafted for an abandoned project from 2001 which I present here for your amusement. It's inspired by the BSD and OGL licenses. IANAL so don't try to actually use it - you wouldn't try to use heart transplant instructions written by an artist would you? :-)  
 ![](/images/oa_big.gif)  

@@ -1,27 +1,20 @@
----
-id: 3091
-title: '"Blockchain Aesthetics" at Ó̵̞͠O̸̮͠ͅP̷͔̊͝S̵̡̱̑.̵̻̯̏͘.̶̜́͛.̷͔̑ : Obfuscating Ownership: Privacy & Sousveillance'
-date: '2018-12-21T18:00:40+00:00'
-author: Rhea Myers
-layout: post
-responsive_meta_box_designation:
-    - ''
-responsive_meta_box_facebook:
-    - ''
-responsive_meta_box_twitter:
-    - ''
-responsive_meta_box_googleplus:
-    - ''
-responsive_meta_box_text_linkedin:
-    - ''
-    - block-editor
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Shows
----
++++
+title = "\"Blockchain Aesthetics\" at Ó̵̞͠O̸̮͠ͅP̷͔̊͝S̵̡̱̑.̵̻̯̏͘.̶̜́͛.̷͔̑ : Obfuscating Ownership: Privacy & Sousveillance"
+date = 2018-12-21 18:00:40+00:00
+path = "/2018/12/21/blockchain-aesthetics-at-%C3%B3%CC%B5%CC%9E%CD%A0o%CC%B8%CC%AE%CD%A0%CD%85p%CC%B7%CD%94%CC%8A%CD%9Ds%CC%B5%CC%A1%CC%B1%CC%91.%CC%B5%CC%BB%CC%AF%CC%8F%CD%98.%CC%B6%CC%9C%CC%81%CD%9B.%CC%B7%CD%94%CC%91-obfuscating-ownership-privacy-sousveillance/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Shows",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 <figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">- <figure>![](/images/2018/12/48358020_10161274928645375_5282653235406962688_o-1024x683.jpg)</figure>
 - <figure>![](/images/2018/12/48360751_10161274930475375_1235394145229471744_o-1024x683.jpg)</figure>

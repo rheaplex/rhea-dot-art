@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-08 14:28:40+00:00
-layout: post
-slug: artbollocks-modeel
-title: artbollocks-mode.el
-id: 1952
-categories:
-- Aesthetics
-- Art
-- Free Software
-- Projects
-- Satire
----
++++
+title = "artbollocks-mode.el"
+date = 2011-10-08 14:28:40+00:00
+path = "/2011/10/08/artbollocks-modeel/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Free Software",
+    "Projects",
+    "Satire",
+]
++++
 
 I turned the scripts I use for avoiding various cardinal sins of art
 writing into an Emacs minor mode. This means that you can run it in your Emacs session as you write.  

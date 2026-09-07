@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-01 08:53:34+00:00
-layout: post
-slug: radical-publications-and-copyright
-title: Radical Publications and Copyright
-id: 1471
-categories:
-- Free Culture
----
++++
+title = "Radical Publications and Copyright"
+date = 2007-09-01 08:53:34+00:00
+path = "/2007/09/01/radical-publications-and-copyright/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "No Copyright  
 No Rights Reserved"  

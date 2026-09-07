@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-29 00:13:50+00:00
-layout: post
-slug: aesthetic_analysis
-title: Aesthetic Analysis
-id: 1790
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Aesthetic Analysis"
+date = 2009-08-29 00:13:50+00:00
+path = "/2009/08/29/aesthetic_analysis/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 An infinite poem generator that finds tweets that rhyme on Twitter. I was talking about doing something like this for lyrics with Furny -  
   

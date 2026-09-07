@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-23 07:34:33+00:00
-layout: post
-slug: art-language
-title: Art & Language
-id: 400
-categories:
-- Aesthetics
----
++++
+title = "Art & Language"
+date = 2005-04-23 07:34:33+00:00
+path = "/2005/04/23/art-language/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Show on now, another in May:  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-23 08:50:45+00:00
-layout: post
-slug: draw-something-fun
-title: draw-something fun
-id: 1455
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something fun"
+date = 2007-08-23 08:50:45+00:00
+path = "/2007/08/23/draw-something-fun/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 One of the motivations for draw-something was my memory of my younger self's desire to make a program that was better at art than they were. This was an ambition born of cyberpunk literature and media and of the utter incomprehensibility of perspective instruction books to me at that time.  
   

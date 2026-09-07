@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-20 05:02:53+00:00
-layout: post
-slug: were-not-goths-were-industrialists
-title: “We're not Goths, we're Industrialists”
-id: 391
-categories:
-- Free Culture
----
++++
+title = "“We're not Goths, we're Industrialists”"
+date = 2005-04-20 05:02:53+00:00
+path = "/2005/04/20/were-not-goths-were-industrialists/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 NIN release a remixable track. Not exactly [Progen](http://www.discogs.com/release/58164) but radical for a mainstream American band, via [BoingBoing](http://www.boingboing.net/) :  
   

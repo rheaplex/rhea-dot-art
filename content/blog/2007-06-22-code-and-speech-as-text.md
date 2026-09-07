@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-22 06:19:55+00:00
-layout: post
-slug: code-and-speech-as-text
-title: Code And Speech As Text
-id: 1362
-categories:
-- Free Culture
----
++++
+title = "Code And Speech As Text"
+date = 2007-06-22 06:19:55+00:00
+path = "/2007/06/22/code-and-speech-as-text/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Cultural works are not functional, and so do not require the same defence of use value as software does.  
   

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-31 16:47:27+00:00
-layout: post
-slug: art_data_analysis_roger_de_piles
-title: 'Art Data Analysis: Roger de Piles'
-id: 1903
-categories:
-- Aesthetics
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Roger de Piles"
+date = 2010-12-31 16:47:27+00:00
+path = "/2010/12/31/art_data_analysis_roger_de_piles/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ([Via Ptak Science Books](http://longstreet.typepad.com/thesciencebookstore/2009/12/quantifying-art-the-artematics-of-roger-de-piles-and-emily-vanderpoel-.html))  
   

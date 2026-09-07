@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 07:55:21+00:00
-layout: post
-slug: notes-on-making-art
-title: Notes On Making Art
-id: 738
-categories:
-- Aesthetics
-- Howto
----
++++
+title = "Notes On Making Art"
+date = 2005-12-03 07:55:21+00:00
+path = "/2005/12/03/notes-on-making-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Howto",
+]
++++
 
   
 [http://www.scarletstarstudios.com/blog/archives/2005/09/notes_on_making.html](http://www.scarletstarstudios.com/blog/archives/2005/09/notes_on_making.html)  

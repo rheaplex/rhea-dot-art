@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-15 19:19:11+00:00
-layout: post
-slug: recent-media-coverage
-title: Recent Media Coverage
-id: 2537
-categories:
-- Projects
----
++++
+title = "Recent Media Coverage"
+date = 2014-03-15 19:19:11+00:00
+path = "/2014/03/15/recent-media-coverage/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 [![urinal](/images/2014/03/urinal-mention-resized.png)](http://hyperallergic.com/102576/the-art-of-3d-printing/)
 

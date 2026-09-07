@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-03 06:51:11+00:00
-layout: post
-slug: canto-for-evie-at-sharing-is-daring
-title: “Canto For Evie” At Sharing Is Daring
-id: 911
-categories:
-- Free Culture
----
++++
+title = "“Canto For Evie” At Sharing Is Daring"
+date = 2006-05-03 06:51:11+00:00
+path = "/2006/05/03/canto-for-evie-at-sharing-is-daring/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 One of my remixes of [Tom Chance](http://tom.acrewoods.net/)'s "[Remix Broad Street](http://www.remixcommons.org/node/213)" is on the [Sharing is Daring](http://www.sharingisdaring.org/) flickr stream:  
   

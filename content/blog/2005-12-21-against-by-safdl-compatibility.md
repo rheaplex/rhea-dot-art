@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-21 23:20:55+00:00
-layout: post
-slug: against-by-safdl-compatibility
-title: Against BY-SA/FDL “Compatibility”
-id: 759
-categories:
-- Free Culture
----
++++
+title = "Against BY-SA/FDL “Compatibility”"
+date = 2005-12-21 23:20:55+00:00
+path = "/2005/12/21/against-by-safdl-compatibility/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 **Arguments Against The BY-SA FDL Backdoor.**  

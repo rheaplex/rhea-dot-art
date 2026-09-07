@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-29 06:08:20+00:00
-layout: post
-slug: copyright-rose-selavy
-title: Copyright Rose Selavy
-id: 1319
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Copyright Rose Selavy"
+date = 2007-05-29 06:08:20+00:00
+path = "/2007/05/29/copyright-rose-selavy/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 ![200705281959](/images/2007/05/200705281959.jpg)  
   

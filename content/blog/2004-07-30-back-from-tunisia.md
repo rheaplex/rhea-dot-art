@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-30 07:12:00+00:00
-layout: post
-slug: back-from-tunisia
-title: Back From Tunisia
-id: 180
-categories:
-- Aesthetics
----
++++
+title = "Back From Tunisia"
+date = 2004-07-30 07:12:00+00:00
+path = "/2004/07/30/back-from-tunisia/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 I'm back from Tunisia. It's an excellent place. I filled a sketchbook whilst I was there.  

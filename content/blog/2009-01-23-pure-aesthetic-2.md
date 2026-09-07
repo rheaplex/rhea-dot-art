@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-01-23 07:42:52+00:00
-layout: post
-slug: pure-aesthetic-2
-title: Pure Aesthetic
-id: 1705
-categories:
-- Projects
----
++++
+title = "Pure Aesthetic"
+date = 2009-01-23 07:42:52+00:00
+path = "/2009/01/23/pure-aesthetic-2/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 ![pure_aesthetic_one_for_blog.jpg](/pure_aesthetic_one_for_blog.jpg)  
   

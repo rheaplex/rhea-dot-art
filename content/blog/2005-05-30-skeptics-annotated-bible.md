@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-30 23:52:59+00:00
-layout: post
-slug: skeptics-annotated-bible
-title: Skeptic's Annotated Bible
-id: 457
-categories:
-- Satire
----
++++
+title = "Skeptic's Annotated Bible"
+date = 2005-05-30 23:52:59+00:00
+path = "/2005/05/30/skeptics-annotated-bible/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Via [Eyebeam](http://www.eyebeam.org/):  

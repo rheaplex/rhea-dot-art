@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-08-07 22:43:21+00:00
-layout: post
-slug: the-proletarianization-of-art-criticism
-title: The Proletarianization Of Art Criticism
-id: 2387
-categories:
-- Art History
----
++++
+title = "The Proletarianization Of Art Criticism"
+date = 2013-08-07 22:43:21+00:00
+path = "/2013/08/07/the-proletarianization-of-art-criticism/"
+
+[taxonomies]
+categories = [
+    "Art History",
+]
++++
 
 Book and film reviews have been reduced to individual data points on aggregator web sites as print journalism collapses. It's only a matter of time until such big data/collective intelligence approaches expand to cover art criticism.
 

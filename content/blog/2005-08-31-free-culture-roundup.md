@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-31 05:12:44+00:00
-layout: post
-slug: free-culture-roundup
-title: Free Culture Roundup
-id: 654
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2005-08-31 05:12:44+00:00
+path = "/2005/08/31/free-culture-roundup/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://education.guardian.co.uk/higher/news/story/0,,1559096,00.html](http://education.guardian.co.uk/higher/news/story/0,,1559096,00.html)  
   
@@ -26,7 +25,7 @@ _why can't DRM be made open source?_
   
   
   
-[Microsoft abandons its customers AND copyright to kiss up to Hollywood ]()  
+Microsoft abandons its customers AND copyright to kiss up to Hollywood   
   
   
   

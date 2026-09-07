@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-17 04:39:37+00:00
-layout: post
-slug: doctor-who-and-duchamp
-title: Doctor Who And Duchamp
-id: 1637
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Doctor Who And Duchamp"
+date = 2008-07-17 04:39:37+00:00
+path = "/2008/07/17/doctor-who-and-duchamp/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 Duchamp's readymades are acts of ontological transubstantiation, they nominate non-artistic objects as artworks. This is aesthetic blasphemy.  
   

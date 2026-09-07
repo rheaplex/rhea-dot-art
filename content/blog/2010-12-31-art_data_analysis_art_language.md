@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-31 18:33:41+00:00
-layout: post
-slug: art_data_analysis_art_language
-title: 'Art Data Analysis: Art & Language'
-id: 1905
-categories:
-- Art
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Art & Language"
+date = 2010-12-31 18:33:41+00:00
+path = "/2010/12/31/art_data_analysis_art_language/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![art&lang_index1-01.jpg](/images/2010/12/31/art%26lang_index1-01.jpg)Art & Language are a conceptual art group founded in the late 1960s in England. Much of their early work didn't look like art. It was essays, mathematical notation, transcripts of conversations, all different kinds of written materials. Faced with the opportunity to exhibit in a gallery setting to an artworld audience, A&L needed a way of realistically presenting their work in a way that a viewer who hadn't been part of the original conversations might have a chance of being able to navigate the results.  
   

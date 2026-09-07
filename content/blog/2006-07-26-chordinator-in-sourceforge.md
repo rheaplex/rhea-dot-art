@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-26 09:19:05+00:00
-layout: post
-slug: chordinator-in-sourceforge
-title: Chordinator in Sourceforge
-id: 1059
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Chordinator in Sourceforge"
+date = 2006-07-26 09:19:05+00:00
+path = "/2006/07/26/chordinator-in-sourceforge/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 [chordinator.lisp](http://rheart.cvs.sourceforge.net/rheart/rheart/chordinator/chordinator.lisp?revision=1.1&view=markup)  

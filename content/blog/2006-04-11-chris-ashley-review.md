@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-11 09:23:55+00:00
-layout: post
-slug: chris-ashley-review
-title: Chris Ashley Review
-id: 887
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Chris Ashley Review"
+date = 2006-04-11 09:23:55+00:00
+path = "/2006/04/11/chris-ashley-review/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 The review of Chris Ashley's HTML drawings that I wrote for Furtherfield is now live:  
   

@@ -1,18 +1,22 @@
----
-id: 3206
-title: 'Hacking Creative Composition at CADAF'
-date: '2019-04-21T16:00:34+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - 'Art Computing'
-    - 'Artificial Intelligence'
-    - 'Generative Art'
-    - Shows
----
++++
+title = "Hacking Creative Composition at CADAF"
+date = 2019-04-21 16:00:34+00:00
+path = "/2019/04/21/hacking-creative-composition-at-cadaf/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Artificial Intelligence",
+    "Generative Art",
+    "Shows",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 I’ve a couple of pieces at CADAF in New York with Kate Vass Gallerie (above is one of the gicl<span class="st">*é*</span>es, “Local Maxima: SFLT2, Square” (2019)):
 

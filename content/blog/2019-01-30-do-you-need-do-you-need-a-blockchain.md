@@ -1,12 +1,13 @@
----
-id: 3162
-title: 'Do You Need "Do You Need A Blockchain"?'
-date: '2019-01-30T08:52:10+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Crypto
----
++++
+title = "Do You Need \"Do You Need A Blockchain\"?"
+date = 2019-01-30 08:52:10+00:00
+path = "/2019/01/30/do-you-need-do-you-need-a-blockchain/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+]
++++
 
 Satoshi Nakamoto announced Bitcoin in the “Bitcoin Whitepaper” in 2008.
 

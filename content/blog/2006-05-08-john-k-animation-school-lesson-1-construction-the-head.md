@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-08 04:21:53+00:00
-layout: post
-slug: john-k-animation-school-lesson-1-construction-the-head
-title: 'John K: Animation School lesson 1/ CONSTRUCTION/ The Head'
-id: 918
-categories:
-- Aesthetics
-- Howto
----
++++
+title = "John K: Animation School lesson 1/ CONSTRUCTION/ The Head"
+date = 2006-05-08 04:21:53+00:00
+path = "/2006/05/08/john-k-animation-school-lesson-1-construction-the-head/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Howto",
+]
++++
 
 [John K: Animation School lesson 1/ CONSTRUCTION/ The Head  
 ](http://johnkstuff.blogspot.com/2006/05/animation-school-lesson-1-construction.html)  

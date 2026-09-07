@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-04-03 10:35:54+00:00
-layout: post
-slug: you_can_find_papers_that_argue_anything_on_the_internet
-title: You Can Find Papers That Argue Anything On The Internet
-id: 1928
-categories:
-- Free Culture
----
++++
+title = "You Can Find Papers That Argue Anything On The Internet"
+date = 2011-04-03 10:35:54+00:00
+path = "/2011/04/03/you_can_find_papers_that_argue_anything_on_the_internet/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ...as any idiot can tell you. But these ones are interesting:  
   

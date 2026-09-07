@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-02-06 19:51:49+00:00
-layout: post
-slug: reproduction_fees
-title: Reproduction Fees
-id: 1983
-categories:
-- Art
-- Art Open Data
-- Free Culture
----
++++
+title = "Reproduction Fees"
+date = 2012-02-06 19:51:49+00:00
+path = "/2012/02/06/reproduction_fees/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Open Data",
+    "Free Culture",
+]
++++
 
 Via [The Jackdaw](http://thejackdaw.co.uk/subs.html):  
   

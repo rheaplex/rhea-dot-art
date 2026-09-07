@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-29 08:54:00+00:00
-layout: post
-slug: more-about-loca
-title: More About Loca
-id: 236
-categories:
-- Free Culture
----
++++
+title = "More About Loca"
+date = 2004-10-29 08:54:00+00:00
+path = "/2004/10/29/more-about-loca/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 CC-BY-SA licensed original music from Loca.  
   

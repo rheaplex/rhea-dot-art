@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-28 06:19:14+00:00
-layout: post
-slug: yes-and-yes
-title: Yes and Yes
-id: 549
-categories:
-- Free Culture
----
++++
+title = "Yes and Yes"
+date = 2005-06-28 06:19:14+00:00
+path = "/2005/06/28/yes-and-yes/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Jon Phillips on Delete! (is that _really_ not a hoax?) and why open source is more art than art about open source is:  

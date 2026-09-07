@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-15 00:35:56+00:00
-layout: post
-slug: smash-global-capitalism-spend-less-money
-title: Smash Global Capitalism! Spend Less Money!
-id: 268
-categories:
-- Satire
----
++++
+title = "Smash Global Capitalism! Spend Less Money!"
+date = 2004-12-15 00:35:56+00:00
+path = "/2004/12/15/smash-global-capitalism-spend-less-money/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Via Idle Type:  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-30 08:53:09+00:00
-layout: post
-slug: more-like-that
-title: More Like That
-id: 1325
-categories:
-- Generative Art
-- Projects
----
++++
+title = "More Like That"
+date = 2007-05-30 08:53:09+00:00
+path = "/2007/05/30/more-like-that/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 [/art/like_that/](/art/like_that/)  
   

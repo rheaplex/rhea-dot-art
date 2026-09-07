@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-30 00:08:54+00:00
-layout: post
-slug: jpod-douglas-coupland
-title: jPod - Douglas Coupland
-id: 1061
-categories:
-- Reviews
-- Satire
----
++++
+title = "jPod - Douglas Coupland"
+date = 2006-07-30 00:08:54+00:00
+path = "/2006/07/30/jpod-douglas-coupland/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+    "Satire",
+]
++++
 
 I used to avoid anyone who'd read Generation X. I still haven't ready it myself. Microserfs was an amusing and insightful short story bloated into a pointless schmaltzfest.
 

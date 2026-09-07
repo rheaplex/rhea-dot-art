@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-21 05:43:17+00:00
-layout: post
-slug: speak-up-computer-fart-or-digital-immersion-is-not-design
-title: ': : Speak Up > Computer = Fart, or Digital Immersion Is Not Design : :'
-id: 839
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = ": : Speak Up > Computer = Fart, or Digital Immersion Is Not Design : :"
+date = 2006-02-21 05:43:17+00:00
+path = "/2006/02/21/speak-up-computer-fart-or-digital-immersion-is-not-design/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [: : Speak Up > Computer = Fart, or Digital Immersion Is Not Design : :](http://www.underconsideration.com/speakup/archives/002546.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-18 01:40:26+00:00
-layout: post
-slug: the-cathedral-and-the-bazaar
-title: The Cathedral And The Bazaar
-id: 123
-categories:
-- Free Culture
----
++++
+title = "The Cathedral And The Bazaar"
+date = 2004-04-18 01:40:26+00:00
+path = "/2004/04/18/the-cathedral-and-the-bazaar/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Eric Raymond, who gave the world the "Open Source" tag so companies wouldn't be scared of Free Software, is finally seeing the error of his ways. :-)  
 He's written an article criticising Open Source software for having bad user interfaces due to bad planning. He's right, both about the UIs and why they are so bad. But he only has himself to blame. Some time ago, Eric wrote an essay called "The Cathedral and The Bazaar" criticising the FSF for writing monolithic, monumental Free Software and lauding Linux for taking all comers and their Open Source code.   

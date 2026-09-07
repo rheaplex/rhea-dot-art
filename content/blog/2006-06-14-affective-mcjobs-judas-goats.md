@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-14 07:11:43+00:00
-layout: post
-slug: affective-mcjobs-judas-goats
-title: Affective McJobs && Judas Goats
-id: 977
-categories:
-- Aesthetics
----
++++
+title = "Affective McJobs && Judas Goats"
+date = 2006-06-14 07:11:43+00:00
+path = "/2006/06/14/affective-mcjobs-judas-goats/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Creativity is key to the economy. But creativity in science and engineering, not in the "creative industries". Which is why the Lisbon Agenda needs not DRM but investment in chemistry departments. Or the opposite of what is actually happening.  

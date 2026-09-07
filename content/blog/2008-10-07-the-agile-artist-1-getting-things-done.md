@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-07 05:53:41+00:00
-layout: post
-slug: the-agile-artist-1-getting-things-done
-title: The Agile Artist 1 - Getting Things Done
-id: 1677
-categories:
-- Aesthetics
-- Howto
----
++++
+title = "The Agile Artist 1 - Getting Things Done"
+date = 2008-10-07 05:53:41+00:00
+path = "/2008/10/07/the-agile-artist-1-getting-things-done/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Howto",
+]
++++
 
 The book "[Getting Things Done](http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done)" by David Allen describes an over-arching system for organizing work and life. It has two ideas that I think artists can use without adopting the system wholesale.   
   

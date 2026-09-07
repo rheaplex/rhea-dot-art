@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 05:55:14+00:00
-layout: post
-slug: featherston-blog-introducing-stone-free-textures-that-cost-nothing
-title: 'Featherston Blog: Introducing Stone Free: Textures that cost nothing'
-id: 1029
-categories:
-- Free Culture
----
++++
+title = "Featherston Blog: Introducing Stone Free: Textures that cost nothing"
+date = 2006-07-08 05:55:14+00:00
+path = "/2006/07/08/featherston-blog-introducing-stone-free-textures-that-cost-nothing/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Featherston Blog: Introducing Stone Free: Textures that cost nothing](http://featherston.blogspot.com/2006/07/introducing-stone-free-textures-that.html)  
   

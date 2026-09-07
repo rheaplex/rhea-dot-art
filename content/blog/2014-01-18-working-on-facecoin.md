@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-01-18 03:57:55+00:00
-layout: post
-slug: working-on-facecoin
-title: Working on Facecoin
-id: 2486
-categories:
-- Art
-- Art Computing
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Working on Facecoin"
+date = 2014-01-18 03:57:55+00:00
+path = "/2014/01/18/working-on-facecoin/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 [![facecoin1](/images/2014/01/facecoin1-300x169.png)](/images/2014/01/facecoin1.png)
 

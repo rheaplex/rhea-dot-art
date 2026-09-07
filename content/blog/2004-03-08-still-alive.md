@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-03-08 02:47:52+00:00
-layout: post
-slug: still-alive
-title: Still Alive
-id: 95
-categories:
-- Projects
----
++++
+title = "Still Alive"
+date = 2004-03-08 02:47:52+00:00
+path = "/2004/03/08/still-alive/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I changed jobs, which has been very time-consuming.  
 I've swapped from Python to Lisp for the drawing module. Hopefully if I use Lisp I won't ever have to learn another programming language. :-)  

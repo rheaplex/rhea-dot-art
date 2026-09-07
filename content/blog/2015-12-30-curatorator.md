@@ -1,11 +1,9 @@
----
-title: Curatorator
-date: 2015-12-30 19:54:38.000000000 -08:00
-type: post
-layout: post
-categories: []
-author: Rhea Myers
----
++++
+title = "Curatorator"
+date = 2015-12-30 19:54:38-08:00
+path = "/2015/12/30/curatorator/"
++++
+
 Operationalizing curation, after a presentation by the excellent [Mohammad Salemy](http://thenewcentre.org/people/mohammad-salemy/).
 
 [The source code](https://github.com/rheaplex/curatorator) uses artsy.net's API to find and rank similar artists and extract their shared themes.

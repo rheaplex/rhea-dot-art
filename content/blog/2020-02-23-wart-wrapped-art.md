@@ -1,16 +1,16 @@
----
-id: 3775
-title: 'WART - Wrapped Art'
-date: '2020-02-23T16:05:25+00:00'
-author: Rhea Myers
-layout: post
-slug: wart-wrapped-art
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
-    - Ethereum
----
++++
+title = "WART - Wrapped Art"
+date = 2020-02-23 16:05:25+00:00
+path = "/2020/02/23/wart-wrapped-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+    "Ethereum",
+]
++++
 
 Wrapped Art (WART) applies the ideas behind Wrapped Kitties to rare art tokens, opening up new possibilities for investment and aesthetics.
 

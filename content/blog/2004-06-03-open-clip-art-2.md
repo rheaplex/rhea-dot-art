@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-03 06:30:00+00:00
-layout: post
-slug: open-clip-art-2
-title: Open Clip Art
-id: 160
-categories:
-- Free Culture
----
++++
+title = "Open Clip Art"
+date = 2004-06-03 06:30:00+00:00
+path = "/2004/06/03/open-clip-art-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 There is now an Open Clip Art project:  

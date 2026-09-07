@@ -1,23 +1,22 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-30 21:13:35+00:00
-layout: post
-slug: psychogeodata_23
-title: Psychogeodata (2/3)
-id: 1973
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Art Open Data
-- Free Culture
-- Free Software
-- Generative Art
-- Howto
-- Projects
-- Satire
----
++++
+title = "Psychogeodata (2/3)"
+date = 2011-12-30 21:13:35+00:00
+path = "/2011/12/30/psychogeodata_23/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Art Open Data",
+    "Free Culture",
+    "Free Software",
+    "Generative Art",
+    "Howto",
+    "Projects",
+    "Satire",
+]
++++
 
 ![derive_sem](/images/2011/12/30/derive_sem_example.png)
 

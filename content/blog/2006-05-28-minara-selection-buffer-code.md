@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-28 06:06:32+00:00
-layout: post
-slug: minara-selection-buffer-code
-title: minara - selection buffer code
-id: 948
-categories:
-- Generative Art
-- Projects
----
++++
+title = "minara - selection buffer code"
+date = 2006-05-28 06:06:32+00:00
+path = "/2006/05/28/minara-selection-buffer-code/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 The code that creates the selection buffer. This will act like a translucent drag or ghost drag rather than direct manipulation. Direct manipulation would be slow as we'd have to update the translation in the main buffer and render the whole thing each time. A minara written by a large team of programmers could split the buffer into layers of dragging and non dragging buffers then re-unite them after the drag (the main buffer must _always_ be coherent for other tools or for saving). But currently it's just me so we do it this way.  

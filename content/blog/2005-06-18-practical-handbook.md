@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-18 08:26:18+00:00
-layout: post
-slug: practical-handbook
-title: Practical Handbook
-id: 517
-categories:
-- Aesthetics
----
++++
+title = "Practical Handbook"
+date = 2005-06-18 08:26:18+00:00
+path = "/2005/06/18/practical-handbook/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 More blog art from Manik, taking a different meaning of the word "graphic" from the typography of "For Beginners":  

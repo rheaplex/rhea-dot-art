@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-21 02:05:55+00:00
-layout: post
-slug: copycamp-an-unconference-for-artists-about-the-internet-and-the-challenge-to-copyright
-title: CopyCamp | An unconference for artists about the Internet and the challenge
-  to copyright
-id: 1079
-categories:
-- Free Culture
----
++++
+title = "CopyCamp | An unconference for artists about the Internet and the challenge to copyright"
+date = 2006-08-21 02:05:55+00:00
+path = "/2006/08/21/copycamp-an-unconference-for-artists-about-the-internet-and-the-challenge-to-copyright/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [CopyCamp | An unconference for artists about the Internet and the challenge to copyright](http://copycamp.ca/)  
   

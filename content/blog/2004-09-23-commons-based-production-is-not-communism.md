@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-23 05:42:06+00:00
-layout: post
-slug: commons-based-production-is-not-communism
-title: Commons-Based Production is Not Communism
-id: 212
-categories:
-- Free Culture
----
++++
+title = "Commons-Based Production is Not Communism"
+date = 2004-09-23 05:42:06+00:00
+path = "/2004/09/23/commons-based-production-is-not-communism/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Article:  
   

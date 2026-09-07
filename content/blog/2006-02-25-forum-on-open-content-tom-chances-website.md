@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-25 07:10:48+00:00
-layout: post
-slug: forum-on-open-content-tom-chances-website
-title: Forum On Open Content | Tom Chance's website
-id: 844
-categories:
-- Free Culture
----
++++
+title = "Forum On Open Content | Tom Chance's website"
+date = 2006-02-25 07:10:48+00:00
+path = "/2006/02/25/forum-on-open-content-tom-chances-website/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The excellent Tom Chance on Free Culture:  
   

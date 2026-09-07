@@ -1,10 +1,17 @@
 +++
 title = "Contemporary Art Daily Data Analysis"
 date = 2015-01-10
+path = "/contemporary-art-daily-data-analysis/"
+
+[extra]
 date_provisional = true
 image = "/art-images/cad-wordcloud.png"
-mediums = ["R"]
-repos = ["https://github.com/rheaplex/contemporary-art-daily-analysis"]
+mediums = [
+    "R",
+]
+repos = [
+    "https://github.com/rheaplex/contemporary-art-daily-analysis",
+]
 wp_id = 6647
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-02 23:12:11+00:00
-layout: post
-slug: and-some-uk-links
-title: And Some UK Links
-id: 107
-categories:
-- Free Culture
----
++++
+title = "And Some UK Links"
+date = 2004-04-02 23:12:11+00:00
+path = "/2004/04/02/and-some-uk-links/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Online rights:  
   

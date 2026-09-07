@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-05-14 05:12:32+00:00
-layout: post
-slug: robert-rauschenberg-rip
-title: Robert Rauschenberg RIP
-id: 1604
----
++++
+title = "Robert Rauschenberg RIP"
+date = 2008-05-14 05:12:32+00:00
+path = "/2008/05/14/robert-rauschenberg-rip/"
++++
 
 [Robert Rauschenberg, RIP - Boing Boing](http://www.boingboing.net/2008/05/13/robert-rauschenberg.html)   
 

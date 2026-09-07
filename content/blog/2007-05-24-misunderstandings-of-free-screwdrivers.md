@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-24 04:54:02+00:00
-layout: post
-slug: misunderstandings-of-free-screwdrivers
-title: Misunderstandings Of Free Screwdrivers
-id: 1308
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Misunderstandings Of Free Screwdrivers"
+date = 2007-05-24 04:54:02+00:00
+path = "/2007/05/24/misunderstandings-of-free-screwdrivers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 Some people might argue that the ability to stop other people from using screwdrivers freely is such an important freedom that to remove this freedom is the worst imaginable ethical harm imaginable, far worse than just removing the freedom to use screwdrivers. They should read Mill or Berlin.  
   

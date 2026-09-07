@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-11 04:48:20+00:00
-layout: post
-slug: support-the-commons-creative-commons
-title: Support the Commons | Creative Commons
-id: 1502
-categories:
-- Free Culture
----
++++
+title = "Support the Commons | Creative Commons"
+date = 2007-10-11 04:48:20+00:00
+path = "/2007/10/11/support-the-commons-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Support the Commons | Creative Commons](http://support.creativecommons.org/)  
   

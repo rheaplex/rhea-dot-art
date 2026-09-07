@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 09:19:21+00:00
-layout: post
-slug: joy-garnett-in-harpers
-title: Joy Garnett in Harpers
-id: 729
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Joy Garnett in Harpers"
+date = 2005-11-24 09:19:21+00:00
+path = "/2005/11/24/joy-garnett-in-harpers/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
   
 The excellent [Joy Garnett ](http://newsgrist.typepad.com/)has some images in Harper's for January 2006:  

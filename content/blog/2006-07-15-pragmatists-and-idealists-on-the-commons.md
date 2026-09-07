@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-15 09:52:58+00:00
-layout: post
-slug: pragmatists-and-idealists-on-the-commons
-title: Pragmatists and Idealists On The Commons
-id: 1043
-categories:
-- Free Culture
----
++++
+title = "Pragmatists and Idealists On The Commons"
+date = 2006-07-15 09:52:58+00:00
+path = "/2006/07/15/pragmatists-and-idealists-on-the-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I wrote below that I have no time for this "pragmatists vs. idealists" false dichotomy that some people are trying to set up in free culture. There are social idealists and economic idealists in the free culture community, and the social idealists have ceded far more to economically-oriented "pragmatism" than the economic idealists have ceded to socially-oriented "pragmatism".  

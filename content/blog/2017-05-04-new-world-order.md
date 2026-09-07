@@ -1,15 +1,17 @@
----
-title: New World Order
-date: 2017-05-04 13:05:11.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Projects
-- Shows
-author: Rhea Myers
----
++++
+title = "New World Order"
+date = 2017-05-04 13:05:11-07:00
+path = "/2017/05/04/new-world-order/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+    "Shows",
+]
++++
+
 ![](/images/uploads/2017/05/nwo-webpage-main-image.jpg)
 
  My novella "[Bad Shibe](/bad-shibe/)" and Lina Theodorou's amaze illustrations for it are in Furtherfield Gallery's show "New World Order" from Saturday 20 May - Sunday 25 June 2017.

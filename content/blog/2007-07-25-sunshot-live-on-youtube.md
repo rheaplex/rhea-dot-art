@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-25 08:06:24+00:00
-layout: post
-slug: sunshot-live-on-youtube
-title: Sunshot Live On YouTube
-id: 1419
-categories:
-- Reviews
----
++++
+title = "Sunshot Live On YouTube"
+date = 2007-07-25 08:06:24+00:00
+path = "/2007/07/25/sunshot-live-on-youtube/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Whisky Dave has posted some classic Sunshot gig footage on Youtube. There's clips from two shows:  
   

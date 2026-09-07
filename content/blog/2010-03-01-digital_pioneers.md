@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-01 19:19:01+00:00
-layout: post
-slug: digital_pioneers
-title: Digital Pioneers
-id: 1829
-categories:
-- Aesthetics
----
++++
+title = "Digital Pioneers"
+date = 2010-03-01 19:19:01+00:00
+path = "/2010/03/01/digital_pioneers/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Furtherfield have published my review of the "Digital Pioneers" show at the V&A -
 

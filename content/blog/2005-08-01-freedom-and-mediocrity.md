@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-01 04:05:54+00:00
-layout: post
-slug: freedom-and-mediocrity
-title: Freedom And Mediocrity
-id: 592
-categories:
-- Free Culture
----
++++
+title = "Freedom And Mediocrity"
+date = 2005-08-01 04:05:54+00:00
+path = "/2005/08/01/freedom-and-mediocrity/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Adapted from a response on Lessig's blog comments pages to another poster.]  

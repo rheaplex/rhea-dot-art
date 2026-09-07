@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-16 00:16:22+00:00
-layout: post
-slug: light-paintings
-title: Light Paintings
-id: 12
-categories:
-- Aesthetics
----
++++
+title = "Light Paintings"
+date = 2003-04-16 00:16:22+00:00
+path = "/2003/04/16/light-paintings/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Flecks of light cast by a glitterball.   
 Scanned by a laser.   

@@ -1,10 +1,20 @@
 +++
 title = "Facecoin"
 date = 2014-01-18
+path = "/facecoin/"
+
+[extra]
 image = "/art-images/facecoin-at-furtherfield.jpg"
-mediums = ["HTML5", "JavaScript"]
-aliases_names = ["Facecoin Cash"]
-demos = ["https://show.rhea.art/facecoin/index.html"]
+mediums = [
+    "HTML5",
+    "JavaScript",
+]
+aliases_names = [
+    "Facecoin Cash",
+]
+demos = [
+    "https://show.rhea.art/facecoin/index.html",
+]
 wp_id = 6662
 +++
 

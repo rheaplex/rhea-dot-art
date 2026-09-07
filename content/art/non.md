@@ -1,8 +1,14 @@
 +++
 title = "Non"
 date = 2025-03-07
+path = "/non/"
+
+[extra]
 image = "/art-images/non.png"
-mediums = ["Service Contract Offer", "NFTs"]
+mediums = [
+    "Service Contract Offer",
+    "NFTs",
+]
 wp_id = 6615
 +++
 

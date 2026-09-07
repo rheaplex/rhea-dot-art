@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-27 07:42:17+00:00
-layout: post
-slug: data-browser
-title: Data Browser
-id: 710
-categories:
-- Free Culture
----
++++
+title = "Data Browser"
+date = 2005-10-27 07:42:17+00:00
+path = "/2005/10/27/data-browser/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Review of Data Browser](http://distributedcreativity.typepad.com/idc/2005/10/the_truth_about.html)  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-28 22:26:04+00:00
-layout: post
-slug: art_magazines_and_journals_at_archiveorg
-title: Art Magazines, Journals and Catalogues at archive.org
-id: 1878
-categories:
-- Art Open Data
----
++++
+title = "Art Magazines, Journals and Catalogues at archive.org"
+date = 2010-11-28 22:26:04+00:00
+path = "/2010/11/28/art_magazines_and_journals_at_archiveorg/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+]
++++
 
 Scans of old (19th and early 20th century) art magazines, journals, and catalogues can be found on archive.org along with text extracted from them. These are a very useful resource for study of the history of art.  
   

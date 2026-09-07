@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-19 06:51:13+00:00
-layout: post
-slug: generative-art-is
-title: Generative Art Is…
-id: 991
-categories:
-- Generative Art
----
++++
+title = "Generative Art Is…"
+date = 2006-06-19 06:51:13+00:00
+path = "/2006/06/19/generative-art-is/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 My modestly titled essay "Generative Art Is..." (written in the same time frame as a heated debate about the possibility of machine creatvity on eu-gene :-) ), accompanied by a new draw-something drawing, has been published in the latest issue of online journal Vague Terrain:  

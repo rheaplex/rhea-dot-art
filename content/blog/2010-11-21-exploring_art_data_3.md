@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-21 22:42:07+00:00
-layout: post
-slug: exploring_art_data_3
-title: Exploring Art Data 3
-id: 1875
-categories:
-- Art Computing
-- Art Open Data
----
++++
+title = "Exploring Art Data 3"
+date = 2010-11-21 22:42:07+00:00
+path = "/2010/11/21/exploring_art_data_3/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+]
++++
 
 Let's look at how much the "Grants For The Arts" programme of Arts Council England (ACE) gives to each region.  
   

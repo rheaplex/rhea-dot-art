@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-27 23:16:14+00:00
-layout: post
-slug: thinking-it-through
-title: Thinking It Through
-id: 1735
-categories:
-- Free Culture
----
++++
+title = "Thinking It Through"
+date = 2009-02-27 23:16:14+00:00
+path = "/2009/02/27/thinking-it-through/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Someone emailed me to ask if they could use a modified version of one of my BY-SA images as the icon for their Android application.   
   

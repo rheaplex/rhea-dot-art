@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-02 04:20:28+00:00
-layout: post
-slug: asset-stripping-licenses-and-value-creation-licenses
-title: Asset Stripping Licenses And Value Creation Licenses
-id: 140
-categories:
-- Free Culture
----
++++
+title = "Asset Stripping Licenses And Value Creation Licenses"
+date = 2004-05-02 04:20:28+00:00
+path = "/2004/05/02/asset-stripping-licenses-and-value-creation-licenses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Asset stripping" is breaking up a company and selling off its assets. This does the company no good whatsoever but makes the asset stripper (or "corporate raider") a lot of money.  
   

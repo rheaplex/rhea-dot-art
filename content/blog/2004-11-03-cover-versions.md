@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-03 04:51:34+00:00
-layout: post
-slug: cover-versions
-title: Cover Versions
-id: 241
-categories:
-- Free Culture
----
++++
+title = "Cover Versions"
+date = 2004-11-03 04:51:34+00:00
+path = "/2004/11/03/cover-versions/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "This is not my song to you and this is not me singing it,  
 A cover version, words I found, dressed in black with eyes seductive.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-07 08:28:49+00:00
-layout: post
-slug: mr-agreeable
-title: Mr. Agreeable
-id: 1282
-categories:
-- Satire
----
++++
+title = "Mr. Agreeable"
+date = 2007-05-07 08:28:49+00:00
+path = "/2007/05/07/mr-agreeable/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Did I mention that Mr. Agreeable is back?  
   

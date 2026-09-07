@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-06 05:03:10+00:00
-layout: post
-slug: topics-from-press-releases-on-contemporary-art-daily
-title: Topics From Press Releases On Contemporary Art Daily
-id: 2617
-categories:
-- Art Computing
-- Projects
----
++++
+title = "Topics From Press Releases On Contemporary Art Daily"
+date = 2014-09-06 05:03:10+00:00
+path = "/2014/09/06/topics-from-press-releases-on-contemporary-art-daily/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Projects",
+]
++++
 
 TF-IDF of 25 topics extracted using LDA on press release texts from Contemporary Art Daily:
 

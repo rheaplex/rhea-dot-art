@@ -1,10 +1,13 @@
 +++
 title = "The Distribution of the Penetrable"
-author = ["Rhea Myers"]
 date = 2025-09-24
-lastmod = 2025-09-24
-categories = ["gender", "theory"]
-draft = false
+path = "/2025/09/24/the-distribution-of-the-penetrable/"
+
+[taxonomies]
+categories = [
+    "gender",
+    "theory",
+]
 +++
 
 > Let us cavort like the Greeks of old. You know the ones I mean... - Hedonism Bot, Futurama.

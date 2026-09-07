@@ -1,16 +1,18 @@
----
-title: '"Bad Shibe" at New World Order'
-date: 2017-05-21 20:45:54.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Ethereum
-- Projects
-- Shows
-author: Rhea Myers
----
++++
+title = "\"Bad Shibe\" at New World Order"
+date = 2017-05-21 20:45:54-07:00
+path = "/2017/05/21/bad-shibe-at-new-world-order/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+    "Shows",
+]
++++
+
 ![](/images/2017/05/DAMeFqJW0AEyMA4-1024x574.jpg)
 
 Lina Theodorou's installation at Furtherfield's "[New World Order](http://furtherfield.org/programmes/exhibition/new-world-order)" featuring their wonderful illustrations for my story "Bad Shibe".

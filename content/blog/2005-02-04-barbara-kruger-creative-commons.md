@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-04 07:14:08+00:00
-layout: post
-slug: barbara-kruger-creative-commons
-title: Barbara Kruger & Creative Commons
-id: 317
-categories:
-- Free Culture
----
++++
+title = "Barbara Kruger & Creative Commons"
+date = 2005-02-04 07:14:08+00:00
+path = "/2005/02/04/barbara-kruger-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Renowned appropriation artist (and graphic design distiller) Barbara Kruger uses Lessig's book (presumably Free Culture) on her grad course:  
   

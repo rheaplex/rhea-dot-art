@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-03-07 06:40:27+00:00
-layout: post
-slug: draw-something-new-composition-system
-title: 'draw-something: new composition system'
-id: 1240
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something: new composition system"
+date = 2007-03-07 06:40:27+00:00
+path = "/2007/03/07/draw-something-new-composition-system/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 Here's the first successful image created by the new composition system for draw-something:  
 ![drawing-20070306-213107.png](/images/2007/03/drawing-20070306-213107.png)  

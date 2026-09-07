@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-15 08:50:35+00:00
-layout: post
-slug: icommons-firing-the-boosters
-title: 'iCommons: Firing The Boosters'
-id: 1040
-categories:
-- Free Culture
----
++++
+title = "iCommons: Firing The Boosters"
+date = 2006-07-15 08:50:35+00:00
+path = "/2006/07/15/icommons-firing-the-boosters/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 iCommons is an organisation devoted to encouraging the growth of the cultural commons around the world. Their second summit was a resounding success, putting projects and groups from different countries in touch with each other, sharing knowledge and experience, and boosting networking.  

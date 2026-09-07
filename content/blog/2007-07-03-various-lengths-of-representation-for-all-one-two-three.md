@@ -1,17 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-03 06:55:03+00:00
-layout: post
-slug: various-lengths-of-representation-for-all-one-two-three
-title: Various lengths of representation for “All one-, two-, three- & four part combinations
-  of lines in four directions and in four colours”
-id: 1389
-categories:
-- Aesthetics
-- Generative Art
-- Projects
----
++++
+title = "Various lengths of representation for “All one-, two-, three- & four part combinations of lines in four directions and in four colours”"
+date = 2007-07-03 06:55:03+00:00
+path = "/2007/07/03/various-lengths-of-representation-for-all-one-two-three/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![200707022153](/images/2007/07/200707022153.jpg)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 18:44:45+00:00
-layout: post
-slug: color-analytics
-title: Color Analytics
-id: 739
-categories:
-- Generative Art
----
++++
+title = "Color Analytics"
+date = 2005-12-03 18:44:45+00:00
+path = "/2005/12/03/color-analytics/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Cool colour analysis generative art in Flash, via [Generator.x](http://www.generatorx.no/):  

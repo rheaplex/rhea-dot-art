@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-26 21:16:17+00:00
-layout: post
-slug: wacom-on-debian-howto
-title: Wacom on Debian Howto
-id: 545
-categories:
-- Howto
----
++++
+title = "Wacom on Debian Howto"
+date = 2005-06-26 21:16:17+00:00
+path = "/2005/06/26/wacom-on-debian-howto/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 [http://linuxwacom.sourceforge.net/index.php/howto/debwcmdrv](http://linuxwacom.sourceforge.net/index.php/howto/debwcmdrv)  
 

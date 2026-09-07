@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-08 10:06:32+00:00
-layout: post
-slug: creative-commons-25-licenses-are-live
-title: Creative Commons 2.5 Licenses Are Live
-id: 481
-categories:
-- Free Culture
----
++++
+title = "Creative Commons 2.5 Licenses Are Live"
+date = 2005-06-08 10:06:32+00:00
+path = "/2005/06/08/creative-commons-25-licenses-are-live/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 The Creative Commons 2.5 licenses are now live. Choose a license from:  

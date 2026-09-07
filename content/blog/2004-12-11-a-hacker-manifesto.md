@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-11 02:07:07+00:00
-layout: post
-slug: a-hacker-manifesto
-title: A Hacker Manifesto
-id: 263
-categories:
-- Free Culture
----
++++
+title = "A Hacker Manifesto"
+date = 2004-12-11 02:07:07+00:00
+path = "/2004/12/11/a-hacker-manifesto/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Interesting new book on a principle I've been talking about for a while:[  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 07:14:58+00:00
-layout: post
-slug: homebrew-magnetic-position-sensing
-title: Homebrew Magnetic Position Sensing
-id: 958
-categories:
-- Generative Art
----
++++
+title = "Homebrew Magnetic Position Sensing"
+date = 2006-06-10 07:14:58+00:00
+path = "/2006/06/10/homebrew-magnetic-position-sensing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.phoenixgarage.org/projects/homevr/cheapvr/chpvr002.txt](http://www.phoenixgarage.org/projects/homevr/cheapvr/chpvr002.txt)  
   

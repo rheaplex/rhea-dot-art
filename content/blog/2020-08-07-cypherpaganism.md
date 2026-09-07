@@ -1,23 +1,14 @@
----
-id: 3007
-title: 'Entirely Unsatisfactory Notes Towards An Imagined Cypherpaganism'
-date: '2020-08-07T09:23:13+00:00'
-author: Rhea Myers
-layout: post
-responsive_meta_box_designation:
-    - ''
-responsive_meta_box_facebook:
-    - ''
-responsive_meta_box_twitter:
-    - ''
-responsive_meta_box_googleplus:
-    - ''
-responsive_meta_box_text_linkedin:
-    - ''
-categories:
-    - Crypto
-    - Magick
----
++++
+title = "Entirely Unsatisfactory Notes Towards An Imagined Cypherpaganism"
+date = 2020-08-07 09:23:13+00:00
+path = "/2020/08/07/entirely-unsatisfactory-notes-towards-an-imagined-cypherpaganism/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Magick",
+]
++++
 
 The book of nature is encrypted.
 

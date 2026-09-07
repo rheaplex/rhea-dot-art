@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-02 07:29:30+00:00
-layout: post
-slug: how-to-control-csound-with-a-custom-midi-controller
-title: How To Control CSound With A Custom Midi Controller
-id: 660
-categories:
-- Howto
----
++++
+title = "How To Control CSound With A Custom Midi Controller"
+date = 2005-09-02 07:29:30+00:00
+path = "/2005/09/02/how-to-control-csound-with-a-custom-midi-controller/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 I want to control Minara via custom input devices eventually.  
   

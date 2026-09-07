@@ -1,8 +1,14 @@
 +++
 title = "draw-something"
 date = 2004-01-02
+path = "/draw-something/"
+
+[extra]
 image = "/art-images/draw-something.png"
-mediums = ["JavaScript", "Common Lisp"]
+mediums = [
+    "JavaScript",
+    "Common Lisp",
+]
 wp_id = 6680
 +++
 

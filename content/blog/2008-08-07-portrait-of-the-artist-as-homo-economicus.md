@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-07 06:31:56+00:00
-layout: post
-slug: portrait-of-the-artist-as-homo-economicus
-title: Portrait of The Artist as Homo Economicus
-id: 1647
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Portrait of The Artist as Homo Economicus"
+date = 2008-08-07 06:31:56+00:00
+path = "/2008/08/07/portrait-of-the-artist-as-homo-economicus/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [http://www.nytimes.com/2008/08/04/arts/design/04pica.html](http://www.nytimes.com/2008/08/04/arts/design/04pica.html)  
   

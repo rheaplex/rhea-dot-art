@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-30 07:00:26+00:00
-layout: post
-slug: screensaveriness
-title: Screensaveriness
-id: 1324
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Screensaveriness"
+date = 2007-05-30 07:00:26+00:00
+path = "/2007/05/30/screensaveriness/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 Abstract graphics looping on a computer screen will be seen as screensavers. Even relatively sophisticated digital artworks will be seen unproblematically as screensavers if you make them into an Xscreensaver module. Being seen as a screensaver is problematic if what is being seen as one does not wish to engage with what that means.  
   

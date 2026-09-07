@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-19 06:44:56+00:00
-layout: post
-slug: tom-moody-work-at-futuresonic
-title: Tom Moody Work at Futuresonic
-id: 582
-categories:
-- Aesthetics
----
++++
+title = "Tom Moody Work at Futuresonic"
+date = 2005-07-19 06:44:56+00:00
+path = "/2005/07/19/tom-moody-work-at-futuresonic/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Tom Moody has a piece at Futuresonic:  

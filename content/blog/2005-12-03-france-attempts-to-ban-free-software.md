@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 18:49:20+00:00
-layout: post
-slug: france-attempts-to-ban-free-software
-title: France Attempts To Ban Free Software
-id: 740
-categories:
-- Free Culture
----
++++
+title = "France Attempts To Ban Free Software"
+date = 2005-12-03 18:49:20+00:00
+path = "/2005/12/03/france-attempts-to-ban-free-software/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _France may soon enact the worst copyright law in Europe, sneaking it through in a legislative session scheduled for December 22 and 23_  

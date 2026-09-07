@@ -1,18 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-06-20 21:00:39+00:00
-layout: post
-slug: streaming_aesthetics_colour
-title: Streaming Aesthetics (Colour)
-id: 1849
-categories:
-- Aesthetics
-- Art Computing
-- Free Software
-tags:
-- twitter aesthetics processing
----
++++
+title = "Streaming Aesthetics (Colour)"
+date = 2010-06-20 21:00:39+00:00
+path = "/2010/06/20/streaming_aesthetics_colour/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Software",
+]
+tags = [
+    "twitter aesthetics processing",
+]
++++
 
 ![twitsthaetics2.png](/images/2010/06/20/twitsthaetics2.png)  
   

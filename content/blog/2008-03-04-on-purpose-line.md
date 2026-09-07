@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-04 07:15:55+00:00
-layout: post
-slug: on-purpose-line
-title: On Purpose Line
-id: 1581
-categories:
-- Generative Art
----
++++
+title = "On Purpose Line"
+date = 2008-03-04 07:15:55+00:00
+path = "/2008/03/04/on-purpose-line/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 What seemed to be a problematic edge case in my implementation of the line drawing algorithm from Harold Cohen's old essay "On Purpose" turned out to need a fundamental rewrite of much of the code (!) and I'm still not done. But I can now get results like this (with green lines for debugging):  
   

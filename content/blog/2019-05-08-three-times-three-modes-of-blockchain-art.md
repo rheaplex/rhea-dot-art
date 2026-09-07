@@ -1,13 +1,14 @@
----
-id: 3229
-title: 'Three Times Three Modes of Blockchain Art'
-date: '2019-05-08T20:15:23+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Art
-    - Crypto
----
++++
+title = "Three Times Three Modes of Blockchain Art"
+date = 2019-05-08 20:15:23+00:00
+path = "/2019/05/08/three-times-three-modes-of-blockchain-art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+]
++++
 
 ## Introduction
 

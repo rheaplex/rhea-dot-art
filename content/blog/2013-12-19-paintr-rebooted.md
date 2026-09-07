@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-12-19 06:02:20+00:00
-layout: post
-slug: paintr-rebooted
-title: paintr Rebooted
-id: 2467
-categories:
-- Art Computing
-- Free Software
-- Generative Art
-- Projects
----
++++
+title = "paintr Rebooted"
+date = 2013-12-19 06:02:20+00:00
+path = "/2013/12/19/paintr-rebooted/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![paintr](/images/2013/12/paintr-1024x648.png)
 

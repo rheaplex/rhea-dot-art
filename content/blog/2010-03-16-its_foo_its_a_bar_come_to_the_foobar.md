@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-16 18:50:04+00:00
-layout: post
-slug: its_foo_its_a_bar_come_to_the_foobar
-title: It's Foo! It's A Bar! Come To The FooBar!
-id: 1832
-categories:
-- Free Culture
----
++++
+title = "It's Foo! It's A Bar! Come To The FooBar!"
+date = 2010-03-16 18:50:04+00:00
+path = "/2010/03/16/its_foo_its_a_bar_come_to_the_foobar/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://foocorp.net/foobar/](http://foocorp.net/foobar/)
 

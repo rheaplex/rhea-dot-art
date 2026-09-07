@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-23 05:25:23+00:00
-layout: post
-slug: bloc-party-silent-alarm
-title: 'Bloc Party: Silent Alarm'
-id: 326
-categories:
-- Reviews
----
++++
+title = "Bloc Party: Silent Alarm"
+date = 2005-02-23 05:25:23+00:00
+path = "/2005/02/23/bloc-party-silent-alarm/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Songs to listen to after the end of a ten-year relationship should probably go something like:  
   

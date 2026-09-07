@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-06 06:45:22+00:00
-layout: post
-slug: conceptual-visualisation
-title: Conceptual Visualisation
-id: 606
-categories:
-- Generative Art
----
++++
+title = "Conceptual Visualisation"
+date = 2005-08-06 06:45:22+00:00
+path = "/2005/08/06/conceptual-visualisation/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Coloured squares from words, or as the artist puts it:  

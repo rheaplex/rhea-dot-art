@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-21 04:08:43+00:00
-layout: post
-slug: the-story-of-art
-title: The Story Of Art
-id: 127
-categories:
-- Aesthetics
----
++++
+title = "The Story Of Art"
+date = 2004-04-21 04:08:43+00:00
+path = "/2004/04/21/the-story-of-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 I finished Gombricht's "The Story of Art" today. It's excellent, if a little pre-political-correctness in places.  
 I particularly like the way he pulls out universals whilst showing a progression of ideas. I need to re-read it with a notebook (it's too good a story to treat as a study source on the first go).  

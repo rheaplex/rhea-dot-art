@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-11-26 18:36:07+00:00
-layout: post
-slug: gnulinux-kobo-build-environment-setup
-title: GNU/Linux Kobo Build Environment Setup
-id: 2272
-categories:
-- Free Software
-- Howto
----
++++
+title = "GNU/Linux Kobo Build Environment Setup"
+date = 2012-11-26 18:36:07+00:00
+path = "/2012/11/26/gnulinux-kobo-build-environment-setup/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Howto",
+]
++++
 
 I've bought a Kobo Touch ebook reader device to hack on.
 

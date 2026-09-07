@@ -1,12 +1,13 @@
----
-id: 3900
-title: 'It All Sounds The Same'
-date: '2020-09-16T21:32:20+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Philosophy
----
++++
+title = "It All Sounds The Same"
+date = 2020-09-16 21:32:20+00:00
+path = "/2020/09/16/it-all-sounds-the-same/"
+
+[taxonomies]
+categories = [
+    "Philosophy",
+]
++++
 
 In the early 1990s, on a show called “A Stab In The Dark” that was a disastrous attempt to revive the TW3 format, the comedian David Baddiel demanding that audience members name random acid house tracks played over the studio PA. One embarrassed young man eventually helped Baddiel out by admitting that he couldn’t.
 

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-08 02:58:47+00:00
-layout: post
-slug: draw-something-in-development
-title: draw-something In Development
-id: 775
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something In Development"
+date = 2006-01-08 02:58:47+00:00
+path = "/2006/01/08/draw-something-in-development/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 Multiple figures, but they don't relate yet (I'm working on it).  

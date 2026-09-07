@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-29 05:39:51+00:00
-layout: post
-slug: art-and-fear
-title: Art And Fear
-id: 137
-categories:
-- Aesthetics
----
++++
+title = "Art And Fear"
+date = 2004-04-29 05:39:51+00:00
+path = "/2004/04/29/art-and-fear/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Virillio's back](http://www.continuumbooks.com/book_details.cgi?bid=12101) and he's got the caps lock key working again. He's also got the benefit of a readable translation this time.   
 It's strange to think that "Art and Fear" was written before September 11th. The Midlantic Tachyon Projectors are as nothing compared to the Chunnel ones...  

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-12-19 18:01:53+00:00
-layout: post
-slug: how-paintr-works
-title: How paintr Works
-id: 2473
-categories:
-- Art Computing
-- Generative Art
-- Projects
----
++++
+title = "How paintr Works"
+date = 2013-12-19 18:01:53+00:00
+path = "/2013/12/19/how-paintr-works/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
 
 paintr came to me very quickly just before my show in Belgrade in 2005. Originally intended as an artistic web service, it ended up as "art for the age of web services". The original went offline when I switched web hosts a few years ago. Updating it from its php-and-blog 2005 version to a 2010s cloud-based node.js and tumblr version made sense conceptually.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-24 05:58:43+00:00
-layout: post
-slug: transcendence-and-depth
-title: Transcendence And Depth
-id: 1458
-categories:
-- Aesthetics
----
++++
+title = "Transcendence And Depth"
+date = 2007-08-24 05:58:43+00:00
+path = "/2007/08/24/transcendence-and-depth/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 _The whole point is that there is no depth, and depth is just another name - treasured by the hermeneuts - for transcendence._
 

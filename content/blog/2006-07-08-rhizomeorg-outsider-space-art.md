@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 05:47:16+00:00
-layout: post
-slug: rhizomeorg-outsider-space-art
-title: 'Rhizome.org: Outsider Space Art'
-id: 1025
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Rhizome.org: Outsider Space Art"
+date = 2006-07-08 05:47:16+00:00
+path = "/2006/07/08/rhizomeorg-outsider-space-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [Rhizome.org: Outsider Space Art](http://rhizome.org/fp.rhiz?id=2223)  
   

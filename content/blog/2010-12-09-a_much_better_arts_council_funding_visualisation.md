@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-09 13:02:04+00:00
-layout: post
-slug: a_much_better_arts_council_funding_visualisation
-title: A Much Better Arts Council Funding Visualisation
-id: 1887
-categories:
-- Art Open Data
----
++++
+title = "A Much Better Arts Council Funding Visualisation"
+date = 2010-12-09 13:02:04+00:00
+path = "/2010/12/09/a_much_better_arts_council_funding_visualisation/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+]
++++
 
 [Arts Council Funding By Constituency](http://public.tableausoftware.com/views/Artsfunding/Fundingamountinteractive?:embed=yes&:tabs=yes&:toolbar=yes)  
   

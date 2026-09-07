@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 19:41:06+00:00
-layout: post
-slug: lisp-books
-title: Lisp Books
-id: 741
-categories:
-- Generative Art
----
++++
+title = "Lisp Books"
+date = 2005-12-03 19:41:06+00:00
+path = "/2005/12/03/lisp-books/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 A list of [Lisp Books](http://weblog.mrbill.net/lisp-books/) that are available online, via [Lemonodor](http://lemonodor.com/archives/001297.html).  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-05 06:50:35+00:00
-layout: post
-slug: a-new-logical-fallacy
-title: A New Logical Fallacy
-id: 744
-categories:
-- Free Culture
-- Satire
----
++++
+title = "A New Logical Fallacy"
+date = 2005-12-05 06:50:35+00:00
+path = "/2005/12/05/a-new-logical-fallacy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
   
 A new logical fallacy has been doing the rounds:  

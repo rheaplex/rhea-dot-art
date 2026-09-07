@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-02 07:33:24+00:00
-layout: post
-slug: web-site-for-now-they-are-surrounded
-title: Web Site For “Now They Are Surrounded”
-id: 596
-categories:
-- Aesthetics
----
++++
+title = "Web Site For “Now They Are Surrounded”"
+date = 2005-08-02 07:33:24+00:00
+path = "/2005/08/02/web-site-for-now-they-are-surrounded/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Web site for an Art & Language project. Featuring middle-sized dry goods and other definitions of art:  

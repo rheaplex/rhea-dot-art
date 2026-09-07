@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-02 09:07:00+00:00
-layout: post
-slug: open-source-material
-title: Open Source Material
-id: 174
-categories:
-- Free Culture
----
++++
+title = "Open Source Material"
+date = 2004-07-02 09:07:00+00:00
+path = "/2004/07/02/open-source-material/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 The problem with Open Content is that it is concerned with end products, not source material, and is aimed at consumers, not producers. This reduces its value to both.   

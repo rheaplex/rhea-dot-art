@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-11 06:38:52+00:00
-layout: post
-slug: more-surgical-strike
-title: More Surgical Strike
-id: 2533
-categories:
-- Art
-- Free Software
-- Generative Art
-- Projects
----
++++
+title = "More Surgical Strike"
+date = 2014-03-11 06:38:52+00:00
+path = "/2014/03/11/more-surgical-strike/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+]
++++
 
 [![rings](/images/2014/03/rings-1024x640.png)](/images/2014/03/rings.png)
 

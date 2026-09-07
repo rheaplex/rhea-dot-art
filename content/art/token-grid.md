@@ -1,8 +1,16 @@
 +++
 title = "Token Grid"
 date = 2019-05-05
+path = "/token-grid/"
+
+[extra]
 image = "/art-images/token-grid.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6633
 +++
 

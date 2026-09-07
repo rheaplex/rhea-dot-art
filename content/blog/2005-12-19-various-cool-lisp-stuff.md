@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-19 04:25:22+00:00
-layout: post
-slug: various-cool-lisp-stuff
-title: Various Cool Lisp Stuff
-id: 758
-categories:
-- Generative Art
----
++++
+title = "Various Cool Lisp Stuff"
+date = 2005-12-19 04:25:22+00:00
+path = "/2005/12/19/various-cool-lisp-stuff/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 [http://www.xach.com/](http://www.xach.com/) - Graphics and utilities.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-02-02 20:06:44+00:00
-layout: post
-slug: open_source_against_free_software
-title: Open Source Against Free Software
-id: 1826
-categories:
-- Free Software
----
++++
+title = "Open Source Against Free Software"
+date = 2010-02-02 20:06:44+00:00
+path = "/2010/02/02/open_source_against_free_software/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 "Open Source" is in danger of coming to mean corporations sharing source code in order to reduce their development costs for proprietary software incorporating that code and thereby removing the freedom of its users. Those corporations may share code with a "community" and hire people to "manage" that community, but any code shared will be under a non-copyleft licence and/or a copyright assignment to the corporation (rather than to a trusted third party) to protect their ability to make that code proprietary rather than respect the freedom of users to use the software that it represents.  
   

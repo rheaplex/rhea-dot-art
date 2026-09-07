@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-21 03:25:58+00:00
-layout: post
-slug: fisking-anti-imperialism
-title: Fisking Anti-Imperialism
-id: 993
-categories:
-- Satire
----
++++
+title = "Fisking Anti-Imperialism"
+date = 2006-06-21 03:25:58+00:00
+path = "/2006/06/21/fisking-anti-imperialism/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 [A Democratiya Review Fisks Anti-Imperialism](http://www.democratiya.com/review.asp?reviews_id=26)  

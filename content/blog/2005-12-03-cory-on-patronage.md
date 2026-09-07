@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 07:52:35+00:00
-layout: post
-slug: cory-on-patronage
-title: Cory on Patronage
-id: 736
-categories:
-- Free Culture
----
++++
+title = "Cory on Patronage"
+date = 2005-12-03 07:52:35+00:00
+path = "/2005/12/03/cory-on-patronage/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _Copyright maximalists like to contrast copyright with the old system of patronage, when you could only make art if you could convince the Pope or a duke or a king that your art was worthy. Patronage really distorted creative expression, and copyright did indeed promise to decentralize authority over what kind of art was permitted.  

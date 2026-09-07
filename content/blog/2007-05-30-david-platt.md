@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-30 06:42:03+00:00
-layout: post
-slug: david-platt
-title: David Platt
-id: 1323
-categories:
-- Aesthetics
----
++++
+title = "David Platt"
+date = 2007-05-30 06:42:03+00:00
+path = "/2007/05/30/david-platt/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Also at KIAD was David Platt:  
   

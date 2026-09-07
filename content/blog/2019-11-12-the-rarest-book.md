@@ -1,17 +1,21 @@
----
-id: 3341
-title: 'The Rarest Book'
-date: '2019-11-12T20:55:18+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - 'Art History'
-    - Crypto
-    - Reviews
----
++++
+title = "The Rarest Book"
+date = 2019-11-12 20:55:18+00:00
+path = "/2019/11/12/the-rarest-book/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Crypto",
+    "Reviews",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 The history of rare digital art doesn’t make sense without Rare Pepes.
 

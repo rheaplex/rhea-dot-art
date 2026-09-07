@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-01-05 03:15:27+00:00
-layout: post
-slug: a-harold-cohen-webliography
-title: A Harold Cohen Webliography
-id: 71
-categories:
-- Generative Art
----
++++
+title = "A Harold Cohen Webliography"
+date = 2004-01-05 03:15:27+00:00
+path = "/2004/01/05/a-harold-cohen-webliography/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Harold Cohen's artificial intelligence artwork generator program AARON:  
 [Ask The Scientists: Harold Cohen](http://www.pbs.org/safarchive/3_ask/archive/qna/3284_cohen.html)  

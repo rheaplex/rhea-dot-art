@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-05 06:30:33+00:00
-layout: post
-slug: draw-something-links
-title: draw-something links
-id: 953
-categories:
-- Free Culture
----
++++
+title = "draw-something links"
+date = 2006-06-05 06:30:33+00:00
+path = "/2006/06/05/draw-something-links/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [make something new](http://lemonsinspace.blogspot.com/2006/03/make-something-new.html)  
   

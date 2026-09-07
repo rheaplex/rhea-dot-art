@@ -1,10 +1,7 @@
 +++
 title = "Flickr: Rhea Myers photos tagged with psychetecture"
-author = ["Rhea Myers"]
 date = 2007-03-28
-lastmod = 2007-03-28
-slug = "flickr-rhea-myers-photos-tagged-with-psychetecture"
-draft = false
+path = "/2007/03/28/flickr-rhea-myers-photos-tagged-with-psychetecture/"
 +++
 
 [Flickr: Rhea Myers photos tagged with psychetecture](http://www.flickr.com/photos/rheaplex/tags/psychetecture/)

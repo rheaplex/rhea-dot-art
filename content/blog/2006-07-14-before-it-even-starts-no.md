@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-14 09:47:48+00:00
-layout: post
-slug: before-it-even-starts-no
-title: Before It Even Starts, No
-id: 1038
-categories:
-- Free Culture
----
++++
+title = "Before It Even Starts, No"
+date = 2006-07-14 09:47:48+00:00
+path = "/2006/07/14/before-it-even-starts-no/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 In the GPL, "compatibility" refers to other licenses. It is other licenses that are compatible with the GPL. Work under those licenses can be incorporated into GPL-covered code. Compatibility does not mean the GPL giving its code away to other licenses. So working to make a CC license or point of licensing capable of giving its work away to other licenses is not compatibility. Indeed because it leads to work under more incompatible licenses, it is incompatibility. Compatibility and plurality do not mix, and where they try to they do not serve users.  

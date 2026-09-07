@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-20 07:33:07+00:00
-layout: post
-slug: free-screwdrivers
-title: Free Screwdrivers
-id: 1266
-categories:
-- Free Culture
----
++++
+title = "Free Screwdrivers"
+date = 2007-04-20 07:33:07+00:00
+path = "/2007/04/20/free-screwdrivers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Screwdrivers are useful tools. You can open consumer electronics with them, you can assemble furniture with them, or you can misuse them to open tins of paint. There is nothing profound about them, they are just useful devices. They are not something you have to think about, just go to the shop and buy one then use it as you see fit.  
   

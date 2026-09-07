@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-11 07:50:38+00:00
-layout: post
-slug: posting-will-be-slow-for-a-while
-title: Posting Will Be Slow For A While…
-id: 1598
-categories:
-- Personal
----
++++
+title = "Posting Will Be Slow For A While…"
+date = 2008-04-11 07:50:38+00:00
+path = "/2008/04/11/posting-will-be-slow-for-a-while/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 While I actually do some art and some writing.  
   

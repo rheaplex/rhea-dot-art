@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-24 07:15:16+00:00
-layout: post
-slug: newscomic
-title: newscomic
-id: 998
-categories:
-- Generative Art
----
++++
+title = "newscomic"
+date = 2006-06-24 07:15:16+00:00
+path = "/2006/06/24/newscomic/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [newscomic](http://dev1.manme.org.uk/~davem/RSScomic_1.2/index.php?input_rss=2)  
   

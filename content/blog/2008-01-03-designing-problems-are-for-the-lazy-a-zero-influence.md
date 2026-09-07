@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-03 05:42:47+00:00
-layout: post
-slug: designing-problems-are-for-the-lazy-a-zero-influence
-title: Designing Problems are for the Lazy Â« Zero influence
-id: 1549
-categories:
-- Aesthetics
-- Generative Art
-- Projects
----
++++
+title = "Designing Problems are for the Lazy Â« Zero influence"
+date = 2008-01-03 05:42:47+00:00
+path = "/2008/01/03/designing-problems-are-for-the-lazy-a-zero-influence/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Projects",
+]
++++
 
 <blockquote>_It may seem dull, but understanding how a carrot grows is essential to a farmer. Understanding how Photoshop works is not necessary to use it, but to get the best from the system-as-application, knowing more about the under lying code is more important than understanding complementary colours. That's why Rob's Minara is such a smart way to think about the relationship between design and software._  
 - [Designing Problems are for the Lazy Â« Zero influence](http://zeroinfluence.wordpress.com/2008/01/02/designing-problems-are-for-the-lazy/)</blockquote>

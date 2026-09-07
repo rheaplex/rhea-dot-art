@@ -1,25 +1,16 @@
----
-id: 3067
-title: 'Art On The Blockchain Episode 20'
-date: '2018-09-17T21:59:19+00:00'
-author: Rhea Myers
-layout: post
-responsive_meta_box_designation:
-    - ''
-responsive_meta_box_facebook:
-    - ''
-responsive_meta_box_twitter:
-    - ''
-responsive_meta_box_googleplus:
-    - ''
-responsive_meta_box_text_linkedin:
-    - ''
-categories:
-    - Art
-    - Crypto
-    - Media
-    - Projects
----
++++
+title = "Art On The Blockchain Episode 20"
+date = 2018-09-17 21:59:19+00:00
+path = "/2018/09/17/art-on-the-blockchain-episode-20/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Media",
+    "Projects",
+]
++++
 
 ![](/images/2018/07/artworks-000376616469-e3357z-t500x500.jpg)
 

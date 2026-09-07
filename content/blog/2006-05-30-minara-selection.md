@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-30 09:35:15+00:00
-layout: post
-slug: minara-selection
-title: minara - selection
-id: 949
-categories:
-- Generative Art
-- Projects
----
++++
+title = "minara - selection"
+date = 2006-05-30 09:35:15+00:00
+path = "/2006/05/30/minara-selection/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 An unassuming square:  

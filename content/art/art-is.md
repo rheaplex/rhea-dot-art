@@ -1,8 +1,16 @@
 +++
 title = "Art Is"
 date = 2014-07-23
+path = "/art-is/"
+
+[extra]
 image = "/art-images/art-is-2.0.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6658
 +++
 

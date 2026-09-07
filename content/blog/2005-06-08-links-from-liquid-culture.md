@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-08 07:00:21+00:00
-layout: post
-slug: links-from-liquid-culture
-title: Links From Liquid Culture
-id: 477
-categories:
-- Free Culture
----
++++
+title = "Links From Liquid Culture"
+date = 2005-06-08 07:00:21+00:00
+path = "/2005/06/08/links-from-liquid-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 A selection of links from the [Liquid Culture](http://www.liquidculture.info/) launch, discussion and handouts.  

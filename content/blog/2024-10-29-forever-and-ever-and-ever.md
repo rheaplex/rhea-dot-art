@@ -1,11 +1,8 @@
----
-title: "Forever and Ever and Ever"
-author: ["Rhea Myers"]
-date: 2024-10-29
-lastmod: 2024-10-29
-draft: false
-layout: "post"
----
++++
+title = "Forever and Ever and Ever"
+date = 2024-10-29
+path = "/2024/10/29/forever-and-ever-and-ever/"
++++
 
 We don't hear as much about "blockchain immutability" as we used to. Although the entire point of a cryptographically signed Merkle list is to prevent tampering with the record of events that it represents -  to produce an immutable and unalterable data structure -  the current state of the world that is represented by a blockchain is different from how it was in the past. Coins have been sent, transactions have been executed, and queries will return values different from what they would have previously. Blockchains are immutable. But they can be extended.
 

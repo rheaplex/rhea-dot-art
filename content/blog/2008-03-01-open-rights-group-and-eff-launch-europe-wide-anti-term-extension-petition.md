@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-01 04:39:35+00:00
-layout: post
-slug: open-rights-group-and-eff-launch-europe-wide-anti-term-extension-petition
-title: Open Rights Group and EFF launch Europe-wide anti-term extension petition
-id: 1580
-categories:
-- Free Culture
----
++++
+title = "Open Rights Group and EFF launch Europe-wide anti-term extension petition"
+date = 2008-03-01 04:39:35+00:00
+path = "/2008/03/01/open-rights-group-and-eff-launch-europe-wide-anti-term-extension-petition/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [  
   

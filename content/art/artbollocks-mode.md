@@ -1,10 +1,17 @@
 +++
 title = "Artbollocks Mode"
 date = 2015-01-10
+path = "/artbollocks-mode/"
+
+[extra]
 date_provisional = true
 image = "/art-images/ab-mode.png"
-mediums = ["Emacs Lisp"]
-repos = ["https://github.com/sachac/artbollocks-mode"]
+mediums = [
+    "Emacs Lisp",
+]
+repos = [
+    "https://github.com/sachac/artbollocks-mode",
+]
 wp_id = 6646
 +++
 

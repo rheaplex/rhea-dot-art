@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-21 20:52:57+00:00
-layout: post
-slug: joy-garnett-open-source-art
-title: Joy Garnett &&“Open Source Art”
-id: 393
-categories:
-- Free Culture
----
++++
+title = "Joy Garnett &&“Open Source Art”"
+date = 2005-04-21 20:52:57+00:00
+path = "/2005/04/21/joy-garnett-open-source-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Garnett on Garnett:  
   

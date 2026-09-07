@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-01 07:07:12+00:00
-layout: post
-slug: art_generators
-title: art_generators
-id: 1661
-categories:
-- Free Culture
-- Generative Art
-- Projects
----
++++
+title = "art_generators"
+date = 2008-09-01 07:07:12+00:00
+path = "/2008/09/01/art_generators/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+]
++++
 
 [http://github.com/rheaplex/art_generators/tree/master](http://github.com/rheaplex/art_generators/tree/master)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-12 05:49:03+00:00
-layout: post
-slug: creative-archive-site-launch
-title: Creative Archive Site Launch
-id: 379
-categories:
-- Free Culture
----
++++
+title = "Creative Archive Site Launch"
+date = 2005-04-12 05:49:03+00:00
+path = "/2005/04/12/creative-archive-site-launch/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via [Copyfight](http://www.corante.com/copyfight) :  
   

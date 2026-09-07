@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-28 05:00:54+00:00
-layout: post
-slug: media-mutandis-a-nodelondon-reader
-title: 'Media Mutandis:  a NODE.London Reader'
-id: 849
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "Media Mutandis:  a NODE.London Reader"
+date = 2006-02-28 05:00:54+00:00
+path = "/2006/02/28/media-mutandis-a-nodelondon-reader/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 Media Mutandis: a NODE.London Reader  
 (edited by Marina Vishmidt, with Mary Anne Francis, Jo Walsh and Lewis  

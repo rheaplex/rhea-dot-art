@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-15 09:25:48+00:00
-layout: post
-slug: wheres-rhea-2
-title: Where's Rob?
-id: 1106
-categories:
-- Personal
-- Projects
----
++++
+title = "Where's Rob?"
+date = 2006-09-15 09:25:48+00:00
+path = "/2006/09/15/wheres-rhea-2/"
+
+[taxonomies]
+categories = [
+    "Personal",
+    "Projects",
+]
++++
 
   
 Last month I was meant to be getting Minara ready for release. I have to admit that I didn't touch the code all month, and I haven't been blogging all that much either.  

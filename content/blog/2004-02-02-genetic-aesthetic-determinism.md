@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-02-02 02:57:02+00:00
-layout: post
-slug: genetic-aesthetic-determinism
-title: Genetic Aesthetic Determinism
-id: 86
-categories:
-- Aesthetics
----
++++
+title = "Genetic Aesthetic Determinism"
+date = 2004-02-02 02:57:02+00:00
+path = "/2004/02/02/genetic-aesthetic-determinism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [NewScientist](http://www.newscientist.com/) is asking whether we all inhabit the same sensory universe ("In The Realm Of Your Senses", 31/1/04). Yes, that old chestnut. There's interesting new evidence on genetic variations in the senses such as taste and smell. And of course we learn from our senses, so this may have some bearing on the construction of our self.  
 But, as NewScientist recognises, once you get the data from your senses you have to process it. And then all bets are off. The processing may vary genetically, or the brain may converge on a coherent and normalised view of the world.   

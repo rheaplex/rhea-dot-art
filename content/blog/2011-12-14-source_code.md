@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-12-14 22:02:44+00:00
-layout: post
-slug: source_code
-title: Source Code
-id: 1970
-categories:
-- Art
-- Art Computing
-- Art History
-- Free Culture
-- Free Software
----
++++
+title = "Source Code"
+date = 2011-12-14 22:02:44+00:00
+path = "/2011/12/14/source_code/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Art History",
+    "Free Culture",
+    "Free Software",
+]
++++
 
 The part of my review of "White Heat Cold Logic" that seems to have
 caught people's attention is:

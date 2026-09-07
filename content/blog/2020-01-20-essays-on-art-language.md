@@ -1,15 +1,19 @@
----
-id: 3740
-title: 'Essay on Essays on Art & Language'
-date: '2020-01-20T20:56:36+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - 'Art History'
-    - Books
----
++++
+title = "Essay on Essays on Art & Language"
+date = 2020-01-20 20:56:36+00:00
+path = "/2020/01/20/essay-on-essays-on-art-language/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Books",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 ![](/images/2020/01/incident-6-1024x660.png)  
 *INDEX: INCIDENT IN A MUSEUM VI, 1986, Art &amp; Language*

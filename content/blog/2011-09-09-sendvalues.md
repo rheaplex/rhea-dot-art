@@ -1,20 +1,19 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-09 19:37:49+00:00
-layout: post
-slug: sendvalues
-title: SendValues
-id: 1944
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Free Software
-- Politics
-- Projects
-- Satire
----
++++
+title = "SendValues"
+date = 2011-09-09 19:37:49+00:00
+path = "/2011/09/09/sendvalues/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Politics",
+    "Projects",
+    "Satire",
+]
++++
 
 SendValues is a network testing tool that sends mathematical, aesthetic and textual values using the properties of rather than the contents of network messages.  
   

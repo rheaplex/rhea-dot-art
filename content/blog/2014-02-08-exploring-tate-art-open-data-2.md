@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-08 22:32:08+00:00
-layout: post
-slug: exploring-tate-art-open-data-2
-title: Exploring Tate Art Open Data 2
-id: 2511
-categories:
-- Art Computing
-- Art History
-- Art Open Data
-- Projects
----
++++
+title = "Exploring Tate Art Open Data 2"
+date = 2014-02-08 22:32:08+00:00
+path = "/2014/02/08/exploring-tate-art-open-data-2/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 This is the second in a series of posts examining Tate's excellent collection dataset. You can read the first part [here](/2014/02/05/exploring-tate-art-open-data-1/).The R and R Markdown code for this series is available at [https://github.com/rheaplex/tate-data-r/](https://github.com/rheaplex/tate-data-r/) .
 

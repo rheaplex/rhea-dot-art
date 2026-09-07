@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-20 01:09:52+00:00
-layout: post
-slug: proof-of-existence-2
-title: Proof Of Existence 2
-id: 2543
-categories:
-- Art
-- Projects
-- Satire
----
++++
+title = "Proof Of Existence 2"
+date = 2014-03-20 01:09:52+00:00
+path = "/2014/03/20/proof-of-existence-2/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+    "Satire",
+]
++++
 
 [![god](/images/2014/03/god.png)](/images/2014/03/god.png)
 

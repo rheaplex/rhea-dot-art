@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-17 06:48:48+00:00
-layout: post
-slug: cultural-functional-equivalency
-title: Cultural Functional Equivalency?
-id: 1046
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Cultural Functional Equivalency?"
+date = 2006-07-17 06:48:48+00:00
+path = "/2006/07/17/cultural-functional-equivalency/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
   
 GNU's not UNIX. But it can provide a functional equivalent to UNIX. A functional equivalent is something that you could swap the original for and it would perform the same. So a UNIX program, properly recompiled, should run on GNU the same as it would run on UNIX.  

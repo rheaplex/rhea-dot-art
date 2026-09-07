@@ -1,6 +1,9 @@
 +++
 title = "Proof of Work: Blockchain Provocations 2011-2021"
 date = 2022-01-01
+path = "/publications/proof-of-work-blockchain-provocations/"
+
+[extra]
 date_precision = "year"
 publication_type = "book"
 publisher = "Urbanomic, Falmouth"
@@ -9,3 +12,4 @@ isbn = "978-1-915103-04-8"
 image = "/publication-images/Front-Cover.jpg"
 wp_id = 6865
 +++
+

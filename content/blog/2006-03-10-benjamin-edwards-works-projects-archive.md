@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-10 06:22:57+00:00
-layout: post
-slug: benjamin-edwards-works-projects-archive
-title: 'Benjamin Edwards : Works, Projects, Archive'
-id: 861
-categories:
-- Aesthetics
-- Generative Art
-- Reviews
----
++++
+title = "Benjamin Edwards : Works, Projects, Archive"
+date = 2006-03-10 06:22:57+00:00
+path = "/2006/03/10/benjamin-edwards-works-projects-archive/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Reviews",
+]
++++
 
 [Benjamin Edwards : Works, Projects, Archive](http://www.benjaminedwards.net/Autopia/autopia%20directory.htm)  
   

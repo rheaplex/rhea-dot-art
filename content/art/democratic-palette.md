@@ -1,8 +1,16 @@
 +++
 title = "Democratic Palette"
 date = 2016-07-11
+path = "/democratic-palette/"
+
+[extra]
 image = "/art-images/palette-stripes.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6642
 +++
 

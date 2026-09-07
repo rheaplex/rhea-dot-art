@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-05 22:54:18+00:00
-layout: post
-slug: google_books_art_history_2
-title: Google Books Art History 2
-id: 1912
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Google Books Art History 2"
+date = 2011-01-05 22:54:18+00:00
+path = "/2011/01/05/google_books_art_history_2/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 En français:  
   

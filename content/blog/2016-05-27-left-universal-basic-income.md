@@ -1,13 +1,15 @@
----
-title: Left Universal Basic Income
-date: 2016-05-27 18:26:38.000000000 -07:00
-type: post
-layout: post
-categories:
-- Accelerationism
-- Politics
-author: Rhea Myers
----
++++
+title = "Left Universal Basic Income"
+date = 2016-05-27 18:26:38-07:00
+path = "/2016/05/27/left-universal-basic-income/"
+
+[taxonomies]
+categories = [
+    "Accelerationism",
+    "Politics",
+]
++++
+
 The Universal Basic Income proposed by the Left is different from that proposed by the Right. Rather than replacing the welfare state it is a supplement to it.
 
 As Srnicek & Williams note in "Inventing The Future", 2015 (p.297):
