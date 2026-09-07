@@ -1,7 +1,57 @@
-blockquote {
-    font-style: italic;
-    /*margin-left: 1rem;*/
-    font-size: 1.25rem;
-    padding-left: 0.5rem;
-    border-left: 0.25rem solid lightgray;
+/* Rhea Myers - site styles on top of Bootstrap 5.3 */
+
+:root {
+  --bs-body-font-family: Georgia, "Times New Roman", serif;
+  --bs-body-font-size: 1.125rem;
+  --bs-body-line-height: 1.6;
 }
+
+.site-title,
+h1, h2, h3, h4, h5, h6,
+.nav, footer, .card-title, .card-text, .figure-caption {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.site-title {
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+
+/* Reading column */
+.reading {
+  max-width: 44rem;
+}
+.content img {
+  max-width: 100%;
+  height: auto;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 1.15rem;
+  padding-left: 1rem;
+  border-left: 0.25rem solid var(--bs-border-color);
+  color: var(--bs-secondary-color);
+}
+
+/* Gallery cards */
+.artwork-card img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  width: 100%;
+  transition: opacity 0.2s ease;
+}
+.artwork-card:hover img { opacity: 0.85; }
+.artwork-card:hover .card-title { text-decoration: underline; }
+
+/* Artwork pages: let the work breathe */
+.artwork .content > p, .artwork .content > ul, .artwork .content > ol, .artwork .content > blockquote,
+.artwork .content > h2, .artwork .content > h3 { max-width: 44rem; margin-left: auto; margin-right: auto; }
+.artwork .content > h2, .artwork .content > h3 { margin-top: 2rem; margin-bottom: 1rem; }
+.artwork .content > p:has(> .figure), .artwork .content > .figure { max-width: none; }
+
+/* Code blocks */
+pre.card-text { white-space: pre-wrap; word-break: break-word; margin: 0; }
+
+/* Print-friendly home carousel logos */
+.carousel img { max-height: 48px; width: auto; margin: 0 auto; }

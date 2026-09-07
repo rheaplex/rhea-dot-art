@@ -1,35 +1,23 @@
 {{ define "main" }}
-  <header>
-    <h1>{{.Title}}</h1>
-  {{.Content}}
+  <header class="mb-4">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
   </header>
-  {{if not .IsHome }}
-  {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
-  <main>
-    <div>
-      {{ range $paginator.Pages }}
-      <div class="post-preview">
-        {{ if .Params.image }}
-        {{ $image := resources.Get .Params.image }}
-        {{ $imageResized := $image.Fill "400x400 TopLeft" }}
-        <div>
-          <a href="{{ .Permalink }}">
-            <img src="{{ $imageResized.Permalink }}" alt="{{ .Title }}" class="img-title img-fluid" />
-          </a>
-        </div>
+  {{ $paginator := .Paginate .Pages }}
+  <main class="reading">
+    {{ range $paginator.Pages }}
+    <article class="mb-4">
+      <h2 class="h4 mb-1"><a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none">{{ .Title }}</a></h2>
+      <p class="text-body-secondary small mb-2"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
+      {{ with .Params.image }}
+        {{ with resources.Get . }}
+          {{ $thumb := .Fit "800x400" }}
+          <a href="{{ $.RelPermalink }}"><img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $.Title }}" class="img-fluid mb-2" loading="lazy"></a>
         {{ end }}
-        <div class="post-title mb-auto pb-2">
-          <a href="{{ .Permalink }}"
-             class="link-dark text-decoration-none">
-            {{ .Title }}
-          </a>
-          <span class="fw-light">( {{ .Date | time.Format ":date_medium" }} )</span>
-        </div>
-      </div>
       {{ end }}
-    </div>
-    <br>
+      <p class="mb-0">{{ .Summary | plainify | truncate 300 }} <a href="{{ .RelPermalink }}" class="link-body-emphasis">Read more</a></p>
+    </article>
+    {{ end }}
     {{ template "_internal/pagination.html" . }}
   </main>
-  {{ end }}
 {{ end }}
