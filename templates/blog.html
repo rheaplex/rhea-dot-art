@@ -1,18 +1,26 @@
 {% extends "base.html" %}
 {% block content %}
 <h1 class="h-page mb-10">{{ section.title }}</h1>
-<div class="prose-site">
-  {%- for p in paginator.pages %}
-  <article class="pb-10 mb-10 border-b border-rule">
-    <h2 class="h-section !mt-0 mb-1"><a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a></h2>
-    <p class="label !mt-0 mb-6"><time datetime="{{ p.date }}">{{ p.date | date(format="%-d %B %Y") }}</time></p>
-    <div class="prose-site">{{ p.content | safe }}</div>
-  </article>
-  {%- endfor %}
-  <nav class="chrome flex justify-between !mt-0" aria-label="Pagination">
-    <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="quiet">&larr; Newer</a>{% endif %}</span>
-    <span class="text-muted">{{ paginator.current_index }} / {{ paginator.number_pagers }}</span>
-    <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="quiet">Older &rarr;</a>{% endif %}</span>
-  </nav>
-</div>
+{%- if section.content %}<div class="prose-site mb-10">{{ section.content | safe }}</div>{% endif %}
+
+{%- set years = [p.year for p in paginator.pages] | unique | sort | reverse %}
+{%- for year in years %}
+<section class="grid sm:grid-cols-[6rem_minmax(0,1fr)] gap-x-8 py-3 border-t border-rule">
+  <h2 class="chrome text-muted mb-2 sm:mb-0">{{ year }}</h2>
+  <ul>
+    {%- for p in paginator.pages %}{% if p.year == year %}
+    <li class="py-1 grid sm:grid-cols-[6.5rem_minmax(0,1fr)] gap-x-6">
+      <time datetime="{{ p.date }}" class="label sm:pt-1.5">{{ p.date | date(format="%-d %b") }}</time>
+      <a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a>
+    </li>
+    {%- endif %}{% endfor %}
+  </ul>
+</section>
+{%- endfor %}
+
+<nav class="chrome flex justify-between gap-6 mt-10 pt-4 border-t border-rule" aria-label="Pagination">
+  <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="quiet">&larr; Newer</a>{% endif %}</span>
+  <span class="text-muted">{{ paginator.current_index }} / {{ paginator.number_pagers }}</span>
+  <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="quiet">Older &rarr;</a>{% endif %}</span>
+</nav>
 {% endblock content %}
