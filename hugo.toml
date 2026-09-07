@@ -20,6 +20,18 @@ staticDir = "assets"
   copyright = "Copyright © 2026 Myers Studio Ltd."
   subtitle = "Making code(s) into art"
 
+  # Home page "As seen with" logo strip.
+  logos = [
+    { name = "Taschen", src = "/third-party-logos/taschen_logo.png", height = 28 },
+    { name = "Buffalo AKG Art Museum", src = "/third-party-logos/akg.png" },
+    { name = "Feral File", src = "/third-party-logos/feralfile.png" },
+    { name = "Foundation", src = "/third-party-logos/foundation.png" },
+    { name = "Furtherfield", src = "/third-party-logos/furtherfield_logo.png" },
+    { name = "Kate Vass Galerie", src = "/third-party-logos/kvg_logo.png" },
+    { name = "Galerie Nagel Draxler", src = "/third-party-logos/nagel-draxler-logo.png" },
+    { name = "Sotheby's", src = "/third-party-logos/sothebys.png" },
+  ]
+
   [[params.social]]
     name = "newsletter"
     url = "/newsletter/"

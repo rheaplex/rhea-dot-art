@@ -26,6 +26,17 @@ h1, h2, h3, h4, h5, h6, .site-title {
 }
 .reading-wide.mx-auto { margin-left: auto; margin-right: auto; }
 .show-row:last-child { border-bottom: 0 !important; }
+.show-thumb { object-fit: cover; filter: grayscale(1); opacity: .8; transition: filter .2s, opacity .2s; }
+.show-row:hover .show-thumb { filter: none; opacity: 1; }
+
+/* Home */
+.home-intro p { font-size: 1.35rem; line-height: 1.4; letter-spacing: -0.01em; max-width: 40ch; margin: 0; }
+.home-feature img { max-height: 70vh; width: auto; max-width: 100%; }
+.home-feature a:hover img { opacity: .9; }
+.section-head { border-bottom: 1px solid var(--bs-border-color); padding-bottom: .5rem; }
+.home-logos img { max-height: 32px; width: auto; filter: grayscale(1); opacity: .65; }
+.home-logos img:hover { filter: none; opacity: 1; }
+[data-bs-theme="dark"] .home-logos img { filter: grayscale(1) invert(1); }
 .content img {
   max-width: 100%;
   height: auto;
