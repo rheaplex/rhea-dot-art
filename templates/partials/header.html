@@ -1,7 +1,7 @@
 <header class="site">
-  <nav class="chrome flex flex-wrap items-baseline justify-between gap-x-8 gap-y-3 py-5 sm:py-6" aria-label="Main">
-    <a href="{{ get_url(path="/") }}" class="quiet text-[1.0625rem] font-medium tracking-tight">{{ config.title }}</a>
-    <ul class="flex flex-wrap gap-x-5 gap-y-2 sm:gap-x-7">
+  <nav class="chrome flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 py-5 sm:py-6" aria-label="Main">
+    <a href="{{ get_url(path="/") }}" class="quiet text-[1.625rem] font-medium tracking-tight leading-none">{{ config.title }}</a>
+    <ul class="flex flex-wrap items-baseline gap-x-5 gap-y-2 sm:gap-x-7 leading-none">
       {%- for item in config.extra.menu %}
       {%- set u = item.url %}
       {%- set active = (current_path or "") is starting_with(pat=u) %}
