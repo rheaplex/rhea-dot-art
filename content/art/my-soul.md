@@ -4,6 +4,8 @@ date = 2014-11-16
 path = "/my-soul/"
 
 [extra]
+news_category = "New Work"
+blurb = "My Soul, Counterparty Assets"
 image = "/art-images/mysoul.png"
 mediums = [
     "Counterparty Assets",

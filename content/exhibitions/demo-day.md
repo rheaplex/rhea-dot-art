@@ -4,6 +4,8 @@ date = 2017-09-24
 path = "/exhibitions/demo-day/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Demo Day, Kunstraum LLC, Brooklyn"
 opening = 2017-09-24
 closing = 2017-10-28
 exhibition_type = "group"

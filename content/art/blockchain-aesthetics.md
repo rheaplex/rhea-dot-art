@@ -4,6 +4,8 @@ date = 2015-01-09
 path = "/blockchain-aesthetics/"
 
 [extra]
+news_category = "New Work"
+blurb = "Blockchain Aesthetics, HTML5"
 image = "/art-images/squares.png"
 mediums = [
     "HTML5",

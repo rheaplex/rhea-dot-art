@@ -4,6 +4,8 @@ date = 2015-01-11
 path = "/exploring-art-data/"
 
 [extra]
+news_category = "New Work"
+blurb = "Exploring Art Data, Python"
 date_provisional = true
 image = "/art-images/tate-movements-sna-preview.png"
 mediums = [

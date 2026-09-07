@@ -4,6 +4,8 @@ date = 2024-01-01
 path = "/publications/on-chain-on-nfts/"
 
 [extra]
+news_category = "Book Chapter"
+blurb = "“On Chain” in On NFTs, Taschen, Cologne"
 date_precision = "year"
 publication_type = "book-chapter"
 publisher = "Taschen, Cologne"

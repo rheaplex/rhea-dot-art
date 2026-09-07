@@ -4,6 +4,8 @@ date = 2004-02-01
 path = "/nineteen-sixty-eight/"
 
 [extra]
+news_category = "New Work"
+blurb = "1968, SVG"
 image = "/art-images/three.png"
 mediums = [
     "SVG",

@@ -4,6 +4,8 @@ date = 2014-06-02
 path = "/hot-cold/"
 
 [extra]
+news_category = "New Work"
+blurb = "Hot Cold, HTML5"
 image = "/art-images/cold-hot-live.png"
 mediums = [
     "HTML5",

@@ -4,6 +4,8 @@ date = 2023-01-19
 path = "/facecoins/"
 
 [extra]
+news_category = "New Work"
+blurb = "Facecoins, Ethereum ERC-721 NFT"
 image = "/art-images/facecoins.png"
 mediums = [
     "Ethereum ERC-721 NFT",

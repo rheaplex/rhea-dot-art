@@ -4,6 +4,8 @@ date = 1994-01-01
 path = "/psychetecture/"
 
 [extra]
+news_category = "New Work"
+blurb = "Psychetecture, SVG"
 image = "/art-images/concourse_east.png"
 mediums = [
     "SVG",

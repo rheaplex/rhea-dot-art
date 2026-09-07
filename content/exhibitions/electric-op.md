@@ -4,6 +4,8 @@ date = 2024-09-27
 path = "/exhibitions/electric-op/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Electric Op, Buffalo AKG Art Museum"
 opening = 2024-09-27
 closing = 2025-01-27
 exhibition_type = "group"

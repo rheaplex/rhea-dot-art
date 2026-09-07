@@ -4,6 +4,8 @@ date = 2004-01-01
 path = "/rheart/"
 
 [extra]
+news_category = "New Work"
+blurb = "rheart, Common Lisp"
 image = "/art-images/drawinga.png"
 mediums = [
     "Common Lisp",

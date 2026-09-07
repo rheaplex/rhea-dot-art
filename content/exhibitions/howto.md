@@ -4,6 +4,8 @@ date = 2005-07-27
 path = "/exhibitions/howto/"
 
 [extra]
+news_category = "Solo Exhibition"
+blurb = "HOWTO, 03one Gallery, Belgrade"
 opening = 2005-07-27
 closing = 2005-08-08
 exhibition_type = "solo"

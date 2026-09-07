@@ -4,6 +4,8 @@ date = 2019-12-30
 path = "/staking-ratio/"
 
 [extra]
+news_category = "New Work"
+blurb = "Staking Ratio, HTML5"
 image = "/art-images/EMDdkbeU8AAos7_cropped.png"
 mediums = [
     "HTML5",

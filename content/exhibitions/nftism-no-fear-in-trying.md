@@ -4,6 +4,8 @@ date = 2021-09-11
 path = "/exhibitions/nftism-no-fear-in-trying/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "NFTism: No Fear in Trying, The Stables (Unit London, Covent Garden)"
 opening = 2021-09-11
 closing = 2021-09-25
 exhibition_type = "group"

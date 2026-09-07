@@ -4,6 +4,8 @@ date = 2022-01-01
 path = "/press/the-new-creator-economy/"
 
 [extra]
+news_category = "Work in Print"
+blurb = "the New Creator Economy, BNN"
 date_precision = "year"
 press_type = "book-feature"
 outlet = "BNN"

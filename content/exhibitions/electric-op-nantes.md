@@ -4,6 +4,8 @@ date = 2025-04-04
 path = "/exhibitions/electric-op-nantes/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Electric Op (Nantes), Musée d'arts de Nantes"
 opening = 2025-04-04
 closing = 2025-08-31
 exhibition_type = "group"

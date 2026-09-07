@@ -4,6 +4,8 @@ date = 2015-01-05
 path = "/art-coins-coloured/"
 
 [extra]
+news_category = "New Work"
+blurb = "Art Coins (Coloured), Counterparty Tokens"
 image = "/art-images/colourcoinbalances.png"
 mediums = [
     "Counterparty Tokens",

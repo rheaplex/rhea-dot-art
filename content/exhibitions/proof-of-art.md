@@ -4,6 +4,8 @@ date = 2021-06-11
 path = "/exhibitions/proof-of-art/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Proof of Art, Francisco Carolinum, Linz"
 opening = 2021-06-11
 closing = 2021-09-15
 exhibition_type = "group"

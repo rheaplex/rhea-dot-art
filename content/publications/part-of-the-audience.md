@@ -4,6 +4,8 @@ date = 2014-11-01
 path = "/publications/part-of-the-audience/"
 
 [extra]
+news_category = "Book Chapter"
+blurb = "“Part Of The Audience” in Cyposium – The Book, Link Editions, Brescia"
 date_precision = "month"
 publication_type = "book-chapter"
 publisher = "Link Editions, Brescia"

@@ -7,6 +7,8 @@ aliases = [
 path = "/10k-drop/"
 
 [extra]
+news_category = "New Work"
+blurb = "10K Drop, Ethereum ERC-721 NFT"
 image = "/art-images/10Kdrop-1.png"
 mediums = [
     "Ethereum ERC-721 NFT",

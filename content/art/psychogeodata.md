@@ -4,6 +4,8 @@ date = 2011-04-04
 path = "/psychogeodata/"
 
 [extra]
+news_category = "New Work"
+blurb = "Psychogeodata, Python"
 image = "/art-images/cemetary_random_walk.png"
 mediums = [
     "Python",

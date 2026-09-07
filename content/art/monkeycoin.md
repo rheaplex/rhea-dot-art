@@ -4,6 +4,8 @@ date = 2014-05-04
 path = "/monkeycoin/"
 
 [extra]
+news_category = "New Work"
+blurb = "Monkeycoin, HTML5"
 image = "/art-images/monkeycoin.png"
 mediums = [
     "HTML5",

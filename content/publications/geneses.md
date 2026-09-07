@@ -7,6 +7,8 @@ aliases = [
 path = "/publications/geneses/"
 
 [extra]
+news_category = "Book"
+blurb = "Geneses, Lulu"
 publication_type = "book"
 image = "/publication-images/geneses.png"
 publisher = "Lulu"

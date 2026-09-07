@@ -4,6 +4,8 @@ date = 2004-02-02
 path = "/nineteen-sixty-nine/"
 
 [extra]
+news_category = "New Work"
+blurb = "1969, SVG"
 image = "/art-images/belgrade_for_manik.png"
 mediums = [
     "SVG",

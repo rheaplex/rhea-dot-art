@@ -4,6 +4,8 @@ date = 1993-01-01
 path = "/mixes/"
 
 [extra]
+news_category = "New Work"
+blurb = "Mixes, TIFF"
 image = "/art-images/GELVIS.png"
 mediums = [
     "TIFF",

@@ -4,6 +4,8 @@ date = 1994-01-02
 path = "/blobs/"
 
 [extra]
+news_category = "New Work"
+blurb = "Blobs, SVG"
 image = "/art-images/arching.png"
 mediums = [
     "SVG",

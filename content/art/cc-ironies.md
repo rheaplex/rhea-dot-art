@@ -4,6 +4,8 @@ date = 2007-01-02
 path = "/cc-ironies/"
 
 [extra]
+news_category = "New Work"
+blurb = "CC Ironies, SVG"
 image = "/art-images/sale_now_on.png"
 mediums = [
     "SVG",

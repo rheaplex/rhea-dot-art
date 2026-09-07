@@ -4,6 +4,8 @@ date = 2021-10-01
 path = "/press/protocol-art-pioneer-interdependence/"
 
 [extra]
+news_category = "Podcast"
+blurb = "Protocol Art Pioneer Rhea Myers, Interdependence"
 date_precision = "month"
 press_type = "podcast"
 outlet = "Interdependence"

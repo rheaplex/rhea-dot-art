@@ -4,6 +4,8 @@ date = 2014-01-18
 path = "/facecoin/"
 
 [extra]
+news_category = "New Work"
+blurb = "Facecoin, HTML5"
 image = "/art-images/facecoin-at-furtherfield.jpg"
 mediums = [
     "HTML5",

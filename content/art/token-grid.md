@@ -4,6 +4,8 @@ date = 2019-05-05
 path = "/token-grid/"
 
 [extra]
+news_category = "New Work"
+blurb = "Token Grid, HTML5"
 image = "/art-images/token-grid.png"
 mediums = [
     "HTML5",

@@ -4,6 +4,8 @@ date = 2007-02-02
 path = "/the-order-of-things/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Order Of Things, Processing"
 image = "/art-images/citizens1.png"
 mediums = [
     "Processing",

@@ -4,6 +4,8 @@ date = 2018-07-26
 path = "/exhibitions/distributed-systems/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Distributed Systems, Gray Area (Grand Theater), San Francisco"
 opening = 2018-07-26
 closing = 2018-07-29
 exhibition_type = "group"

@@ -4,6 +4,8 @@ date = 1996-01-01
 path = "/surgical-strike/"
 
 [extra]
+news_category = "New Work"
+blurb = "Surgical Strike, PSD"
 image = "/art-images/xerox_parc.png"
 mediums = [
     "PSD",

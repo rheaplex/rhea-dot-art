@@ -4,6 +4,8 @@ date = 2026-01-01
 path = "/exhibitions/koala-noosphere-at-solos/"
 
 [extra]
+news_category = "Solo Exhibition"
+blurb = "Koala Noosphere, Solos"
 opening = 2026-01-01
 closing = 2026-01-31
 exhibition_type = "solo"

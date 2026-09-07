@@ -4,6 +4,8 @@ date = 2003-01-01
 path = "/titled/"
 
 [extra]
+news_category = "New Work"
+blurb = "Titled, PNG"
 image = "/art-images/red-on-cyan.png"
 mediums = [
     "PNG",

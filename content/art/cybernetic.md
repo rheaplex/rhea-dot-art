@@ -4,6 +4,8 @@ date = 2003-02-02
 path = "/cybernetic/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Cybernetic Artwork Nobody Wrote, Flash"
 image = "/art-images/cybernetic.png"
 mediums = [
     "Flash",

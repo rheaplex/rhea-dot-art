@@ -4,6 +4,8 @@ date = 2021-12-01
 path = "/publications/artists-favourites-spike/"
 
 [extra]
+news_category = "Article"
+blurb = "“Artist’s Favourites” in Spike Art Magazine in Spike Art Magazine #70, Winter 2021, Spike Art Magazine"
 date_precision = "month"
 publication_type = "article"
 publisher = "Spike Art Magazine"

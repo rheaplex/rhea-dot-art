@@ -4,6 +4,8 @@ date = 2019-07-20
 path = "/proof-of-work-bitmap/"
 
 [extra]
+news_category = "New Work"
+blurb = "Proof of Work Bitmap, HTML5"
 image = "/art-images/powb-1.png"
 mediums = [
     "HTML5",

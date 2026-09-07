@@ -4,6 +4,8 @@ date = 2013-03-21
 path = "/exhibitions/dirty-new-media/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Dirty New Media, The Barber Institute of Fine Arts, Birmingham"
 opening = 2013-03-21
 closing = 2013-03-21
 exhibition_type = "group"

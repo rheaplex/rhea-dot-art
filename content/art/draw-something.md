@@ -4,6 +4,8 @@ date = 2004-01-02
 path = "/draw-something/"
 
 [extra]
+news_category = "New Work"
+blurb = "draw-something is a generative drawing program inspired by Harold Cohen’s AARON"
 image = "/art-images/draw-something.png"
 mediums = [
     "JavaScript",

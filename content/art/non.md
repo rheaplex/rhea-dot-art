@@ -4,6 +4,8 @@ date = 2025-03-07
 path = "/non/"
 
 [extra]
+news_category = "New Work"
+blurb = "Non, Service Contract Offer"
 image = "/art-images/non.png"
 mediums = [
     "Service Contract Offer",

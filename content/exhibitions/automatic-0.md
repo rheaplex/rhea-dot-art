@@ -4,6 +4,8 @@ date = 2015-10-01
 path = "/exhibitions/automatic-0/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "AUTOMATIC-0, Espacio Byte"
 opening = 2015-10-01
 closing = 2015-10-31
 exhibition_type = "group"

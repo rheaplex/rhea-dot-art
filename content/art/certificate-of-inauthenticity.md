@@ -4,6 +4,8 @@ date = 2020-05-16
 path = "/certificate-of-inauthenticity/"
 
 [extra]
+news_category = "New Work"
+blurb = "Certificate of Inauthenticity, Ethereum ERC-721 NFT"
 image = "/art-images/Urinal04-cropped.png"
 mediums = [
     "Ethereum ERC-721 NFT",

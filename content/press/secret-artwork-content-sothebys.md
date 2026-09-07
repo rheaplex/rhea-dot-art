@@ -4,6 +4,8 @@ date = 2021-06-01
 path = "/press/secret-artwork-content-sothebys/"
 
 [extra]
+news_category = "Article"
+blurb = "Secret Artwork (Content), Sotheby's, London"
 date_precision = "month"
 press_type = "article"
 outlet = "Sotheby's, London"

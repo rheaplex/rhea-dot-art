@@ -4,6 +4,8 @@ date = 2022-09-01
 path = "/press/is-blockchain-a-medium/"
 
 [extra]
+news_category = "Article"
+blurb = "Is Blockchain a Medium?, Right Click Save"
 date_precision = "month"
 press_type = "article"
 outlet = "Right Click Save"

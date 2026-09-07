@@ -4,6 +4,8 @@ date = 2018-09-18
 path = "/secret-artwork/"
 
 [extra]
+news_category = "New Work"
+blurb = "Secret Artwork, Ethereum ERC-721 NFT"
 image = "/art-images/secret-artwork.png"
 mediums = [
     "Ethereum ERC-721 NFT",

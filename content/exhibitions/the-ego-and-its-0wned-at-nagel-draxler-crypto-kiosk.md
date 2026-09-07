@@ -4,6 +4,8 @@ date = 2023-01-28
 path = "/exhibitions/the-ego-and-its-0wned-at-nagel-draxler-crypto-kiosk/"
 
 [extra]
+news_category = "Solo Exhibition"
+blurb = "The Ego, and It’s 0wned, Galerie Nagel Draxler Crypto Kiosk, Berlin"
 opening = 2023-01-28
 closing = 2023-04-15
 exhibition_type = "solo"

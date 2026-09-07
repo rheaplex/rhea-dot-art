@@ -4,6 +4,8 @@ date = 2005-01-04
 path = "/paintr/"
 
 [extra]
+news_category = "New Work"
+blurb = "Paintr, Node.JS"
 image = "/art-images/804.png"
 mediums = [
     "Node.JS",

@@ -4,6 +4,8 @@ date = 2018-09-03
 path = "/schellingflags/"
 
 [extra]
+news_category = "New Work"
+blurb = "SchellingFlags, HTML5"
 image = "/art-images/schellingflags.png"
 mediums = [
     "HTML5",

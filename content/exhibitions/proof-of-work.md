@@ -4,6 +4,8 @@ date = 2018-09-08
 path = "/exhibitions/proof-of-work/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Proof of Work, Schinkel Pavilion, Berlin"
 opening = 2018-09-08
 closing = 2018-12-21
 exhibition_type = "group"

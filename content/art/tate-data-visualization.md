@@ -4,6 +4,8 @@ date = 2015-01-10
 path = "/tate-data-visualization/"
 
 [extra]
+news_category = "New Work"
+blurb = "Tate Data Visualization, JavaScript"
 date_provisional = true
 image = "/art-images/unnamed-chunk-4.png"
 mediums = [

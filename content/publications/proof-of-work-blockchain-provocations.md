@@ -4,6 +4,8 @@ date = 2022-01-01
 path = "/publications/proof-of-work-blockchain-provocations/"
 
 [extra]
+news_category = "Book"
+blurb = "Proof of Work: Blockchain Provocations 2011-2021, Urbanomic, Falmouth"
 date_precision = "year"
 publication_type = "book"
 publisher = "Urbanomic, Falmouth"

@@ -4,6 +4,8 @@ date = 1995-01-01
 path = "/inbetween-cities/"
 
 [extra]
+news_category = "New Work"
+blurb = "Inbetween Cities, PSD"
 image = "/art-images/going_back_to_romford.png"
 mediums = [
     "PSD",

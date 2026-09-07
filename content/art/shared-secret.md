@@ -4,6 +4,8 @@ date = 2019-12-28
 path = "/shared-secret/"
 
 [extra]
+news_category = "New Work"
+blurb = "Shared secrets are part of the invisible structure of society"
 image = "/art-images/qrcode.png"
 mediums = [
     "TOTP QR Code",

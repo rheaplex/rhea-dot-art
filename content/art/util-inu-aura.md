@@ -4,6 +4,8 @@ date = 2024-10-31
 path = "/util-inu-aura/"
 
 [extra]
+news_category = "New Work"
+blurb = "UTIL-INU-AURA, Ethereum ERC-20 Tokens"
 image = "/art-images/util-inu-aura-logotype.png"
 mediums = [
     "Ethereum ERC-20 Tokens",

@@ -4,6 +4,8 @@ date = 2017-02-23
 path = "/publications/bad-shibe-zine/"
 
 [extra]
+news_category = "Book"
+blurb = "Bad Shibe (zine)"
 publication_type = "book"
 image = "/publication-images/bad-shibe-cover.png"
 wp_id = 2939

@@ -4,6 +4,8 @@ date = 2015-01-09
 path = "/proof-of-existence/"
 
 [extra]
+news_category = "New Work"
+blurb = "Proof of Existence, Bitcoin Transaction"
 image = "/art-images/god.png"
 mediums = [
     "Bitcoin Transaction",

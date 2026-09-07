@@ -4,6 +4,8 @@ date = 2018-02-01
 path = "/press/bbc-bitcoin-puzzle-solved/"
 
 [extra]
+news_category = "Article"
+blurb = "Bitcoin puzzle worth $50,000 solved after nearly three years, BBC"
 date_precision = "month"
 press_type = "article"
 outlet = "BBC"

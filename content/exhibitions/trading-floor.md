@@ -4,6 +4,8 @@ date = 2015-12-03
 path = "/exhibitions/trading-floor/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Trading Floor, Pakhuis De Zwijger (MoneyLab), Amsterdam"
 opening = 2015-12-03
 closing = 2015-12-04
 exhibition_type = "group"

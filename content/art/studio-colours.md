@@ -4,6 +4,8 @@ date = 2013-12-11
 path = "/studio-colours/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Colours In My Studio, JavaScript"
 date_provisional = true
 image = "/art-images/colours-in-my-studio.png"
 mediums = [
