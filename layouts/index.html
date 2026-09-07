@@ -4,7 +4,7 @@
 {{ $shows := (where .Site.RegularPages "Section" "shows").ByDate.Reverse }}
 
 {{ with .Content }}
-<section class="home-intro reading-wide mb-5">
+<section class="home-intro mb-5 pb-4 border-bottom">
   {{ . }}
 </section>
 {{ end }}
@@ -14,9 +14,9 @@
   <a href="{{ .RelPermalink }}" class="text-decoration-none link-body-emphasis">
     {{ with .Params.image }}{{ with resources.Get . }}
       {{ $img := .Fit "1600x900" }}
-      <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Params.image_alt | default $.Title }}" class="img-fluid d-block mx-auto">
+      <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Params.image_alt | default $.Title }}" class="img-fluid d-block">
     {{ end }}{{ end }}
-    <div class="mt-2 text-center">
+    <div class="mt-2">
       <h2 class="h4 mb-0 d-inline">{{ .Title }}</h2>
       <span class="text-body-secondary small ms-2">{{ .Date.Format "2006" }}{{ with .Params.mediums }} &middot; {{ index . 0 }}{{ end }}</span>
     </div>
@@ -30,13 +30,13 @@
     <a href="{{ "art/" | relURL }}" class="small">All work &rarr;</a>
   </div>
   <div class="row row-cols-2 row-cols-md-4 g-4">
-    {{ range first 8 (after 1 $works) }}{{ partial "card" . }}{{ end }}
+    {{ range first 4 (after 1 $works) }}{{ partial "card" . }}{{ end }}
   </div>
 </section>
 
 <section class="mb-5">
   <div class="d-flex justify-content-between align-items-baseline mb-2 section-head">
-    <h2 class="h5 mb-0">Exhibitions</h2>
+    <h2 class="h5 mb-0">Recent exhibitions</h2>
     <a href="{{ "shows/" | relURL }}" class="small">All shows &rarr;</a>
   </div>
   {{ range first 6 $shows }}

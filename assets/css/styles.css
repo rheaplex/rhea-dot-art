@@ -30,7 +30,17 @@ h1, h2, h3, h4, h5, h6, .site-title {
 .show-row:hover .show-thumb { filter: none; opacity: 1; }
 
 /* Home */
-.home-intro p { font-size: 1.35rem; line-height: 1.4; letter-spacing: -0.01em; max-width: 40ch; margin: 0; }
+.home-intro p {
+  font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.5rem);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  font-weight: 500;
+  max-width: 30ch;
+  margin: 0 0 .75em;
+}
+.home-intro p + p { font-size: clamp(1.1rem, .95rem + .6vw, 1.4rem); line-height: 1.4; letter-spacing: -0.01em; font-weight: 400; color: var(--bs-secondary-color); max-width: 52ch; margin-bottom: 0; }
+.home-intro a { color: var(--bs-body-color); text-decoration: underline; text-underline-offset: .15em; text-decoration-color: var(--bs-border-color); }
+.home-intro a:hover { text-decoration-color: currentColor; }
 .home-feature img { max-height: 70vh; width: auto; max-width: 100%; }
 .home-feature a:hover img { opacity: .9; }
 .section-head { border-bottom: 1px solid var(--bs-border-color); padding-bottom: .5rem; }
