@@ -1,4 +1,6 @@
 ---
 title: "Rhea Myers"
 ---
-Rhea Myers is an artist, hacker and writer whose work places technology and culture in mutual interrogation to produce new ways of seeing the world as it unfolds around us. Based in Vancouver, Canada.
+I create digital art that fuses cryptographic systems with the aesthetics of art history, merging the codes of software, culture, and property.
+
+Drawing on conceptual art, net art, and postmodern design, my work offers a poetic minimalism that navigates the dynamics of authenticity and ownership in an increasingly online, on-chain world. [More about me &rarr;](about-me/)
