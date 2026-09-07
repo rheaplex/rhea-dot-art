@@ -1,18 +1,18 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
-<main class="reading">
+<h1 class="h-page mb-10">{{ section.title }}</h1>
+<div class="prose-site">
   {%- for p in paginator.pages %}
-  <article class="mb-5 pb-4 border-bottom">
-    <h2 class="h3 mb-1"><a href="{{ p.permalink | safe }}" class="link-body-emphasis text-decoration-none">{{ p.title }}</a></h2>
-    <p class="text-body-secondary small mb-3"><time datetime="{{ p.date }}">{{ p.date | date(format="%-d %B %Y") }}</time></p>
-    <div class="content">{{ p.content | safe }}</div>
+  <article class="pb-10 mb-10 border-b border-rule">
+    <h2 class="h-section !mt-0 mb-1"><a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a></h2>
+    <p class="label !mt-0 mb-6"><time datetime="{{ p.date }}">{{ p.date | date(format="%-d %B %Y") }}</time></p>
+    <div class="prose-site">{{ p.content | safe }}</div>
   </article>
   {%- endfor %}
-  <nav class="d-flex justify-content-between small" aria-label="Pagination">
-    <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="link-body-emphasis">&larr; Newer</a>{% endif %}</span>
-    <span class="text-body-secondary">Page {{ paginator.current_index }} of {{ paginator.number_pagers }}</span>
-    <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="link-body-emphasis">Older &rarr;</a>{% endif %}</span>
+  <nav class="chrome flex justify-between !mt-0" aria-label="Pagination">
+    <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="quiet">&larr; Newer</a>{% endif %}</span>
+    <span class="text-muted">{{ paginator.current_index }} / {{ paginator.number_pagers }}</span>
+    <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="quiet">Older &rarr;</a>{% endif %}</span>
   </nav>
-</main>
+</div>
 {% endblock content %}

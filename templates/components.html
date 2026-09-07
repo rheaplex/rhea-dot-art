@@ -1,19 +1,32 @@
-{#- Shared components (Tera v2). Registered globally; no import needed. -#}
+{#- Shared components (Tera v2). -#}
 
+{#- Square tile for works. -#}
 {% component card(page) %}
-<div class="col">
-  <a href="{{ page.permalink | safe }}" class="card h-100 border-0 bg-transparent text-decoration-none artwork-card">
-    {%- if page.extra?.image %}
-    {%- set thumb = resize_image(path=page.extra.image, width=400, height=400, op="fill") %}
-    <img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="card-img-top rounded-0" loading="lazy">
-    {%- endif %}
-    <div class="card-body px-0 pb-0 text-center">
-      <h2 class="card-title h6 mb-1 text-body">{{ page.title }}</h2>
-      {%- if page.date %}<p class="card-text text-body-secondary small mb-0">{{ page.date | date(format="%Y") }}</p>{% endif %}
-    </div>
-  </a>
-</div>
+<a href="{{ page.permalink | safe }}" class="quiet block group">
+  {%- if page.extra?.image %}
+  {%- set thumb = resize_image(path=page.extra.image, width=800, height=800, op="fill") %}
+  <img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="w-full aspect-square object-cover" loading="lazy">
+  {%- else %}
+  <div class="w-full aspect-square bg-neutral-100"></div>
+  {%- endif %}
+  <p class="mt-3 leading-snug"><span class="group-hover:underline">{{ page.title }}</span>{% if page.date %}<span class="text-muted">, {{ page.date | date(format="%Y") }}</span>{% endif %}</p>
+</a>
 {% endcomponent card %}
+
+{#- Landscape tile for exhibitions / press with an image. -#}
+{% component exhibition_tile(page) %}
+<a href="{{ page.permalink | safe }}" class="quiet block group">
+  {%- if page.extra?.image %}
+  {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fit") %}
+  <div class="w-full aspect-3/2 flex items-center justify-center"><img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-full max-w-full w-auto h-auto" loading="lazy"></div>
+  {%- else %}
+  <div class="w-full aspect-3/2 bg-neutral-100"></div>
+  {%- endif %}
+  <p class="mt-3 leading-snug group-hover:underline">{{ page.title }}</p>
+  <p class="leading-snug">{{ <venue_line page={page} /> }}</p>
+  <p class="text-muted leading-snug">{{ <exhibition_dates page={page} /> }}</p>
+</a>
+{% endcomponent exhibition_tile %}
 
 {#- Exhibition date range, e.g. "27 September 2024 – 27 January 2025" -#}
 {% component exhibition_dates(page) %}
@@ -30,7 +43,6 @@
 {%- endif -%}
 {% endcomponent exhibition_dates %}
 
-{#- Date honouring extra.date_precision (year / month / day) -#}
 {% component precision_date(page) %}
 {%- set p = page.extra?.date_precision or "day" -%}
 {%- if p == "year" %}{{ page.date | date(format="%Y") }}{% elif p == "month" %}{{ page.date | date(format="%B %Y") }}{% else %}{{ page.date | date(format="%-d %B %Y") }}{% endif -%}
@@ -41,52 +53,63 @@
 {{ v }}{% if l %}{% if v %}, {% endif %}{{ l }}{% endif %}
 {%- endcomponent venue_line %}
 
+{#- Text row for an exhibition (used for Past). -#}
 {% component exhibition_line(page) %}
-<div class="row gx-3 py-2 border-bottom exhibition-row">
-  <div class="col-md-4 text-body-secondary small pt-1">{{ <exhibition_dates page={page} /> }}</div>
-  <div class="col-md-8">
-    <a href="{{ page.permalink | safe }}" class="link-body-emphasis text-decoration-none fw-medium">{{ page.title }}</a>
-    <div class="text-body-secondary small">{{ <venue_line page={page} /> }}</div>
+<li class="py-1 grid sm:grid-cols-[minmax(0,1fr)_16rem] gap-x-8">
+  <div>
+    <a href="{{ page.permalink | safe }}" class="quiet">{{ page.title }}</a>{% if page.extra?.exhibition_type == "solo" %} <span class="chrome text-muted text-[0.8125rem]">(solo)</span>{% endif %}<br>
+    <span class="text-muted">{{ <venue_line page={page} /> }}</span>
   </div>
-</div>
+  <div class="text-muted sm:text-right">{{ <exhibition_dates page={page} /> }}</div>
+</li>
 {% endcomponent exhibition_line %}
 
-{#- Press / publication list row. Title links out when there is no local body. -#}
+{#- Press / publication row. Title links out when there is no local body. -#}
 {% component publication_line(page) %}
 {%- set org = page.extra?.outlet or page.extra?.publisher or "" -%}
 {%- set kind = page.extra?.press_type or page.extra?.publication_type or "" -%}
 {%- set inn = page.extra?.in or "" -%}
 {%- set ext = page.word_count == 0 and page.extra?.url_external -%}
 {%- set href = page.extra.url_external if ext else page.permalink -%}
-<div class="row gx-3 py-2 border-bottom exhibition-row">
-  <div class="col-md-4 text-body-secondary small pt-1"><time datetime="{{ page.date }}">{% if (page.extra?.date_precision or "day") != "year" %}{{ <precision_date page={page} /> }}{% endif %}</time></div>
-  <div class="col-md-8">
-    <a href="{{ href | safe }}" class="link-body-emphasis text-decoration-none fw-medium"{% if ext %} rel="external"{% endif %}>{{ page.title }}</a>
-    <div class="text-body-secondary small">{% if inn %}<em>{{ inn }}</em>{% if org %}, {% endif %}{% endif %}{{ org }}{% if kind %}{% if org or inn %} &middot; {% endif %}{{ kind | replace(from="-", to=" ") | title }}{% endif %}</div>
+<li class="py-1 grid sm:grid-cols-[minmax(0,1fr)_10rem] gap-x-8">
+  <div>
+    <a href="{{ href | safe }}" class="quiet"{% if ext %} rel="external"{% endif %}>{{ page.title }}</a><br>
+    <span class="text-muted">{% if inn %}<em>{{ inn }}</em>{% if org %}, {% endif %}{% endif %}{{ org }}{% if kind %}{% if org or inn %} &middot; {% endif %}{{ kind | replace(from="-", to=" ") | title }}{% endif %}</span>
   </div>
-</div>
+  <div class="text-muted sm:text-right"><time datetime="{{ page.date }}">{% if (page.extra?.date_precision or "day") != "year" %}{{ <precision_date page={page} /> }}{% endif %}</time></div>
+</li>
 {% endcomponent publication_line %}
 
-{#- Year-grouped list. Section pages are newest-first by default. -#}
+{#- Year-grouped list. -#}
 {% component by_year(pages, kind: string = "publication") %}
 {%- set years = [p.year for p in pages] | unique | sort | reverse -%}
-{%- for year in years -%}
-<h3 class="h6 text-body-secondary mt-4 mb-1">{{ year }}</h3>
-{%- for p in pages -%}{%- if p.year == year -%}
-{%- if kind == "exhibition" %}{{ <exhibition_line page={p} /> }}{% else %}{{ <publication_line page={p} /> }}{% endif -%}
-{%- endif -%}{%- endfor -%}
-{%- endfor -%}
+{%- for year in years %}
+<section class="grid sm:grid-cols-[6rem_minmax(0,1fr)] gap-x-8 py-3 border-t border-rule">
+  <h3 class="chrome text-muted mb-2 sm:mb-0">{{ year }}</h3>
+  <ul>
+    {%- for p in pages %}{% if p.year == year %}{% if kind == "exhibition" %}{{ <exhibition_line page={p} /> }}{% else %}{{ <publication_line page={p} /> }}{% endif %}{% endif %}{% endfor %}
+  </ul>
+</section>
+{%- endfor %}
 {% endcomponent by_year %}
 
-{#- Featured image, skipped if the body already embeds the same file -#}
+{#- Featured image, skipped if the body already embeds the same file. -#}
 {% component featured_image(page) %}
 {%- if page.extra?.image -%}
 {%- set base = page.extra.image | split(pat="/") | last -%}
 {%- if base not in page.content -%}
-{%- set img = resize_image(path=page.extra.image, width=1600, height=1600, op="fit") %}
-<figure class="figure d-block text-center mb-4">
-  <img src="{{ img.url }}" width="{{ img.width }}" height="{{ img.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="figure-img img-fluid mb-0">
+{%- set img = resize_image(path=page.extra.image, width=2000, height=2000, op="fit") %}
+<figure>
+  <img src="{{ img.url }}" width="{{ img.width }}" height="{{ img.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-[70vh] w-auto max-w-full">
 </figure>
 {%- endif -%}
 {%- endif -%}
 {% endcomponent featured_image %}
+
+{#- Section heading with optional "all" link. -#}
+{% component section_head(title: string, href: string = "", more: string = "") %}
+<div class="flex items-baseline justify-between gap-6 mb-6">
+  <h2 class="h-section">{{ title }}</h2>
+  {%- if href %}<a href="{{ href | safe }}" class="chrome quiet text-muted">{{ more }} &rarr;</a>{% endif %}
+</div>
+{% endcomponent section_head %}

@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+/* Tell Tailwind where the classes live (standalone CLI, no config file). */
+@source "../templates";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", Times, serif;
+
+  --color-ink: #000000;
+  --color-paper: #ffffff;
+  --color-muted: #6b6b6b;
+  --color-rule: #e5e5e5;
+
+  --container-site: 78rem; /* 1248px, the Lisson measure */
+  --container-prose: 42rem;
+}
+
+@layer base {
+  html { font-family: var(--font-serif); color: var(--color-ink); background: var(--color-paper); }
+  body { font-size: 1.0625rem; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; text-decoration: underline; text-underline-offset: 0.15em; text-decoration-thickness: 1px; }
+  a:hover { text-decoration-thickness: 2px; }
+  img { display: block; max-width: 100%; height: auto; }
+}
+
+@layer components {
+  /* Outer page gutter + max width, responsive. */
+  .site { @apply mx-auto w-full max-w-(--container-site) px-4 sm:px-6 lg:px-8; }
+
+  /* Sans "chrome": nav, labels, meta. */
+  .chrome { @apply font-sans text-[0.9375rem] leading-snug; }
+  .label { @apply font-sans text-[0.8125rem] leading-none text-muted; }
+
+  /* Section heading, Lisson-style: sans, regular weight, 26px. */
+  .h-section { @apply font-sans font-normal text-[1.625rem] leading-tight; }
+  .h-page { @apply font-sans font-normal text-[1.625rem] sm:text-[2rem] leading-tight; }
+
+  /* Undecorated link that underlines on hover, for titles/grids. */
+  .quiet { @apply no-underline hover:underline; }
+
+  /* Responsive tile grids. */
+  .grid-3 { @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10; }
+  .grid-4 { @apply grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10; }
+
+  /* Long-form text. */
+  .prose-site { @apply max-w-(--container-prose) text-[1.0625rem] leading-relaxed; }
+  .max-w-3xl .prose-site, .lg\:grid .prose-site { @apply max-w-none; }
+  .prose-site > * + * { @apply mt-5; }
+  .prose-site h1, .prose-site h2, .prose-site h3, .prose-site h4 { @apply font-sans font-normal leading-tight mt-10; }
+  .prose-site h1 { @apply text-[1.625rem]; }
+  .prose-site h2 { @apply text-[1.375rem]; }
+  .prose-site h3 { @apply text-[1.125rem]; }
+  .prose-site ul { @apply list-disc pl-6; }
+  .prose-site ol { @apply list-decimal pl-6; }
+  .prose-site li + li { @apply mt-1; }
+  .prose-site blockquote { @apply pl-5 border-l border-rule text-muted; }
+  .prose-site img { @apply my-8 w-full; }
+  .prose-site p > img:only-child { @apply w-auto max-w-full; }
+  .prose-site figure { @apply my-8; }
+  .prose-site figcaption { @apply font-sans text-[0.8125rem] text-muted mt-2 text-center; }
+  .prose-site pre { @apply font-mono text-[0.875rem] leading-relaxed overflow-x-auto p-4 bg-neutral-50; }
+  .prose-site code { @apply font-mono text-[0.9em]; }
+  .prose-site hr { @apply border-0 border-t border-rule my-10; }
+  .prose-site table { @apply w-full text-left text-[0.9375rem]; }
+  .prose-site th, .prose-site td { @apply py-1 pr-4 align-top border-b border-rule; }
+
+  /* Work / exhibition metadata: plain lines, no rules. */
+  .meta { @apply text-[0.9375rem] leading-relaxed; }
+  .meta dt { @apply font-sans text-[0.8125rem] leading-none text-muted mt-4 mb-1; }
+  .meta dt:first-child { @apply mt-0; }
+  .meta dd { @apply m-0; }
+}

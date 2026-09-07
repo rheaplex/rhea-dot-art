@@ -1,13 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ term.name }}</h1><p class="text-body-secondary">{{ taxonomy.name | title }}</p></header>
-<main class="reading">
-  {%- for p in paginator.pages %}
-  <p class="mb-2"><a href="{{ p.permalink | safe }}" class="link-body-emphasis">{{ p.title }}</a> <span class="text-body-secondary small">{{ p.date | date(format="%-d %B %Y") }}</span></p>
-  {%- endfor %}
-  <nav class="d-flex justify-content-between small mt-4" aria-label="Pagination">
-    <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="link-body-emphasis">&larr; Newer</a>{% endif %}</span>
-    <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="link-body-emphasis">Older &rarr;</a>{% endif %}</span>
-  </nav>
-</main>
+<h1 class="h-page mb-1">{{ term.name }}</h1>
+<p class="label mb-10">{{ taxonomy.name | title }}</p>
+<ul class="prose-site">
+  {%- for p in paginator.pages %}<li class="!mt-2"><a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a> <span class="text-muted">{{ p.date | date(format="%-d %B %Y") }}</span></li>{% endfor %}
+</ul>
+<nav class="chrome flex justify-between mt-10 max-w-(--container-prose)" aria-label="Pagination">
+  <span>{% if paginator.previous %}<a href="{{ paginator.previous | safe }}" class="quiet">&larr; Newer</a>{% endif %}</span>
+  <span>{% if paginator.next %}<a href="{{ paginator.next | safe }}" class="quiet">Older &rarr;</a>{% endif %}</span>
+</nav>
 {% endblock content %}

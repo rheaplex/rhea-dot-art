@@ -1,29 +1,23 @@
 {% extends "base.html" %}
 {% block content %}
-{%- set kind = page.extra?.press_type  or page.extra?.publication_type | default(value="") -%}
-<article>
-  <header class="reading-wide mx-auto mb-4">
-    {%- if kind %}<p class="text-body-secondary small text-uppercase mb-1">{{ kind | replace(from="-", to=" ") }}</p>{% endif %}
-    <h1 class="mb-1">{{ page.title }}</h1>
-  </header>
-  <div class="reading-wide mx-auto">
-    <dl class="work-meta mb-4">
-      {%- if page.extra?.in %}<div class="work-meta__row"><dt>In</dt><dd><em>{{ page.extra?.in }}</em></dd></div>{% endif %}
-      {%- if page.extra?.outlet %}<div class="work-meta__row"><dt>Outlet</dt><dd>{{ page.extra?.outlet }}</dd></div>{% endif %}
-      {%- if page.extra?.publisher %}<div class="work-meta__row"><dt>Publisher</dt><dd>{{ page.extra?.publisher }}</dd></div>{% endif %}
-      {%- if page.extra?.authors %}<div class="work-meta__row"><dt>By</dt><dd>{{ page.extra?.authors | join(sep=", ") }}</dd></div>{% endif %}
-      <div class="work-meta__row"><dt>Published</dt><dd><time datetime="{{ page.date }}">{{ <precision_date page={page} /> }}</time></dd></div>
-      {%- if kind %}<div class="work-meta__row"><dt>Type</dt><dd>{{ kind | replace(from="-", to=" ") | title }}</dd></div>{% endif %}
-      {%- if page.extra?.isbn %}<div class="work-meta__row"><dt>ISBN</dt><dd>{{ page.extra?.isbn }}</dd></div>{% endif %}
-      {%- if page.extra?.related_works %}
-      <div class="work-meta__row"><dt>Related works</dt><dd>
-        {%- for s in page.extra?.related_works %}{% set w = get_page(path="art/" ~ s ~ ".md", allow_missing=true) %}{% if not loop.first %}, {% endif %}{% if w %}<a href="{{ w.permalink | safe }}">{{ w.title }}</a>{% else %}{{ s }}{% endif %}{% endfor %}
-      </dd></div>
-      {%- endif %}
-      {%- if page.extra?.url_external %}<div class="work-meta__row"><dt>Link</dt><dd><a href="{{ page.extra?.url_external }}" rel="external">{{ page.extra?.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") }}</a></dd></div>{% endif %}
+{%- set kind = page.extra?.press_type or page.extra?.publication_type or "" -%}
+{%- set base = (page.extra?.image or "") | split(pat="/") | last -%}
+{%- set has_side = page.extra?.image and base not in page.content -%}
+<article class="{% if has_side %}lg:grid lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-x-14{% else %}max-w-3xl{% endif %}">
+  <div class="mb-10 lg:mb-0">
+    <h1 class="h-page mb-1">{{ page.title }}</h1>
+    <p class="text-muted mb-8">{% if page.extra?.in %}<em>{{ page.extra.in }}</em>, {% endif %}{{ page.extra?.outlet or page.extra?.publisher or "" }}{% if kind %} &middot; {{ kind | replace(from="-", to=" ") | title }}{% endif %}</p>
+    <dl class="meta mb-10">
+      {%- if page.extra?.authors %}<dt>By</dt><dd>{{ page.extra.authors | join(sep=", ") }}</dd>{% endif %}
+      <dt>Published</dt><dd><time datetime="{{ page.date }}">{{ <precision_date page={page} /> }}</time></dd>
+      {%- if page.extra?.isbn %}<dt>ISBN</dt><dd>{{ page.extra.isbn }}</dd>{% endif %}
+      {%- if page.extra?.related_works %}<dt>Related works</dt><dd>
+        {%- for s in page.extra.related_works %}{% set w = get_page(path="art/" ~ s ~ ".md", allow_missing=true) %}{% if not loop.first %}, {% endif %}{% if w %}<a href="{{ w.permalink | safe }}">{{ w.title }}</a>{% else %}{{ s }}{% endif %}{% endfor %}
+      </dd>{% endif %}
+      {%- if page.extra?.url_external %}<dt>Link</dt><dd><a href="{{ page.extra.url_external }}" rel="external">{{ page.extra.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") | truncate(length=60) }}</a></dd>{% endif %}
     </dl>
+    {%- if page.content %}<div class="prose-site">{{ page.content | safe }}</div>{% endif %}
   </div>
-  {{ <featured_image page={page} /> }}
-  {%- if page.content %}<div class="content">{{ page.content | safe }}</div>{% endif %}
+  {%- if has_side %}<div class="lg:sticky lg:top-8 lg:self-start">{{ <featured_image page={page} /> }}</div>{% endif %}
 </article>
 {% endblock content %}

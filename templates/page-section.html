@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-<article class="reading mx-auto">
-  <header class="mb-4"><h1>{{ section.title }}</h1></header>
-  <div class="content">{{ section.content | safe }}</div>
+<article class="prose-site">
+  <h1 class="h-page !mt-0 mb-8">{{ section.title }}</h1>
+  {{ section.content | safe }}
 </article>
 {% endblock content %}

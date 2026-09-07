@@ -1,16 +1,27 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
-<main class="reading reading-wide">
-  {%- set all = section.pages %}
-  {%- for kind in ["solo", "group"] %}
-  {%- set of = [p for p in all if (p.extra?.exhibition_type or "") == kind] %}
-  {%- if of | length > 0 %}
-  <section class="mb-5">
-    <h2 class="h3 mb-3">{{ kind | title }} <span class="text-body-secondary fw-normal fs-6">{{ of | length }}</span></h2>
-    {{ <by_year pages={of} kind="exhibition" /> }}
-  </section>
-  {%- endif %}
-  {%- endfor %}
-</main>
+{%- set today = now() | date(format="%Y-%m-%d") -%}
+{%- set all = section.pages -%}
+{%- set current = [e for e in all if (e.extra?.opening or e.date) | date(format="%Y-%m-%d") <= today and (e.extra?.closing or e.date) | date(format="%Y-%m-%d") >= today] -%}
+{%- set forthcoming = [e for e in all if (e.extra?.opening or e.date) | date(format="%Y-%m-%d") > today] -%}
+{%- set past = [e for e in all if (e.extra?.closing or e.date) | date(format="%Y-%m-%d") < today] -%}
+<h1 class="h-page mb-10">{{ section.title }}</h1>
+{%- if section.content %}<div class="prose-site mb-10">{{ section.content | safe }}</div>{% endif %}
+
+{%- if current | length > 0 %}
+<section class="mb-16">
+  <h2 class="h-section mb-6">Current</h2>
+  <div class="grid-3">{% for p in current %}{{ <exhibition_tile page={p} /> }}{% endfor %}</div>
+</section>
+{%- endif %}
+{%- if forthcoming | length > 0 %}
+<section class="mb-16">
+  <h2 class="h-section mb-6">Forthcoming</h2>
+  <div class="grid-3">{% for p in forthcoming | reverse %}{{ <exhibition_tile page={p} /> }}{% endfor %}</div>
+</section>
+{%- endif %}
+<section>
+  <h2 class="h-section mb-2">Past</h2>
+  {{ <by_year pages={past} kind="exhibition" /> }}
+</section>
 {% endblock content %}

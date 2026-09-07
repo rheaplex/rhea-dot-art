@@ -1,13 +1,11 @@
-<header class="border-bottom">
-  <nav class="container navbar navbar-expand-md py-3">
-    <a class="navbar-brand site-title me-auto" href="{{ get_url(path="/") }}">
-      {{ config.title }}
-      <small class="d-block fw-normal text-body-secondary site-subtitle">{{ config.extra.subtitle }}</small>
-    </a>
-    <ul class="navbar-nav flex-row flex-wrap gap-3 gap-md-4">
+<header class="site">
+  <nav class="chrome flex flex-wrap items-baseline justify-between gap-x-8 gap-y-3 py-5 sm:py-6" aria-label="Main">
+    <a href="{{ get_url(path="/") }}" class="quiet text-[1.0625rem] font-medium tracking-tight">{{ config.title }}</a>
+    <ul class="flex flex-wrap gap-x-5 gap-y-2 sm:gap-x-7">
       {%- for item in config.extra.menu %}
-      {%- set u = item.url %}{%- set active = (current_path or "") is starting_with(pat=u) %}
-      <li class="nav-item"><a class="nav-link p-0{% if active %} active{% endif %}"{% if active %} aria-current="page"{% endif %} href="{{ get_url(path=item.url) }}">{{ item.name }}</a></li>
+      {%- set u = item.url %}
+      {%- set active = (current_path or "") is starting_with(pat=u) %}
+      <li><a href="{{ get_url(path=u) }}" class="{% if active %}underline{% else %}quiet{% endif %}"{% if active %} aria-current="page"{% endif %}>{{ item.name }}</a></li>
       {%- endfor %}
     </ul>
   </nav>
