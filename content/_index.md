@@ -25,7 +25,7 @@
       <img src="/third-party-logos/nagel-draxler-logo.png" class="d-block" alt="Galerie Nagel Draxler">
     </div>
     <div class="carousel-item">
-      <img src="/third-party-logos/sothebys.png" class="d-block" alt="Sotjeby's">
+      <img src="/third-party-logos/sothebys.png" class="d-block" alt="Sotheby's">
     </div>
   </div>
 </div>
@@ -34,7 +34,7 @@
 ### 2025-02-07 [The Fractionalized Phallus - Nagel & Draxler, Berlin](https://nagel-draxler.de/exhibition/the-fractionalized-phallus/)
 [![A glitch fragment of a digitized something](/images/self-identifying.png)](https://nagel-draxler.de/exhibition/the-fractionalized-phallus/)
 
-### 2024-09-27 [Facecoin in _Electric Op_ at Buffal AKG Museum](https://buffaloakg.org/art/exhibitions/electric-op)
+### 2024-09-27 [Facecoin in _Electric Op_ at Buffalo AKG Museum](https://buffaloakg.org/art/exhibitions/electric-op)
 
 [![Electric Op show logotype](/third-party-images/electric_op_title2.png)](https://buffaloakg.org/art/exhibitions/electric-op)  
 
