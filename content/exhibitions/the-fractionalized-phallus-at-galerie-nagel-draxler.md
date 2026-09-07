@@ -19,6 +19,8 @@ artworks = [
     "is-art-editions",
     "certificate-of-inauthenticity",
 ]
-image = "/exhibition-images/self-identifying.png"
+image = "/exhibition-images/the-fractionalized-phallus-installation-simon-vogel.jpg"
+image_alt = "Installation view of The Fractionalized Phallus at Galerie Nagel Draxler, Berlin. Photo: Simon Vogel"
+image_credit = "Simon Vogel"
 +++
 

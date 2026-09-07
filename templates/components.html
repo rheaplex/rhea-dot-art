@@ -101,6 +101,7 @@
 {%- set img = resize_image(path=page.extra.image, width=2000, height=2000, op="fit") %}
 <figure>
   <img src="{{ img.url }}" width="{{ img.width }}" height="{{ img.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-[70vh] w-auto max-w-full">
+  {%- if page.extra?.image_credit %}<figcaption class="label mt-2">Photo: {{ page.extra.image_credit }}</figcaption>{% endif %}
 </figure>
 {%- endif -%}
 {%- endif -%}
