@@ -1,15 +1,11 @@
----
-title: "Type Opposite Images"
-image: "/square-images/toi-8.png"
-type: "page"
-layout: "artwork"
-date: "2023-01-23"
----
++++
+title = "Type Opposite Images"
+date = 2023-01-23
+image = "/art-images/toi-8.png"
+mediums = ["Ethereum ERC-721 NFT", "Ethereum ERC-998 Composite NFT"]
+wp_id = 6623
++++
 
-![Mirrored, white-on-black text](/images/toi-8.png)
+_Vaporwave aesthetics’ evil twin._
 
-**Type Opposite Images (2023), Ethereum ERC-721 NFT wrapping ERC-998 NFT.**
-
-*Vaporwave aesthetics’ evil twin.*
-
-Type Opposite Images is a reversal or invert of [Tokens Equal Text](/tokens-equal-text/) (2019). It composes with the original to translate the colourful vaporwave aesthetics of each token into the grim monochrome of its other - the imagery of a nuclear apocalypse started and populated by killer machines. This produce its evil twin, a reflection in a dark mirror.
+Type Opposite Images is a reversal or invert of [Tokens Equal Text](/tokens-equal-text/) (2019). It composes with the original to translate the colourful vaporwave aesthetics of each token into the grim monochrome of its other – the imagery of a nuclear apocalypse started and populated by killer machines. This produce its evil twin, a reflection in a dark mirror.

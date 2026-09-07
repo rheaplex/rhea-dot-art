@@ -1,15 +1,17 @@
----
-title: "Shareable Readymades"
-image: "/images/urinal.png"
-type: "page"
-layout: "artwork"
-date: 2011-01-01
----
++++
+title = "Shareable Readymades"
+date = 2011-01-01
+image = "/art-images/urinal.png"
+mediums = ["3D Printable Model"]
+aliases_names = ["Balloon Dog", "Urinal"]
+wp_id = 6669
+[[collaborators]]
+  name = "Dr. Charlotte Frost"
+  role = "Named the series"
+  url = "http://digitalcritic.org/"
++++
 
 ![A 3D print of the hash tag #arthistory, in white plastic](/images/hasharthistory.png)
-
-
-**#arthistory, 2013, 3D printable digital model by Rhea Myers, commissioned by Dr. Charlotte Frost.**
 
 A physical Twitter hashtag for art historians to use in meatspace.
 
@@ -19,7 +21,7 @@ A physical Twitter hashtag for art historians to use in meatspace.
 
 **Pipe, 2012, 3D printable digital model by Christine Webber commissioned by Rhea Myers.**
 
-This is not a pipe, it's a 3D printable model of a pipe.
+This is not a pipe, it’s a 3D printable model of a pipe.
 
 ---
 
@@ -35,8 +37,8 @@ A balloon dog for anyone to print. Looks good in metal. A Furtherfield commissio
 
 **Urinal, 2011, 3D printable digital model by Christine Webber, commissioned by Rhea Myers.**
 
-It's art if you say it is.
+It’s art if you say it is.
 
 ---
 
-The name "Shareable Readymades" was applied to this series by [Dr. Charlotte Frost](http://digitalcritic.org/).
+The name “Shareable Readymades” was applied to this series by [Dr. Charlotte Frost](http://digitalcritic.org/).

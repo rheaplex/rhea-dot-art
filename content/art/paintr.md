@@ -1,29 +1,19 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-01-04
-layout: page
-slug: paintr
-title: Paintr
-image: /images/2013/12/804-300x234.png
-permalink: /paintr/
-id: 2444
----
++++
+title = "Paintr"
+date = 2005-01-04
+image = "/art-images/804.png"
+mediums = ["Node.JS", "PHP", "Lisp"]
+aliases_names = ["paintr"]
+repos = ["https://github.com/rheaplex/paintrnode", "https://github.com/rheaplex/paintr"]
+wp_id = 6675
++++
 
-![paintr image 804](/images/2013/12/804-300x234.png)  
 Original image by [jessjamesjake](http://farm4.static.flickr.com/3545/5844177462_7cda7b7b20.jpg).
 
-**Paintr, 2005/2013, PHP code (later Lisp code) reimplemented in node.js .**
-
-A model of of almost precisely how artistic inspiration doesn't work, in the cloud.
+A model of of almost precisely how artistic inspiration doesn’t work, in the cloud.
 
 [Click here](http://paintr-rebooted.tumblr.com/) to see it in action.
 
 The rebooted version of paintr generates an image every few hours during the day. It was adapted to node.js
 
-You can get the code [here](https://github.com/rheaplex/paintrnode/).
-
 The original version paintr generated an image a day. It was written in PHP then reimplemented in Lisp.
-
-You can get the code [here](https://github.com/rheaplex/paintr/).
-

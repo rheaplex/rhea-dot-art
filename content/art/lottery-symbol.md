@@ -1,14 +1,10 @@
----
-title: "Lottery Symbol"
-image: "/images/lottery-symbol.png"
-type: "page"
-layout: "artwork"
-date: "2017-08-08"
----
-
-![A black biohazard symbol on a light grey background.](/images/lottery-symbol.png)
-
-**Lottery Symbol, 2017, Ethereum DApp**
++++
+title = "Lottery Symbol"
+date = 2017-08-08
+image = "/art-images/lottery-symbol.png"
+mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+wp_id = 6639
++++
 
 A graphical symbol on the blockchain, chosen from options submitted via Ethereum transactions in a simple lottery.
 

@@ -1,20 +1,19 @@
----
-title: "Is Art (Editions)"
-image: "/images/is-art-token-is.png"
-type: "page"
-layout: "artwork"
-date: "2023-02-19"
----
++++
+title = "Is Art (Editions)"
+date = 2023-02-19
+image = "/art-images/is-art-token-is.png"
+mediums = ["Ethereum ERC-721 NFT"]
+aliases_names = ["Is Art (Token)", "Is Art (Token, Because)"]
+wp_id = 6621
++++
 
-_Is Art_ (2014) was part of the series of artworks that started with the essay _Artworld Ethereum_ and that share their name with it. It exploits the exhausted art theoretical concept of nomination, underwriting it with the power of the blockchain rather than 1960s artworld consensus. It was the piece from that series that caught people's imagination the most. Pre-dating ERC-721, and structured to be deliberately un-ownable, it existed as a smart contract that anyone (with sufficient knowledge and capital...) could interact with and change the state of.
+_Is Art_ (2014) was part of the series of artworks that started with the essay _Artworld Ethereum_ and that share their name with it. It exploits the exhausted art theoretical concept of nomination, underwriting it with the power of the blockchain rather than 1960s artworld consensus. It was the piece from that series that caught people’s imagination the most. Pre-dating ERC-721, and structured to be deliberately un-ownable, it existed as a smart contract that anyone (with sufficient knowledge and capital…) could interact with and change the state of.
 
 As a kind of mid-career-retrospective take on _Artworld Ethereum_, _Is Art Editions_ (2023-4) collapses the content of _Artworld Etherem_ into the aesthetics of _Is Art_. It shares this retrospective impulse with _Type Opposite Images_ and some as-yet unnanounced series.
 
 ![The statement "this token is art"](/images/is-art-token-is.png)
 
-**Is Art (Token) (2023) Ethereum ERC-721 Token in edition of 16.**
-
-*Own the creative power of a crypto artist.*
+_Own the creative power of a crypto artist._
 
 Is Art (Token) takes the artist’s power of nomination, of naming something as art, and delegates it to the artwork’s owner. Their assertion of its art or non-art status is secured and guaranteed by the power of the blockchain. Based on a common and understandable misunderstanding of how [Is Art](/is-art/) (2014) works, this is the first in a series of editions that inscribe ongoing and contemporary concerns onto this exemplar of a past or perhaps not yet realized blockchain artworld.
 

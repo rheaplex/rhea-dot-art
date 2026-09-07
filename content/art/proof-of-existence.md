@@ -1,16 +1,12 @@
----
-title: "Proof of Existence"
-image: "/images/god.png"
-type: "page"
-layout: "artwork"
-date: "2015-01-09"
----
++++
+title = "Proof of Existence"
+date = 2015-01-09
+image = "/art-images/god.png"
+mediums = ["Bitcoin Transaction"]
+wp_id = 6654
++++
 
-![A QR code](/images/god.png)
-
-**Proof Of Existence 2, 2014, Bitcoin Transaction**
-
-I have placed the hash of "God" into the Bitcoin Blockchain:
+I have placed the hash of “God” into the Bitcoin Blockchain:
 
 SHA256: ebc3e2e6448f94af7b58e57658336a44d3ff44eafadb54e4c4cd71ba7e607594
 

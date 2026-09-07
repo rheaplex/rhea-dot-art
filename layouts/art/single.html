@@ -1,0 +1,61 @@
+{{ define "main" }}
+<article class="artwork">
+  <header class="reading-wide mx-auto mb-4">
+    <h1 class="mb-1">{{ .Title }}</h1>
+    {{ with .Params.aliases_names }}<p class="text-body-secondary mb-0">Also known as {{ delimit . ", " " and " }}</p>{{ end }}
+  </header>
+
+  {{ with .Params.image }}
+    {{ $base := path.Base . }}
+    {{ if not (in $.RawContent $base) }}
+    {{ with resources.Get . }}
+      {{ $img := .Fit "1600x1600" }}
+      <figure class="figure d-block text-center mb-4">
+        <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Params.image_alt | default $.Title }}" class="figure-img img-fluid mb-0">
+      </figure>
+    {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <div class="reading-wide mx-auto">
+    <dl class="work-meta mb-4">
+      <div class="work-meta__row">
+        <dt>Date</dt>
+        <dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006" }}</time>{{ if .Params.date_provisional }} <span class="text-body-secondary">(approx.)</span>{{ end }}</dd>
+      </div>
+      {{ with .Params.mediums }}
+      <div class="work-meta__row"><dt>Medium{{ if gt (len .) 1 }}s{{ end }}</dt><dd>{{ delimit . ", " }}</dd></div>
+      {{ end }}
+      {{ with .Params.tools }}
+      <div class="work-meta__row"><dt>Tools</dt><dd>{{ delimit . ", " }}</dd></div>
+      {{ end }}
+      {{ with .Params.collaborators }}
+      <div class="work-meta__row"><dt>With</dt><dd>
+        {{ range $i, $c := . }}{{ if $i }}<br>{{ end }}{{ with $c.url }}<a href="{{ . }}">{{ $c.name }}</a>{{ else }}{{ $c.name }}{{ end }}{{ with $c.role }} <span class="work-meta__role">{{ . }}</span>{{ end }}{{ end }}
+      </dd></div>
+      {{ end }}
+      {{ with .Params.demos }}
+      <div class="work-meta__row"><dt>Run</dt><dd>{{ range . }}<a href="{{ . }}">{{ replaceRE "^https?://" "" . }}</a><br>{{ end }}</dd></div>
+      {{ end }}
+      {{ with .Params.repos }}
+      <div class="work-meta__row"><dt>Source</dt><dd>{{ range . }}<a href="{{ . }}">{{ replaceRE "^https?://(www\\.)?" "" . }}</a><br>{{ end }}</dd></div>
+      {{ end }}
+      {{ $shows := where (where .Site.RegularPages "Section" "shows") "Params.artworks" "intersect" (slice (path.Base .File.ContentBaseName)) }}
+      {{ with $shows }}
+      <div class="work-meta__row"><dt>Shown in</dt><dd>
+        {{ range .ByDate.Reverse }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.venue }}, {{ . }}{{ end }} ({{ .Date.Format "2006" }})<br>{{ end }}
+      </dd></div>
+      {{ end }}
+    </dl>
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <nav class="reading-wide mx-auto d-flex justify-content-between mt-5 pt-3 border-top small" aria-label="Neighbouring works">
+    <span>{{ with .NextInSection }}<a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none">&larr; {{ .Title }}</a>{{ end }}</span>
+    <span>{{ with .PrevInSection }}<a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none">{{ .Title }} &rarr;</a>{{ end }}</span>
+  </nav>
+</article>
+{{ end }}

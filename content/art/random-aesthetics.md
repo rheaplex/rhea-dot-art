@@ -1,18 +1,11 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-01-01
-layout: page
-slug: random-aesthetics
-title: Random Aesthetics Microbloggers
-image: /images/2013/12/random-aesthetics-microbloggers.png
-permalink: /random-aesthetics/
-id: 2451
----
-
-![random aesthetics microbloggers](/images/2013/12/random-aesthetics-microbloggers.png)
-
-**Random Aesthetics Microbloggers, 2009, Common Lisp code (later Python code, then JavaScript code).**
++++
+title = "Random Aesthetics Microbloggers"
+date = 2009-01-01
+image = "/art-images/random-aesthetics-microbloggers.png"
+mediums = ["JavaScript", "Python", "Common Lisp"]
+repos = ["https://github.com/rheaplex/artbots"]
+wp_id = 6671
++++
 
 Microblog bots that place aesthetics in the social graph as peers.
 
@@ -55,5 +48,3 @@ A tender parodic progressive digital art military lightshow.
 An angry incompetent historical stone carving.
 A postmodernist caricature video projection.
 A joyful revivalist art deco marine refusal to signify expressing anger._
-
-You can get the node.js source code [here](https://github.com/rheaplex/artbots).

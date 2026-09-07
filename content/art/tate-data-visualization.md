@@ -1,18 +1,11 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-01-10 22:51:05+00:00
-layout: page
-slug: tate-data-visualization
-title: Tate Data Visualization
-image: /images/2014/02/unnamed-chunk-4.png
-permalink: /tate-data-visualization/
-id: 2732
----
-
-[![Movements Since 1800](/images/2014/02/unnamed-chunk-4.png)](/images/2014/02/unnamed-chunk-4.png)
-
-**Exploring Tate Art Open Data, 2014, JavaScript and R code.**
++++
+title = "Tate Data Visualization"
+date = 2015-01-10
+date_provisional = true
+image = "/art-images/unnamed-chunk-4.png"
+mediums = ["JavaScript", "R"]
+wp_id = 6651
++++
 
 Why visualise the Tate’s collection dataset?
 
@@ -30,38 +23,38 @@ With suitable modesty of aims and suitable reflection on the historical and poli
 
 You can see the results here:
 
-    
-    <code>              name         gender                 dates     
-     Bateman, James :   2         : 112   dates not known:  59  
-     Doyle, John    :   2   Female: 521   born 1967      :  42  
-     Hone, Nathaniel:   2   Male  :2894   born 1936      :  38  
-     Peri, Peter    :   2                 born 1930      :  36  
-     Stokes, Adrian :   2                 born 1938      :  36  
-     Wilson, Richard:   2                 born 1941      :  34  
-     (Other)        :3515                 (Other)        :3282  
-      yearOfBirth    yearOfDeath                      placeOfBirth 
-     Min.   :1497   Min.   :1543                            : 491  
-     1st Qu.:1855   1st Qu.:1874   London, United Kingdom   : 446  
-     Median :1910   Median :1944   Paris, France            :  57  
-     Mean   :1887   Mean   :1920   Edinburgh, United Kingdom:  47  
-     3rd Qu.:1941   3rd Qu.:1982   New York, United States  :  43  
-     Max.   :2004   Max.   :2013   Glasgow, United Kingdom  :  35  
-     NA's   :57     NA's   :1309   (Other)                  :2408  
-                        placeOfDeath 
-                              :2079  
-     London, United Kingdom   : 442  
-     Paris, France            :  82  
-     New York, United States  :  45  
-     Roma, Italia             :  22  
-     Edinburgh, United Kingdom:  18  
-     (Other)                  : 839  
-    </code>
+```
+<code>              name         gender                 dates
+ Bateman, James :   2         : 112   dates not known:  59
+ Doyle, John    :   2   Female: 521   born 1967      :  42
+ Hone, Nathaniel:   2   Male  :2894   born 1936      :  38
+ Peri, Peter    :   2                 born 1930      :  36
+ Stokes, Adrian :   2                 born 1938      :  36
+ Wilson, Richard:   2                 born 1941      :  34
+ (Other)        :3515                 (Other)        :3282
+  yearOfBirth    yearOfDeath                      placeOfBirth
+ Min.   :1497   Min.   :1543                            : 491
+ 1st Qu.:1855   1st Qu.:1874   London, United Kingdom   : 446
+ Median :1910   Median :1944   Paris, France            :  57
+ Mean   :1887   Mean   :1920   Edinburgh, United Kingdom:  47
+ 3rd Qu.:1941   3rd Qu.:1982   New York, United States  :  43
+ Max.   :2004   Max.   :2013   Glasgow, United Kingdom  :  35
+ NA's   :57     NA's   :1309   (Other)                  :2408
+                    placeOfDeath
+                          :2079
+ London, United Kingdom   : 442
+ Paris, France            :  82
+ New York, United States  :  45
+ Roma, Italia             :  22
+ Edinburgh, United Kingdom:  18
+ (Other)                  : 839
+</code>
+```
 
-
-[/2014/02/05/exploring-tate-art-open-data-1/](/2014/02/05/exploring-tate-art-open-data-1/)
+</2014/02/05/exploring-tate-art-open-data-1/>
 
 [![Movements Connected By Artists](/images/2014/02/unnamed-chunk-9.png)](/images/2014/02/unnamed-chunk-9.png)
 
-[/2014/02/08/exploring-tate-art-open-data-2/](/2014/02/08/exploring-tate-art-open-data-2/)
+</2014/02/08/exploring-tate-art-open-data-2/>
 
 You can find details for how to get the source code on those pages.

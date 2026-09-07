@@ -1,14 +1,11 @@
----
-title: "Dogecode"
-image: "/images/sierpinski.png"
-type: "page"
-layout: "artwork"
-date: "2015-01-09"
----
++++
+title = "Dogecode"
+date = 2015-01-09
+image = "/art-images/sierpinski.png"
+mediums = ["Python", "Dogeparty Tokens"]
+wp_id = 6653
++++
 
-![A Sierpinkski triangle rendered in asterisks in a computer terminal from a program at a Dogecoin address](/images/sierpinski.png)
-
-**Dogecode, 2014, Python code and Dogeparty tokens**
 Cryptographic asset tokens can represent [all kinds of things](https://www.reddit.com/r/xdp/comments/2dmnsi/list_of_possible_ways_to_use_tokens/).
 
 Including computer programs.
@@ -18,6 +15,7 @@ Dogecode takes computer programs in the [Brainfuck](http://en.wikipedia.org/wiki
 ```
 ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 ```
+
 and translates them into a csv file of token amounts using `dcc`:
 
 ```
@@ -72,14 +70,14 @@ $ dcrun -u rpcuser -w rpcpassword DCvDS9g9VUZ94MSLbWi4zWRtxHrXeEctZ3
 Hello World!
 ```
 
-There's also an easier to use runner that uses a web API rather than requiring a local dogepartyd instance to be running which will fetch the program encoded as Dogeparty tokens at the specified address (DCvD...) and run it locally:
+There’s also an easier to use runner that uses a web API rather than requiring a local dogepartyd instance to be running which will fetch the program encoded as Dogeparty tokens at the specified address (DCvD…) and run it locally:
 
 ```
 $ dcrunw DCvDS9g9VUZ94MSLbWi4zWRtxHrXeEctZ3
 Hello World!
 ```
 
-Here's some addresses to try:
+Here’s some addresses to try:
 
 ```
 DCvDS9g9VUZ94MSLbWi4zWRtxHrXeEctZ3
