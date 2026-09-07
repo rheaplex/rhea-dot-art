@@ -1,15 +1,19 @@
----
-id: 3291
-title: 'OpenXR on GNU/Linux With OpenHMD and Monado'
-date: '2019-07-25T19:56:42+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - 'Free Software'
-    - 'Virtual Reality'
----
++++
+title = "OpenXR on GNU/Linux With OpenHMD and Monado"
+date = 2019-07-25 19:56:42+00:00
+path = "/2019/07/25/openxr-on-gnu/linux-with-openhmd-and-monado/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Virtual Reality",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 With the release of Debian 10, it is possible to build Monado on Debian in order to use the OpenXR SDK with headsets supported by OpenHMD.
 

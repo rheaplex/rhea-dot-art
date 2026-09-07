@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-29 18:06:15+00:00
-layout: post
-slug: think-of-the-creators
-title: Think Of The Creators!
-id: 315
-categories:
-- Free Culture
----
++++
+title = "Think Of The Creators!"
+date = 2005-01-29 18:06:15+00:00
+path = "/2005/01/29/think-of-the-creators/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Intellectual Property" is of course about rewarding the creative geniuses behind cultural works, not about paying the middle-men and hangers-on. This why the record industry in the UK are so upset that songs from 50 years ago, including the beginning of Elvis's "catalogue" will enter the public domain this year. The record companies will no longer get their royalties. But, far more importantly, performers will no longer get their royalties. Think of the children!  
   

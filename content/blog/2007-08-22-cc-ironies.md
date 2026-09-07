@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-22 05:03:32+00:00
-layout: post
-slug: cc-ironies
-title: CC Ironies
-id: 1453
-categories:
-- Free Culture
-- Projects
----
++++
+title = "CC Ironies"
+date = 2007-08-22 05:03:32+00:00
+path = "/2007/08/22/cc-ironies/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 The series of ironised CC license images is now available for viewing and downloading as a set at:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-24 05:49:09+00:00
-layout: post
-slug: thats-the-way-to-do-it-2
-title: That's the Way To Do It
-id: 1417
-categories:
-- Free Culture
----
++++
+title = "That's the Way To Do It"
+date = 2007-07-24 05:49:09+00:00
+path = "/2007/07/24/thats-the-way-to-do-it-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.multiverse.org/fora/showthread.php?t=5699](http://www.multiverse.org/fora/showthread.php?t=5699)  
 

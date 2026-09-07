@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="exhibition">
+  <header class="reading-wide mx-auto mb-4">
+    {%- if page.extra?.exhibition_type %}<p class="text-body-secondary small text-uppercase mb-1">{{ page.extra?.exhibition_type | title }} exhibition</p>{% endif %}
+    <h1 class="mb-1">{{ page.title }}</h1>
+    <p class="text-body-secondary">{{ <exhibition_dates page={page} /> }}</p>
+  </header>
+
+  {{ <featured_image page={page} /> }}
+
+  <div class="reading-wide mx-auto">
+    <dl class="work-meta mb-4">
+      {%- if page.extra?.venue %}<div class="work-meta__row"><dt>Venue</dt><dd>{{ page.extra?.venue }}</dd></div>{% endif %}
+      {%- if page.extra?.location %}<div class="work-meta__row"><dt>Location</dt><dd>{{ page.extra?.location }}</dd></div>{% endif %}
+      {%- if page.extra?.curator %}<div class="work-meta__row"><dt>Curator</dt><dd>{{ page.extra?.curator }}</dd></div>{% endif %}
+      {%- if page.extra?.programme %}<div class="work-meta__row"><dt>Programme</dt><dd>{{ page.extra?.programme }}</dd></div>{% endif %}
+      {%- if page.extra?.tour_of %}{% set t = get_page(path="exhibitions/" ~ page.extra?.tour_of ~ ".md", allow_missing=true) %}{% if t %}<div class="work-meta__row"><dt>Tour of</dt><dd><a href="{{ t.permalink | safe }}">{{ t.title }}</a></dd></div>{% endif %}{% endif %}
+      {%- if page.extra?.url_external %}<div class="work-meta__row"><dt>Link</dt><dd><a href="{{ page.extra?.url_external }}" rel="external">{{ page.title }}{% if page.extra?.venue %} at {{ page.extra?.venue }}{% endif %}</a></dd></div>{% endif %}
+    </dl>
+  </div>
+
+  {%- if page.content %}<div class="content">{{ page.content | safe }}</div>{% endif %}
+
+  {%- if page.extra?.artworks %}
+  <section class="mt-5">
+    <h2 class="h4 mb-3">Works shown</h2>
+    <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4">
+      {%- for s in page.extra?.artworks %}
+      {%- set w = get_page(path="art/" ~ s ~ ".md", allow_missing=true) %}
+      {%- if w %}{{ <card page={w} /> }}{% else %}<div class="col"><p class="text-body-secondary small">{{ s }}</p></div>{% endif %}
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endif %}
+</article>
+{% endblock content %}

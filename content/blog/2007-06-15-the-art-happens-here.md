@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-15 08:12:32+00:00
-layout: post
-slug: the-art-happens-here
-title: The Art Happens Here
-id: 1352
-categories:
-- Free Culture
----
++++
+title = "The Art Happens Here"
+date = 2007-06-15 08:12:32+00:00
+path = "/2007/06/15/the-art-happens-here/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Something of a Rhizome takeover of the iCommons summit with the excellent Joy Garnett and MTAA part of the artists in residence posse.  
   

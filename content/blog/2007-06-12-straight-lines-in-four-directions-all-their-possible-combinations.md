@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-12 03:59:02+00:00
-layout: post
-slug: straight-lines-in-four-directions-all-their-possible-combinations
-title: Straight lines in four directions & all their possible combinations
-id: 1341
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Straight lines in four directions & all their possible combinations"
+date = 2007-06-12 03:59:02+00:00
+path = "/2007/06/12/straight-lines-in-four-directions-all-their-possible-combinations/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706131947](/images/2007/06/200706131947.jpg)  
 _N_ is the set of all possible combinations of the lines _L_.  

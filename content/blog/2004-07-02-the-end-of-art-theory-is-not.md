@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-02 06:06:00+00:00
-layout: post
-slug: the-end-of-art-theory-is-not
-title: The End Of Art Theory Is Not
-id: 173
-categories:
-- Aesthetics
----
++++
+title = "The End Of Art Theory Is Not"
+date = 2004-07-02 06:06:00+00:00
+path = "/2004/07/02/the-end-of-art-theory-is-not/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 This essay: [The End of Art Theory](http://www.hicgumanities.org/AHproceedings/Leon Rosenstein.pdf), argues that Art Theory is finished.  
 It does this by trying to show that The Institutional Theory of art is untenable. The Institutional Theory, it claims, contains so many free terms that it is all-inclusive and unable to separate art from any other objects. It is circular to boot. In fact, the Institutional Theory is not a theory.  

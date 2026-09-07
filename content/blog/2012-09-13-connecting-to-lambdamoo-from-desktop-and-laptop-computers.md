@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-09-13 19:24:54+00:00
-layout: post
-slug: connecting-to-lambdamoo-from-desktop-and-laptop-computers
-title: Connecting To LambdaMOO From Desktop And Laptop Computers
-id: 2060
-categories:
-- LambdaMOO
----
++++
+title = "Connecting To LambdaMOO From Desktop And Laptop Computers"
+date = 2012-09-13 19:24:54+00:00
+path = "/2012/09/13/connecting-to-lambdamoo-from-desktop-and-laptop-computers/"
+
+[taxonomies]
+categories = [
+    "LambdaMOO",
+]
++++
 
 LambdaMOO uses the Telnet protocol but modern operating systems don't tend to include a Telnet client by default. Using a dedicated MOO client offers a much better experience, so we'll concentrate on finding and installing one of those instead.
 

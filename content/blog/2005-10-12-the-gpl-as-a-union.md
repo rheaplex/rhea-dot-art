@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-12 09:33:46+00:00
-layout: post
-slug: the-gpl-as-a-union
-title: The GPL As A Union
-id: 695
-categories:
-- Free Culture
----
++++
+title = "The GPL As A Union"
+date = 2005-10-12 09:33:46+00:00
+path = "/2005/10/12/the-gpl-as-a-union/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I think it was David Berry who compared the GPL to a guild rather than a commons.  

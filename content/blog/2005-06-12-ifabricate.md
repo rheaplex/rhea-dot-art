@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-12 04:23:09+00:00
-layout: post
-slug: ifabricate
-title: iFabricate
-id: 492
-categories:
-- Free Culture
-- Howto
----
++++
+title = "iFabricate"
+date = 2005-06-12 04:23:09+00:00
+path = "/2005/06/12/ifabricate/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+]
++++
 
   
 Via [hobbyprincess](http://ullamaaria.typepad.com/hobbyprincess/):  

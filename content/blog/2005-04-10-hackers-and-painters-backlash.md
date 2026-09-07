@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-10 20:41:08+00:00
-layout: post
-slug: hackers-and-painters-backlash
-title: Hackers and Painters Backlash
-id: 377
-categories:
-- Generative Art
----
++++
+title = "Hackers and Painters Backlash"
+date = 2005-04-10 20:41:08+00:00
+path = "/2005/04/10/hackers-and-painters-backlash/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Dabblers and Blowhards](http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm)   
   

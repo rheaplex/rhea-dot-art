@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-07 05:40:24+00:00
-layout: post
-slug: press-release-for-the-al-red-krayola-album
-title: Press Release For the A&L / Red Krayola Album
-id: 1478
-categories:
-- Aesthetics
----
++++
+title = "Press Release For the A&L / Red Krayola Album"
+date = 2007-09-07 05:40:24+00:00
+path = "/2007/09/07/press-release-for-the-al-red-krayola-album/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [http://www.dragcity.com/news.html](http://www.dragcity.com/news.html)**  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 06:49:05+00:00
-layout: post
-slug: key-concepts
-title: Key Concepts
-id: 612
-categories:
-- Free Culture
----
++++
+title = "Key Concepts"
+date = 2005-08-07 06:49:05+00:00
+path = "/2005/08/07/key-concepts/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Economic concepts that you'll encounter (or which might be useful) when discussing Free Culture:  

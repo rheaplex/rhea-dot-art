@@ -1,10 +1,9 @@
----
-layout: post
-title: Ethereum Standardized Art Contract API
-slug: ethereum-standardized-art-contract-api
-date: 2015-12-01
++++
+title = "Ethereum Standardized Art Contract API"
+date = 2015-12-01
+path = "/2015/12/01/ethereum-standardized-art-contract-api/"
++++
 
----
 The [Ethereum project](https://ethereum.org/) allows you to create arbitrary [smart contracts](http://szabo.best.vwh.net/smart_contracts_idea.html) to run on its [blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)). To ensure that those arbitrary contracts can communicate where they need to, they have published a list of standard contract interfaces:
 
 [https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs](https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs)

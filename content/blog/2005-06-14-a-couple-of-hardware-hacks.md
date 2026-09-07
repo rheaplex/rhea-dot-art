@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-14 06:17:08+00:00
-layout: post
-slug: a-couple-of-hardware-hacks
-title: A Couple Of Hardware Hacks
-id: 497
-categories:
-- Howto
----
++++
+title = "A Couple Of Hardware Hacks"
+date = 2005-06-14 06:17:08+00:00
+path = "/2005/06/14/a-couple-of-hardware-hacks/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 A couple of handy hardware hacks:  

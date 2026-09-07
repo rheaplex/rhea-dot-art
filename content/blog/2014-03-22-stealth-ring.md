@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-22 07:33:38+00:00
-layout: post
-slug: stealth-ring
-title: Stealth Ring
-id: 2549
-categories:
-- Art
-- Art Computing
-- Free Software
-- Glitch Art
-- Projects
----
++++
+title = "Stealth Ring"
+date = 2014-03-22 07:33:38+00:00
+path = "/2014/03/22/stealth-ring/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Glitch Art",
+    "Projects",
+]
++++
 
 An old [Surgical Strike](/surgical-strike/) program reworked for [the new system](https://github.com/rheaplex/surgical_strike/):
 

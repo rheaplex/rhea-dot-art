@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-31 13:24:53+00:00
-layout: post
-slug: exploring_art_data_13
-title: Exploring Art Data 13
-id: 1902
-categories:
-- Aesthetics
-- Art Computing
-- Art Open Data
----
++++
+title = "Exploring Art Data 13"
+date = 2010-12-31 13:24:53+00:00
+path = "/2010/12/31/exploring_art_data_13/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Art Open Data",
+]
++++
 
 Let's go back and explore one image from the Haystacks series further. We'll be able to apply these same techniques to the whole series (and to large imagesets) later.  
   

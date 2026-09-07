@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-23 07:06:14+00:00
-layout: post
-slug: draw-something-online
-title: Draw Something Online
-id: 765
-categories:
-- Projects
----
++++
+title = "Draw Something Online"
+date = 2005-12-23 07:06:14+00:00
+path = "/2005/12/23/draw-something-online/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 I've been trying to hack up a version of draw-something to run in a web page. ABCL is a Java Lisp interpreter that will load and run draw-something more or less unmodified, but it's either too slow or the mathematics handling is too different and I can't debug that.  

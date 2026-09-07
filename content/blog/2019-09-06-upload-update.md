@@ -1,17 +1,18 @@
----
-id: 3321
-title: 'Upload Update'
-date: '2019-09-06T23:46:28+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Accelerationism
-    - Aesthetics
-    - Art
-    - Philosophy
-    - Projects
-    - Satire
----
++++
+title = "Upload Update"
+date = 2019-09-06 23:46:28+00:00
+path = "/2019/09/06/upload-update/"
+
+[taxonomies]
+categories = [
+    "Accelerationism",
+    "Aesthetics",
+    "Art",
+    "Philosophy",
+    "Projects",
+    "Satire",
+]
++++
 
 Like the narrator of William Gibson’s short story “The Winter Market”, I don’t think that mind uploads are the person whose brain they destroy. I’m not even sure that a living brain is the same person each day, or from moment to moment, but reassembling a similar pattern on the same substrate at least looks like continuity. Whether the Ship Of Theseus is the ship that Theseus’s sailed or not, a copy built next to it all in one go probably isn’t. But if the Ship Of Theseus burns, that copy is more like it than anything else that exists. Where the resemblance is many billions of bits strong, and there is no stronger resemblance extant, that’s a form of continuity of identity. Hopefully that of a portrait that captures the sitter’s personality rather than a vampire child.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-26 09:10:56+00:00
-layout: post
-slug: eightiesesque
-title: Eightiesesque
-id: 25
-categories:
-- Aesthetics
----
++++
+title = "Eightiesesque"
+date = 2003-04-26 09:10:56+00:00
+path = "/2003/04/26/eightiesesque/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Tron's cyberspace.  
 Star Trek ; The Next Generation's computer displays  

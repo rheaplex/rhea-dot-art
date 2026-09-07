@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-12 04:51:21+00:00
-layout: post
-slug: performance-art-as-property
-title: Performance Art As Property
-id: 720
-categories:
-- Free Culture
----
++++
+title = "Performance Art As Property"
+date = 2005-11-12 04:51:21+00:00
+path = "/2005/11/12/performance-art-as-property/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 You can't copyright performances because they don't have a fixed form. Of course you could try recording the performance in Labanotation to have a score to claim performances are a derivative of, but that would be silly.  

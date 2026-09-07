@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-20 07:37:50+00:00
-layout: post
-slug: chordinator-2
-title: Chordinator
-id: 1048
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Chordinator"
+date = 2006-07-20 07:37:50+00:00
+path = "/2006/07/20/chordinator-2/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 chordinator is the name of the stand-alone colour palette generator for rheart. It's based on the system that Harold Cohen describes in "Colouring Without Seeing".  

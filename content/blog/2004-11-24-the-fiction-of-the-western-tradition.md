@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-24 06:05:44+00:00
-layout: post
-slug: the-fiction-of-the-western-tradition
-title: The Fiction Of The Western Tradition
-id: 251
-categories:
-- Satire
----
++++
+title = "The Fiction Of The Western Tradition"
+date = 2004-11-24 06:05:44+00:00
+path = "/2004/11/24/the-fiction-of-the-western-tradition/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 "Chinese or African or African-American or Native American aesthetics are much more accessible to my students than the works of ?their own? tradition (whatever that means; my students have multiple origins, and the ?western tradition? is a fiction anyway)."  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-04 07:04:15+00:00
-layout: post
-slug: reggae-versions-the-long-tail-and-retaining-cultural-value-for-artists
-title: Reggae Versions, The Long Tail, And Retaining Cultural Value For Artists
-id: 602
-categories:
-- Generative Art
----
++++
+title = "Reggae Versions, The Long Tail, And Retaining Cultural Value For Artists"
+date = 2005-08-04 07:04:15+00:00
+path = "/2005/08/04/reggae-versions-the-long-tail-and-retaining-cultural-value-for-artists/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 [http://libraryofvinyl.blogspot.com/2005/06/six-degrees-of-reggae-riddims.html](http://libraryofvinyl.blogspot.com/2005/06/six-degrees-of-reggae-riddims.html)  

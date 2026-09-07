@@ -1,8 +1,16 @@
 +++
 title = "Pay Previous Path"
 date = 2019-09-14
+path = "/pay-previous-path/"
+
+[extra]
 image = "/art-images/ppp1-cropped.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6630
 +++
 

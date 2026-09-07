@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-10-30 22:44:21+00:00
-layout: post
-slug: paying_for_teh_frees_hows_that_working_out
-title: Paying For Teh Frees. How's That Working Out?
-id: 1867
-categories:
-- Free Culture
----
++++
+title = "Paying For Teh Frees. How's That Working Out?"
+date = 2010-10-30 22:44:21+00:00
+path = "/2010/10/30/paying_for_teh_frees_hows_that_working_out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Five years and several Wiki restores ago I wrote a sketch of an article called "[How To Get Paid For Copyleft Art](/wiki/index.php/How_To_Get_Paid_For_Copyleft_Art)". My opinion at the time was that cultural projects (or artistic careers) could be structured to make money using copyleft, but I was very wary of recommending any particular services for digital media.  
   

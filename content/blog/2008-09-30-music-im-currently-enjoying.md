@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-30 06:43:29+00:00
-layout: post
-slug: music-im-currently-enjoying
-title: Music I'm Currently Enjoying
-id: 1673
-categories:
-- Reviews
----
++++
+title = "Music I'm Currently Enjoying"
+date = 2008-09-30 06:43:29+00:00
+path = "/2008/09/30/music-im-currently-enjoying/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 [Bela Emerson](http://cellobela.com/)'s cybernetic cello performances are excellent. New album out soon!  
   

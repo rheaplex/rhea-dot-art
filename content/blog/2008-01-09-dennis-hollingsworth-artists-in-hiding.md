@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-09 04:07:18+00:00
-layout: post
-slug: dennis-hollingsworth-artists-in-hiding
-title: 'Dennis Hollingsworth: Artists in Hiding'
-id: 1556
-categories:
-- Free Culture
----
++++
+title = "Dennis Hollingsworth: Artists in Hiding"
+date = 2008-01-09 04:07:18+00:00
+path = "/2008/01/09/dennis-hollingsworth-artists-in-hiding/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Dennis Hollingsworth: Artists in Hiding](http://www.dennishollingsworth.us/archives/001665.html)  
   

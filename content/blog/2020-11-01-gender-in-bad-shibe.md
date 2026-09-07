@@ -1,13 +1,13 @@
----
-id: 3926
-title: 'Gender in “Bad Shibe”'
-date: '2020-11-01T18:01:16+00:00'
-author: Rhea Myers
-layout: post
-    - block-editor
-categories:
-    - Crypto
----
++++
+title = "Gender in “Bad Shibe”"
+date = 2020-11-01 18:01:16+00:00
+path = "/2020/11/01/gender-in-bad-shibe/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+]
++++
 
 Pronoun Day reminded me that I still haven’t written “Rise of the Shitlords”, which contains an explanation of why YS uses “they” as everyone’s pronouns in “Bad Shibe”.
 

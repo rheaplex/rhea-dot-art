@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-18 23:04:43+00:00
-layout: post
-slug: comouflage
-title: Comouflage
-id: 519
-categories:
-- Aesthetics
----
++++
+title = "Comouflage"
+date = 2005-06-18 23:04:43+00:00
+path = "/2005/06/18/comouflage/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Not the "awfully big marine", the fabric and patterns:  

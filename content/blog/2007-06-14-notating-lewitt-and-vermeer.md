@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-14 06:09:20+00:00
-layout: post
-slug: notating-lewitt-and-vermeer
-title: Notating LeWitt and Vermeer
-id: 1349
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Notating LeWitt and Vermeer"
+date = 2007-06-14 06:09:20+00:00
+path = "/2007/06/14/notating-lewitt-and-vermeer/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 The LeWitt formulae come from an email exchange with MANIK where I joked about combining LeWitt and Vermeer.  
   

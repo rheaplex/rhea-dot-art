@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-03 06:55:43+00:00
-layout: post
-slug: alternatives-to-cretinised-neoliberalism-as-views-of-free-culture
-title: Alternatives To Cretinised Neoliberalism As Views Of Free Culture
-id: 1127
-categories:
-- Free Culture
----
++++
+title = "Alternatives To Cretinised Neoliberalism As Views Of Free Culture"
+date = 2006-10-03 06:55:43+00:00
+path = "/2006/10/03/alternatives-to-cretinised-neoliberalism-as-views-of-free-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Public good (German models of Wikipedia).  
   

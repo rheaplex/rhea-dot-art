@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-14 05:45:35+00:00
-layout: post
-slug: the-square-subset-of-damien-hirst-spot-paintings
-title: The Square Subset of Damien Hirst Spot Paintings
-id: 1348
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "The Square Subset of Damien Hirst Spot Paintings"
+date = 2007-06-14 05:45:35+00:00
+path = "/2007/06/14/the-square-subset-of-damien-hirst-spot-paintings/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706131943](/images/2007/06/200706131943.jpg)  
   

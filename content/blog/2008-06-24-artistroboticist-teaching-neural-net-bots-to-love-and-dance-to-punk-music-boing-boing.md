@@ -1,16 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-24 04:05:51+00:00
-layout: post
-slug: artistroboticist-teaching-neural-net-bots-to-love-and-dance-to-punk-music-boing-boing
-title: Artist/roboticist teaching neural-net bots to love and dance to punk music
-  - Boing Boing
-id: 1615
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Artist/roboticist teaching neural-net bots to love and dance to punk music - Boing Boing"
+date = 2008-06-24 04:05:51+00:00
+path = "/2008/06/24/artistroboticist-teaching-neural-net-bots-to-love-and-dance-to-punk-music-boing-boing/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [Artist/roboticist teaching neural-net bots to love and dance to punk music - Boing Boing](http://www.boingboing.net/2008/06/23/artistroboticist-tea.html)  
   

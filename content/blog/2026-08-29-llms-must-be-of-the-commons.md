@@ -1,11 +1,14 @@
 +++
 title = "LLMs Must be of The Commons"
-author = ["Rhea Myers"]
 date = 2026-08-29
-lastmod = 2026-08-29
-slug = "llms-must-be-of-the-commons"
-categories = ["AI", "Essays", "Free Culture"]
-draft = false
+path = "/2026/08/29/llms-must-be-of-the-commons/"
+
+[taxonomies]
+categories = [
+    "AI",
+    "Essays",
+    "Free Culture",
+]
 +++
 
 One of the things that happens with any new pool of cultural value is that people who create it want a social contract for it. Creative Commons licenses are often used for this. Which is wonderful, because that’s what they’re for. They provide clarity around norms and expectations. But people often want more.

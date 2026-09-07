@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-01-22 21:28:16+00:00
-layout: post
-slug: small_sensoria_3
-title: Small Sensoria 3
-id: 1982
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Projects
----
++++
+title = "Small Sensoria 3"
+date = 2012-01-22 21:28:16+00:00
+path = "/2012/01/22/small_sensoria_3/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Projects",
+]
++++
 
 ![finished sensorium](/images/2012/01/22/finished_sensorium.jpg)Here's a finished board, with the LEDs that are used as senses attached to wires made more rigid with heat shrink (this hides the resistors as well). The peculiar colour cast of the image is due to a coloured light being on in the background.  
   

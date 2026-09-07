@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-18 19:57:18+00:00
-layout: post
-slug: wormwoods
-title: Wormwoods
-id: 1811
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "Wormwoods"
+date = 2009-11-18 19:57:18+00:00
+path = "/2009/11/18/wormwoods/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 [http://www.wormwoodsstore.com/](http://www.wormwoodsstore.com/)  
   

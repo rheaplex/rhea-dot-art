@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-23 19:26:56+00:00
-layout: post
-slug: exploring_art_data_8
-title: Exploring Art Data 8
-id: 1895
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 8"
+date = 2010-12-23 19:26:56+00:00
+path = "/2010/12/23/exploring_art_data_8/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's explore the text of Vasari's [Lives of The Artists](http://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects).  
   

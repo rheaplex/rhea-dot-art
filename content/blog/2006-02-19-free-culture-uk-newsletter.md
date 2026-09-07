@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-19 06:24:01+00:00
-layout: post
-slug: free-culture-uk-newsletter
-title: Free Culture UK Newsletter
-id: 835
-categories:
-- Free Culture
----
++++
+title = "Free Culture UK Newsletter"
+date = 2006-02-19 06:24:01+00:00
+path = "/2006/02/19/free-culture-uk-newsletter/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free Culture UK are starting a bi-weekly newsletter for free culture events and information of interest in the UK. We need your event announcements, article links, and news alerts. We're getting the first one together here:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-20 08:41:15+00:00
-layout: post
-slug: open-source-democracy
-title: Open Source Democracy
-id: 194
-categories:
-- Free Culture
----
++++
+title = "Open Source Democracy"
+date = 2004-08-20 08:41:15+00:00
+path = "/2004/08/20/open-source-democracy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A book on how Open Source methods can re-invigorate democracy. Available under a Free-Circulation license that look suspiciously like a modified CC license :-) :  
   

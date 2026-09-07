@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-22 08:28:16+00:00
-layout: post
-slug: i-won-a-book
-title: I Won A Book!
-id: 1366
-categories:
-- Personal
----
++++
+title = "I Won A Book!"
+date = 2007-06-22 08:28:16+00:00
+path = "/2007/06/22/i-won-a-book/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 I won a book from an [a-n](http://www.a-n.co.uk/) magazine competition!  
   

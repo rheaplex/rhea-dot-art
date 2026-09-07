@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-16 07:48:49+00:00
-layout: post
-slug: creative-block
-title: Creative Block
-id: 832
-categories:
-- Projects
----
++++
+title = "Creative Block"
+date = 2006-02-16 07:48:49+00:00
+path = "/2006/02/16/creative-block/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I don't think I really have a creative block. Just not enough time and too much real life stress.  
   

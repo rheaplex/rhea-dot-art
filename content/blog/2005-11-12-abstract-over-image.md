@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-12 06:12:48+00:00
-layout: post
-slug: abstract-over-image
-title: Abstract over Image
-id: 721
-categories:
-- Aesthetics
----
++++
+title = "Abstract over Image"
+date = 2005-11-12 06:12:48+00:00
+path = "/2005/11/12/abstract-over-image/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Click on images for links.  

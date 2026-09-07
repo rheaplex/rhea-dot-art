@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-01 06:27:26+00:00
-layout: post
-slug: draw-something-flash
-title: draw-something-flash
-id: 768
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something-flash"
+date = 2006-01-01 06:27:26+00:00
+path = "/2006/01/01/draw-something-flash/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 A Flash version of draw-something for Internet presentation:  

@@ -1,16 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-13 07:29:27+00:00
-layout: post
-slug: history-is-history-and-it-is-time-that-everyone-learned-to-put-historical-events-behind-them-the-art-newspaper
-title: “History is history and it is time that everyone learned to put historical
-  events behind them” - The Art Newspaper
-id: 1586
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "“History is history and it is time that everyone learned to put historical events behind them” - The Art Newspaper"
+date = 2008-03-13 07:29:27+00:00
+path = "/2008/03/13/history-is-history-and-it-is-time-that-everyone-learned-to-put-historical-events-behind-them-the-art-newspaper/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 ["History is history and it is time that everyone learned to put historical events behind them" - The Art Newspaper](http://theartnewspaper.com/article.asp?id=7643)  
 

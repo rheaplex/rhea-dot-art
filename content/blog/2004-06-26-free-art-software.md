@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-26 08:15:00+00:00
-layout: post
-slug: free-art-software
-title: Free Art Software
-id: 168
-categories:
-- Free Culture
----
++++
+title = "Free Art Software"
+date = 2004-06-26 08:15:00+00:00
+path = "/2004/06/26/free-art-software/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 All the tools you need to make art digitally are available as Free Software projects. These aren't toys, they are serious tools used in production on real projects.  
   

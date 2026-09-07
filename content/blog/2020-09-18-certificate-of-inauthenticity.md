@@ -1,14 +1,15 @@
----
-id: 3912
-title: 'Certificate of Inauthenticity'
-date: '2020-09-18T17:56:00+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Art
-    - Crypto
-    - Projects
----
++++
+title = "Certificate of Inauthenticity"
+date = 2020-09-18 17:56:00+00:00
+path = "/2020/09/18/certificate-of-inauthenticity/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
++++
 
 **“Certificate of Inauthenticity”, 2020, ERC-721 Tokens.**
 

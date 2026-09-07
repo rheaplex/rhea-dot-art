@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-27 08:51:25+00:00
-layout: post
-slug: ventriloquism
-title: Ventriloquism
-id: 906
-categories:
-- Aesthetics
----
++++
+title = "Ventriloquism"
+date = 2006-04-27 08:51:25+00:00
+path = "/2006/04/27/ventriloquism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Imagine a horror film about an insane ventriloquist who believes that his possessed dummy is not in fact talking, and that he must speak for it.  
 

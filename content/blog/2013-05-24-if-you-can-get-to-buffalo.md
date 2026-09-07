@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-05-24 18:09:50+00:00
-layout: post
-slug: if-you-can-get-to-buffalo
-title: If You Can Get To Buffalo
-id: 2372
-categories:
-- Culture
-- LambdaMOO
----
++++
+title = "If You Can Get To Buffalo"
+date = 2013-05-24 18:09:50+00:00
+path = "/2013/05/24/if-you-can-get-to-buffalo/"
+
+[taxonomies]
+categories = [
+    "Culture",
+    "LambdaMOO",
+]
++++
 
 ![](/images/2013/05/buffalo-300x247.jpg)
 

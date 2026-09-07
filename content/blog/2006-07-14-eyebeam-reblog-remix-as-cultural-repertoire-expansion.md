@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-14 04:08:50+00:00
-layout: post
-slug: eyebeam-reblog-remix-as-cultural-repertoire-expansion
-title: 'Eyebeam reBlog: Remix as Cultural Repertoire Expansion'
-id: 1036
-categories:
-- Free Culture
----
++++
+title = "Eyebeam reBlog: Remix as Cultural Repertoire Expansion"
+date = 2006-07-14 04:08:50+00:00
+path = "/2006/07/14/eyebeam-reblog-remix-as-cultural-repertoire-expansion/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Eyebeam reBlog: Remix as Cultural Repertoire Expansion](http://www.eyebeam.org/reblog/archives/2006/07/remix_as_cultural_repertoire_exp.html)  
   

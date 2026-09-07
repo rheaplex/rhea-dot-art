@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-18 07:27:32+00:00
-layout: post
-slug: berlin-virtual-library
-title: Berlin Virtual Library
-id: 651
-categories:
-- Free Culture
----
++++
+title = "Berlin Virtual Library"
+date = 2005-08-18 07:27:32+00:00
+path = "/2005/08/18/berlin-virtual-library/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Lots of interesting material on and by Isaiah Berlin, includes some downloadable PDFs of work:  
   

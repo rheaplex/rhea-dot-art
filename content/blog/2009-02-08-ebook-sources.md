@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-08 23:31:23+00:00
-layout: post
-slug: ebook-sources
-title: ebook Sources
-id: 1721
-categories:
-- Free Culture
----
++++
+title = "ebook Sources"
+date = 2009-02-08 23:31:23+00:00
+path = "/2009/02/08/ebook-sources/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Project Gutenberg](http://www.gutenberg.org/) is has tens of thousands of ebooks collected since the 1970s.  
   

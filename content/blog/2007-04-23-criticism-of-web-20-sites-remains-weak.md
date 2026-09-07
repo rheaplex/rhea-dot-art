@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-23 02:29:20+00:00
-layout: post
-slug: criticism-of-web-20-sites-remains-weak
-title: Criticism of Web 2.0 sites remains weak
-id: 1270
-categories:
-- Free Culture
----
++++
+title = "Criticism of Web 2.0 sites remains weak"
+date = 2007-04-23 02:29:20+00:00
+path = "/2007/04/23/criticism-of-web-20-sites-remains-weak/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Participation on Web 2.0 sites remains weak | Technology | Internet | Reuters](http://www.reuters.com/article/internetNews/idUSN1743638820070418)  
   

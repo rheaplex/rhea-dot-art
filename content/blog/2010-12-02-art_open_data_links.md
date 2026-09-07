@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-02 00:10:51+00:00
-layout: post
-slug: art_open_data_links
-title: Art Open Data Links
-id: 1881
-categories:
-- Art Open Data
-- links
----
++++
+title = "Art Open Data Links"
+date = 2010-12-02 00:10:51+00:00
+path = "/2010/12/02/art_open_data_links/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+    "links",
+]
++++
 
 Jonathan Gray's slides on "Open Data in the Arts and Humanities":  
   

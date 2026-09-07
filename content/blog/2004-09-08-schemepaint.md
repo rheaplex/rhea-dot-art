@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-08 04:39:37+00:00
-layout: post
-slug: schemepaint
-title: SchemePaint
-id: 203
-categories:
-- Generative Art
----
++++
+title = "SchemePaint"
+date = 2004-09-08 04:39:37+00:00
+path = "/2004/09/08/schemepaint/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 SchemePaint was a Scheme-based drawing system like Minara, only in the early 1990s:  
   

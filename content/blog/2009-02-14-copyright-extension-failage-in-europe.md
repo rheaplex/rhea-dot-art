@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-14 11:39:00+00:00
-layout: post
-slug: copyright-extension-failage-in-europe
-title: Copyright Extension Failage In Europe
-id: 1722
-categories:
-- Free Culture
----
++++
+title = "Copyright Extension Failage In Europe"
+date = 2009-02-14 11:39:00+00:00
+path = "/2009/02/14/copyright-extension-failage-in-europe/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.openrightsgroup.org/newsblog/2009/02/eu-committee-approves-copyright-extension/](http://www.openrightsgroup.org/newsblog/2009/02/eu-committee-approves-copyright-extension/)  
   

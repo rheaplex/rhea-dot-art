@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-05 20:35:43+00:00
-layout: post
-slug: minara-and-gpl-3
-title: minara And GPL 3
-id: 1432
-categories:
-- Free Culture
-- Generative Art
-- Projects
----
++++
+title = "minara And GPL 3"
+date = 2007-08-05 20:35:43+00:00
+path = "/2007/08/05/minara-and-gpl-3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+]
++++
 
 minara uses a few small but very useful utility functions from the ttn-pers-scheme project, which seems to be GPL 2 only with no timescale set for upgrading to GPL 3.  
   

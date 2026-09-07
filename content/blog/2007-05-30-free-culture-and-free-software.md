@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-30 06:31:26+00:00
-layout: post
-slug: free-culture-and-free-software
-title: Free Culture And Free Software
-id: 1322
-categories:
-- Free Culture
----
++++
+title = "Free Culture And Free Software"
+date = 2007-05-30 06:31:26+00:00
+path = "/2007/05/30/free-culture-and-free-software/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free Software as described by Stallman comes from the fact that software  is functional, it is basically a machine. A novel, a play, a painting or  a concerto are not functional, they are not machines. So we cannot use  the same arguments that Stallman advances for software, and the freedoms  are not necessarily the same. For cultural artefacts represented as  software, Stallman's freedoms do apply but this is because the work is  software. The claims of some artists that blahblahblah do not change this.  
   

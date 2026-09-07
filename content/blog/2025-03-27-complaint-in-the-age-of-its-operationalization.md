@@ -1,10 +1,8 @@
----
-title: "Complaint in the Age of its Operationalization"
-author: ["Rhea Myers"]
-date: 2025-03-27
-lastmod: 2025-03-27
-draft: false
----
++++
+title = "Complaint in the Age of its Operationalization"
+date = 2025-03-27
+path = "/2025/03/27/complaint-in-the-age-of-its-operationalization/"
++++
 
 OpenAI's social media announcement of its new image model led to a wave of copycat "ghibliizing" of images, named for their imitation of the house style of animator Hayao Miyazaki's animation studio. Elon Musk's Whitehouse took only 24 hours to use that model to re-render a photographic record of its rapidly escalating human rights abuses in cute cel animation style. It's as if someone hopped down on Ketamine had instructed an LLM to precis Walter Benjamin's "The Work of Art in the Age of its Technological Reproducibility" then treat its warnings as a manifesto for producing kitsch fascist propagada. The results are aesthetically, ethically, and politically revolting.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-05 06:23:10+00:00
-layout: post
-slug: notes-toward-free-culture
-title: Notes Toward Free Culture
-id: 952
-categories:
-- Generative Art
----
++++
+title = "Notes Toward Free Culture"
+date = 2006-06-05 06:23:10+00:00
+path = "/2006/06/05/notes-toward-free-culture/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Digital Rights Issues in Art](http://www.openrightsgroup.org/orgwiki/index.php/Digital_Rights_Issues_in_Art)  
   

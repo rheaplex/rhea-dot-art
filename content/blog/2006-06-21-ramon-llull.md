@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-21 03:27:47+00:00
-layout: post
-slug: ramon-llull
-title: Ramon Llull
-id: 994
-categories:
-- Generative Art
----
++++
+title = "Ramon Llull"
+date = 2006-06-21 03:27:47+00:00
+path = "/2006/06/21/ramon-llull/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Ramon          Llull and Image Idea Generation](http://www.ransen.com/Articles/Llull.htm)  
   

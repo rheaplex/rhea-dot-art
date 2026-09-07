@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-05 07:11:52+00:00
-layout: post
-slug: lets-once-and-for-all-kill-the-solitary-romantic-genius
-title: Let's once and for all kill the solitary Romantic genius
-id: 565
-categories:
-- Free Culture
----
++++
+title = "Let's once and for all kill the solitary Romantic genius"
+date = 2005-07-05 07:11:52+00:00
+path = "/2005/07/05/lets-once-and-for-all-kill-the-solitary-romantic-genius/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Liquid Culture on a show considering the role of copying in art:  

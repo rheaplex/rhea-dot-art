@@ -1,11 +1,14 @@
----
-title: "Ordinals Semiogenesis"
-author: ["Rhea Myers"]
-date: 2025-04-28
-lastmod: 2025-05-08
-categories: ["blockchain", "philosophy"]
-draft: false
----
++++
+title = "Ordinals Semiogenesis"
+date = 2025-04-28
+path = "/2025/04/28/ordinals-semiogenesis/"
+
+[taxonomies]
+categories = [
+    "blockchain",
+    "philosophy",
+]
++++
 
 Semiogenesis is the emergence or introduction of meaning into a system, the emergence of meaning from meaninglessness. This is a process of irony - of the reversal of meaninglessness into meaning and then into further meanings. Meaning, or significance, will attach itself to any human activity. Preventing it from doing so is harder than imposing it where it is lacking.
 

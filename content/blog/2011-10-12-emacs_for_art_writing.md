@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-12 19:18:58+00:00
-layout: post
-slug: emacs_for_art_writing
-title: Emacs For Art Writing
-id: 1956
-categories:
-- Art
-- Art Computing
----
++++
+title = "Emacs For Art Writing"
+date = 2011-10-12 19:18:58+00:00
+path = "/2011/10/12/emacs_for_art_writing/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+]
++++
 
 The Emacs text editor has been in active development since the 1970s. You can install it using your GNU/Linux distro's package manager or via Apple's Mac OS X software site. Real writers use plain text, and Emacs excels at editing plain text.  
   

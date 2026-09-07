@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-07-24 05:07:01+00:00
-layout: post
-slug: ethereum-art-is
-title: Ethereum - Art Is...
-id: 2594
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Ethereum
-- Projects
----
++++
+title = "Ethereum - Art Is..."
+date = 2014-07-24 05:07:01+00:00
+path = "/2014/07/24/ethereum-art-is/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Ethereum",
+    "Projects",
+]
++++
 
 Here is a contract that allows anyone to define what art is. It contains a single set of twelve statements about art. They are encoded as hexadecimal values which are interpreted as sentences in a simple subset of International Art English and displayed by the UI.
 

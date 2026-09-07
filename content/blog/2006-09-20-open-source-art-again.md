@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-20 05:11:08+00:00
-layout: post
-slug: open-source-art-again
-title: Open Source Art Again
-id: 1110
-categories:
-- Free Culture
----
++++
+title = "Open Source Art Again"
+date = 2006-09-20 05:11:08+00:00
+path = "/2006/09/20/open-source-art-again/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Yochai Benkler describes Open Source as a methodology of "commons based peer production". This means work made collaboratively and shared publicly by a community of equals. For Eric Raymond the virtue of Open Source is its efficiency. Open Source can create better products faster than the old closed source model. Many of the most successful software programs in use today, particularly on the internet, are Open Source.  
   

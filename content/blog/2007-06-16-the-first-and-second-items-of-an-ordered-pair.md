@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-16 07:00:25+00:00
-layout: post
-slug: the-first-and-second-items-of-an-ordered-pair
-title: The First And Second Items Of An Ordered Pair
-id: 1353
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "The First And Second Items Of An Ordered Pair"
+date = 2007-06-16 07:00:25+00:00
+path = "/2007/06/16/the-first-and-second-items-of-an-ordered-pair/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706152059](/images/2007/06/200706152059.jpg)  
   

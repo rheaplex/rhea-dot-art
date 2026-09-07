@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 07:15:53+00:00
-layout: post
-slug: colour-sensing
-title: Colour Sensing
-id: 959
-categories:
-- Generative Art
----
++++
+title = "Colour Sensing"
+date = 2006-06-10 07:15:53+00:00
+path = "/2006/06/10/colour-sensing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 http://www.britishrobotics.com/pictures/taosin/BR800230Desc.htm  
   

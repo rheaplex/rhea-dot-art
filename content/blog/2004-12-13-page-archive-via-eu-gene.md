@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-13 06:48:48+00:00
-layout: post
-slug: page-archive-via-eu-gene
-title: PAGE Archive (via eu-gene)
-id: 267
-categories:
-- Generative Art
----
++++
+title = "PAGE Archive (via eu-gene)"
+date = 2004-12-13 06:48:48+00:00
+path = "/2004/12/13/page-archive-via-eu-gene/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 PAGE, newsletter of the Computer Arts Society, 1969-1985:  
   

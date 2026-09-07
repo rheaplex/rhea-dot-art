@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-10-08 19:25:16+00:00
-layout: post
-slug: howto_search_for_public_domain_ebooks_using_google_books_and_archiveorg
-title: HOWTO Search For Public Domain ebooks Using Google Books and archive.org
-id: 1803
-categories:
-- Free Culture
-- Howto
----
++++
+title = "HOWTO Search For Public Domain ebooks Using Google Books and archive.org"
+date = 2009-10-08 19:25:16+00:00
+path = "/2009/10/08/howto_search_for_public_domain_ebooks_using_google_books_and_archiveorg/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+]
++++
 
 If you are looking for electronic versions of old public domain books and journals you can get good results by using Google Books and archive.org together.  
   

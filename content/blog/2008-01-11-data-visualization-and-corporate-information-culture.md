@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-11 03:25:58+00:00
-layout: post
-slug: data-visualization-and-corporate-information-culture
-title: Data Visualization And Corporate Information Culture
-id: 1558
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Data Visualization And Corporate Information Culture"
+date = 2008-01-11 03:25:58+00:00
+path = "/2008/01/11/data-visualization-and-corporate-information-culture/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [Create Digital Motion » Visualizing Data, and Data as Art](http://createdigitalmotion.com/2008/01/10/visualizing-data-and-data-as-art/)  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-23 07:04:43+00:00
-layout: post
-slug: strange-attractions
-title: Strange Attractions
-id: 1614
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Strange Attractions"
+date = 2008-06-23 07:04:43+00:00
+path = "/2008/06/23/strange-attractions/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 [Old Time Out article on the Strange Attractions shop](http://www.chaos-works.com/strange_attractions.html)  
   

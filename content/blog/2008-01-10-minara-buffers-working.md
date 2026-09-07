@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-10 07:24:37+00:00
-layout: post
-slug: minara-buffers-working
-title: Minara Buffers Working
-id: 1557
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Minara Buffers Working"
+date = 2008-01-10 07:24:37+00:00
+path = "/2008/01/10/minara-buffers-working/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
     MINARA> (setq buf (make-buffer-from-file "./minara.minara"))
     

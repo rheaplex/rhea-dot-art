@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-15 08:16:26+00:00
-layout: post
-slug: free-flash
-title: Free Flash
-id: 580
-categories:
-- Generative Art
----
++++
+title = "Free Flash"
+date = 2005-07-15 08:16:26+00:00
+path = "/2005/07/15/free-flash/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 OooOooOooh! An Open Source ActionScript compiler and other Free Software Flash goodies:  

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-30 23:22:33+00:00
-layout: post
-slug: the_colour_of_news
-title: the_colour_of_news
-id: 1814
-categories:
-- Aesthetics
-- Art Computing
-- Generative Art
-- Projects
----
++++
+title = "the_colour_of_news"
+date = 2009-11-30 23:22:33+00:00
+path = "/2009/11/30/the_colour_of_news/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+]
++++
 
 The Colour Of News -  
   

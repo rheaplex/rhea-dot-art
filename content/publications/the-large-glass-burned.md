@@ -1,6 +1,9 @@
 +++
 title = "The Large Glass, Burned"
 date = 2018-09-01
+path = "/publications/the-large-glass-burned/"
+
+[extra]
 publication_type = "article"
 publisher = "Art Review"
 in = "Art Review, Vol 70, No. 7, September 2018"

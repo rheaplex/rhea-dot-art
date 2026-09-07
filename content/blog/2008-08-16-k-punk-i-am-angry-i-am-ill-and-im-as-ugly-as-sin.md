@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-16 04:39:43+00:00
-layout: post
-slug: k-punk-i-am-angry-i-am-ill-and-im-as-ugly-as-sin
-title: 'k-punk: I am angry, I am ill and I''m as ugly as sin...'
-id: 1657
-categories:
-- Aesthetics
----
++++
+title = "k-punk: I am angry, I am ill and I'm as ugly as sin..."
+date = 2008-08-16 04:39:43+00:00
+path = "/2008/08/16/k-punk-i-am-angry-i-am-ill-and-im-as-ugly-as-sin/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [http://k-punk.abstractdynamics.org/archives/010588.html](http://k-punk.abstractdynamics.org/archives/010588.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-22 06:35:49+00:00
-layout: post
-slug: programming-environments
-title: Programming Environments
-id: 445
-categories:
-- Generative Art
----
++++
+title = "Programming Environments"
+date = 2005-05-22 06:35:49+00:00
+path = "/2005/05/22/programming-environments/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Processing](http://www.processing.org/) is now at version 0.9, heading for a 1.0 release.  
   

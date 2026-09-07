@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-20 22:59:28+00:00
-layout: post
-slug: quantifying_the_canon
-title: Quantifying The Canon
-id: 1783
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Quantifying The Canon"
+date = 2009-08-20 22:59:28+00:00
+path = "/2009/08/20/quantifying_the_canon/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 [Dissecting the Canon: Visual Subject Co-Popularity Networks in Art Research](http://www.jeruccs2008.org/node/114)  
   

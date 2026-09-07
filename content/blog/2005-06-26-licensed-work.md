@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-26 06:12:20+00:00
-layout: post
-slug: licensed-work
-title: Licensed Work
-id: 542
-categories:
-- Projects
----
++++
+title = "Licensed Work"
+date = 2005-06-26 06:12:20+00:00
+path = "/2005/06/26/licensed-work/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Art is  

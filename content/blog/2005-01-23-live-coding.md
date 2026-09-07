@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-23 23:16:29+00:00
-layout: post
-slug: live-coding
-title: Live Coding
-id: 296
-categories:
-- Generative Art
----
++++
+title = "Live Coding"
+date = 2005-01-23 23:16:29+00:00
+path = "/2005/01/23/live-coding/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 I first found out about the idea of Live Coding, hacking running code live onstage to generate music and visuals, from an O'Reilley article mentioned on Slashdot.  
   

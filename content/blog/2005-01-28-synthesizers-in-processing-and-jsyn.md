@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-28 04:34:18+00:00
-layout: post
-slug: synthesizers-in-processing-and-jsyn
-title: Synthesizers in Processing and jSyn
-id: 312
-categories:
-- Generative Art
----
++++
+title = "Synthesizers in Processing and jSyn"
+date = 2005-01-28 04:34:18+00:00
+path = "/2005/01/28/synthesizers-in-processing-and-jsyn/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.design.kyushu-u.ac.jp/~osamu/  
   

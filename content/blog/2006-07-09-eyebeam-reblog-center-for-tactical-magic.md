@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-09 20:47:24+00:00
-layout: post
-slug: eyebeam-reblog-center-for-tactical-magic
-title: 'Eyebeam reBlog: Center for Tactical Magic'
-id: 1034
-categories:
-- Aesthetics
----
++++
+title = "Eyebeam reBlog: Center for Tactical Magic"
+date = 2006-07-09 20:47:24+00:00
+path = "/2006/07/09/eyebeam-reblog-center-for-tactical-magic/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Eyebeam reBlog: Center for Tactical Magic](http://www.eyebeam.org/reblog/archives/2006/07/center_for_tactical_magic.html)  
   

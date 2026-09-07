@@ -1,8 +1,13 @@
 +++
 title = "Proof of Existence"
 date = 2015-01-09
+path = "/proof-of-existence/"
+
+[extra]
 image = "/art-images/god.png"
-mediums = ["Bitcoin Transaction"]
+mediums = [
+    "Bitcoin Transaction",
+]
 wp_id = 6654
 +++
 

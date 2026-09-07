@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-09-12 18:29:42+00:00
-layout: post
-slug: connecting-to-lambdamoo-from-tablets-and-smartphones
-title: Connecting To LambdaMOO From Tablets And Smartphones
-id: 2058
-categories:
-- LambdaMOO
----
++++
+title = "Connecting To LambdaMOO From Tablets And Smartphones"
+date = 2012-09-12 18:29:42+00:00
+path = "/2012/09/12/connecting-to-lambdamoo-from-tablets-and-smartphones/"
+
+[taxonomies]
+categories = [
+    "LambdaMOO",
+]
++++
 
 You can connect to [LambdaMOO](http://lambda.moo.mud.org/) from smart phones and tablets as easily as from desktop computers, if not more so. Then you can access the classic text-based virtual reality anywhere you have a wireless or cell network signal.
 

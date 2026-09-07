@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-12-25 15:37:05+00:00
-layout: post
-slug: formatting
-title: Formatting
-id: 1818
-categories:
-- Projects
----
++++
+title = "Formatting"
+date = 2009-12-25 15:37:05+00:00
+path = "/2009/12/25/formatting/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've hopefully restored the formatting on the older entries in this blog.  
   

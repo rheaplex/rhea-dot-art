@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-24 08:39:16+00:00
-layout: post
-slug: sav-a-point
-title: Sav-A-Point
-id: 652
-categories:
-- Howto
----
++++
+title = "Sav-A-Point"
+date = 2005-08-24 08:39:16+00:00
+path = "/2005/08/24/sav-a-point/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 OK, where can I get these in the UK?  
   

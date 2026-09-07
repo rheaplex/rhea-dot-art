@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-23 03:14:13+00:00
-layout: post
-slug: require-attribution-allow-commercial-share
-title: Require Attribution, Allow Commercial, Share
-id: 54
-categories:
-- Free Culture
----
++++
+title = "Require Attribution, Allow Commercial, Share"
+date = 2003-11-23 03:14:13+00:00
+path = "/2003/11/23/require-attribution-allow-commercial-share/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I will be licensing most of my art back catalogue and new work under a Creative Commons license. For obvious reasons I will not license work that is derived from found images. I will also not license work that is not easily edited or sampled, or commissioned work if requested not to. I will provide graphic units, palettes and preparatory work as well as finished work where possible (I've been watching a lot of Disney DVDs recently as well as always having enjoyed sketchbooks).  
   

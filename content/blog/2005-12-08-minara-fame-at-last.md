@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-08 05:08:31+00:00
-layout: post
-slug: minara-fame-at-last
-title: 'Minara: Fame At Last :-)'
-id: 750
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Minara: Fame At Last :-)"
+date = 2005-12-08 05:08:31+00:00
+path = "/2005/12/08/minara-fame-at-last/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 DataIsNature: [Minara Is Not A Recursive Acronym](http://dataisnature.com/?p=253)  

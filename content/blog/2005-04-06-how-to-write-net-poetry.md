@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-06 04:43:06+00:00
-layout: post
-slug: how-to-write-net-poetry
-title: How To Write Net Poetry
-id: 375
-categories:
-- Satire
----
++++
+title = "How To Write Net Poetry"
+date = 2005-04-06 04:43:06+00:00
+path = "/2005/04/06/how-to-write-net-poetry/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 string of contentious vaguely poetic fragmentary every day another  
 markov chain me to a desk a substitute for a machine one in fact  

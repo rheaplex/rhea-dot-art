@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-18 03:23:08+00:00
-layout: post
-slug: open-content-back-catalogue-all-done
-title: 'Open Content: Back Catalogue All Done'
-id: 65
-categories:
-- Free Culture
----
++++
+title = "Open Content: Back Catalogue All Done"
+date = 2003-12-18 03:23:08+00:00
+path = "/2003/12/18/open-content-back-catalogue-all-done/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 All of my public back-catalogue is now available as Open Content, with the exception of "Surgical Strike" which will remain closed and "The Cybernetic Artwork Nobody Wrote" which will be cleaned up and released under the GNU GPL.  
   

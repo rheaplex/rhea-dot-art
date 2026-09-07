@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-22 05:49:24+00:00
-layout: post
-slug: pawfal-fluxusnotes
-title: 'Pawfal :: FluxusNotes'
-id: 897
-categories:
-- Generative Art
----
++++
+title = "Pawfal :: FluxusNotes"
+date = 2006-04-22 05:49:24+00:00
+path = "/2006/04/22/pawfal-fluxusnotes/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Pawfal :: FluxusNotes](http://www.pawfal.org/index.php?page=FluxusNotes)  
   

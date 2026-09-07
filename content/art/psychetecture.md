@@ -1,10 +1,21 @@
 +++
 title = "Psychetecture"
 date = 1994-01-01
+path = "/psychetecture/"
+
+[extra]
 image = "/art-images/concourse_east.png"
-mediums = ["SVG"]
-tools = ["CorelDraw! 2", "Windows 3.1", "386 PC"]
-repos = ["https://github.com/rheaplex/psychetecture"]
+mediums = [
+    "SVG",
+]
+tools = [
+    "CorelDraw! 2",
+    "Windows 3.1",
+    "386 PC",
+]
+repos = [
+    "https://github.com/rheaplex/psychetecture",
+]
 wp_id = 6689
 +++
 

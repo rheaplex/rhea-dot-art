@@ -1,9 +1,16 @@
 +++
 title = "DemoDay"
 date = 2017-09-18
+path = "/demoday/"
+
+[extra]
 image = "/art-images/demoday-button.png"
-mediums = ["Counterparty Tokens"]
-aliases_names = ["DEMODAY"]
+mediums = [
+    "Counterparty Tokens",
+]
+aliases_names = [
+    "DEMODAY",
+]
 wp_id = 6638
 +++
 

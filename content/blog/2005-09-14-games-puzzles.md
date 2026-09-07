@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-14 04:27:12+00:00
-layout: post
-slug: games-puzzles
-title: Games & Puzzles
-id: 670
-categories:
-- Aesthetics
----
++++
+title = "Games & Puzzles"
+date = 2005-09-14 04:27:12+00:00
+path = "/2005/09/14/games-puzzles/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 [http://en.wikipedia.org/wiki/Category:Word_games](http://en.wikipedia.org/wiki/Category:Word_games)  

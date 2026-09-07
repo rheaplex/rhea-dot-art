@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-28 07:29:33+00:00
-layout: post
-slug: creative-commons-reform-organization
-title: Creative Commons, Reform Organization
-id: 551
-categories:
-- Free Culture
----
++++
+title = "Creative Commons, Reform Organization"
+date = 2005-06-28 07:29:33+00:00
+path = "/2005/06/28/creative-commons-reform-organization/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 **"Free legal tools to help you build your own copyright."**  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-24 06:39:04+00:00
-layout: post
-slug: cool-drawing-programs-book
-title: Cool Drawing Programs Book
-id: 708
-categories:
-- Generative Art
----
++++
+title = "Cool Drawing Programs Book"
+date = 2005-10-24 06:39:04+00:00
+path = "/2005/10/24/cool-drawing-programs-book/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 I've ordered a copy of this wonderful-looking book and CD of drawing programs by John F. Simon:  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-10 19:50:47+00:00
-layout: post
-slug: two_shoe_salesmen
-title: Two Shoe Salesmen
-id: 1807
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Two Shoe Salesmen"
+date = 2009-11-10 19:50:47+00:00
+path = "/2009/11/10/two_shoe_salesmen/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
   
 The boss of a shoe company sent two salesmen to a new country to see whether there was any market for footwear there.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-10 09:09:00+00:00
-layout: post
-slug: disney-fonts
-title: Disney Fonts
-id: 179
-categories:
-- Aesthetics
----
++++
+title = "Disney Fonts"
+date = 2004-07-10 09:09:00+00:00
+path = "/2004/07/10/disney-fonts/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Fonts used in various Disney graphics:  
   

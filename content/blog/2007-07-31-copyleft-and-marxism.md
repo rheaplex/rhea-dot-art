@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-31 06:47:18+00:00
-layout: post
-slug: copyleft-and-marxism
-title: Copyleft And Marxism
-id: 1428
-categories:
-- Free Culture
----
++++
+title = "Copyleft And Marxism"
+date = 2007-07-31 06:47:18+00:00
+path = "/2007/07/31/copyleft-and-marxism/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I am a militant liberal, possibly a socialist libertarian. My political motto is "beware teleology", so I regard pluralism as the least worst option for society given what happens when societies fall under ideological closures. Including Neoliberalism. Pluralism has come to be the basis of my ongoing interest in copyleft. I believe it strongly supports pluralism. I am nonetheless not delusional regarding the scope and socioeconomic effects of copyleft. It is not a panacea, and I think that Negativland's Expanded Fair Use might be a better baseline for creative freedom in bourgeois capitalist society were it not for the practicalities.  
   

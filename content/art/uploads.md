@@ -1,11 +1,23 @@
 +++
 title = "Uploads"
 date = 2012-10-10
+path = "/uploads/"
+
+[extra]
 date_provisional = true
 image = "/art-images/upload1.png"
-mediums = ["Python", "C++", "Kinect", "MindWave"]
-tools = ["OpenFrameworks"]
-repos = ["https://github.com/rheaplex/uploads"]
+mediums = [
+    "Python",
+    "C++",
+    "Kinect",
+    "MindWave",
+]
+tools = [
+    "OpenFrameworks",
+]
+repos = [
+    "https://github.com/rheaplex/uploads",
+]
 wp_id = 6666
 +++
 

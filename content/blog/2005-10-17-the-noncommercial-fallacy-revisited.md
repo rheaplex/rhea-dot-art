@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-17 06:25:09+00:00
-layout: post
-slug: the-noncommercial-fallacy-revisited
-title: The NonCommercial Fallacy Revisited
-id: 700
-categories:
-- Free Culture
----
++++
+title = "The NonCommercial Fallacy Revisited"
+date = 2005-10-17 06:25:09+00:00
+path = "/2005/10/17/the-noncommercial-fallacy-revisited/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 How to make money off of CC-NC music:  

@@ -1,20 +1,24 @@
----
-id: 3265
-title: 'Galerie Default'
-date: '2019-07-05T15:52:02+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - 'Art Computing'
-    - Crypto
-    - Ethereum
-    - Projects
-    - Shows
-    - 'Virtual Reality'
----
++++
+title = "Galerie Default"
+date = 2019-07-05 15:52:02+00:00
+path = "/2019/07/05/galerie-default/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+    "Shows",
+    "Virtual Reality",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 I created a building in CryptoVoxels using one of their default build templates and filled it with a show of Tokens Equal Text:
 

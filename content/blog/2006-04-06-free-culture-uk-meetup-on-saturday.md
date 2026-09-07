@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-06 07:28:37+00:00
-layout: post
-slug: free-culture-uk-meetup-on-saturday
-title: Free Culture UK Meetup On Saturday
-id: 878
-categories:
-- Free Culture
----
++++
+title = "Free Culture UK Meetup On Saturday"
+date = 2006-04-06 07:28:37+00:00
+path = "/2006/04/06/free-culture-uk-meetup-on-saturday/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Come to a Free Culture UK meetup Limehouse Town Hall this Saturday, 11am-6pm:  
   

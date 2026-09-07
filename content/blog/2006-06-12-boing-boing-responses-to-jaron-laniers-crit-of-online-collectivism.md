@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-12 04:22:16+00:00
-layout: post
-slug: boing-boing-responses-to-jaron-laniers-crit-of-online-collectivism
-title: 'Boing Boing: Responses to Jaron Lanier''s crit of online collectivism'
-id: 966
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: Responses to Jaron Lanier's crit of online collectivism"
+date = 2006-06-12 04:22:16+00:00
+path = "/2006/06/12/boing-boing-responses-to-jaron-laniers-crit-of-online-collectivism/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: Responses to Jaron Lanier's crit of online collectivism  
 ](http://www.boingboing.net/2006/06/10/responses_to_jaron_l.html)  

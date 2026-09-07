@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-23 10:03:41+00:00
-layout: post
-slug: thought-for-the-day-11
-title: Thought For The Day
-id: 1495
-categories:
-- Free Culture
-- Personal
----
++++
+title = "Thought For The Day"
+date = 2007-09-23 10:03:41+00:00
+path = "/2007/09/23/thought-for-the-day-11/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Personal",
+]
++++
 
 As well as being Free, Loca Records are producers of particularly wonderful music.  
   

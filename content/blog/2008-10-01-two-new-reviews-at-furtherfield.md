@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-01 06:57:15+00:00
-layout: post
-slug: two-new-reviews-at-furtherfield
-title: Two New Reviews at Furtherfield
-id: 1675
-categories:
-- Aesthetics
-- Art Computing
-- Free Culture
-- Reviews
----
++++
+title = "Two New Reviews at Furtherfield"
+date = 2008-10-01 06:57:15+00:00
+path = "/2008/10/01/two-new-reviews-at-furtherfield/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Culture",
+    "Reviews",
+]
++++
 
 I have two new reviews up at Furtherfield.  
   

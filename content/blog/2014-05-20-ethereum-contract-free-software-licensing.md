@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-20 06:18:11+00:00
-layout: post
-slug: ethereum-contract-free-software-licensing
-title: Ethereum Contract Free Software Licensing
-id: 2573
-categories:
-- Free Software
----
++++
+title = "Ethereum Contract Free Software Licensing"
+date = 2014-05-20 06:18:11+00:00
+path = "/2014/05/20/ethereum-contract-free-software-licensing/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+]
++++
 
 Here's a simple example of a contract that is licensed under the GNU Affero General Public License:
 

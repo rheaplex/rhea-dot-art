@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-24 07:03:04+00:00
-layout: post
-slug: william-latham-horn
-title: William Latham Horn
-id: 940
-categories:
-- Generative Art
----
++++
+title = "William Latham Horn"
+date = 2006-05-24 07:03:04+00:00
+path = "/2006/05/24/william-latham-horn/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 That's the search string that finally worked. I've had two orders for William Latham books via abebooks cancelled since the talk Latham gave last week, and prices on his books have gone up. Thank goodness for the internet.  

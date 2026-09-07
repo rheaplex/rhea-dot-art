@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-06 04:10:04+00:00
-layout: post
-slug: freedom-is-for-people
-title: Freedom Is For People
-id: 1688
-categories:
-- Free Culture
----
++++
+title = "Freedom Is For People"
+date = 2008-11-06 04:10:04+00:00
+path = "/2008/11/06/freedom-is-for-people/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I have previously argued that we should talk about "freedom" rather than "openness" because the former provides a guide for action whereas the latter ultimately just confuses people.  
   

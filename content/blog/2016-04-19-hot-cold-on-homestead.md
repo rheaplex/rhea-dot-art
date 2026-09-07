@@ -1,15 +1,17 @@
----
-title: '"Hot Cold" on Homestead'
-date: 2016-04-19 21:29:34.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "\"Hot Cold\" on Homestead"
+date = 2016-04-19 21:29:34-07:00
+path = "/2016/04/19/hot-cold-on-homestead/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![cold-hot-live](/images/2016/04/cold-hot-live.png)
 
 Here's "[Hot Cold](https://github.com/rheaplex/artworld-ethereum/tree/master/dapps/hot-cold)" live on the Ethereum "Homestead" network.

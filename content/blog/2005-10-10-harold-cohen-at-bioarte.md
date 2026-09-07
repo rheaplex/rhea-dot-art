@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-10 08:48:30+00:00
-layout: post
-slug: harold-cohen-at-bioarte
-title: Harold Cohen at Bioarte
-id: 693
-categories:
-- Generative Art
----
++++
+title = "Harold Cohen at Bioarte"
+date = 2005-10-10 08:48:30+00:00
+path = "/2005/10/10/harold-cohen-at-bioarte/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Harold Cohen's AARON's images at Bioarte in Lisbon, via [Kazushi](http://www.kazushi.info/):  

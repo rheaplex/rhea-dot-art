@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-02-15 02:51:45+00:00
-layout: post
-slug: ive-been-busy
-title: I've been busy
-id: 94
-categories:
-- Projects
----
++++
+title = "I've been busy"
+date = 2004-02-15 02:51:45+00:00
+path = "/2004/02/15/ive-been-busy/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've been busy. I've been writing a drawing module similar to a very, very simple implementation of Harld Cohen's AARON.  
 I emailed Harold Cohen, and got a reply. :-)  

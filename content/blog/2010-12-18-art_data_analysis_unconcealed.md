@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-18 15:37:03+00:00
-layout: post
-slug: art_data_analysis_unconcealed
-title: 'Art data Analysis: Unconcealed'
-id: 1893
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Art data Analysis: Unconcealed"
+date = 2010-12-18 15:37:03+00:00
+path = "/2010/12/18/art_data_analysis_unconcealed/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 ![unconcealed_final_cover_front.jpg](/images/2010/12/18/unconcealed_final_cover_front.jpg)
 

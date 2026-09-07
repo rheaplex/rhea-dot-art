@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-17 04:27:52+00:00
-layout: post
-slug: motive-subject-and-the-creative-commons-licenses
-title: Motive, Subject and The Creative Commons Licenses
-id: 647
-categories:
-- Free Culture
----
++++
+title = "Motive, Subject and The Creative Commons Licenses"
+date = 2005-08-17 04:27:52+00:00
+path = "/2005/08/17/motive-subject-and-the-creative-commons-licenses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 There is an important difference between the Creative Commons licenses and several other leading "Free" licenses.  
   

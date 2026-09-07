@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-12 05:51:51+00:00
-layout: post
-slug: boing-boing-stephen-fry-talking-clock-goes-creative-commons
-title: 'Boing Boing: Stephen Fry Talking Clock goes Creative Commons'
-id: 1289
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: Stephen Fry Talking Clock goes Creative Commons"
+date = 2007-05-12 05:51:51+00:00
+path = "/2007/05/12/boing-boing-stephen-fry-talking-clock-goes-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: Stephen Fry Talking Clock goes Creative Commons](http://www.boingboing.net/2007/05/09/stephen_fry_talking_.html)  
   

@@ -1,12 +1,14 @@
----
-title: "The Facts Don't Care About Your Feelings"
-author: ["Rhea Myers"]
-date: 2024-09-30
-lastmod: 2024-10-03
-categories: ["Personal", "Transition"]
-draft: false
-layout: "post"
----
++++
+title = "The Facts Don't Care About Your Feelings"
+date = 2024-09-30
+path = "/2024/09/30/the-facts-dont-care-about-your-feelings/"
+
+[taxonomies]
+categories = [
+    "Personal",
+    "Transition",
+]
++++
 
 > Does it ever bother you, Amy, that your life doesn’t make any sense?<br />
 > --- The Doctor, The Pandorica Opens.

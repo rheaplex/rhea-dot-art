@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-05 08:36:49+00:00
-layout: post
-slug: new-art-language-with-the-red-crayola-album-later-this-month
-title: New Art & Language With The Red Crayola Album Later This Month
-id: 1474
-categories:
-- Aesthetics
----
++++
+title = "New Art & Language With The Red Crayola Album Later This Month"
+date = 2007-09-05 08:36:49+00:00
+path = "/2007/09/05/new-art-language-with-the-red-crayola-album-later-this-month/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 ![200709042227](/images/2007/09/200709042227.jpg)     ![200709042228](/images/2007/09/200709042228.jpg)  
 Art & Language and The Red Krayola (nee Crayola) have a new album out this month, around the 25th depending on where you are in the world.  

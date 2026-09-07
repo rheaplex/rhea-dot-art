@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-08 07:12:02+00:00
-layout: post
-slug: quote-from-harold-cohens-talk
-title: Quote From Harold Cohen's Talk
-id: 141
-categories:
-- Satire
----
++++
+title = "Quote From Harold Cohen's Talk"
+date = 2004-05-08 07:12:02+00:00
+path = "/2004/05/08/quote-from-harold-cohens-talk/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 "If programming in C is like marching, programming in Lisp is like dancing".  
   

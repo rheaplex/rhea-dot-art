@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-27 08:24:14+00:00
-layout: post
-slug: a-free-board-game
-title: A Free Board Game
-id: 711
-categories:
-- Free Culture
----
++++
+title = "A Free Board Game"
+date = 2005-10-27 08:24:14+00:00
+path = "/2005/10/27/a-free-board-game/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 A beautiful and entertaining board game to download from Remix Reading:  

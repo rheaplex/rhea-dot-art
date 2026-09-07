@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 06:05:35+00:00
-layout: post
-slug: newsgrist-where-spin-is-art-endgame-art-fear-of-form
-title: 'NEWSgrist - where spin is art: Endgame Art: Fear of Form'
-id: 1030
-categories:
-- Aesthetics
----
++++
+title = "NEWSgrist - where spin is art: Endgame Art: Fear of Form"
+date = 2006-07-08 06:05:35+00:00
+path = "/2006/07/08/newsgrist-where-spin-is-art-endgame-art-fear-of-form/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [NEWSgrist - where spin is art: Endgame Art: Fear of Form](http://newsgrist.typepad.com/underbelly/2006/07/endgame_art_fea.html)  
   

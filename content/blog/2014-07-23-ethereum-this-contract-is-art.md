@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-07-23 00:58:10+00:00
-layout: post
-slug: ethereum-this-contract-is-art
-title: Ethereum - This Contract Is Art
-id: 2590
-categories:
-- Art
-- Ethereum
-- Projects
----
++++
+title = "Ethereum - This Contract Is Art"
+date = 2014-07-23 00:58:10+00:00
+path = "/2014/07/23/ethereum-this-contract-is-art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Ethereum",
+    "Projects",
+]
++++
 
 [Here is a contract](https://github.com/rheaplex/artworld-ethereum/) that can assert that it is art.
 

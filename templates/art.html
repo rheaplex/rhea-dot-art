@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
+<div class="row row-cols-2 row-cols-md-3 g-4">
+  {%- for p in section.pages %}{{ <card page={p} /> }}{% endfor %}
+</div>
+{% endblock content %}

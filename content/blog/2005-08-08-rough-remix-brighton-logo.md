@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-08 06:56:37+00:00
-layout: post
-slug: rough-remix-brighton-logo
-title: Rough Remix Brighton Logo
-id: 616
-categories:
-- Free Culture
----
++++
+title = "Rough Remix Brighton Logo"
+date = 2005-08-08 06:56:37+00:00
+path = "/2005/08/08/rough-remix-brighton-logo/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 By which I mean it needs work on the proportions of the letters, not that it's digital faux-rough:  

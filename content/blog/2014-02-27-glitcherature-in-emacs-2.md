@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-27 07:35:13+00:00
-layout: post
-slug: glitcherature-in-emacs-2
-title: Glitcherature In Emacs 2
-id: 2529
-categories:
-- Free Software
-- Generative Art
-- Glitch Art
-- Projects
----
++++
+title = "Glitcherature In Emacs 2"
+date = 2014-02-27 07:35:13+00:00
+path = "/2014/02/27/glitcherature-in-emacs-2/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Generative Art",
+    "Glitch Art",
+    "Projects",
+]
++++
 
 glitcherature-mode for Emacs has been updated to add new functions for applying multiple commands to words, sentences and paragraphs, randomly or in order. There are also new commands to sort characters, to copy structure from one text another and to render a falling rain effect.
 

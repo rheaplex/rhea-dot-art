@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-28 04:42:29+00:00
-layout: post
-slug: kazushi-mukaiyama
-title: Kazushi Mukaiyama
-id: 313
-categories:
-- Generative Art
----
++++
+title = "Kazushi Mukaiyama"
+date = 2005-01-28 04:42:29+00:00
+path = "/2005/01/28/kazushi-mukaiyama/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.kazushi.info/](http://www.kazushi.info/)[   
   

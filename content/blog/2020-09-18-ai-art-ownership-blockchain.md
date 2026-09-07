@@ -1,18 +1,22 @@
----
-id: 3199
-title: 'AI Art, Ownership, Blockchain'
-date: '2020-09-18T11:31:30+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - 'Art History'
-    - 'Artificial Intelligence'
-    - Crypto
-    - Philosophy
----
++++
+title = "AI Art, Ownership, Blockchain"
+date = 2020-09-18 11:31:30+00:00
+path = "/2020/09/18/ai-art-ownership-blockchain/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Artificial Intelligence",
+    "Crypto",
+    "Philosophy",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 Questions of “ownership” in art can be a matter of law, of social norms, or of art theory. New art forms and new methods of producing art can fall foul of existing answers to these questions or creatively re-open them. Often they do both. “AI Art” produced using contemporary “Artificial Intelligence” artificial neural network software is a good example of this. “Rare Art” produced using blockchain token software is another, which we will consider below in relation to one particularly notorious example of AI Art.
 

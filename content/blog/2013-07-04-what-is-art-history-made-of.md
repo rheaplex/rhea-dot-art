@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-07-04 21:16:11+00:00
-layout: post
-slug: what-is-art-history-made-of
-title: What is Art History Made of?
-id: 2383
-categories:
-- 3D Printing
-- Art
-- Art History
-- Projects
----
++++
+title = "What is Art History Made of?"
+date = 2013-07-04 21:16:11+00:00
+path = "/2013/07/04/what-is-art-history-made-of/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Art",
+    "Art History",
+    "Projects",
+]
++++
 
 ![man-on-phone](/images/2013/07/man-on-phone-225x300.jpg)
 

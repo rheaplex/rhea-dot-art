@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-26 06:49:02+00:00
-layout: post
-slug: lessigs-sandbox
-title: Lessig's Sandbox
-id: 1149
-categories:
-- Free Culture
----
++++
+title = "Lessig's Sandbox"
+date = 2006-10-26 06:49:02+00:00
+path = "/2006/10/26/lessigs-sandbox/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://creativecommons.org/weblog/entry/6118](http://creativecommons.org/weblog/entry/6118)  
   

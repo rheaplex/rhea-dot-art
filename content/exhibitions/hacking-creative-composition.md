@@ -1,11 +1,18 @@
 +++
 title = "Hacking Creative Composition"
 date = 2019-05-01
+path = "/exhibitions/hacking-creative-composition/"
+
+[extra]
 opening = 2019-05-01
 closing = 2019-05-31
 exhibition_type = "group"
 venue = "CADAF"
 location = "New York, USA"
 url_external = "https://thecreativecrypto.blog/rob-myers-hacking-creative-composition/"
-artworks = ["local-maxima", "blockchain-aesthetics"]
+artworks = [
+    "local-maxima",
+    "blockchain-aesthetics",
+]
 +++
+

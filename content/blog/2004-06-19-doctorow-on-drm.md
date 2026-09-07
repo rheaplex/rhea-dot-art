@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-19 07:33:00+00:00
-layout: post
-slug: doctorow-on-drm
-title: Doctorow On DRM
-id: 165
-categories:
-- Free Culture
----
++++
+title = "Doctorow On DRM"
+date = 2004-06-19 07:33:00+00:00
+path = "/2004/06/19/doctorow-on-drm/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 An excellent article on why DRM (Digital Rights Management) is bad for consumers, artists, and companies (via SlashDot):  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-29 05:18:37+00:00
-layout: post
-slug: harold-cohen-talk-last-night-at-the-tate
-title: Harold Cohen Talk Last Night At The Tate
-id: 135
-categories:
-- Generative Art
----
++++
+title = "Harold Cohen Talk Last Night At The Tate"
+date = 2004-04-29 05:18:37+00:00
+path = "/2004/04/29/harold-cohen-talk-last-night-at-the-tate/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Harold Cohen gave a good talk, and a good Q&A session afterwards (including fielding questions from Huw Jones from the Landsdowne Centre For Electronic Arts and Dave Bausola from Ixi). I managed to meet Harold and briefly say hello beforehand.  
   

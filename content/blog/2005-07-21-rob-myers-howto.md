@@ -1,10 +1,7 @@
 +++
 title = "Rhea Myers: HOWTO"
-author = ["Rhea Myers"]
 date = 2005-07-21
-lastmod = 2005-07-21
-slug = "rob-myers-howto"
-draft = false
+path = "/2005/07/21/rob-myers-howto/"
 +++
 
 I have a show at [Gallery o3one](http://www.o3one.co.yu/) in Belgrade starting next Wednesday:

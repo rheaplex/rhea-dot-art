@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-08 08:00:31+00:00
-layout: post
-slug: at-the-cinema
-title: At The Cinema
-id: 618
-categories:
-- Free Culture
-- Satire
----
++++
+title = "At The Cinema"
+date = 2005-08-08 08:00:31+00:00
+path = "/2005/08/08/at-the-cinema/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
   
 **Trailer for the next Harry Potter Film.**  

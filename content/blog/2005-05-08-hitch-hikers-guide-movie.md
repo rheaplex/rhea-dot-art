@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-08 07:13:32+00:00
-layout: post
-slug: hitch-hikers-guide-movie
-title: Hitch Hiker's Guide Movie
-id: 410
-categories:
-- Reviews
----
++++
+title = "Hitch Hiker's Guide Movie"
+date = 2005-05-08 07:13:32+00:00
+path = "/2005/05/08/hitch-hikers-guide-movie/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 The Hitch Hiker's Guide To The Galaxy has one or two things to say on the subjects of films made of popular books.  
   

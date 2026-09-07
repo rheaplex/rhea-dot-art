@@ -1,6 +1,9 @@
 +++
 title = "“The Quest For The One True Chain” in State Machines"
 date = 2019-03-19
+path = "/publications/the-quest-for-the-one-true-chain/"
+
+[extra]
 publication_type = "book-chapter"
 publisher = "Institute of Network Cultures, Amsterdam"
 in = "State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art"

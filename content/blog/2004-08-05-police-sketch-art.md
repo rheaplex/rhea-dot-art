@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-05 08:55:45+00:00
-layout: post
-slug: police-sketch-art
-title: Police Sketch Art
-id: 183
-categories:
-- Aesthetics
----
++++
+title = "Police Sketch Art"
+date = 2004-08-05 08:55:45+00:00
+path = "/2004/08/05/police-sketch-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 I wondered if there was an instruction manual for police sketch artists. The only thing on Amazon that I can find is an American book by an expert:  
   

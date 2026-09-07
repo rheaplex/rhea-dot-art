@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-17 20:18:59+00:00
-layout: post
-slug: where-are-the-joneses
-title: Where Are The Joneses?
-id: 1355
-categories:
-- Free Culture
----
++++
+title = "Where Are The Joneses?"
+date = 2007-06-17 20:18:59+00:00
+path = "/2007/06/17/where-are-the-joneses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ![200706171314](/images/2007/06/200706171314.jpg)  
 (Image CC-BY-SA [www.wherearethejoneses.com/](http://www.wherearethejoneses.com/))  

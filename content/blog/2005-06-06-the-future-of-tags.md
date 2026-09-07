@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-06 09:11:21+00:00
-layout: post
-slug: the-future-of-tags
-title: The Future Of Tags
-id: 468
-categories:
-- Projects
----
++++
+title = "The Future Of Tags"
+date = 2005-06-06 09:11:21+00:00
+path = "/2005/06/06/the-future-of-tags/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 An arc is a tag on a link, or a series of links, rather than an address. Arcs express a relationship rather than a property. They can be ordered (a series or graph) or unordered (a set or bag). Arconomies should be the next big thing® for the net.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-06 06:31:37+00:00
-layout: post
-slug: the-nme-defend-their-end-of-year-poll
-title: The NME Defend Their End Of Year Poll
-id: 746
-categories:
-- Free Culture
----
++++
+title = "The NME Defend Their End Of Year Poll"
+date = 2005-12-06 06:31:37+00:00
+path = "/2005/12/06/the-nme-defend-their-end-of-year-poll/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Who are the NME owned by again?  

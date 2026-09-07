@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-04 01:05:37+00:00
-layout: post
-slug: dropping-a-constraint-on-rheart-ouch
-title: Dropping A Constraint on rheart (ouch)
-id: 108
-categories:
-- Projects
----
++++
+title = "Dropping A Constraint on rheart (ouch)"
+date = 2004-04-04 01:05:37+00:00
+path = "/2004/04/04/dropping-a-constraint-on-rheart-ouch/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 The previous images from rheart used "convex hulls" (shapes with no inward-heading lines) to draw around. Dropping the convexity (and also the non-intersection) constraint by using a random set of points (and taking out the skeleton for the last three) gives results like this:  
 ![](/images/drawing0.jpg)![](/images/drawing1.jpg)  

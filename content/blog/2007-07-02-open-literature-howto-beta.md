@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-02 07:42:58+00:00
-layout: post
-slug: open-literature-howto-beta
-title: Open Literature HOWTO (Beta)
-id: 1388
-categories:
-- Free Culture
----
++++
+title = "Open Literature HOWTO (Beta)"
+date = 2007-07-02 07:42:58+00:00
+path = "/2007/07/02/open-literature-howto-beta/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 From the earliest mythology and folklore, literature has been written collaboratively. In the mass media era, movies and television shows are routinely written by teams or by a number of individuals working in turn. Open projects such as Wikipedia and the Linux Kernel show how to organise collaborative writing projects in a free and participatory way.  
   

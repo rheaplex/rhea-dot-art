@@ -1,16 +1,20 @@
----
-id: 3735
-title: 'Hash Gematria'
-date: '2020-01-09T11:59:08+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Crypto
-    - Hyperstition
-    - Philosophy
----
++++
+title = "Hash Gematria"
+date = 2020-01-09 11:59:08+00:00
+path = "/2020/01/09/hash-gematria/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Hyperstition",
+    "Philosophy",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 Gematria in Hebrew uses a SIGINT attack on God’s fully homomorphic encryption of the book of nature to extract meaning. A non-Hebrew gematria is a glimpse not back into the mind of God but forward through the fall of the tower of Babel into a scrambled linguistic world of contingency. It is a generator of Deleuzean “dark precursors” to connections between concepts, just as rhymes are. These connections are useful irritants, spurs to the generation of actual structure that would otherwise not occur, anchors for beliefs. Both kinds of gematria are exercises in exploiting the surplus value of code. The former is revelation, the latter is construction. Yet each resembles the other as much as is possible in their respective universes.
 

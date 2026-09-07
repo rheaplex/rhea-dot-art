@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-30 23:08:53+00:00
-layout: post
-slug: exploring_art_data_16
-title: Exploring Art Data 16
-id: 1918
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 16"
+date = 2011-01-30 23:08:53+00:00
+path = "/2011/01/30/exploring_art_data_16/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 The scanned and OCRed text from Graves' Art Sales is very noisy. Let's start cleaning it up.  
   

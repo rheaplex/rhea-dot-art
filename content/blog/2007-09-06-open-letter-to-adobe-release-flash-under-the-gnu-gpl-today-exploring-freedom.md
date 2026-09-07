@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-06 03:55:57+00:00
-layout: post
-slug: open-letter-to-adobe-release-flash-under-the-gnu-gpl-today-exploring-freedom
-title: Open letter to Adobe - release Flash under the GNU GPL today | Exploring Freedom
-id: 1477
-categories:
-- Free Culture
----
++++
+title = "Open letter to Adobe - release Flash under the GNU GPL today | Exploring Freedom"
+date = 2007-09-06 03:55:57+00:00
+path = "/2007/09/06/open-letter-to-adobe-release-flash-under-the-gnu-gpl-today-exploring-freedom/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Matt Lee - Open letter to Adobe - release Flash under the GNU GPL today | Exploring Freedom](http://mattl.co.uk/blog/2007/09/05/open-letter-to-adobe-release-flash-under-the-gnu-gpl-today/)  
   

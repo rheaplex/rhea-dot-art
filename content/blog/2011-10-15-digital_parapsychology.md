@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-15 15:52:23+00:00
-layout: post
-slug: digital_parapsychology
-title: Digital Parapsychology
-id: 1957
-categories:
-- Art Computing
-- Satire
----
++++
+title = "Digital Parapsychology"
+date = 2011-10-15 15:52:23+00:00
+path = "/2011/10/15/digital_parapsychology/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Satire",
+]
++++
 
 The (quasi-)scientific investigation of paranormal phenomena is a category error. Paranormality is qualitative affect, not quantitative effect. To the extent that it has physical effects these are not physically caused.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-31 06:35:15+00:00
-layout: post
-slug: free-culture-roundup-7
-title: Free Culture Roundup
-id: 809
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-01-31 06:35:15+00:00
+path = "/2006/01/31/free-culture-roundup-7/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Stupid registration required link from the American version of The Times that is about something interesting to do with theatre and copyrifght expansionism but I now can't remember what. I'm sure it's worth going to [Bugmenot](http://bugmenot.com/) to get a password for, though:  

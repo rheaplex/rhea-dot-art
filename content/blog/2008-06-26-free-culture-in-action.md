@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-26 06:41:46+00:00
-layout: post
-slug: free-culture-in-action
-title: Free culture in action
-id: 1616
-categories:
-- Free Culture
----
++++
+title = "Free culture in action"
+date = 2008-06-26 06:41:46+00:00
+path = "/2008/06/26/free-culture-in-action/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Free culture in action - Exploring Freedom with Matt Lee](http://exploringfreedom.org/2008/06/free-culture-in-action/)  
   

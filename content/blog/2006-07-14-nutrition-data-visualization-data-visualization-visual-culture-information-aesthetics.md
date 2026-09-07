@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-14 04:09:50+00:00
-layout: post
-slug: nutrition-data-visualization-data-visualization-visual-culture-information-aesthetics
-title: nutrition data visualization - data visualization & visual culture - information
-  aesthetics
-id: 1037
-categories:
-- Generative Art
----
++++
+title = "nutrition data visualization - data visualization & visual culture - information aesthetics"
+date = 2006-07-14 04:09:50+00:00
+path = "/2006/07/14/nutrition-data-visualization-data-visualization-visual-culture-information-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [nutrition data visualization - data visualization & visual culture - information aesthetics](http://infosthetics.com/archives/2006/07/nutrition_data_visualization.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-02 08:40:54+00:00
-layout: post
-slug: pic-led-color-changer
-title: PIC LED Color Changer
-id: 562
-categories:
-- Howto
----
++++
+title = "PIC LED Color Changer"
+date = 2005-07-02 08:40:54+00:00
+path = "/2005/07/02/pic-led-color-changer/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 Making an LED colour mixer controlled by a PIC:  

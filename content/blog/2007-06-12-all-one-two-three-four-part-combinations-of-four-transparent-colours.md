@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-12 05:17:33+00:00
-layout: post
-slug: all-one-two-three-four-part-combinations-of-four-transparent-colours
-title: All one-, two-, three- & four part combinations of four transparent colours
-id: 1343
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "All one-, two-, three- & four part combinations of four transparent colours"
+date = 2007-06-12 05:17:33+00:00
+path = "/2007/06/12/all-one-two-three-four-part-combinations-of-four-transparent-colours/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706131946](/images/2007/06/200706131946.jpg)  
 Todo: transparency.  

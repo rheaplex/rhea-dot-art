@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-24 04:53:01+00:00
-layout: post
-slug: goodbye-fair-use-hello-customary-historic-use
-title: Goodbye Fair Use, Hello “Customary Historic Use”?
-id: 803
-categories:
-- Free Culture
----
++++
+title = "Goodbye Fair Use, Hello “Customary Historic Use”?"
+date = 2006-01-24 04:53:01+00:00
+path = "/2006/01/24/goodbye-fair-use-hello-customary-historic-use/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 This sounds even worse than "fair dealing":  

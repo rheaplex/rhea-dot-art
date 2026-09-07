@@ -1,10 +1,13 @@
 +++
 title = "Walter Benjamin's Superman"
-author = ["Rhea Myers"]
 date = 2025-09-25
-lastmod = 2025-09-25
-categories = ["ai", "theory"]
-draft = false
+path = "/2025/09/25/walter-benjamins-superman/"
+
+[taxonomies]
+categories = [
+    "ai",
+    "theory",
+]
 +++
 
 Intellectual property is _property_. The artist who produces it speculatively is petit bourgeois. The illustrator who produces it as work for hire and is paid for their skill is labour aristocracy. Their privileged positions within capitalist society cannot be valorized by invoking a romanticized workerism.

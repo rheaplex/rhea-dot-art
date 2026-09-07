@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-28 07:27:42+00:00
-layout: post
-slug: cc-and-drm-a-brief-guide-to-a-non-issue
-title: 'CC and DRM: A Brief Guide To A Non-Issue'
-id: 1120
-categories:
-- Free Culture
----
++++
+title = "CC and DRM: A Brief Guide To A Non-Issue"
+date = 2006-09-28 07:27:42+00:00
+path = "/2006/09/28/cc-and-drm-a-brief-guide-to-a-non-issue/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 **How to Use CC-Licensed Work On "DRM" Devices**  
 DVD - View on non-CSS DVD.  

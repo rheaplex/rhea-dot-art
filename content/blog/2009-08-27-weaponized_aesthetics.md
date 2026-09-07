@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-27 21:50:32+00:00
-layout: post
-slug: weaponized_aesthetics
-title: Weaponized Aesthetics
-id: 1788
-categories:
-- Aesthetics
----
++++
+title = "Weaponized Aesthetics"
+date = 2009-08-27 21:50:32+00:00
+path = "/2009/08/27/weaponized_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 I've been looking for examples of offensive (as in attacking) military use of aesthetics. Dazzle ships and pop music torture are all I can find so far. The IDF's use of Situationist theory comes close.  
   

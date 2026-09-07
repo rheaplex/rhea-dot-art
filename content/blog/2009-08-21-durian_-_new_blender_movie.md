@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-21 19:13:53+00:00
-layout: post
-slug: durian_-_new_blender_movie
-title: Durian - New Blender Movie
-id: 1784
-categories:
-- Free Culture
----
++++
+title = "Durian - New Blender Movie"
+date = 2009-08-21 19:13:53+00:00
+path = "/2009/08/21/durian_-_new_blender_movie/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Blender Foundation have previously made two short computer animated films codenamed Orange and Peach to help drive development of their 3D modelling and rendering software. Earlier this year they announced a third codenamed Durian. Very little is known about it at this point but I've every confidence it will be as distinctive and as well-made as the first two (which I reviewed for Furtherfield).  
   

@@ -1,8 +1,16 @@
 +++
 title = "Lottery Symbol"
 date = 2017-08-08
+path = "/lottery-symbol/"
+
+[extra]
 image = "/art-images/lottery-symbol.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6639
 +++
 

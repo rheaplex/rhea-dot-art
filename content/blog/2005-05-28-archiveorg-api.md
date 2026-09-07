@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-28 08:10:35+00:00
-layout: post
-slug: archiveorg-api
-title: archive.org API
-id: 452
-categories:
-- Free Culture
----
++++
+title = "archive.org API"
+date = 2005-05-28 08:10:35+00:00
+path = "/2005/05/28/archiveorg-api/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.archive.org/help/contrib-advanced.php](http://www.archive.org/help/contrib-advanced.php)  
   

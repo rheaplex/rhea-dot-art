@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-30 08:06:03+00:00
-layout: post
-slug: canto-for-evie
-title: Canto (For Evie)
-id: 316
-categories:
-- Sketchblog
----
++++
+title = "Canto (For Evie)"
+date = 2005-01-30 08:06:03+00:00
+path = "/2005/01/30/canto-for-evie/"
+
+[taxonomies]
+categories = [
+    "Sketchblog",
+]
++++
 
 ![](/images/Canto.jpg)
 

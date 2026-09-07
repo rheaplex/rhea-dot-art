@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-01 05:42:45+00:00
-layout: post
-slug: barcode-art
-title: Barcode Art
-id: 560
-categories:
-- Aesthetics
----
++++
+title = "Barcode Art"
+date = 2005-07-01 05:42:45+00:00
+path = "/2005/07/01/barcode-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Fan-bloody-amazing stuff:  

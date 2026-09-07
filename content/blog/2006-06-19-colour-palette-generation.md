@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-19 02:40:43+00:00
-layout: post
-slug: colour-palette-generation
-title: Colour Palette Generation
-id: 988
-categories:
-- Generative Art
----
++++
+title = "Colour Palette Generation"
+date = 2006-06-19 02:40:43+00:00
+path = "/2006/06/19/colour-palette-generation/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 I'm looking at colour palette generation for paintr and draw-something.  

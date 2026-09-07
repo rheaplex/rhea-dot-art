@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-01 05:59:14+00:00
-layout: post
-slug: how-picking-works-in-minara
-title: How Picking Works In Minara
-id: 407
-categories:
-- Projects
----
++++
+title = "How Picking Works In Minara"
+date = 2005-05-01 05:59:14+00:00
+path = "/2005/05/01/how-picking-works-in-minara/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 An image is a series of drawing instructions, in other words it is a program. In Minara it is a program written in Scheme, the same Lisp dialect that Minara itself is (mostly) written in.  
   

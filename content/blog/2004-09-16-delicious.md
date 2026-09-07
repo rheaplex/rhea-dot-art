@@ -1,10 +1,7 @@
 +++
 title = "del.icio.us"
-author = ["Rhea Myers"]
 date = 2004-09-16
-lastmod = 2004-09-16
-slug = "delicious"
-draft = false
+path = "/2004/09/16/delicious/"
 +++
 
 del.icio.us is a web site to share catalogues of web links. Here’s my page:

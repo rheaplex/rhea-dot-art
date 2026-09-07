@@ -1,13 +1,15 @@
----
-title: Trusted Third Party Hardware
-date: 2017-11-04 14:31:37.000000000 -07:00
-type: post
-layout: post
-categories:
-- Crypto
-- Free Software
-author: Rhea Myers
----
++++
+title = "Trusted Third Party Hardware"
+date = 2017-11-04 14:31:37-07:00
+path = "/2017/11/04/trusted-third-party-hardware/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Free Software",
+]
++++
+
 [![](/images/2017/11/game-over.png)]
 
 (https://twitter.com/h0t_max/status/928269320064450560)

@@ -1,11 +1,14 @@
----
-title: "The Golden Age of Rhetoric"
-author: ["Rhea Myers"]
-date: 2025-03-25
-lastmod: 2025-03-25
-tags: ["ai", "critique"]
-draft: false
----
++++
+title = "The Golden Age of Rhetoric"
+date = 2025-03-25
+path = "/2025/03/25/the-golden-age-of-rhetoric/"
+
+[taxonomies]
+tags = [
+    "ai",
+    "critique",
+]
++++
 
 This should be the golden age of the study of rhetoric. The rest of the humanities should also be having a field day, from litcrit to epistemology to poetics. But LLMs deal directly in rhetoric. They are not models of knowledge, they are models of persuasive language, of language that convinces the reader of something with its structure, its composition, its aesthetics. This is the domain of rhetoric.
 

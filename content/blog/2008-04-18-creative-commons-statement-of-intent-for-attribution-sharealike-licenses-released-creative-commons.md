@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-18 04:08:24+00:00
-layout: post
-slug: creative-commons-statement-of-intent-for-attribution-sharealike-licenses-released-creative-commons
-title: Creative Commons Statement of Intent for Attribution-ShareAlike Licenses released
-  - Creative Commons
-id: 1600
-categories:
-- Free Culture
----
++++
+title = "Creative Commons Statement of Intent for Attribution-ShareAlike Licenses released - Creative Commons"
+date = 2008-04-18 04:08:24+00:00
+path = "/2008/04/18/creative-commons-statement-of-intent-for-attribution-sharealike-licenses-released-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Creative Commons Statement of Intent for Attribution-ShareAlike Licenses released - Creative Commons](http://creativecommons.org/weblog/entry/8213)  
 

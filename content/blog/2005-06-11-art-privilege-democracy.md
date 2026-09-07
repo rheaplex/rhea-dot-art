@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-11 08:41:02+00:00
-layout: post
-slug: art-privilege-democracy
-title: Art, Privilege, Democracy
-id: 489
-categories:
-- Aesthetics
----
++++
+title = "Art, Privilege, Democracy"
+date = 2005-06-11 08:41:02+00:00
+path = "/2005/06/11/art-privilege-democracy/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Art was traditionally made for the ruling classes. Actually, that's not true, but _high_ art was by definition made for the ruling classes. Access to high art technology was limited to high art, so rich colours, perspectival mathematics, or computing machinery were off-limits for the plebs.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-27 23:14:19+00:00
-layout: post
-slug: use-the-gpl-for-3d-design-not-by-sa
-title: Use The GPL For 3D Design, Not BY-SA
-id: 1733
-categories:
-- Free Culture
----
++++
+title = "Use The GPL For 3D Design, Not BY-SA"
+date = 2009-02-27 23:14:19+00:00
+path = "/2009/02/27/use-the-gpl-for-3d-design-not-by-sa/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 For a physical object that is the product of an art, craft, product design or engineering project you will need to be able to refer its design, to the plans, designs, instructions or CAD files if you need to study, repair, modify or copy it. Without the design, you cannot easily create repaired, improved or modified versions of the object.   
   

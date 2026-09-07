@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-13 09:17:00+00:00
-layout: post
-slug: perfect-language
-title: Perfect Language
-id: 146
-categories:
-- Aesthetics
----
++++
+title = "Perfect Language"
+date = 2004-05-13 09:17:00+00:00
+path = "/2004/05/13/perfect-language/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 One of the more tedious quests in philosophy and aesthetics is the one for Perfect Language. A Perfect Language would unambiguously allow representation and discussion of its subjects. But any translation (for example from subjects to terms in the langauge) risks losing information (or worse, introducing it). Perfect Language might therefore be reflexive. Reflexive language avoids translation and is in a trivial way self-underwriting.   
 The Perfect Language for discussing writing is therefore writing, for art is art, for music is music. This means that the best language for discussing the real world is the real world. But this reduces communication to wollen (ew) if another meta-principle can't be found.  

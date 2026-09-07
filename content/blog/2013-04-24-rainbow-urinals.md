@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-24 19:35:08+00:00
-layout: post
-slug: rainbow-urinals
-title: Rainbow Urinals
-id: 2296
-categories:
-- 3D Printing
-- Art
-- Free Culture
-- Projects
----
++++
+title = "Rainbow Urinals"
+date = 2013-04-24 19:35:08+00:00
+path = "/2013/04/24/rainbow-urinals/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Art",
+    "Free Culture",
+    "Projects",
+]
++++
 
 Thanks to [Art Fag City](http://artfcity.com/2013/04/24/wednesday-links-duchamps-urinal-lives-on/), some beautifully coloured [Urinal](/urinal/) prints from 3D Printer Experience in Chicago:
 

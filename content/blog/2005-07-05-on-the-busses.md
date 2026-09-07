@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-05 05:49:52+00:00
-layout: post
-slug: on-the-busses
-title: On The Busses
-id: 564
-categories:
-- Free Culture
----
++++
+title = "On The Busses"
+date = 2005-07-05 05:49:52+00:00
+path = "/2005/07/05/on-the-busses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 As I was getting on the bus to dash home from work and collect my son from nursery, the driver saw my "Creative Commies" badge and asked what it was.  

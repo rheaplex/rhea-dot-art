@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-08 08:13:50+00:00
-layout: post
-slug: setting-up-a-development-environment-for-common-lisp-minara
-title: Setting Up A Development Environment For Common Lisp Minara
-id: 1540
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Setting Up A Development Environment For Common Lisp Minara"
+date = 2007-12-08 08:13:50+00:00
+path = "/2007/12/08/setting-up-a-development-environment-for-common-lisp-minara/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 **Install sbcl**  
   

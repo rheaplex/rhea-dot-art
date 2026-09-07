@@ -1,0 +1,12 @@
+<footer class="border-top py-4 mt-5">
+  <div class="container small text-body-secondary">
+    <ul class="list-inline mb-2">
+      {%- for s in config.extra.social %}
+      {%- set u = s.url %}{% if u is starting_with(pat="/") %}{% set u = get_url(path=u) %}{% endif %}
+      <li class="list-inline-item"><a href="{{ u | safe }}" class="link-body-emphasis">{{ s.name }}</a></li>
+      {%- endfor %}
+    </ul>
+    <p class="mb-1">{{ config.extra.copyright }}</p>
+    <p class="mb-0">Original art and writing on this site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="link-body-emphasis">Creative Commons Attribution-ShareAlike 4.0 International License</a> unless otherwise stated.</p>
+  </div>
+</footer>

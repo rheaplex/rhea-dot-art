@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-14 03:43:54+00:00
-layout: post
-slug: free-metaphors
-title: Free Metaphors
-id: 668
-categories:
-- Free Culture
----
++++
+title = "Free Metaphors"
+date = 2005-09-14 03:43:54+00:00
+path = "/2005/09/14/free-metaphors/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Let's take the commons metaphor for a moment (I'm not entirely happy with it). The Diggers seem to have been about reclaiming common land, and allotments were a shim for the lack of it:  

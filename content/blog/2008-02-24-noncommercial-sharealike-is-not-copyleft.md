@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-24 22:27:21+00:00
-layout: post
-slug: noncommercial-sharealike-is-not-copyleft
-title: NonCommercial Sharealike Is Not Copyleft
-id: 1576
-categories:
-- Free Culture
----
++++
+title = "NonCommercial Sharealike Is Not Copyleft"
+date = 2008-02-24 22:27:21+00:00
+path = "/2008/02/24/noncommercial-sharealike-is-not-copyleft/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Creative Commons (CC) Attribution-ShareAlike-NonCommercial (BY-NC-SA, NC-SA for short) is not copyleft.  
   

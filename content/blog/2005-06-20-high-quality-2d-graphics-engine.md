@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-20 01:01:41+00:00
-layout: post
-slug: high-quality-2d-graphics-engine
-title: High Quality 2D Graphics Engine
-id: 521
-categories:
-- Generative Art
----
++++
+title = "High Quality 2D Graphics Engine"
+date = 2005-06-20 01:01:41+00:00
+path = "/2005/06/20/high-quality-2d-graphics-engine/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 A high-quality 2D graphics engine in C++ under a revised MIT-style license:
 

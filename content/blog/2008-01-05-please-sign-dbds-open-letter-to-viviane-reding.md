@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-05 18:50:30+00:00
-layout: post
-slug: please-sign-dbds-open-letter-to-viviane-reding
-title: Please Sign DBD's Open Letter to Viviane Reding
-id: 1553
-categories:
-- Free Culture
----
++++
+title = "Please Sign DBD's Open Letter to Viviane Reding"
+date = 2008-01-05 18:50:30+00:00
+path = "/2008/01/05/please-sign-dbds-open-letter-to-viviane-reding/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Click Here To Sign a Letter to Viviane Reding, European Union commissioner for information society and media](http://www.defectivebydesign.org/EU_Letter)  
   

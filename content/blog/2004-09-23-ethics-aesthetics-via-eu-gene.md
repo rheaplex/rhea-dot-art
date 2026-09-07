@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-23 06:50:07+00:00
-layout: post
-slug: ethics-aesthetics-via-eu-gene
-title: Ethics & Aesthetics (via eu-gene)
-id: 214
-categories:
-- Satire
----
++++
+title = "Ethics & Aesthetics (via eu-gene)"
+date = 2004-09-23 06:50:07+00:00
+path = "/2004/09/23/ethics-aesthetics-via-eu-gene/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 ...both aethetics and ethics are axiomatic restrictions on form. Aesthetics is concerned with pleasure, ethics with pain. (OK, the second sentence isn't true, but it was too good not to type :-) )  
   

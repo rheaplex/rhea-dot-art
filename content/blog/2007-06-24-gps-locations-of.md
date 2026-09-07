@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-24 02:54:13+00:00
-layout: post
-slug: gps-locations-of
-title: GPS Locations Of..
-id: 1370
-categories:
-- Projects
----
++++
+title = "GPS Locations Of.."
+date = 2007-06-24 02:54:13+00:00
+path = "/2007/06/24/gps-locations-of/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 some dog shit  
 N 52°35.130'  

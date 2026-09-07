@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-30 20:49:49+00:00
-layout: post
-slug: archiveorg_art_history_2
-title: archive.org Art History 2
-id: 1880
-categories:
-- Art Computing
-- Art Open Data
----
++++
+title = "archive.org Art History 2"
+date = 2010-11-30 20:49:49+00:00
+path = "/2010/11/30/archiveorg_art_history_2/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+]
++++
 
 More art catalogues and price lists available for download on archive.org.  
   

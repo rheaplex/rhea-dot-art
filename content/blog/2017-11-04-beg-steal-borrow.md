@@ -1,14 +1,16 @@
----
-layout: post
-type: post
-title: Beg, Steal & Borrow
-date: 2017-11-04 14:33:13.000000000 -07:00
-categories:
-- Art
-- Books
-- Free Culture
-author: Rhea Myers
----
++++
+title = "Beg, Steal & Borrow"
+date = 2017-11-04 14:33:13-07:00
+path = "/2017/11/04/beg-steal-borrow/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Books",
+    "Free Culture",
+]
++++
+
 ![](/images/2017/11/img_20171031_145843_9081284631823-600x600.jpg)
 
 **"Beg, Steal & Borrow - Artists Against Originality", Robert Shore, 2017, ISBN 9781780679464**

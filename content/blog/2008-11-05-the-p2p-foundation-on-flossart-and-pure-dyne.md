@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-05 04:58:38+00:00
-layout: post
-slug: the-p2p-foundation-on-flossart-and-pure-dyne
-title: The P2P Foundation On FLOSS+Art and Pure Dyne
-id: 1687
-categories:
-- Free Culture
----
++++
+title = "The P2P Foundation On FLOSS+Art and Pure Dyne"
+date = 2008-11-05 04:58:38+00:00
+path = "/2008/11/05/the-p2p-foundation-on-flossart-and-pure-dyne/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://blog.p2pfoundation.net/puredyne-a-linux-distro-for-artists-by-artists/2008/10/29](http://blog.p2pfoundation.net/puredyne-a-linux-distro-for-artists-by-artists/2008/10/29)  
   

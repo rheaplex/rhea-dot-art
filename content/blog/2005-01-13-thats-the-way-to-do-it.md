@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-13 02:59:21+00:00
-layout: post
-slug: thats-the-way-to-do-it
-title: That's the way to do it
-id: 286
-categories:
-- Free Culture
----
++++
+title = "That's the way to do it"
+date = 2005-01-13 02:59:21+00:00
+path = "/2005/01/13/thats-the-way-to-do-it/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 (via [Boing Boing](http://www.boingboing.net/) )  
   

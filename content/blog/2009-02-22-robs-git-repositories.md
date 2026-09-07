@@ -1,10 +1,7 @@
 +++
 title = "Rob's git repositories"
-author = ["Rhea Myers"]
 date = 2009-02-22
-lastmod = 2009-02-22
-slug = "robs-git-repositories"
-draft = false
+path = "/2009/02/22/robs-git-repositories/"
 +++
 
 [Rob’s git repositories](http://rhea.art/git/)

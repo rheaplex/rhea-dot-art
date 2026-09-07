@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-10 06:45:03+00:00
-layout: post
-slug: drm-serving-creators
-title: DRM Serving Creators
-id: 778
-categories:
-- Free Culture
----
++++
+title = "DRM Serving Creators"
+date = 2006-01-10 06:45:03+00:00
+path = "/2006/01/10/drm-serving-creators/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _Steven Spielberg will most likely not get any nomination for the BAFTA (British Film Academy) awards for "Munich" because of a massive DRM cock-up.  

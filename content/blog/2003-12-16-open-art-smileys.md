@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-16 03:24:20+00:00
-layout: post
-slug: open-art-smileys
-title: 'Open Art: Smileys'
-id: 63
-categories:
-- Free Culture
----
++++
+title = "Open Art: Smileys"
+date = 2003-12-16 03:24:20+00:00
+path = "/2003/12/16/open-art-smileys/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Smileys" is now available for download at the Open Content section of my site.  
 [Click here to go there.](/open_content/)  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-26 22:00:02+00:00
-layout: post
-slug: exploring_art_data_12
-title: Exploring Art Data 12
-id: 1901
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 12"
+date = 2010-12-26 22:00:02+00:00
+path = "/2010/12/26/exploring_art_data_12/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Back to Vasari's Lives.  
   

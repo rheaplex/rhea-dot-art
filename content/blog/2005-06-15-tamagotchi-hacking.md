@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 06:05:25+00:00
-layout: post
-slug: tamagotchi-hacking
-title: Tamagotchi Hacking
-id: 505
-categories:
-- Howto
----
++++
+title = "Tamagotchi Hacking"
+date = 2005-06-15 06:05:25+00:00
+path = "/2005/06/15/tamagotchi-hacking/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 [Make](http://www.makezine.com/) really are the mothership. Their barcode reader wasn't as hacky as the tape-head one I saw elsewhere, but the hardware hacking ethos they advance is spot on.  

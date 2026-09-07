@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-28 07:42:09+00:00
-layout: post
-slug: readymades
-title: Readymades
-id: 1620
-categories:
-- Aesthetics
----
++++
+title = "Readymades"
+date = 2008-06-28 07:42:09+00:00
+path = "/2008/06/28/readymades/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 A readymade is an ordinary object that has been nominated as an artwork by an artist. Nominating the object as an artwork transforms it into an artwork. This is not a million miles away from The Institutional Theory Of Art, which says that the answer to the question "what is art?" is whatever the artworld says it is.  
   

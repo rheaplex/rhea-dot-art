@@ -1,12 +1,14 @@
----
-title: Causal Horns
-date: 2016-03-23 22:56:47.000000000 -07:00
-type: post
-layout: post
-categories:
-- Philosophy
-author: Rhea Myers
----
++++
+title = "Causal Horns"
+date = 2016-03-23 22:56:47-07:00
+path = "/2016/03/23/causal-horns/"
+
+[taxonomies]
+categories = [
+    "Philosophy",
+]
++++
+
 ![Gabriel's Horn](/images/2016/03/640px-GabrielHorn.png)
 
 [3D illustration of Gabriel's horn](https://commons.wikimedia.org/w/index.php?curid=4270121) by [RokerHRO](//commons.wikimedia.org/wiki/User:RokerHRO "User:RokerHRO") - Public Domain.

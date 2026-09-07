@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-08 17:46:46+00:00
-layout: post
-slug: the_destiny_of_virus-infected_drones
-title: The Destiny Of Virus-Infected Drones
-id: 1955
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "The Destiny Of Virus-Infected Drones"
+date = 2011-10-08 17:46:46+00:00
+path = "/2011/10/08/the_destiny_of_virus-infected_drones/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [http://churchofcyberpunk.tumblr.com/post/11147180129](http://churchofcyberpunk.tumblr.com/post/11147180129)
   

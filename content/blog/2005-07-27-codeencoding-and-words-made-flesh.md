@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-27 22:44:09+00:00
-layout: post
-slug: codeencoding-and-words-made-flesh
-title: Code/Encoding and Words Made Flesh
-id: 586
-categories:
-- Generative Art
----
++++
+title = "Code/Encoding and Words Made Flesh"
+date = 2005-07-27 22:44:09+00:00
+path = "/2005/07/27/codeencoding-and-words-made-flesh/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Good discussion of code/encoding, and link to an interesting book, at GTA:  

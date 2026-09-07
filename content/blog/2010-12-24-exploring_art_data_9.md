@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-24 18:17:23+00:00
-layout: post
-slug: exploring_art_data_9
-title: Exploring Art Data 9
-id: 1896
-categories:
-- Art Computing
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 9"
+date = 2010-12-24 18:17:23+00:00
+path = "/2010/12/24/exploring_art_data_9/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Now let's see which artists are described most similarly by Vasari:  
   

@@ -1,13 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-31 17:56:27+00:00
-layout: post
-slug: notes_towards_free_culture_1
-title: Notes Towards Free Culture
-id: 1836
----
-
++++
+title = "Notes Towards Free Culture"
+date = 2010-03-31 17:56:27+00:00
+path = "/2010/03/31/notes_towards_free_culture_1/"
++++
 
 [Critique of the ICC's report on the digital economy in Europe](http://www.technollama.co.uk/critique-of-the-iccs-report-on-the-digital-economy-in-europe)
 

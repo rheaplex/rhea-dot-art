@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 06:43:39+00:00
-layout: post
-slug: overcoming-procrastination
-title: Overcoming Procrastination
-id: 532
-categories:
-- Howto
----
++++
+title = "Overcoming Procrastination"
+date = 2005-06-21 06:43:39+00:00
+path = "/2005/06/21/overcoming-procrastination/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 I'll read this later. Via [43 Folders](http://www.43folders.com/):  

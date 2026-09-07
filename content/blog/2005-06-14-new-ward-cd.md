@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-14 06:31:22+00:00
-layout: post
-slug: new-ward-cd
-title: New Ward CD
-id: 499
-categories:
-- Free Culture
----
++++
+title = "New Ward CD"
+date = 2005-06-14 06:31:22+00:00
+path = "/2005/06/14/new-ward-cd/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [New Ward CD](http://www.locarecords.com/discography.html) over at [Loca Records](http://www.locarecords.com/). As always it's licensed CC-BY-SA.  

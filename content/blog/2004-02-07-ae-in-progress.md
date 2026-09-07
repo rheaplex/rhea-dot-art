@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-02-07 02:52:23+00:00
-layout: post
-slug: ae-in-progress
-title: ae In Progress
-id: 91
-categories:
-- Generative Art
----
++++
+title = "ae In Progress"
+date = 2004-02-07 02:52:23+00:00
+path = "/2004/02/07/ae-in-progress/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Here's an example of the (very basic) curent output from ae, a program I'm writing as a proof-of-conceipt for the generative principles I mentioned in an earlier posting:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-21 17:31:34+00:00
-layout: post
-slug: approved-for-free-cultural-works-creative-commons
-title: Approved for Free Cultural Works - Creative Commons
-id: 1574
-categories:
-- Free Culture
----
++++
+title = "Approved for Free Cultural Works - Creative Commons"
+date = 2008-02-21 17:31:34+00:00
+path = "/2008/02/21/approved-for-free-cultural-works-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Approved for Free Cultural Works - Creative Commons](http://creativecommons.org/weblog/entry/8051)  
   

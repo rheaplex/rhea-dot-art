@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-28 03:06:34+00:00
-layout: post
-slug: remix-affordances
-title: Remix Affordances
-id: 1568
-categories:
-- Free Culture
----
++++
+title = "Remix Affordances"
+date = 2008-01-28 03:06:34+00:00
+path = "/2008/01/28/remix-affordances/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A question someone recently asked about Where Are The Joneses (WRTJ) could be rephrased as "where were the remix affordances?"  
   

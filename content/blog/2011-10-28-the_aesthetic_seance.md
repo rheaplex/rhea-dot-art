@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-28 11:45:40+00:00
-layout: post
-slug: the_aesthetic_seance
-title: The Aesthetic Seance
-id: 1965
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "The Aesthetic Seance"
+date = 2011-10-28 11:45:40+00:00
+path = "/2011/10/28/the_aesthetic_seance/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 Aesthetics in the visual arts is ultimately the evaluation of qualia under a given theory of value. Qualia are irreducible aesthetic experiences or feelings that we have no power of introspection over. They cannot be studied materialistically through scientific naturalism. [1]  
   

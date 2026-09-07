@@ -1,10 +1,8 @@
----
-layout: post
-title: Shareable Readymades For Bitcoin
-slug: shareable-readymades-for-bitcoin
-date: 2015-09-17
-
----
++++
+title = "Shareable Readymades For Bitcoin"
+date = 2015-09-17
+path = "/2015/09/17/shareable-readymades-for-bitcoin/"
++++
 
 [![Gold Plated Urinal](/images/2015/SR-Urinal-01.jpg)](http://www.furtherfield.org/artdatamoney/shareablereadymades/)
 

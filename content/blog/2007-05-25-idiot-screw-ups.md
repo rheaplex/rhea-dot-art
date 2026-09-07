@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-25 05:10:10+00:00
-layout: post
-slug: idiot-screw-ups
-title: Idiot Screw-Ups
-id: 1311
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Idiot Screw-Ups"
+date = 2007-05-25 05:10:10+00:00
+path = "/2007/05/25/idiot-screw-ups/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 One of the advantages of Free Screwdrivers is that anyone can screw together anything they want. To some this will appear as a novel technological and social phenomenon rather than as simple reform. For corporations this novel phenomenon is another example of society's progress that can be rerouted into private profit. They could just let their products be opened or taken apart freely by anyone with a screwdriver, but this will not directly maximize shareholder value. So they set up special events and organizations to induce and capture this new value.  
   

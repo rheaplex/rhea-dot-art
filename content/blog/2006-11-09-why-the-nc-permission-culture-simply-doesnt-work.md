@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-09 04:37:31+00:00
-layout: post
-slug: why-the-nc-permission-culture-simply-doesnt-work
-title: Why The NC Permission Culture Simply Doesn't Work
-id: 1162
-categories:
-- Free Culture
----
++++
+title = "Why The NC Permission Culture Simply Doesn't Work"
+date = 2006-11-09 04:37:31+00:00
+path = "/2006/11/09/why-the-nc-permission-culture-simply-doesnt-work/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 In "Free Culture" Lawrence Lessig described a perfect storm of law, technology, media mergers and divergent social norms that had broken the tradition of free culture. Now Lessig has the solution to this problem: a NonCommercial economy of sharing and reputation building.  
   

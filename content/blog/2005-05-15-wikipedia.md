@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-15 06:58:44+00:00
-layout: post
-slug: wikipedia
-title: Wikipedia
-id: 424
-categories:
-- Free Culture
----
++++
+title = "Wikipedia"
+date = 2005-05-15 06:58:44+00:00
+path = "/2005/05/15/wikipedia/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I just created my first Wikipedia article:  
   

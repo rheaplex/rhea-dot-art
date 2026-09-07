@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-20 23:02:28+00:00
-layout: post
-slug: hack-circus
-title: Hack Circus
-id: 2547
-categories:
-- Art
----
++++
+title = "Hack Circus"
+date = 2014-03-20 23:02:28+00:00
+path = "/2014/03/20/hack-circus/"
+
+[taxonomies]
+categories = [
+    "Art",
+]
++++
 
 [![Hack Circus](/images/2014/03/HCcoversmall1-1024x768.jpg)](http://hackcircus.com/)
 

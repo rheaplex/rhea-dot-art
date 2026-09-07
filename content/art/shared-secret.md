@@ -1,8 +1,13 @@
 +++
 title = "Shared Secret"
 date = 2019-12-28
+path = "/shared-secret/"
+
+[extra]
 image = "/art-images/qrcode.png"
-mediums = ["TOTP QR Code"]
+mediums = [
+    "TOTP QR Code",
+]
 wp_id = 6629
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-14 04:53:49+00:00
-layout: post
-slug: fair-use-in-the-uk
-title: “Fair Use” In The UK
-id: 1295
-categories:
-- Free Culture
----
++++
+title = "“Fair Use” In The UK"
+date = 2007-05-14 04:53:49+00:00
+path = "/2007/05/14/fair-use-in-the-uk/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The UK has three different legal systems; one for England & Wales, one for Scotland, and one for Northern Ireland. All three are common law systems, and for copyright they have had to incorporate the Berne Convention and various European Union directives which makes the copyright law quite similar. But we do have separate Creative Commons licenses for England & Wales and for Scotland for example. For an (inaccurate) American comparison the three legal systems are like state law, with the EU as Federal law.  
   

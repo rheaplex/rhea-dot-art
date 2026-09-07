@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-22 08:23:40+00:00
-layout: post
-slug: fixing-the-lewitt-4a4-set-comprehension
-title: Fixing The LeWitt 4x4 Set Comprehension
-id: 1365
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Fixing The LeWitt 4x4 Set Comprehension"
+date = 2007-06-22 08:23:40+00:00
+path = "/2007/06/22/fixing-the-lewitt-4a4-set-comprehension/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 I got the LeWitt set comprehensions wrong. I've fixed the others (I edited this blog without declaring it, I feel unclean...) but the 4 line, 4 colour one was a bit harder. Here's a sketch for the fixed version.
     C = {r,y,b,k}

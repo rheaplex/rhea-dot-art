@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 05:51:04+00:00
-layout: post
-slug: boy-who-never-slept-film-and-source-files-online-creative-commons
-title: “Boy Who Never Slept” film and source files online | Creative Commons
-id: 1027
-categories:
-- Free Culture
----
++++
+title = "“Boy Who Never Slept” film and source files online | Creative Commons"
+date = 2006-07-08 05:51:04+00:00
+path = "/2006/07/08/boy-who-never-slept-film-and-source-files-online-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ["Boy Who Never Slept" film and source files online | Creative Commons](http://creativecommons.org/weblog/entry/5964)  
   

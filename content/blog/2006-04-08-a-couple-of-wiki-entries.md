@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-08 07:06:25+00:00
-layout: post
-slug: a-couple-of-wiki-entries
-title: A Couple Of Wiki Entries
-id: 883
-categories:
-- Free Culture
----
++++
+title = "A Couple Of Wiki Entries"
+date = 2006-04-08 07:06:25+00:00
+path = "/2006/04/08/a-couple-of-wiki-entries/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 How to make money off copyleft art (with examples):  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-01 06:00:00+00:00
-layout: post
-slug: the-case-for-complexity
-title: The Case For Complexity
-id: 170
-categories:
-- Aesthetics
----
++++
+title = "The Case For Complexity"
+date = 2004-07-01 06:00:00+00:00
+path = "/2004/07/01/the-case-for-complexity/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Article at Guardian Online.  
   

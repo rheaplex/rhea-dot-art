@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-13 05:27:40+00:00
-layout: post
-slug: paintr-and-draw-something
-title: paintr and draw-something
-id: 495
-categories:
-- Projects
----
++++
+title = "paintr and draw-something"
+date = 2005-06-13 05:27:40+00:00
+path = "/2005/06/13/paintr-and-draw-something/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 paintr is draw-something's evil twin. It's the post-dot-com approach as opposed to draw-something's pre-ai-winter approach.  

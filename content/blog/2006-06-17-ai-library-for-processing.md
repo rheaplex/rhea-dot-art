@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-17 05:32:40+00:00
-layout: post
-slug: ai-library-for-processing
-title: AI library for Processing
-id: 984
-categories:
-- Generative Art
----
++++
+title = "AI library for Processing"
+date = 2006-06-17 05:32:40+00:00
+path = "/2006/06/17/ai-library-for-processing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [TomC's Processing Sketchbook: AI library for Processing](http://www.tom-carden.co.uk/p5/2006/06/ai-library-for-processing.php)  
   

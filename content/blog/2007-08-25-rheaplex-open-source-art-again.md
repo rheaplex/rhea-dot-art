@@ -1,10 +1,7 @@
 +++
 title = "rheaplex – Open Source Art Again"
-author = ["Rhea Myers"]
 date = 2007-08-25
-lastmod = 2007-08-25
-slug = "rheaplex-open-source-art-again"
-draft = false
+path = "/2007/08/25/rheaplex-open-source-art-again/"
 +++
 
 [rheaplex – Open Source Art Again](https://rhea.art/2006/09/19/open-source-art-again/)

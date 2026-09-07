@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-07-23 08:36:06+00:00
-layout: post
-slug: wheres-rhea-3
-title: Where's Rob?
-id: 1639
-categories:
-- Personal
----
++++
+title = "Where's Rob?"
+date = 2008-07-23 08:36:06+00:00
+path = "/2008/07/23/wheres-rhea-3/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 I'm working on reviews for [Furtherfield](http://furtherfield.org/), having long conversations about digital art on Rhizome, reading William Gibson, and learning Rails, Open Inventor and Second Life.  
   

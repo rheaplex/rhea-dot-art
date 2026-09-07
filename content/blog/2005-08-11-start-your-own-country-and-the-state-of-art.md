@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-11 08:55:49+00:00
-layout: post
-slug: start-your-own-country-and-the-state-of-art
-title: Start Your Own Country (And The State Of Art)
-id: 637
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Start Your Own Country (And The State Of Art)"
+date = 2005-08-11 08:55:49+00:00
+path = "/2005/08/11/start-your-own-country-and-the-state-of-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
   
 [http://www.citizensrequired.com/](http://www.citizensrequired.com/)  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-19 07:47:23+00:00
-layout: post
-slug: two-crescendos
-title: Two Crescendos
-id: 1143
-categories:
-- Aesthetics
----
++++
+title = "Two Crescendos"
+date = 2006-10-19 07:47:23+00:00
+path = "/2006/10/19/two-crescendos/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 " What about it, what about it, what about it ?  
 Oh, I'm pissing in a river. "  

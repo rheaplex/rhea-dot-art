@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-17 06:09:37+00:00
-layout: post
-slug: main-page-p2p-foundation
-title: Main Page - P2p foundation
-id: 987
-categories:
-- Free Culture
----
++++
+title = "Main Page - P2p foundation"
+date = 2006-06-17 06:09:37+00:00
+path = "/2006/06/17/main-page-p2p-foundation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Main Page - P2p foundation](http://p2pfoundation.net/index.php/Main_Page)  
   

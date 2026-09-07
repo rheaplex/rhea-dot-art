@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-20 03:15:32+00:00
-layout: post
-slug: open-loops-article
-title: Open Loops Article
-id: 522
-categories:
-- Howto
----
++++
+title = "Open Loops Article"
+date = 2005-06-20 03:15:32+00:00
+path = "/2005/06/20/open-loops-article/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 Article on productivity via [43 Folders](http://www.43folders.com/):  

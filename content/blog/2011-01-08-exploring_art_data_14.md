@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-08 20:48:51+00:00
-layout: post
-slug: exploring_art_data_14
-title: Exploring Art Data 14
-id: 1914
-categories:
-- Aesthetics
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 14"
+date = 2011-01-08 20:48:51+00:00
+path = "/2011/01/08/exploring_art_data_14/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 If we save the data of Roger de Piles' scores for artists to a csv file we can load them into R:  
   

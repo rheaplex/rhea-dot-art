@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-09 08:27:38+00:00
-layout: post
-slug: audio-of-lessigs-talk-at-ucl
-title: Audio Of Lessig's Talk at UCL
-id: 220
-categories:
-- Free Culture
----
++++
+title = "Audio Of Lessig's Talk at UCL"
+date = 2004-10-09 08:27:38+00:00
+path = "/2004/10/09/audio-of-lessigs-talk-at-ucl/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Q&A session is particularly good:  
   

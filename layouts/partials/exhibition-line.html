@@ -1,7 +1,0 @@
-<div class="row gx-3 py-2 border-bottom exhibition-row">
-  <div class="col-md-4 text-body-secondary small pt-1">{{ partial "exhibition-dates" . | safeHTML }}</div>
-  <div class="col-md-8">
-    <a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none fw-medium">{{ .Title }}</a>
-    <div class="text-body-secondary small">{{ with .Params.venue }}{{ . }}{{ end }}{{ with .Params.location }}{{ if $.Params.venue }}, {{ end }}{{ . }}{{ end }}</div>
-  </div>
-</div>

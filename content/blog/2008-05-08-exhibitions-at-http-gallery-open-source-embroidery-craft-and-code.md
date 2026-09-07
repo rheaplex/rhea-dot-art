@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-05-08 08:23:10+00:00
-layout: post
-slug: exhibitions-at-http-gallery-open-source-embroidery-craft-and-code
-title: 'Exhibitions at HTTP Gallery. Open Source Embroidery: Craft and Code'
-id: 1602
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Exhibitions at HTTP Gallery. Open Source Embroidery: Craft and Code"
+date = 2008-05-08 08:23:10+00:00
+path = "/2008/05/08/exhibitions-at-http-gallery-open-source-embroidery-craft-and-code/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [Exhibitions at HTTP Gallery. Open Source Embroidery: Craft and Code](http://www.http.uk.net/exhibitions/OSE/index.shtml)  
   

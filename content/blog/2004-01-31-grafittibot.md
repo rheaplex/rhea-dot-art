@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-01-31 02:59:48+00:00
-layout: post
-slug: grafittibot
-title: Grafittibot
-id: 85
-categories:
-- Generative Art
----
++++
+title = "Grafittibot"
+date = 2004-01-31 02:59:48+00:00
+path = "/2004/01/31/grafittibot/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 I love this grafitti-drawing spraycan robot:  
 [Hektor](http://www.hektor.ch/)  

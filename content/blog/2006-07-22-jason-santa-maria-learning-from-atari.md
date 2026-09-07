@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-22 08:18:25+00:00
-layout: post
-slug: jason-santa-maria-learning-from-atari
-title: Jason Santa Maria | Learning from Atari
-id: 1051
-categories:
-- Generative Art
----
++++
+title = "Jason Santa Maria | Learning from Atari"
+date = 2006-07-22 08:18:25+00:00
+path = "/2006/07/22/jason-santa-maria-learning-from-atari/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [Jason Santa Maria | Learning from Atari](http://www.jasonsantamaria.com/archive/2006/07/20/learning_from_atari.php)  
   

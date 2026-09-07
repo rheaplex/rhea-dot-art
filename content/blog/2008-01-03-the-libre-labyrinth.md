@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-03 05:48:03+00:00
-layout: post
-slug: the-libre-labyrinth
-title: The Libre Labyrinth
-id: 1550
-categories:
-- Free Culture
----
++++
+title = "The Libre Labyrinth"
+date = 2008-01-03 05:48:03+00:00
+path = "/2008/01/03/the-libre-labyrinth/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The excellent Greg London has a new book on Free Culture and Free Software out:  
   

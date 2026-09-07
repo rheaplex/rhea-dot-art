@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-22 03:05:57+00:00
-layout: post
-slug: free-culture-roundup-4
-title: Free Culture Roundup
-id: 795
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-01-22 03:05:57+00:00
+path = "/2006/01/22/free-culture-roundup-4/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Museums cannot use preservation as an excuse for banning flash photography (although it could be annoying for bystanders):  

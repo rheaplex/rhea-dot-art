@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-01 23:45:40+00:00
-layout: post
-slug: draw-something-on-runme
-title: draw-something on runme
-id: 770
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something on runme"
+date = 2006-01-01 23:45:40+00:00
+path = "/2006/01/01/draw-something-on-runme/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 I'm proud to announce that draw-something now has an entry at runme.org:  

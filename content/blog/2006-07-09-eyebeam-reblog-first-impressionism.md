@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-09 20:46:30+00:00
-layout: post
-slug: eyebeam-reblog-first-impressionism
-title: 'Eyebeam reBlog: First Impressionism'
-id: 1033
-categories:
-- Aesthetics
----
++++
+title = "Eyebeam reBlog: First Impressionism"
+date = 2006-07-09 20:46:30+00:00
+path = "/2006/07/09/eyebeam-reblog-first-impressionism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Eyebeam reBlog: First Impressionism](http://www.eyebeam.org/reblog/archives/2006/07/first_impressionism.html)  
   

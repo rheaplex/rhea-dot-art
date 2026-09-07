@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-12 04:29:00+00:00
-layout: post
-slug: from-bxal-to-pru
-title: From BxAL To PR(u)
-id: 1585
-categories:
-- Aesthetics
----
++++
+title = "From BxAL To PR(u)"
+date = 2008-03-12 04:29:00+00:00
+path = "/2008/03/12/from-bxal-to-pru/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Google's web search engine is an index of pages on the World Wide Web constructed and constantly reconstructed by algorithms running on thousands of computers in parallel. This "PageRank'" algorithm is a mathematical formalisation of the informal heuristic that academics use to judge the influence of a published paper. The more people cite the paper, or the more people link to the document, the higher its score.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-02 04:20:05+00:00
-layout: post
-slug: things-aaron-doesnt-do
-title: Things AARON Doesn't Do
-id: 139
-categories:
-- Generative Art
----
++++
+title = "Things AARON Doesn't Do"
+date = 2004-05-02 04:20:05+00:00
+path = "/2004/05/02/things-aaron-doesnt-do/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 What AARON does is fascinating, but AARON doesn't do is interesting as well.  
   

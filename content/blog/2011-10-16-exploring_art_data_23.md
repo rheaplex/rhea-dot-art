@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-16 17:49:53+00:00
-layout: post
-slug: exploring_art_data_23
-title: Exploring Art Data 23
-id: 1960
-categories:
-- Art Computing
-- Art Open Data
-- Free Software
----
++++
+title = "Exploring Art Data 23"
+date = 2011-10-16 17:49:53+00:00
+path = "/2011/10/16/exploring_art_data_23/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+    "Free Software",
+]
++++
 
 Having written a command-line interface (CLI), we will now write a graphical user interface (GUI). GUIs can be an effective way of managing the complexity of software, but their disadvantage is that they usually cannot be effectively scripted like CLI applications and that they usually cannot be extended or modified as simply or as deeply as code run from a REPL.  
   

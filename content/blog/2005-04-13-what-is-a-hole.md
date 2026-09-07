@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-13 04:56:02+00:00
-layout: post
-slug: what-is-a-hole
-title: What Is A Hole?
-id: 384
-categories:
-- Generative Art
----
++++
+title = "What Is A Hole?"
+date = 2005-04-13 04:56:02+00:00
+path = "/2005/04/13/what-is-a-hole/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 What is a hole? More specifically, what should [draw-something](http://rheart.sourceforge.net/) do to draw a hole in an existing shape?  
   

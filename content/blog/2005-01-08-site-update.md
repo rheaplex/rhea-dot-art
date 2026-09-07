@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-08 09:02:07+00:00
-layout: post
-slug: site-update
-title: Site Update
-id: 283
-categories:
-- Projects
----
++++
+title = "Site Update"
+date = 2005-01-08 09:02:07+00:00
+path = "/2005/01/08/site-update/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've updated this weblog to register on technorati and to work with Firefox/Mozilla's Live Bookmarks (via homepage.mac.com, not here :-/).  
   

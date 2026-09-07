@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-12-08 03:24:14+00:00
-layout: post
-slug: gowers-report-good-news-for-artists
-title: Gowers Report - Good News For Artists
-id: 1184
-categories:
-- Free Culture
----
++++
+title = "Gowers Report - Good News For Artists"
+date = 2006-12-08 03:24:14+00:00
+path = "/2006/12/08/gowers-report-good-news-for-artists/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [The Gowers Report](http://www.hm-treasury.gov.uk/independent_reviews/gowers_review_intellectual_property/gowersreview_index.cfm) contains some recommended measures regarding enforcement of copyright that should cause concern, but it also has some wonderful new proposals for "Flexibility" in copyright that I personally think are very good news for artists.  
   

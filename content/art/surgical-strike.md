@@ -1,10 +1,21 @@
 +++
 title = "Surgical Strike"
 date = 1996-01-01
+path = "/surgical-strike/"
+
+[extra]
 image = "/art-images/xerox_parc.png"
-mediums = ["PSD"]
-tools = ["PhotoShop", "QuickDraw 3D", "Metrowerks CodeWarrior"]
-repos = ["https://github.com/rheaplex/surgical_strike"]
+mediums = [
+    "PSD",
+]
+tools = [
+    "PhotoShop",
+    "QuickDraw 3D",
+    "Metrowerks CodeWarrior",
+]
+repos = [
+    "https://github.com/rheaplex/surgical_strike",
+]
 wp_id = 6686
 +++
 

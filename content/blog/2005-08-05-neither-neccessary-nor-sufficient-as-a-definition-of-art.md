@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-05 08:47:17+00:00
-layout: post
-slug: neither-neccessary-nor-sufficient-as-a-definition-of-art
-title: Neither Neccessary Nor Sufficient As A Definition Of Art
-id: 603
-categories:
-- Aesthetics
----
++++
+title = "Neither Neccessary Nor Sufficient As A Definition Of Art"
+date = 2005-08-05 08:47:17+00:00
+path = "/2005/08/05/neither-neccessary-nor-sufficient-as-a-definition-of-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Which is why they use it as they do :-) :  

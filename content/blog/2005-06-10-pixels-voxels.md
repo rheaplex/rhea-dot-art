@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-10 08:26:53+00:00
-layout: post
-slug: pixels-voxels
-title: Pixels, Voxels
-id: 486
-categories:
-- Generative Art
-- Howto
----
++++
+title = "Pixels, Voxels"
+date = 2005-06-10 08:26:53+00:00
+path = "/2005/06/10/pixels-voxels/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 Don't tell MIT, but a 3D pixel is called a voxel. :-)  

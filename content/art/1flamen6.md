@@ -1,14 +1,22 @@
 +++
 title = "1FLAMEN6"
 date = 2015-02-07
+aliases = [
+    "/1FLAMEN6/",
+]
+path = "/1flamen6/"
+
+[extra]
 image = "/art-images/1FLAMEN6.jpg"
-aliases = ["/1FLAMEN6/"]
-mediums = ["Bitcoin Private Key Encoding"]
+mediums = [
+    "Bitcoin Private Key Encoding",
+]
 wp_id = 6644
-[[collaborators]]
-  name = "@coin_artist"
-  role = "Painter of 'TORCHED H34R7S' (from her series 'The Legend of Satoshi Nakamoto'); Rhea provided Bitcoin-puzzle design support"
-  url = "https://twitter.com/coin_artist"
+
+[[extra.collaborators]]
+name = "@coin_artist"
+role = "Painter of 'TORCHED H34R7S' (from her series 'The Legend of Satoshi Nakamoto'); Rhea provided Bitcoin-puzzle design support"
+url = "https://twitter.com/coin_artist"
 +++
 
 [@coin_artist](https://twitter.com/coin_artist) specified the technical requirements for a puzzle containing a Bitcoin reward, and we discussed how to make it slightly harder for this particular work in her series “The Legend of Satoshi Nakamoto”.

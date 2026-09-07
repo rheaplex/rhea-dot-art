@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-24 22:05:45+00:00
-layout: post
-slug: support-by-sasfdl-compatibility-not-by-safdl-compatibility
-title: Support BY-SA/SFDL Compatibility, Not BY-SA/FDL Compatibility
-id: 1532
-categories:
-- Free Culture
----
++++
+title = "Support BY-SA/SFDL Compatibility, Not BY-SA/FDL Compatibility"
+date = 2007-11-24 22:05:45+00:00
+path = "/2007/11/24/support-by-sasfdl-compatibility-not-by-safdl-compatibility/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 With the Affero GPL released, the Free Software Foundation can now press on with revising the Free Documentation Licence (FDL).  
   

@@ -1,11 +1,14 @@
----
-title: "TFP Show Notes"
-author: ["Rhea Myers"]
-date: 2025-04-09
-lastmod: 2025-05-08
-categories: ["art", "exhibitions"]
-draft: false
----
++++
+title = "TFP Show Notes"
+date = 2025-04-09
+path = "/2025/04/09/tfp-show-notes/"
+
+[taxonomies]
+categories = [
+    "art",
+    "exhibitions",
+]
++++
 
 I am fantastically happy with how the show turned out.
 

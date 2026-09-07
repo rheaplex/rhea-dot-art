@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-11 04:58:00+00:00
-layout: post
-slug: free-culture-roundup-10
-title: Free Culture Roundup
-id: 862
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-03-11 04:58:00+00:00
+path = "/2006/03/11/free-culture-roundup-10/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Open University in the UK (very good for MBAs apparently) are becoming the first in the UK to offer open content under a Creative Commons Licence:  
   

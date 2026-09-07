@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-01-20 03:03:40+00:00
-layout: post
-slug: the-difference-between-hackers-and-painters
-title: The Difference Between hackers And Painters
-id: 81
-categories:
-- Satire
----
++++
+title = "The Difference Between hackers And Painters"
+date = 2004-01-20 03:03:40+00:00
+path = "/2004/01/20/the-difference-between-hackers-and-painters/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 A collection of Paul Graham's essays is going to be published by O'Reilley under the title "Hackers and Painters".   
 [Book announcement.](http://www.paulgraham.com/newbook.html)  

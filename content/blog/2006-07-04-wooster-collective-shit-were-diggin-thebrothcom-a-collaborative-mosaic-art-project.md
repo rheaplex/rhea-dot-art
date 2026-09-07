@@ -1,17 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-04 04:07:55+00:00
-layout: post
-slug: wooster-collective-shit-were-diggin-thebrothcom-a-collaborative-mosaic-art-project
-title: 'Wooster Collective: Shit We''re Diggin: TheBroth.com, a collaborative mosaic
-  art project.'
-id: 1020
-categories:
-- Aesthetics
-- Free Culture
-- Generative Art
----
++++
+title = "Wooster Collective: Shit We're Diggin: TheBroth.com, a collaborative mosaic art project."
+date = 2006-07-04 04:07:55+00:00
+path = "/2006/07/04/wooster-collective-shit-were-diggin-thebrothcom-a-collaborative-mosaic-art-project/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 [Wooster Collective: Shit We're Diggin: TheBroth.com, a collaborative mosaic art project.](http://www.woostercollective.com/2006/07/shit_were_diggin_thebrothcom_a_collabora.html)  
   

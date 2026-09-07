@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-27 04:18:38+00:00
-layout: post
-slug: why-i-didnt-like-american-mcgees-alice
-title: Why I Didn't Like American McGee's Alice
-id: 1578
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Why I Didn't Like American McGee's Alice"
+date = 2008-02-27 04:18:38+00:00
+path = "/2008/02/27/why-i-didnt-like-american-mcgees-alice/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 **Scene:** A restaurant, interior, night.  
   

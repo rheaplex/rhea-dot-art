@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-11-05 00:53:51+00:00
-layout: post
-slug: importing-tate-collection-data-into-mongodb
-title: Importing Tate Collection Data Into MongoDB
-id: 2399
-categories:
-- Art History
-- Art Open Data
-- Free Culture
----
++++
+title = "Importing Tate Collection Data Into MongoDB"
+date = 2013-11-05 00:53:51+00:00
+path = "/2013/11/05/importing-tate-collection-data-into-mongodb/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+    "Free Culture",
+]
++++
 
 You have to feed records into Mongo one per line. Like this:
 

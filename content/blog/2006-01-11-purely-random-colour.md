@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-11 08:31:17+00:00
-layout: post
-slug: purely-random-colour
-title: Purely Random Colour
-id: 779
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Purely Random Colour"
+date = 2006-01-11 08:31:17+00:00
+path = "/2006/01/11/purely-random-colour/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 ![Drawing-20060110-233251](/images/drawing-20060110-233251.jpg)  

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-10 08:51:04+00:00
-layout: post
-slug: videogame-teaches-female-sexual-gratification
-title: Videogame teaches female sexual gratification
-id: 754
-categories:
-- Aesthetics
-- Generative Art
-- Howto
----
++++
+title = "Videogame teaches female sexual gratification"
+date = 2005-12-10 08:51:04+00:00
+path = "/2005/12/10/videogame-teaches-female-sexual-gratification/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 [http://www.boingboing.net/2005/12/08/videogame_teaches_fe.html](http://www.boingboing.net/2005/12/08/videogame_teaches_fe.html)_  

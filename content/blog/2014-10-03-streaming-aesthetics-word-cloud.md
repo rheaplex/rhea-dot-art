@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-10-03 06:03:55+00:00
-layout: post
-slug: streaming-aesthetics-word-cloud
-title: Streaming Aesthetics Word Cloud
-id: 2631
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Projects
----
++++
+title = "Streaming Aesthetics Word Cloud"
+date = 2014-10-03 06:03:55+00:00
+path = "/2014/10/03/streaming-aesthetics-word-cloud/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Projects",
+]
++++
 
 [![cloud3](/images/2014/10/cloud3.png)](/images/2014/10/cloud3.png)
 [![cloud2](/images/2014/10/cloud2.png)](/images/2014/10/cloud2.png)

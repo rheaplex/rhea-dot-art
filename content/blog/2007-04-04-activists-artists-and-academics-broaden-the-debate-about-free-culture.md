@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-04 09:03:35+00:00
-layout: post
-slug: activists-artists-and-academics-broaden-the-debate-about-free-culture
-title: Activists, artists and academics broaden the debate about free culture
-id: 1257
-categories:
-- Free Culture
----
++++
+title = "Activists, artists and academics broaden the debate about free culture"
+date = 2007-04-04 09:03:35+00:00
+path = "/2007/04/04/activists-artists-and-academics-broaden-the-debate-about-free-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Free Culture Foundation - Activists, artists and academics broaden the debate about free culture](http://freeculturefoundation.org/news/2007-04-activists-artists-and-academics-broaden-the-debate-about-free-culture)  
   

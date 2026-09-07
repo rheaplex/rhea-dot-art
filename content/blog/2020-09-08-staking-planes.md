@@ -1,12 +1,13 @@
----
-id: 3890
-title: 'Staking Planes'
-date: '2020-09-08T10:03:09+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Crypto
----
++++
+title = "Staking Planes"
+date = 2020-09-08 10:03:09+00:00
+path = "/2020/09/08/staking-planes/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+]
++++
 
 =========o========= – Art  
 =========/========= – Media  

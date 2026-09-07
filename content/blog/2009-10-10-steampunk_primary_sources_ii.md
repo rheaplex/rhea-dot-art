@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-10-10 19:41:49+00:00
-layout: post
-slug: steampunk_primary_sources_ii
-title: Steampunk Primary Sources II
-id: 1805
-categories:
-- Aesthetics
-- links
----
++++
+title = "Steampunk Primary Sources II"
+date = 2009-10-10 19:41:49+00:00
+path = "/2009/10/10/steampunk_primary_sources_ii/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "links",
+]
++++
 
 More PDFs (and sometimes epubs) of original Victorian and Edwardian books of interest to Steampunks. See part one [here](http://books.google.com/books?id=rkkOAAAAYAAJ), and how these books were found [here](/weblog/2009/10/08/howto-search-for-public-domain-ebooks-using-google-books-and-archiveorg.html).  
   

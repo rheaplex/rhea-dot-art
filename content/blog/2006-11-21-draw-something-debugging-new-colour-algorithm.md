@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-21 09:07:09+00:00
-layout: post
-slug: draw-something-debugging-new-colour-algorithm
-title: 'draw-something: Debugging New Colour Algorithm'
-id: 1174
-categories:
-- Generative Art
----
++++
+title = "draw-something: Debugging New Colour Algorithm"
+date = 2006-11-21 09:07:09+00:00
+path = "/2006/11/21/draw-something-debugging-new-colour-algorithm/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 ![](/images/drawing20061120235837.png)  
   

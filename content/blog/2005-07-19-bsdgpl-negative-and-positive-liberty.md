@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-19 07:14:31+00:00
-layout: post
-slug: bsdgpl-negative-and-positive-liberty
-title: BSD/GPL, Negative and Positive Liberty
-id: 583
-categories:
-- Free Culture
----
++++
+title = "BSD/GPL, Negative and Positive Liberty"
+date = 2005-07-19 07:14:31+00:00
+path = "/2005/07/19/bsdgpl-negative-and-positive-liberty/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 At [Manik](http://tiija.blogspot.com/)'s suggestion I'm reading Isaiah Berlin's essays on [Liberty](http://www.oup.co.uk/isbn/0-19-924989-X). Berlin describes two kinds of liberty; negative liberty and positive liberty. Negative liberty is essentially the freedom to lead one's life without interference or coercion. Freedom from slavery. Positive liberty is the freedom to pursue one's own ends and realise one's potential. Freedom to create.  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-16 05:46:17+00:00
-layout: post
-slug: where-are-the-joneses-on-democracy-and-itms
-title: Where Are The Joneses? On Democracy and iTMS
-id: 1407
-categories:
-- Free Culture
----
++++
+title = "Where Are The Joneses? On Democracy and iTMS"
+date = 2007-07-16 05:46:17+00:00
+path = "/2007/07/16/where-are-the-joneses-on-democracy-and-itms/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Where Are The Joneses? channel for Democracy player (Free internet TV on GNU/Linux, Mac and Windows):  
   

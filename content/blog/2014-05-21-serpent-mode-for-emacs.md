@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-21 03:12:44+00:00
-layout: post
-slug: serpent-mode-for-emacs
-title: serpent-mode for Emacs
-id: 2574
-categories:
-- Free Software
-- Projects
----
++++
+title = "serpent-mode for Emacs"
+date = 2014-05-21 03:12:44+00:00
+path = "/2014/05/21/serpent-mode-for-emacs/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Projects",
+]
++++
 
 [![serpent-mode](/images/2014/05/serpent-mode.png)](/images/2014/05/serpent-mode.png)
 

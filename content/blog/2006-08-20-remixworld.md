@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-20 02:48:48+00:00
-layout: post
-slug: remixworld
-title: REMIXWORLD
-id: 1073
-categories:
-- Free Culture
----
++++
+title = "REMIXWORLD"
+date = 2006-08-20 02:48:48+00:00
+path = "/2006/08/20/remixworld/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [REMIXWORLD](http://remixworld.blogspot.com/)  
   

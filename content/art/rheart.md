@@ -1,8 +1,13 @@
 +++
 title = "rheart"
 date = 2004-01-01
+path = "/rheart/"
+
+[extra]
 image = "/art-images/drawinga.png"
-mediums = ["Common Lisp"]
+mediums = [
+    "Common Lisp",
+]
 wp_id = 6681
 +++
 

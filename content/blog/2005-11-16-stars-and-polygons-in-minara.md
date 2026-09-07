@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-16 05:14:11+00:00
-layout: post
-slug: stars-and-polygons-in-minara
-title: Stars And Polygons In Minara
-id: 724
-categories:
-- Personal
----
++++
+title = "Stars And Polygons In Minara"
+date = 2005-11-16 05:14:11+00:00
+path = "/2005/11/16/stars-and-polygons-in-minara/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
   
 ![200511152010](/images/200511152010.jpg)  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-22 08:55:27+00:00
-layout: post
-slug: paintr-explain-yourself
-title: 'paintr: explain yourself'
-id: 446
-categories:
-- Generative Art
-- Projects
----
++++
+title = "paintr: explain yourself"
+date = 2005-05-22 08:55:27+00:00
+path = "/2005/05/22/paintr-explain-yourself/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![](/images/wp-admin//assets/0.png)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-19 08:42:02+00:00
-layout: post
-slug: enter-the-mash-out
-title: Enter The Mash-Out
-id: 438
-categories:
-- Free Culture
----
++++
+title = "Enter The Mash-Out"
+date = 2005-05-19 08:42:02+00:00
+path = "/2005/05/19/enter-the-mash-out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Negative space is one of the fundamentals of art... Via the ever reliable [NewsGrist](http://newsgrist.typepad.com/) :  
   

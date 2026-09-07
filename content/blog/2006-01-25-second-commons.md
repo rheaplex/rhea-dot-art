@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-25 05:27:36+00:00
-layout: post
-slug: second-commons
-title: Second Commons
-id: 805
-categories:
-- Free Culture
----
++++
+title = "Second Commons"
+date = 2006-01-25 05:27:36+00:00
+path = "/2006/01/25/second-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Transcript of Lessig's talk in Second Life (via [BoingBoing](http://www.boingboing.net/2006/01/24/transcript_of_lessig.html)):  

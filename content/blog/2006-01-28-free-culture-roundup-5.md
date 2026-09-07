@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-28 07:07:53+00:00
-layout: post
-slug: free-culture-roundup-5
-title: Free Culture Roundup
-id: 806
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-01-28 07:07:53+00:00
+path = "/2006/01/28/free-culture-roundup-5/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _Madhav Sharma, an actor in the sabotaged 2004 production of Behzti (Dishonour) by Gurpreet Kaur Bhatti has written an impassioned account of his experience._  

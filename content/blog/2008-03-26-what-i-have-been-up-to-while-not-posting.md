@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-26 03:35:30+00:00
-layout: post
-slug: what-i-have-been-up-to-while-not-posting
-title: What I Have Been Up To While Not Posting
-id: 1590
-categories:
-- Free Culture
----
++++
+title = "What I Have Been Up To While Not Posting"
+date = 2008-03-26 03:35:30+00:00
+path = "/2008/03/26/what-i-have-been-up-to-while-not-posting/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [![2349013995_ac139bfca6_m.jpg](/images/2008/03/2349013995_ac139bfca6_m.jpg)](http://www.flickr.com/photos/marchankins/2349013995/sizes/o/in/photostream/)  
 Photo: Copyright Marc Hankins 2008, Licenced CC-BY-NC-SA GB 2.0  

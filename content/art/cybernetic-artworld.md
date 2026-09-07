@@ -1,9 +1,20 @@
 +++
 title = "The Cybernetic Artworld"
 date = 2009-01-01
+path = "/cybernetic-artworld/"
+
+[extra]
 image = "/art-images/pollock.png"
-mediums = ["Python", "Common Lisp", "Node.JS"]
-repos = ["https://github.com/rheaplex/cybernetic-artworld", "https://github.com/rheaplex/microblog-bots", "https://github.com/rheaplex/artbots"]
+mediums = [
+    "Python",
+    "Common Lisp",
+    "Node.JS",
+]
+repos = [
+    "https://github.com/rheaplex/cybernetic-artworld",
+    "https://github.com/rheaplex/microblog-bots",
+    "https://github.com/rheaplex/artbots",
+]
 wp_id = 6670
 +++
 

@@ -1,16 +1,20 @@
----
-id: 3278
-title: 'Proof of Work Bitmap'
-date: '2019-07-20T09:00:51+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Art
-    - Crypto
-    - Projects
----
++++
+title = "Proof of Work Bitmap"
+date = 2019-07-20 09:00:51+00:00
+path = "/2019/07/20/proof-of-work-bitmap/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 “Proof of Work Bitmap” (2019) shows a 16×16 pixel monochrome bitmap that lives on the Ethereum blockchain.
 

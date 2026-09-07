@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-01 03:27:29+00:00
-layout: post
-slug: open-art-containers
-title: 'Open Art: Containers'
-id: 57
-categories:
-- Free Culture
----
++++
+title = "Open Art: Containers"
+date = 2003-12-01 03:27:29+00:00
+path = "/2003/12/01/open-art-containers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Containers" is now available for download at the Open Content section of my site. The download includes preparatory work as extras.  
 [Click here to go there.](/open_content/)  

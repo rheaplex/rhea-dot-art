@@ -1,16 +1,20 @@
----
-id: 3797
-title: 'From WART to DeAes'
-date: '2020-03-08T17:25:23+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
----
++++
+title = "From WART to DeAes"
+date = 2020-03-08 17:25:23+00:00
+path = "/2020/03/08/from-wart-to-deaes/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 Building on some of the ideas of [WART (Wrapped Art)](/2020/02/23/wart-wrapped-art/) tokens gives us a powerful toolbox for organizing the evaluation and production of blockchain art.
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 06:01:33+00:00
-layout: post
-slug: art-and-mental-health
-title: Art And Mental Health
-id: 504
-categories:
-- Aesthetics
----
++++
+title = "Art And Mental Health"
+date = 2005-06-15 06:01:33+00:00
+path = "/2005/06/15/art-and-mental-health/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 The ever excellent Mindhacks on a site covering art and mental illness:  

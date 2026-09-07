@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-30 06:12:38+00:00
-layout: post
-slug: failed-transubstantiation
-title: Failed Transubstantiation
-id: 1672
-categories:
-- Aesthetics
----
++++
+title = "Failed Transubstantiation"
+date = 2008-09-30 06:12:38+00:00
+path = "/2008/09/30/failed-transubstantiation/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 When I was at art school, two of my colleagues found a wall from a  
 demolished building on some wasteland out of town that would have made  

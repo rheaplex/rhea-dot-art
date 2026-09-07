@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-09 05:05:55+00:00
-layout: post
-slug: boing-boing-freeculture-uk-launches-monthly-free-culture-zine
-title: 'Boing Boing: FreeCulture UK launches monthly free culture zine'
-id: 1062
-categories:
-- Free Culture
----
++++
+title = "Boing Boing: FreeCulture UK launches monthly free culture zine"
+date = 2006-08-09 05:05:55+00:00
+path = "/2006/08/09/boing-boing-freeculture-uk-launches-monthly-free-culture-zine/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Boing Boing: FreeCulture UK launches monthly free culture zine](http://www.boingboing.net/2006/08/07/freeculture_uk_launc.html)  
   

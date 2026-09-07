@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-09 06:01:24+00:00
-layout: post
-slug: groklaw-on-the-british-librarys-drm-sell-out
-title: GROKLAW on The British Library's DRM Sell-Out
-id: 919
-categories:
-- Free Culture
----
++++
+title = "GROKLAW on The British Library's DRM Sell-Out"
+date = 2006-05-09 06:01:24+00:00
+path = "/2006/05/09/groklaw-on-the-british-librarys-drm-sell-out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [GROKLAW](http://www.groklaw.net/article.php?story=20060317044847293)  
   

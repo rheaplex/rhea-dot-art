@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-08 23:57:24+00:00
-layout: post
-slug: kollabor8-digital-art-collaboration-online-photoshop-tennis-for-the-masses
-title: kollabor8 | digital art collaboration online | photoshop tennis for the masses
-id: 1031
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "kollabor8 | digital art collaboration online | photoshop tennis for the masses"
+date = 2006-07-08 23:57:24+00:00
+path = "/2006/07/08/kollabor8-digital-art-collaboration-online-photoshop-tennis-for-the-masses/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [kollabor8 | digital art collaboration online | photoshop tennis for the masses](http://kollabor8.toegristle.com/)  
   

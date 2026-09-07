@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-01 04:14:52+00:00
-layout: post
-slug: new-sharealike-images
-title: New Sharealike Images
-id: 593
-categories:
-- Free Culture
----
++++
+title = "New Sharealike Images"
+date = 2005-08-01 04:14:52+00:00
+path = "/2005/08/01/new-sharealike-images/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Some good abstract base images from Mitch Featherston:  

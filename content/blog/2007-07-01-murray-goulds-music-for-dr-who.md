@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-01 07:38:34+00:00
-layout: post
-slug: murray-goulds-music-for-dr-who
-title: Murray Gould's Music For Dr. Who
-id: 1385
-categories:
-- Reviews
----
++++
+title = "Murray Gould's Music For Dr. Who"
+date = 2007-07-01 07:38:34+00:00
+path = "/2007/07/01/murray-goulds-music-for-dr-who/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I'd like to say that despite my initial misgivings about his musical competence, Murray Gould's scores for Dr. Who have progressed from kitsch confections of unsubtle, intrusive, mawkish knob-twiddling made by someone who has a repertoire that stretches only from fairground music to the back catalogue of Stock, Aitken & Waterman and that they have become deep, well-fitted, powerful enrichments of the very emotional timbre of every scene.  
   

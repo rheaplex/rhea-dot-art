@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-15 04:32:10+00:00
-layout: post
-slug: elephants-dream-score-licensing
-title: Elephants Dream Score Licensing
-id: 980
-categories:
-- Free Culture
----
++++
+title = "Elephants Dream Score Licensing"
+date = 2006-06-15 04:32:10+00:00
+path = "/2006/06/15/elephants-dream-score-licensing/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Elephants Dream » Archive » Complete score available for download](http://orange.blender.org/blog/complete-score-available-for-download/#comments)  
   

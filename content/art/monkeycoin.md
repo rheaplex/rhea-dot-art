@@ -1,8 +1,14 @@
 +++
 title = "Monkeycoin"
 date = 2014-05-04
+path = "/monkeycoin/"
+
+[extra]
 image = "/art-images/monkeycoin.png"
-mediums = ["HTML5", "JavaScript"]
+mediums = [
+    "HTML5",
+    "JavaScript",
+]
 wp_id = 6661
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-07 06:38:50+00:00
-layout: post
-slug: incentivization
-title: Incentivization
-id: 1571
-categories:
-- Satire
----
++++
+title = "Incentivization"
+date = 2008-02-07 06:38:50+00:00
+path = "/2008/02/07/incentivization/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 **Scene:** A bank boardroom somewhere in the North of England. Eight bored-looking old men are sat around an oval table.  
   

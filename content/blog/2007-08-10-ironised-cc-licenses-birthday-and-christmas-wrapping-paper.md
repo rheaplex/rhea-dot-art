@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-10 08:15:13+00:00
-layout: post
-slug: ironised-cc-licenses-birthday-and-christmas-wrapping-paper
-title: Ironised CC Licenses (Birthday and Christmas Wrapping Paper)
-id: 1438
-categories:
-- Free Culture
-- Projects
-- Satire
----
++++
+title = "Ironised CC Licenses (Birthday and Christmas Wrapping Paper)"
+date = 2007-08-10 08:15:13+00:00
+path = "/2007/08/10/ironised-cc-licenses-birthday-and-christmas-wrapping-paper/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+    "Satire",
+]
++++
 
 ![Wrapping Paper](/images/2007/08/wrapping-paper1.png)  
   

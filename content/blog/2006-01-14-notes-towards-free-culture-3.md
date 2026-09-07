@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-14 08:26:55+00:00
-layout: post
-slug: notes-towards-free-culture-3
-title: Notes Towards Free Culture
-id: 787
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2006-01-14 08:26:55+00:00
+path = "/2006/01/14/notes-towards-free-culture-3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Microsoft trying to patent smiley faces. ](http://righttocreate.blogspot.com/2006/01/ridiculous-patent-smiley-faces.html)I have prior art...  

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-04-21 15:56:03+00:00
-layout: post
-slug: not_now_james_were_busy
-title: Not Now James, We're Busy
-id: 1989
-categories:
-- Aesthetics
-- Culture
-- Politics
----
++++
+title = "Not Now James, We're Busy"
+date = 2012-04-21 15:56:03+00:00
+path = "/2012/04/21/not_now_james_were_busy/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Culture",
+    "Politics",
+]
++++
 
 This post does not include the phrase "frantic academic clopping".  
   

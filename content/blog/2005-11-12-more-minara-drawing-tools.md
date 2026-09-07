@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-12 06:50:49+00:00
-layout: post
-slug: more-minara-drawing-tools
-title: More Minara Drawing Tools
-id: 722
-categories:
-- Projects
----
++++
+title = "More Minara Drawing Tools"
+date = 2005-11-12 06:50:49+00:00
+path = "/2005/11/12/more-minara-drawing-tools/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Circle, square, rectangle and polyline join pen and Subjects:  

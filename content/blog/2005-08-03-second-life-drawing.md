@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-03 04:16:45+00:00
-layout: post
-slug: second-life-drawing
-title: Second Life Drawing
-id: 598
-categories:
-- Aesthetics
----
++++
+title = "Second Life Drawing"
+date = 2005-08-03 04:16:45+00:00
+path = "/2005/08/03/second-life-drawing/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 An article on a Life Drawing class in Second Life:  

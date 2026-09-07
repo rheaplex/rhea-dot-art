@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-09-03 05:01:19+00:00
-layout: post
-slug: what-is-an-artist-on-wikipedia
-title: What Is An Artist (On Wikipedia)?
-id: 2394
-categories:
-- Aesthetics
-- Art
-- Art History
-- Art Open Data
----
++++
+title = "What Is An Artist (On Wikipedia)?"
+date = 2013-09-03 05:01:19+00:00
+path = "/2013/09/03/what-is-an-artist-on-wikipedia/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 [Wikipedia](https://www.wikipedia.org/) is the free online encyclopedia. It features articles on many thousands of artists. In the paper "Art History on Wikipedia, a Macroscopic Observation", Doron Goldfarb et al use the Getty Union List Of Artist Names, via the Virtual Internet Authority File, as a name authority to find artists on Wikipedia. This approach has the advantage of authority, ULAN is used as the name authority by many projects including the Europeana open metadata project. But it has the disadvantage of imposing an external concept of who an artist is onto Wikipedia. If a way could be found of identifying artists using the information contained in Wikipedia's articles, this would mean that we can use Wikipedia's own concept of what an artist is to identify artists on Wikipedia rather than using an external authority.
 

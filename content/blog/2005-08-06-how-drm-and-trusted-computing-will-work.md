@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-06 06:38:42+00:00
-layout: post
-slug: how-drm-and-trusted-computing-will-work
-title: How DRM And Trusted Computing Will Work
-id: 605
-categories:
-- Free Culture
----
++++
+title = "How DRM And Trusted Computing Will Work"
+date = 2005-08-06 06:38:42+00:00
+path = "/2005/08/06/how-drm-and-trusted-computing-will-work/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 There's a new breed of pro-DRM FUD doing the rounds. DRM, they say, is a means of protecting our secrets from prying eyes (apart from the backdoors), of keeping our baby photos from perverts (who won't DRM their hard drives), and of selling our intellectual property to make money (because everyone will pay for bad guitar music and have DRM-ed systems to play it on).  

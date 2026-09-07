@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-06 06:33:44+00:00
-layout: post
-slug: will-fair-use-survive
-title: Will Fair Use Survive?
-id: 748
-categories:
-- Free Culture
----
++++
+title = "Will Fair Use Survive?"
+date = 2005-12-06 06:33:44+00:00
+path = "/2005/12/06/will-fair-use-survive/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 "Will Fair Use Survive? Free Expression in the Age of Copyright Control"  

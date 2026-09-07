@@ -1,16 +1,18 @@
----
-title: About "Is Art"
-date: 2017-05-21 20:49:00.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Ethereum
-- Projects
-- Shows
-author: Rhea Myers
----
++++
+title = "About \"Is Art\""
+date = 2017-05-21 20:49:00-07:00
+path = "/2017/05/21/about-is-art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Ethereum",
+    "Projects",
+    "Shows",
+]
++++
+
 *This is the text for the current showing of "Is Art".*
 
 **"Is Art", 2016/2017, Ethereum DApp, Rhea Myers.**

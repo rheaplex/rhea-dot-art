@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-07 08:08:27+00:00
-layout: post
-slug: the-economic-question-for-art
-title: The Economic Question For Art
-id: 1648
-categories:
-- Aesthetics
----
++++
+title = "The Economic Question For Art"
+date = 2008-08-07 08:08:27+00:00
+path = "/2008/08/07/the-economic-question-for-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 There are often two sides to any story and trying to flatten it breaks both. Contradictions are ever present.  
   

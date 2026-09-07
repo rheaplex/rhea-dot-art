@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-14 06:17:09+00:00
-layout: post
-slug: dance-notation
-title: Dance Notation
-id: 1350
-categories:
-- Aesthetics
-- Notebook
----
++++
+title = "Dance Notation"
+date = 2007-06-14 06:17:09+00:00
+path = "/2007/06/14/dance-notation/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Notebook",
+]
++++
 
 [http://en.wikipedia.org/wiki/Dance_notation](http://en.wikipedia.org/wiki/Dance_notation)  
 [Labanotiation](http://dancenotation.org/DNB/)  

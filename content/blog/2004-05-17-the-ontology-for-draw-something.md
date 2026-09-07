@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-17 00:42:00+00:00
-layout: post
-slug: the-ontology-for-draw-something
-title: The Ontology For “Draw Something”
-id: 151
-categories:
-- Projects
----
++++
+title = "The Ontology For “Draw Something”"
+date = 2004-05-17 00:42:00+00:00
+path = "/2004/05/17/the-ontology-for-draw-something/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've started working on the ontology for my program "Draw Something". It's currently based on my unpublished "ae" toy aesthetic program, but I need something heavier duty for the full program.  
 In computing an ontology is data that represents knowledge, particularly facts and rules. So for a medical program, the ontology would contain information about which drugs treat which conditions, and how those drugs interact. In philosophy, ontology is the metaphysics of being and categories of being. Both meanings are applicable to Draw Something's ontology; it's a computer representation of an investigation into what art is and how you produce art-objects.  

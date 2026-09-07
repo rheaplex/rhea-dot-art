@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-07 07:13:35+00:00
-layout: post
-slug: contemporary-art-daily-most-frequently-mentioned-named-entities
-title: Contemporary Art Daily Most Frequently Mentioned Named Entities
-id: 2622
-categories:
-- Art
-- Projects
----
++++
+title = "Contemporary Art Daily Most Frequently Mentioned Named Entities"
+date = 2014-09-07 07:13:35+00:00
+path = "/2014/09/07/contemporary-art-daily-most-frequently-mentioned-named-entities/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Projects",
+]
++++
 
 Named entities mentioned fifty or more times by press releases in the Contemporary Art Data blog dataset (NLTK):
 

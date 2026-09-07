@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-20 08:06:00+00:00
-layout: post
-slug: hackers-and-painters
-title: Hackers And Painters
-id: 154
-categories:
-- Generative Art
----
++++
+title = "Hackers And Painters"
+date = 2004-05-20 08:06:00+00:00
+path = "/2004/05/20/hackers-and-painters/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Hackers and Painters is out. It looks good. I'm just waiting for Amazon.uk to get my copy past the tachyon projectors.  

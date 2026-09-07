@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-06 06:07:26+00:00
-layout: post
-slug: the-siren-call-of-pixels
-title: The Siren Call Of Pixels
-id: 773
-categories:
-- Generative Art
-- Projects
----
++++
+title = "The Siren Call Of Pixels"
+date = 2006-01-06 06:07:26+00:00
+path = "/2006/01/06/the-siren-call-of-pixels/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 draw-something is vector graphics based. Everything is lines. I like vector graphics, I feel it's my medium. But this implementation has the problem that every line added to the drawing makes calculating distances between parts of the drawing more complex. It adds a lot of lines, one per pixel or so. Every time I think about this, I think that I should be using a pixel-based approach like AARON, where adding a new element to the drawing can never increase the complexity above the level of detail the pixels start at.  

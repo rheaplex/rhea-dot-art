@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-21 06:03:29+00:00
-layout: post
-slug: participatory-fannishness
-title: Participatory Fannishness
-id: 1530
-categories:
-- Free Culture
----
++++
+title = "Participatory Fannishness"
+date = 2007-11-21 06:03:29+00:00
+path = "/2007/11/21/participatory-fannishness/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [This Blog Sits at the: Fan fathoming](http://www.cultureby.com/trilogy/2007/11/fan-fathoming.html)  
 _Alexander noted in passing that one of the ways Heroes builds the narrative is through a process of rapid prototyping.  This lets the writing team bring themes forward quickly and examine their options.  And I found myself thinking, "well, why not let the fans do this?"_  

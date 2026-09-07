@@ -1,9 +1,15 @@
 +++
 title = "Exploring Art Data"
 date = 2015-01-11
+path = "/exploring-art-data/"
+
+[extra]
 date_provisional = true
 image = "/art-images/tate-movements-sna-preview.png"
-mediums = ["Python", "GeoData"]
+mediums = [
+    "Python",
+    "GeoData",
+]
 wp_id = 6645
 +++
 

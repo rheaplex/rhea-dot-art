@@ -1,10 +1,15 @@
 +++
 title = "Bad Shibe"
 date = 2017-05-04
+path = "/publications/bad-shibe-book/"
+
+[extra]
 publication_type = "book"
 publisher = "Furtherfield, London"
 url_external = "http://archive.furtherfield.org/projects/bad-shibe-sci-fi-novella-rob-myers"
-related_works = ["bad-shibe"]
+related_works = [
+    "bad-shibe",
+]
 wp_id = 6866
 +++
 

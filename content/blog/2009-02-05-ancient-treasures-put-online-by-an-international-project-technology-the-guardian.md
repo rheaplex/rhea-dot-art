@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-05 21:11:25+00:00
-layout: post
-slug: ancient-treasures-put-online-by-an-international-project-technology-the-guardian
-title: Ancient treasures put online by an international project | Technology | The
-  Guardian
-id: 1719
-categories:
-- Free Culture
----
++++
+title = "Ancient treasures put online by an international project | Technology | The Guardian"
+date = 2009-02-05 21:11:25+00:00
+path = "/2009/02/05/ancient-treasures-put-online-by-an-international-project-technology-the-guardian/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 <blockquote>_Tens of thousands of Buddhist manuscripts, paintings and other treasures scattered around the world have been brought together in probably the world's largest computer database of its kind._  
   

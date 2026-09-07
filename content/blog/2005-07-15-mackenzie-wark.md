@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-15 07:59:10+00:00
-layout: post
-slug: mackenzie-wark
-title: Mackenzie Wark
-id: 578
-categories:
-- Free Culture
----
++++
+title = "Mackenzie Wark"
+date = 2005-07-15 07:59:10+00:00
+path = "/2005/07/15/mackenzie-wark/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Mackenzie Wark's website:  

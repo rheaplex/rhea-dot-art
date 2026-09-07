@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-21 21:40:37+00:00
-layout: post
-slug: nominato_ergo_blog
-title: Nominato Ergo Blog
-id: 1799
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Nominato Ergo Blog"
+date = 2009-09-21 21:40:37+00:00
+path = "/2009/09/21/nominato_ergo_blog/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 Careerism means not letting art production get in the way of promoting yourself. Actually doing things takes away valuable time that could be spent on schmoozing and self-promotion. The oh-if-I-must artistic pseudo-practice of choice squeezed in (and out) during spare moments by early 21st century careerists is cretino-nominative art. They tend to blame Duchamp for this.  
   

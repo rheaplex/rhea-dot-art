@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-08 14:32:28+00:00
-layout: post
-slug: balloon_dog
-title: Balloon Dog
-id: 1953
-categories:
-- Art
-- Free Culture
-- Projects
----
++++
+title = "Balloon Dog"
+date = 2011-10-08 14:32:28+00:00
+path = "/2011/10/08/balloon_dog/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+    "Projects",
+]
++++
 
 My 3D printing art project "[Balloon Dog](http://www.furtherfield.org/projects/balloon-dog-rhea-myers)" is now available as part of [Collaboration and Freedom - The World of Free and Open Source Art](http://www.artscouncil.org.uk/about-us/digital-innovation-development/thinking-digital/collaboration-and-freedom/). [Furtherfield](http://www.furtherfield.org/projects/balloon-dog-rhea-myers) commissioned it as a sequel to [Urinal](/art/urinal/).  
   

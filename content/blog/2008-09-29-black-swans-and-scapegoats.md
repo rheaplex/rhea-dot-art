@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-29 07:18:26+00:00
-layout: post
-slug: black-swans-and-scapegoats
-title: Black Swans and Scapegoats
-id: 1669
-categories:
-- Satire
----
++++
+title = "Black Swans and Scapegoats"
+date = 2008-09-29 07:18:26+00:00
+path = "/2008/09/29/black-swans-and-scapegoats/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 As capitalism does another ideological reset the excuse du jour is that the credit crunch was a highly improbable event, a "black swan" (it's not just a bad song by Thom Yhork).  
   

@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-25 20:49:01+00:00
-layout: post
-slug: baldessarinator
-title: Baldessarinator
-id: 1949
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Baldessarinator"
+date = 2011-09-25 20:49:01+00:00
+path = "/2011/09/25/baldessarinator/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 ![5388143519_bd4361200a-balderassinated.jpeg](/5388143519_bd4361200a-balderassinated.jpeg)
 [https://github.com/rheaplex/baldessarinator](https://github.com/rheaplex/baldessarinator)  

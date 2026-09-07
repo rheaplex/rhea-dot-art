@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-11 05:48:12+00:00
-layout: post
-slug: radiohead-in-rainbows
-title: radiohead in rainbows
-id: 1503
-categories:
-- Free Culture
----
++++
+title = "radiohead in rainbows"
+date = 2007-10-11 05:48:12+00:00
+path = "/2007/10/11/radiohead-in-rainbows/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-06 07:20:49+00:00
-layout: post
-slug: free-presentation-software
-title: Free Presentation Software
-id: 608
-categories:
-- Free Culture
----
++++
+title = "Free Presentation Software"
+date = 2005-08-06 07:20:49+00:00
+path = "/2005/08/06/free-presentation-software/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 A free presentation package that runs in a web browser and doesn't suck. Get that proprietary slideshow software off your conscience with S5 (via [NTK](http://www.ntk.net/)):  

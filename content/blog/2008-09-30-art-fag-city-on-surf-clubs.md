@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-30 05:55:00+00:00
-layout: post
-slug: art-fag-city-on-surf-clubs
-title: Art Fag City On Surf Clubs
-id: 1671
-categories:
-- Aesthetics
----
++++
+title = "Art Fag City On Surf Clubs"
+date = 2008-09-30 05:55:00+00:00
+path = "/2008/09/30/art-fag-city-on-surf-clubs/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [http://www.artfagcity.com/2008/09/29/lost-not-found-the-unnamed-sources/](http://www.artfagcity.com/2008/09/29/lost-not-found-the-unnamed-sources/)  
   

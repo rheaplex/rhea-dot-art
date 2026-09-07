@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-09 06:03:17+00:00
-layout: post
-slug: free-culture-roundup-3
-title: Free Culture Roundup
-id: 667
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2005-09-09 06:03:17+00:00
+path = "/2005/09/09/free-culture-roundup-3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The BBC has released content under the Creative Archive License, and are holding a remix competition:  
   

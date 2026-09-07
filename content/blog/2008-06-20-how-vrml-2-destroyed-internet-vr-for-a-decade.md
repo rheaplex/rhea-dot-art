@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-20 04:59:42+00:00
-layout: post
-slug: how-vrml-2-destroyed-internet-vr-for-a-decade
-title: How VRML 2 Destroyed Internet VR For A Decade
-id: 1612
-categories:
-- Generative Art
----
++++
+title = "How VRML 2 Destroyed Internet VR For A Decade"
+date = 2008-06-20 04:59:42+00:00
+path = "/2008/06/20/how-vrml-2-destroyed-internet-vr-for-a-decade/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 In the mid-1990s there were four problems with internet-based Virtual Reality (VR).  
   

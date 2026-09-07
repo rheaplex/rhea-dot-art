@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-20 09:40:10+00:00
-layout: post
-slug: copyleft-concepts-2
-title: Copyleft Concepts 2
-id: 1076
-categories:
-- Free Culture
----
++++
+title = "Copyleft Concepts 2"
+date = 2006-08-20 09:40:10+00:00
+path = "/2006/08/20/copyleft-concepts-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 **Volunteerism**  

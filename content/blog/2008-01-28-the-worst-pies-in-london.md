@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-28 02:35:17+00:00
-layout: post
-slug: the-worst-pies-in-london
-title: The Worst Pies In London
-id: 1567
-categories:
-- Reviews
----
++++
+title = "The Worst Pies In London"
+date = 2008-01-28 02:35:17+00:00
+path = "/2008/01/28/the-worst-pies-in-london/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 The broadsheets haven't been kind to Sweeney Todd. The Grauniad bemoaned Tim Burton discarding the play's critique of capitalism while The Sunday Times was upset that there weren't any proper tunes in Sondheim's score. Oh, wait, I got that the wrong way round. The Times wanted more class activism, The Graun wanted something to hum. What is the world coming to?  
   

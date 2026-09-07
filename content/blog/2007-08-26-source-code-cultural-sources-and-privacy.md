@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-26 09:34:09+00:00
-layout: post
-slug: source-code-cultural-sources-and-privacy
-title: Source Code, Cultural Sources And Privacy
-id: 1466
-categories:
-- Free Culture
----
++++
+title = "Source Code, Cultural Sources And Privacy"
+date = 2007-08-26 09:34:09+00:00
+path = "/2007/08/26/source-code-cultural-sources-and-privacy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The GPL has a patent-style requirement of disclosure for the source code of binary executables that are publicly distributed.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-05 18:05:00+00:00
-layout: post
-slug: collateral-damage
-title: Collateral Damage
-id: 163
-categories:
-- Free Culture
----
++++
+title = "Collateral Damage"
+date = 2004-06-05 18:05:00+00:00
+path = "/2004/06/05/collateral-damage/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Ken Brown's efforts on behalf of Microsoft have shifted to creating new terminology for proprietary software vendors to use and trying to change the meanings of words. Ken wants to change "Open Source" to mean asset-stripping (BSD) licenses, which for him means that value-creation licenses (GPL) become -shudder- "Hybrid Source".  

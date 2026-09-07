@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-07 06:46:57+00:00
-layout: post
-slug: computing-corporate-critical-contemporary
-title: Computing, Corporate, Critical, Contemporary
-id: 1583
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Computing, Corporate, Critical, Contemporary"
+date = 2008-03-07 06:46:57+00:00
+path = "/2008/03/07/computing-corporate-critical-contemporary/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 Harold Cohen's AARON is exemplary art. Cohen's painting of the 1960s was world-class abstraction, a serious and capable investigation into the nature of signification in image-making. His adoption of computer technology as a way of furthering this investigation was not opportunistic or promotional, it was a natural and effective embracing of a means of furthering his artistic aims. The aesthetic and critical content of Cohen's painting has continued and extended in his art computing work.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-22 03:17:36+00:00
-layout: post
-slug: commonplaces
-title: CommonPlaces
-id: 351
-categories:
-- Free Culture
----
++++
+title = "CommonPlaces"
+date = 2005-03-22 03:17:36+00:00
+path = "/2005/03/22/commonplaces/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A periodical about art and the public domain, via [Rhizome](http://rhizome.org/netartnews/story.rhiz?&timestamp=20050321) :  
   

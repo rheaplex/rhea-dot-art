@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-02-21 03:57:57+00:00
-layout: post
-slug: why-the-new-colouring-algorithm-works
-title: Why The New Colouring Algorithm Works
-id: 1232
-categories:
-- Aesthetics
-- Generative Art
-- Projects
----
++++
+title = "Why The New Colouring Algorithm Works"
+date = 2007-02-21 03:57:57+00:00
+path = "/2007/02/21/why-the-new-colouring-algorithm-works/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Projects",
+]
++++
 
 AARON's new colouring algorithm works very well, as Harold Cohen said when he described it. What he didn't go into was why.  
   

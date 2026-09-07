@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 10:11:46+00:00
-layout: post
-slug: portrait-of-the-artist
-title: Portrait Of The Artist…
-id: 508
-categories:
-- Aesthetics
----
++++
+title = "Portrait Of The Artist…"
+date = 2005-06-15 10:11:46+00:00
+path = "/2005/06/15/portrait-of-the-artist/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 You can get some of the texts this article mentions online, but others will require a trip to Amazon:  

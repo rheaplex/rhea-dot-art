@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-27 04:32:35+00:00
-layout: post
-slug: cnuk-restore
-title: CNUK Restore
-id: 330
-categories:
-- Free Culture
----
++++
+title = "CNUK Restore"
+date = 2005-02-27 04:32:35+00:00
+path = "/2005/02/27/cnuk-restore/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 CNUK had a server crash.  
   

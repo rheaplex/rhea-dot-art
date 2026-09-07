@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-28 05:37:08+00:00
-layout: post
-slug: my-commute
-title: My Commute
-id: 1010
-categories:
-- Projects
----
++++
+title = "My Commute"
+date = 2006-06-28 05:37:08+00:00
+path = "/2006/06/28/my-commute/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 To work (left) and back (right). Home is at the bottom, work is at the top.  

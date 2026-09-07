@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-25 15:42:56+00:00
-layout: post
-slug: exploring_art_data_10
-title: Exploring Art Data 10
-id: 1899
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Exploring Art Data 10"
+date = 2010-12-25 15:42:56+00:00
+path = "/2010/12/25/exploring_art_data_10/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Let's make a word clouds for all the artists:  
   

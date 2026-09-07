@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-28 07:28:17+00:00
-layout: post
-slug: drm-the-elevator-pitch-for-hackers
-title: 'DRM: The Elevator Pitch For Hackers'
-id: 1121
-categories:
-- Free Culture
----
++++
+title = "DRM: The Elevator Pitch For Hackers"
+date = 2006-09-28 07:28:17+00:00
+path = "/2006/09/28/drm-the-elevator-pitch-for-hackers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 DRM isn't code, it's law.  
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-22 06:05:19+00:00
-layout: post
-slug: ten-years-since-fuse94
-title: Ten Years Since Fuse94
-id: 249
-categories:
-- Aesthetics
----
++++
+title = "Ten Years Since Fuse94"
+date = 2004-11-22 06:05:19+00:00
+path = "/2004/11/22/ten-years-since-fuse94/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 It's ten years since "Fuse 94". I was there, an art student at a typography conference, and it was great. The best speakers were definitely [Letterror](http://www.letterror.com/), whose work on smart fonts influenced my work quite majorly.  
   

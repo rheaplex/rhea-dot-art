@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-25 08:45:25+00:00
-layout: post
-slug: office-party
-title: Office Party
-id: 1314
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Office Party"
+date = 2007-05-25 08:45:25+00:00
+path = "/2007/05/25/office-party/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 "Songs Held In Offices", 2006, is a seried of works by Art & Language (A&L;). They consists of colourful paper chains mounted in shallow wooden vitrines. The chains are modernist in their coloured formality, set in minimalist boxes. The effect is a kind of Art Povera postmodernism. Until you consider what the chains mean.  
   

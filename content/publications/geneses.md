@@ -1,9 +1,14 @@
 +++
 title = "Geneses"
 date = 2016-10-12
+aliases = [
+    "/geneses/",
+]
+path = "/publications/geneses/"
+
+[extra]
 publication_type = "book"
 image = "/publication-images/geneses.png"
-aliases = ["/geneses/"]
 publisher = "Lulu"
 url_external = "http://www.lulu.com/shop/rob-myers/geneses/paperback/product-22889958.html"
 wp_id = 2933

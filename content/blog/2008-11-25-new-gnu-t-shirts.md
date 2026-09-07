@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-11-25 05:12:24+00:00
-layout: post
-slug: new-gnu-t-shirts
-title: New GNU T-Shirts
-id: 1694
-categories:
-- Free Culture
-- Projects
----
++++
+title = "New GNU T-Shirts"
+date = 2008-11-25 05:12:24+00:00
+path = "/2008/11/25/new-gnu-t-shirts/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 I did the graphic design for some new tshirts from the FSF -  
   

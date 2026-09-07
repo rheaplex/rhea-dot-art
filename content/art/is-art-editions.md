@@ -1,9 +1,17 @@
 +++
 title = "Is Art (Editions)"
 date = 2023-02-19
+path = "/is-art-editions/"
+
+[extra]
 image = "/art-images/is-art-token-is.png"
-mediums = ["Ethereum ERC-721 NFT"]
-aliases_names = ["Is Art (Token)", "Is Art (Token, Because)"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+]
+aliases_names = [
+    "Is Art (Token)",
+    "Is Art (Token, Because)",
+]
 wp_id = 6621
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-20 04:58:22+00:00
-layout: post
-slug: good-slashdot-comment
-title: Good Slashdot Comment
-id: 390
-categories:
-- Free Culture
----
++++
+title = "Good Slashdot Comment"
+date = 2005-04-20 04:58:22+00:00
+path = "/2005/04/20/good-slashdot-comment/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Slashdot comment on open source and art:  
   

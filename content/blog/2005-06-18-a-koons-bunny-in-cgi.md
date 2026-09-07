@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-18 23:10:38+00:00
-layout: post
-slug: a-koons-bunny-in-cgi
-title: A Koons Bunny in CGI?
-id: 520
-categories:
-- Aesthetics
----
++++
+title = "A Koons Bunny in CGI?"
+date = 2005-06-18 23:10:38+00:00
+path = "/2005/06/18/a-koons-bunny-in-cgi/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 An idea from MTAA-RR:  

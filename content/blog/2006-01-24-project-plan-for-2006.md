@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-24 04:17:35+00:00
-layout: post
-slug: project-plan-for-2006
-title: Project Plan For 2006
-id: 802
-categories:
-- Projects
----
++++
+title = "Project Plan For 2006"
+date = 2006-01-24 04:17:35+00:00
+path = "/2006/01/24/project-plan-for-2006/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Jan - draw-something  

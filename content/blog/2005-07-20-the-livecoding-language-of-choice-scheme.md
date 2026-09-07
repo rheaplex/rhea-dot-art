@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-20 03:22:29+00:00
-layout: post
-slug: the-livecoding-language-of-choice-scheme
-title: 'The Livecoding Language Of Choice: Scheme'
-id: 584
-categories:
-- Generative Art
----
++++
+title = "The Livecoding Language Of Choice: Scheme"
+date = 2005-07-20 03:22:29+00:00
+path = "/2005/07/20/the-livecoding-language-of-choice-scheme/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Scheme is a member of the Lisp family of languages. Lisp is almost fifty years old, and it's still the most advanced programming language there is. It's also one of the simplest: the only rule you have to remember is that (everything goes between brackets). These are both features that make Lisp good for implementing any new style of programming. Such as livecoding.  

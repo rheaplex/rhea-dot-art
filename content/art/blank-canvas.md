@@ -1,8 +1,16 @@
 +++
 title = "Blank Canvas"
 date = 2016-07-04
+path = "/blank-canvas/"
+
+[extra]
 image = "/art-images/blank-canvas2.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6643
 +++
 

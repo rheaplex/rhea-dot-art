@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-11-03 04:59:15+00:00
-layout: post
-slug: p2p-tuple-space
-title: p2p Tuple Space
-id: 242
-categories:
-- Projects
----
++++
+title = "p2p Tuple Space"
+date = 2004-11-03 04:59:15+00:00
+path = "/2004/11/03/p2p-tuple-space/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Use a p2p network as a JavaSpaces/Linda - style tuple space.  
   

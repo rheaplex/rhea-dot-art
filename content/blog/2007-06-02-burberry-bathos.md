@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-02 05:55:17+00:00
-layout: post
-slug: burberry-bathos
-title: Burberry Bathos
-id: 1331
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Burberry Bathos"
+date = 2007-06-02 05:55:17+00:00
+path = "/2007/06/02/burberry-bathos/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 "No Secret Painting V", 2006, is a work by Art & Language (A&L;) consisting of a large square dark abstract canvas accompanied by a smaller framed text that seems to refer to it.  
   

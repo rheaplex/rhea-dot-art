@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-13 17:39:34+00:00
-layout: post
-slug: more_streaming_aesthetics
-title: More Streaming Aesthetics
-id: 1869
-categories:
-- Aesthetics
-- Art
-- Art Computing
----
++++
+title = "More Streaming Aesthetics"
+date = 2010-11-13 17:39:34+00:00
+path = "/2010/11/13/more_streaming_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+]
++++
 
 I'm following up [Streaming Aesthetics (Colour)](/weblog/2010/06/streaming-aesthetics-colour.html) with some exploratory programming in Python using tweetstream and the python curses terminal library.
 

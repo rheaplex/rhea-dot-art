@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-22 05:48:57+00:00
-layout: post
-slug: notes-towards-free-culture-4
-title: Notes Towards Free Culture
-id: 896
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2006-04-22 05:48:57+00:00
+path = "/2006/04/22/notes-towards-free-culture-4/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Prominent VC: Abolish software patents!](http://www.boingboing.net/2006/04/13/prominent_vc_abolish.html)  

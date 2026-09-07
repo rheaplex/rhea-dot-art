@@ -1,9 +1,11 @@
----
-title: "The Quest For The One True Chain"
-image: "/images/StateMachinescover.png"
-type: "page"
-date: "2018-06-24"
----
++++
+title = "The Quest For The One True Chain"
+date = 2018-06-24
+path = "/the-quest-for-the-one-true-chain/"
+
+[extra]
+image = "/images/StateMachinescover.png"
++++
 
 ![The book cover of 'State Machines](/images/StateMachinescover.png)
 

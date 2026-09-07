@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-08 06:16:13+00:00
-layout: post
-slug: notes-towards-free-culture-n
-title: Notes Towards Free Culture n
-id: 475
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture n"
+date = 2005-06-08 06:16:13+00:00
+path = "/2005/06/08/notes-towards-free-culture-n/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [http://www.makezine.com/blog/archive/2005/06/walmart_wont_pr.html](http://www.makezine.com/blog/archive/2005/06/walmart_wont_pr.html)  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-25 05:15:02+00:00
-layout: post
-slug: greenberg-and-lyotard
-title: Greenberg and Lyotard
-id: 298
-categories:
-- Aesthetics
----
++++
+title = "Greenberg and Lyotard"
+date = 2005-01-25 05:15:02+00:00
+path = "/2005/01/25/greenberg-and-lyotard/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Interesting post on Greenberg and Lyotard:  
   

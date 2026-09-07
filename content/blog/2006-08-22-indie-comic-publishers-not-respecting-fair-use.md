@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-22 06:43:14+00:00
-layout: post
-slug: indie-comic-publishers-not-respecting-fair-use
-title: Indie Comic Publishers Not Respecting Fair Use
-id: 1086
-categories:
-- Free Culture
----
++++
+title = "Indie Comic Publishers Not Respecting Fair Use"
+date = 2006-08-22 06:43:14+00:00
+path = "/2006/08/22/indie-comic-publishers-not-respecting-fair-use/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 What does the title of this post call to mind? An indie publisher publishing a Mickey Mouse mash-up perhaps. That marxist version of Tintin possibly. You'd be wrong.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-22 07:40:34+00:00
-layout: post
-slug: fake-haunting-induction
-title: Fake Haunting Induction
-id: 676
-categories:
-- Aesthetics
----
++++
+title = "Fake Haunting Induction"
+date = 2005-09-22 07:40:34+00:00
+path = "/2005/09/22/fake-haunting-induction/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Via [Boing Boing](http://www3.pearsonvue.com/servlet/vue.web2.core.Dispatcher):  

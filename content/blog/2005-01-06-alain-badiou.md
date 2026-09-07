@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-06 07:30:13+00:00
-layout: post
-slug: alain-badiou
-title: Alain Badiou
-id: 279
-categories:
-- Aesthetics
----
++++
+title = "Alain Badiou"
+date = 2005-01-06 07:30:13+00:00
+path = "/2005/01/06/alain-badiou/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Badiou's philosophy and aesthetics look like a refreshing change from the narcissism of postmodernist textual fetishism:  
   

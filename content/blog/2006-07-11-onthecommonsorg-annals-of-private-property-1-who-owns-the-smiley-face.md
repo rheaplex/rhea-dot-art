@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-11 07:00:01+00:00
-layout: post
-slug: onthecommonsorg-annals-of-private-property-1-who-owns-the-smiley-face
-title: 'OnTheCommons.org | Annals of Private Property #1: Who Owns the Smiley Face?'
-id: 1035
-categories:
-- Free Culture
----
++++
+title = "OnTheCommons.org | Annals of Private Property #1: Who Owns the Smiley Face?"
+date = 2006-07-11 07:00:01+00:00
+path = "/2006/07/11/onthecommonsorg-annals-of-private-property-1-who-owns-the-smiley-face/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [OnTheCommons.org | Annals of Private Property #1: Who Owns the Smiley Face?](http://onthecommons.org/node/932)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-12-09 20:30:27+00:00
-layout: post
-slug: albums_of_the_year
-title: Albums of the Year
-id: 1816
-categories:
-- Aesthetics
----
++++
+title = "Albums of the Year"
+date = 2009-12-09 20:30:27+00:00
+path = "/2009/12/09/albums_of_the_year/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Embracing cliche, and alphabetically -  
   

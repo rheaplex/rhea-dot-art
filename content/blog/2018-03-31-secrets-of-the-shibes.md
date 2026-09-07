@@ -1,12 +1,15 @@
----
-layout: post
-title: Secrets of the Shibes
-date: 2018-03-31 18:29:28.000000000 -07:00
-categories:
-- Crypto
-- Projects
-author: Rhea Myers
----
++++
+title = "Secrets of the Shibes"
+date = 2018-03-31 18:29:28-07:00
+path = "/2018/03/31/secrets-of-the-shibes/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Projects",
+]
++++
+
 ![YS and Teacher](/images/2017/07/ys-and-teacher.png)
 
 <small>YS and Teacher, [Lina Theodorou](https://linatheodorou.wordpress.com/bad-shibe/).</small>

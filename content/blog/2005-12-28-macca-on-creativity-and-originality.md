@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-28 01:55:38+00:00
-layout: post
-slug: macca-on-creativity-and-originality
-title: Macca On Creativity And Originality
-id: 767
-categories:
-- Free Culture
----
++++
+title = "Macca On Creativity And Originality"
+date = 2005-12-28 01:55:38+00:00
+path = "/2005/12/28/macca-on-creativity-and-originality/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 _"Front Row", BBC Radio 4, Monday 26th December 2005._  

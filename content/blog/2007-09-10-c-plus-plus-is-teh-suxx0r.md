@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-10 01:49:05+00:00
-layout: post
-slug: c-plus-plus-is-teh-suxx0r
-title: C Plus Plus Is Teh Suxx0r
-id: 1483
-categories:
-- Generative Art
-- Satire
----
++++
+title = "C Plus Plus Is Teh Suxx0r"
+date = 2007-09-10 01:49:05+00:00
+path = "/2007/09/10/c-plus-plus-is-teh-suxx0r/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Satire",
+]
++++
 
 **const** I** const **don't **const** like **const** C++ **const**. **const**I use Lisp or JavaScript for my own work. I also use C, scheme and PHP occasionally. I have taught C and Java, and hacked Java and C++ professionally for years at a time. I have also done a lot of BASIC, Dylan, Objective-C, AppleScript and Python at one time or another.I can honestly say that C++ is the worst programming language I have ever used. Worse than Python, worse than AppleScript. There are a number of reasons for this:
 

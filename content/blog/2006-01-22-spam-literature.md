@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-22 03:07:40+00:00
-layout: post
-slug: spam-literature
-title: Spam Literature
-id: 796
-categories:
-- Aesthetics
----
++++
+title = "Spam Literature"
+date = 2006-01-22 03:07:40+00:00
+path = "/2006/01/22/spam-literature/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 This is a good follow on from exquisite corpse and cut-ups:  

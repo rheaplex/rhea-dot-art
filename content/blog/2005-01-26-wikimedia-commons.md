@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-26 04:12:32+00:00
-layout: post
-slug: wikimedia-commons
-title: Wikimedia Commons
-id: 305
-categories:
-- Free Culture
----
++++
+title = "Wikimedia Commons"
+date = 2005-01-26 04:12:32+00:00
+path = "/2005/01/26/wikimedia-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A Free Culture repository from the people who bring you Wikipedia:  
   

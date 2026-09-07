@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-06 23:55:27+00:00
-layout: post
-slug: notes_towards_free_culture
-title: Notes Towards Free Culture
-id: 1795
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2009-09-06 23:55:27+00:00
+path = "/2009/09/06/notes_towards_free_culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Apple claim trademark on shiny speech bubbles -  
   

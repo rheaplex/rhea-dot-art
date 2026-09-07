@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-10 23:58:15+00:00
-layout: post
-slug: floss-manuals-shouldnt-publish-nc-books
-title: FLOSS Manuals Shouldn't Publish NC Books
-id: 1737
-categories:
-- Free Culture
----
++++
+title = "FLOSS Manuals Shouldn't Publish NC Books"
+date = 2009-03-10 23:58:15+00:00
+path = "/2009/03/10/floss-manuals-shouldnt-publish-nc-books/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 (Update 13/3/09 - Adam from FLOSS Manuals points out in the comments that the licence page already says that the book will be re-licenced under the GPL. D'oh! Sorry FLOSS Manuals! But I still don't think you guys should be publishing the book NC in the mean time...)  
   

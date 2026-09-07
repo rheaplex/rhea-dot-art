@@ -1,10 +1,21 @@
 +++
 title = "San Jose"
 date = 2000-01-01
+path = "/san-jose/"
+
+[extra]
 image = "/art-images/fudge.png"
-mediums = ["SVG"]
-tools = ["MacOS 8", "Blueberry iBook G3", "CorelDraw!"]
-repos = ["https://github.com/rheaplex/san-jose"]
+mediums = [
+    "SVG",
+]
+tools = [
+    "MacOS 8",
+    "Blueberry iBook G3",
+    "CorelDraw!",
+]
+repos = [
+    "https://github.com/rheaplex/san-jose",
+]
 wp_id = 6684
 +++
 

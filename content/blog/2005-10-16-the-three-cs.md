@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-16 03:32:02+00:00
-layout: post
-slug: the-three-cs
-title: The Three Cs
-id: 697
-categories:
-- Free Culture
----
++++
+title = "The Three Cs"
+date = 2005-10-16 03:32:02+00:00
+path = "/2005/10/16/the-three-cs/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Successful free licenses are a result of the Three Cs: Community, (social) Contract, and Crisis.  

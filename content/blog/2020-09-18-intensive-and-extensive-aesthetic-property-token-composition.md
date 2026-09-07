@@ -1,16 +1,20 @@
----
-id: 3802
-title: 'Intensive and Extensive Aesthetic Property Token Composition'
-date: '2020-09-18T11:44:52+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
----
++++
+title = "Intensive and Extensive Aesthetic Property Token Composition"
+date = 2020-09-18 11:44:52+00:00
+path = "/2020/09/18/intensive-and-extensive-aesthetic-property-token-composition/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 ERC-721 tokens can be composed into tree structures using ERC-998 tokens. Where those ERC-721 tokens represent images or image elements, that tree structure becomes a rendering tree or two-dimensional scene graph (three-dimensional scene graphs will have to wait for 3D Rare Art standards to solidify). To lay out the elements of the image we must be able to transform them in various ways, changing their position, size, colour and other intensive and extensive aesthetic properties. We can represent these aesthetic properties as ERC-20 tokens with 18 digits of precision as they are continuous quantities.
 

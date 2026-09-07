@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-25 06:58:40+00:00
-layout: post
-slug: copyright-culture-remixed
-title: Copyright Culture (Remixed)
-id: 904
-categories:
-- Free Culture
----
++++
+title = "Copyright Culture (Remixed)"
+date = 2006-04-25 06:58:40+00:00
+path = "/2006/04/25/copyright-culture-remixed/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Copyright Culture (Remixed)  
 ](http://www.copyrightculture.com/)  

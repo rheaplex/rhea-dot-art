@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-13 07:47:24+00:00
-layout: post
-slug: liquid-culture
-title: Liquid Culture
-id: 420
-categories:
-- Free Culture
----
++++
+title = "Liquid Culture"
+date = 2005-05-13 07:47:24+00:00
+path = "/2005/05/13/liquid-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Creative Commons, Free Culture and Free Software: Workshop organized by LiquidCulture
 

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-06 04:41:05+00:00
-layout: post
-slug: furtherfield-review-addressable-memory
-title: furtherfield review - Addressable Memory
-id: 1570
-categories:
-- Aesthetics
-- Generative Art
-- Reviews
----
++++
+title = "furtherfield review - Addressable Memory"
+date = 2008-02-06 04:41:05+00:00
+path = "/2008/02/06/furtherfield-review-addressable-memory/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Reviews",
+]
++++
 
 [furtherfield review - Addressable Memory](http://www.furtherfield.org/displayreview.php?review_id=297)  
 

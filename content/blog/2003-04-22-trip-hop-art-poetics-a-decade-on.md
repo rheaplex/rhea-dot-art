@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-22 09:08:16+00:00
-layout: post
-slug: trip-hop-art-poetics-a-decade-on
-title: Trip Hop Art (Poetics [A Decade On])
-id: 18
-categories:
-- Aesthetics
----
++++
+title = "Trip Hop Art (Poetics [A Decade On])"
+date = 2003-04-22 09:08:16+00:00
+path = "/2003/04/22/trip-hop-art-poetics-a-decade-on/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Blur (focus), uneven lighting, dust on the plane, dust in the volume, fading & yellowing of pigments due to 'age', creasing & scratching of the support, tearing & crumpling of the support, crak(l)ing/blooming/yellowing of varnish, fading of edges, photographic grain, canvas/paper texture, halftone, digital pixels & quantisation, compression artefacts, water stains, coffee cup rings, lens flare, video blurriness, video generation degredation, black&white reproduction, b&w halftone, bad colour halftoning, 50's red, 70's yellow, 80's green & blue  
   

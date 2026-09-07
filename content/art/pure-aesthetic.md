@@ -1,8 +1,15 @@
 +++
 title = "Pure Aesthetic"
 date = 2005-01-01
+path = "/pure-aesthetic/"
+
+[extra]
 image = "/art-images/pure_aesthetic_one.jpg"
-mediums = ["Diamond Dust", "Glass", "Plastic"]
+mediums = [
+    "Diamond Dust",
+    "Glass",
+    "Plastic",
+]
 wp_id = 6676
 +++
 

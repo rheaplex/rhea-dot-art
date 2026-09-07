@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-08 05:28:42+00:00
-layout: post
-slug: two-common-errors
-title: Two Common Errors
-id: 1539
-categories:
-- Free Culture
----
++++
+title = "Two Common Errors"
+date = 2007-12-08 05:28:42+00:00
+path = "/2007/12/08/two-common-errors/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A society where I am free to own you as a slave is not more free than a society that does not allow me to own you as a slave.  
   

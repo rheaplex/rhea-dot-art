@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="reading mx-auto">
+  <header class="mb-4">
+    <h1>{{ page.title }}</h1>
+    <p class="text-body-secondary"><time datetime="{{ page.date }}">{{ page.date | date(format="%-d %B %Y") }}</time>
+    {%- if page.taxonomies.categories %} &middot; {% for c in page.taxonomies.categories %}<a href="{{ get_taxonomy_url(kind="categories", term=c) | safe }}" class="link-body-emphasis">{{ c }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</p>
+  </header>
+  <div class="content">{{ page.content | safe }}</div>
+  <nav class="d-flex justify-content-between mt-5 pt-3 border-top small" aria-label="Neighbouring posts">
+    <span>{% if page.lower %}<a href="{{ page.lower.permalink | safe }}" class="link-body-emphasis text-decoration-none">&larr; {{ page.lower.title }}</a>{% endif %}</span>
+    <span>{% if page.higher %}<a href="{{ page.higher.permalink | safe }}" class="link-body-emphasis text-decoration-none">{{ page.higher.title }} &rarr;</a>{% endif %}</span>
+  </nav>
+</article>
+{% endblock content %}

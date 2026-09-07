@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-29 05:58:56+00:00
-layout: post
-slug: streaming-aesthetics-cli-2
-title: Streaming Aesthetics CLI 2
-id: 2627
-categories:
-- Aesthetics
-- Art Computing
-- Projects
----
++++
+title = "Streaming Aesthetics CLI 2"
+date = 2014-09-29 05:58:56+00:00
+path = "/2014/09/29/streaming-aesthetics-cli-2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Projects",
+]
++++
 
 [![streeaming-22](/images/2014/09/streeaming-22-1024x647.png)](/images/2014/09/streeaming-22.png)
 

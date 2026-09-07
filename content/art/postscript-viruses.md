@@ -1,9 +1,16 @@
 +++
 title = "Postscript Viruses"
 date = 1993-01-02
+path = "/postscript-viruses/"
+
+[extra]
 image = "/art-images/linofset.png"
-mediums = ["Adobe PostScript"]
-aliases_names = ["PostScript Viruses"]
+mediums = [
+    "Adobe PostScript",
+]
+aliases_names = [
+    "PostScript Viruses",
+]
 wp_id = 6690
 +++
 

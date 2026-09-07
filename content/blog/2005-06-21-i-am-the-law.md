@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 07:01:16+00:00
-layout: post
-slug: i-am-the-law
-title: I Am The Law
-id: 533
-categories:
-- Aesthetics
----
++++
+title = "I Am The Law"
+date = 2005-06-21 07:01:16+00:00
+path = "/2005/06/21/i-am-the-law/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Legal documents and art:  

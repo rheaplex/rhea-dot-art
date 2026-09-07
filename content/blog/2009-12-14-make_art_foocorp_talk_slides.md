@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-12-14 19:58:13+00:00
-layout: post
-slug: make_art_foocorp_talk_slides
-title: Make Art FooCorp Talk Slides
-id: 1817
-categories:
-- Free Culture
----
++++
+title = "Make Art FooCorp Talk Slides"
+date = 2009-12-14 19:58:13+00:00
+path = "/2009/12/14/make_art_foocorp_talk_slides/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Here are the slides from my talk](2009/12/14/foocorp_make_art_talk.pdf) at Make Art as a 5.4 MB pdf (all photographs, logos, and the network topography diagram copyright their rightsholders)  
 

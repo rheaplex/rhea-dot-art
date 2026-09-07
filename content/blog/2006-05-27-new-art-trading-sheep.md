@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-27 18:38:05+00:00
-layout: post
-slug: new-art-trading-sheep
-title: 'New Art: Trading Sheep'
-id: 943
-categories:
-- Generative Art
-- Reviews
----
++++
+title = "New Art: Trading Sheep"
+date = 2006-05-27 18:38:05+00:00
+path = "/2006/05/27/new-art-trading-sheep/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Reviews",
+]
++++
 
 [New Art: Trading Sheep](http://new-art.blogspot.com/2006/05/trading-sheep_114858956840113559.html)  
   

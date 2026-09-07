@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-24 06:50:00+00:00
-layout: post
-slug: dynamic-artistic-practice-systems
-title: Dynamic Artistic Practice Systems
-id: 1459
-categories:
-- Generative Art
----
++++
+title = "Dynamic Artistic Practice Systems"
+date = 2007-08-24 06:50:00+00:00
+path = "/2007/08/24/dynamic-artistic-practice-systems/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 To produce "dynamic artistic practice" [AARON](http://www.kurzweilcyberart.com/aaron/history.html) would have to create AARONs. It would have to do what [Harold Cohen](http://www.kurzweilcyberart.com/aaron/hi_cohenbio.html) does; set immediate and long term goals, create systems, evaluate results, reflect on its achievements and work this meta-knowledge into its goals and systems.  
   

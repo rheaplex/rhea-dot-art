@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-05 09:14:28+00:00
-layout: post
-slug: cold-reading-misdirection-and-nlp
-title: Cold Reading, Misdirection and NLP
-id: 1475
-categories:
-- Aesthetics
-- Generative Art
----
++++
+title = "Cold Reading, Misdirection and NLP"
+date = 2007-09-05 09:14:28+00:00
+path = "/2007/09/05/cold-reading-misdirection-and-nlp/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+]
++++
 
 ....are all potentially fertile areas for Artificial Intelligence research.  
   

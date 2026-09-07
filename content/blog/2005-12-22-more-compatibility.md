@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-22 00:49:22+00:00
-layout: post
-slug: more-compatibility
-title: More “Compatibility”
-id: 761
-categories:
-- Free Culture
----
++++
+title = "More “Compatibility”"
+date = 2005-12-22 00:49:22+00:00
+path = "/2005/12/22/more-compatibility/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The hard sell on "compatibility":
 

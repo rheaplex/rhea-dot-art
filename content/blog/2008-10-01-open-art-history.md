@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-01 07:38:28+00:00
-layout: post
-slug: open-art-history
-title: Open Art History
-id: 1676
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "Open Art History"
+date = 2008-10-01 07:38:28+00:00
+path = "/2008/10/01/open-art-history/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 Open Art History is a proposed project to gather and distribute  
 reproductions of artworks and art historical documents. Art is a form of  

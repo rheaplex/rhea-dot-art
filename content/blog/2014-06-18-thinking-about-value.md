@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-06-18 07:16:19+00:00
-layout: post
-slug: thinking-about-value
-title: Thinking About Value
-id: 2587
-categories:
-- Politics
----
++++
+title = "Thinking About Value"
+date = 2014-06-18 07:16:19+00:00
+path = "/2014/06/18/thinking-about-value/"
+
+[taxonomies]
+categories = [
+    "Politics",
+]
++++
 
 36f1: A given multidimensional intrinsic motivation space will intersect the complement of a given multidimensional affordance space.
 

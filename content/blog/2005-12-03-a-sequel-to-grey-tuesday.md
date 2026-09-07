@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 07:54:24+00:00
-layout: post
-slug: a-sequel-to-grey-tuesday
-title: A Sequel To Grey Tuesday
-id: 737
-categories:
-- Free Culture
----
++++
+title = "A Sequel To Grey Tuesday"
+date = 2005-12-03 07:54:24+00:00
+path = "/2005/12/03/a-sequel-to-grey-tuesday/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Dean Gray Tuesday](http://www.americanedit.org/)  

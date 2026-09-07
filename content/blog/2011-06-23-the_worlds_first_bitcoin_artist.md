@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-06-23 23:01:11+00:00
-layout: post
-slug: the_worlds_first_bitcoin_artist
-title: The World's First Bitcoin Artist
-id: 1937
-categories:
-- Reviews
----
++++
+title = "The World's First Bitcoin Artist"
+date = 2011-06-23 23:01:11+00:00
+path = "/2011/06/23/the_worlds_first_bitcoin_artist/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I am now accepting commissions for drawings of bitcoins, paid for with bitcoins.
 Email me at XXXXX@XXXXX.XXX to arrange payment and delivery.

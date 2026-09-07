@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-10-26 19:33:33+00:00
-layout: post
-slug: freedom_porn
-title: Freedom Porn
-id: 1865
-categories:
-- Free Culture
----
++++
+title = "Freedom Porn"
+date = 2010-10-26 19:33:33+00:00
+path = "/2010/10/26/freedom_porn/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Some time ago I mentioned [Sharing is Sexy](/weblog/2008/01/sharing-is-sexy-open-source-porn-laboratory-sex-positive-collective.html), a Free Culture porn project. The site seems to be offline unfortunately (archive.org has a [cache](http://web.archive.org/web/20080319140930/http://www.sharingissexy.org/)). But now there's a new Free Culture Porn site, [FreedomPorn.org](http://www.freedomporn.org/smut/Freedom_Porn) :  
   

@@ -1,14 +1,16 @@
----
-title: Rationally Irrational Aesthetics
-date: 2016-03-17 21:44:08.000000000 -07:00
-type: post
-layout: post
-categories:
-- Aesthetics
-- Hyperstition
-- Politics
-author: Rhea Myers
----
++++
+title = "Rationally Irrational Aesthetics"
+date = 2016-03-17 21:44:08-07:00
+path = "/2016/03/17/rationally-irrational-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Hyperstition",
+    "Politics",
+]
++++
+
 ![By Headlessplatter at English Wikipedia - Transferred from en.wikipedia to Commons by Shashenka using CommonsHelper., Public Domain, https://commons.wikimedia.org/w/index.php?curid=19346512](/images/2016/03/Local_maximum.png)  
 
 [Local Maximum](https://en.wikipedia.org/wiki/Hill_climbing#/media/File:Local_maximum.png) by [Headsplatter](https://en.wikipedia.org/wiki/User:Headlessplatter), Public Domain.

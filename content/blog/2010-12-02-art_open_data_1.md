@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-02 21:53:41+00:00
-layout: post
-slug: art_open_data_1
-title: Art Open Data 1
-id: 1884
-categories:
-- Art Open Data
----
++++
+title = "Art Open Data 1"
+date = 2010-12-02 21:53:41+00:00
+path = "/2010/12/02/art_open_data_1/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+]
++++
 
 Art Open Data
 

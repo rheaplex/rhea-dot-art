@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-19 07:43:00+00:00
-layout: post
-slug: the-institutional-theory-of-art
-title: The Institutional Theory Of Art
-id: 166
-categories:
-- Aesthetics
----
++++
+title = "The Institutional Theory Of Art"
+date = 2004-06-19 07:43:00+00:00
+path = "/2004/06/19/the-institutional-theory-of-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 I've started reading "Painting As An Art", so I've been thinking about the Institutional Theory of art (which Wollheim starts the book by discussing). This is the theory that art is irrelevant to art: the thing that makes art into art is its recognition by the "artworld". Quite how the artworld recognises art I don't know, but I think it can be summed up as: "the art world likes what it likes". It's not a very useful theory for actually making art, but curators love it.  

@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-22 05:55:47+00:00
-layout: post
-slug: relational-aesthetics-the-institutional-theory-suspension-of-judgement-radical-commitment-via-rhizome-raw
-title: Relational Aesthetics (The Institutional Theory + Suspension of Judgement -
-  Radical Commitment) [via Rhizome RAW]
-id: 899
-categories:
-- Aesthetics
----
++++
+title = "Relational Aesthetics (The Institutional Theory + Suspension of Judgement - Radical Commitment) [via Rhizome RAW]"
+date = 2006-04-22 05:55:47+00:00
+path = "/2006/04/22/relational-aesthetics-the-institutional-theory-suspension-of-judgement-radical-commitment-via-rhizome-raw/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 The trained seal of approval that is Relational Aesthetics (The Institutional Theory + Suspension Of Judgement - Radical Commitment) is unlikely to get its coat based on the chinstroking of Octoberistas. Pointing out that there is someone behind the curtain doesn't help. That someone still has social relations.  
   

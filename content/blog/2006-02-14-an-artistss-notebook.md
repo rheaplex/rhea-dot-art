@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-14 23:32:50+00:00
-layout: post
-slug: an-artistss-notebook
-title: An Artists's Notebook
-id: 826
-categories:
-- Aesthetics
----
++++
+title = "An Artists's Notebook"
+date = 2006-02-14 23:32:50+00:00
+path = "/2006/02/14/an-artistss-notebook/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Not safe for work, but very cool:  

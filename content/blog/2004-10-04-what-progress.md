@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-04 08:38:08+00:00
-layout: post
-slug: what-progress
-title: What Progress?
-id: 218
-categories:
-- Projects
----
++++
+title = "What Progress?"
+date = 2004-10-04 08:38:08+00:00
+path = "/2004/10/04/what-progress/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've been ill for a couple of weeks with an on-again-off-again cold-type-thing that's left me with no energy to devote to anything other than basic existence. I haven't made very much progress on anything. :-(  
   

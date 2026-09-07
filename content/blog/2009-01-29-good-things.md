@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-01-29 05:59:57+00:00
-layout: post
-slug: good-things
-title: Good Things
-id: 1707
-categories:
-- Free Culture
----
++++
+title = "Good Things"
+date = 2009-01-29 05:59:57+00:00
+path = "/2009/01/29/good-things/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The BBC are going to help digitize the UK's public art collection and make it available online. This will be brilliant as long as the executive in charge doesn't get bought by Microsoft or Adobe-  
   

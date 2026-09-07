@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-15 06:16:00+00:00
-layout: post
-slug: harold-cohen-tate-talk-now-online
-title: Harold Cohen Tate Talk Now Online
-id: 149
-categories:
-- Generative Art
----
++++
+title = "Harold Cohen Tate Talk Now Online"
+date = 2004-05-15 06:16:00+00:00
+path = "/2004/05/15/harold-cohen-tate-talk-now-online/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 The RealMedia archive of Harold Cohen's talk at the Tate is now online at:  
   

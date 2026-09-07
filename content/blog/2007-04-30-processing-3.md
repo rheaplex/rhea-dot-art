@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-30 06:21:18+00:00
-layout: post
-slug: processing-3
-title: Processing
-id: 1272
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Processing"
+date = 2007-04-30 06:21:18+00:00
+path = "/2007/04/30/processing-3/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 I've started sketching some ideas out in Processing.  
   

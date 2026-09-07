@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-08 06:01:00+00:00
-layout: post
-slug: gismu-glyph
-title: Gismu Glyph
-id: 857
-categories:
-- Aesthetics
----
++++
+title = "Gismu Glyph"
+date = 2006-03-08 06:01:00+00:00
+path = "/2006/03/08/gismu-glyph/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [http://www.ludism.org/gbgwiki/GismuGlyph ](http://www.ludism.org/gbgwiki/GismuGlyph)  
   

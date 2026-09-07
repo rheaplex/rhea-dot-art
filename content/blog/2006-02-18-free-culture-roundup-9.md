@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-18 06:50:34+00:00
-layout: post
-slug: free-culture-roundup-9
-title: Free Culture Roundup
-id: 833
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-02-18 06:50:34+00:00
+path = "/2006/02/18/free-culture-roundup-9/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 _As the UK government reviews patent and copyright law to boost Britain's creative economy, Becky Hogge says democratic access to knowledge ought to benefit too._  
 [  

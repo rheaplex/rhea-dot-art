@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-04 02:26:32+00:00
-layout: post
-slug: wikitravel-press-launches-first-printed-titles-creative-commons
-title: Wikitravel Press launches first printed titles - Creative Commons
-id: 1569
-categories:
-- Free Culture
----
++++
+title = "Wikitravel Press launches first printed titles - Creative Commons"
+date = 2008-02-04 02:26:32+00:00
+path = "/2008/02/04/wikitravel-press-launches-first-printed-titles-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Wikitravel Press launches first printed titles - Creative Commons](http://creativecommons.org/weblog/entry/8016)  
   

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-09-07 01:39:20+00:00
-layout: post
-slug: facecoin-at-the-new-sublime
-title: Facecoin at The New Sublime
-id: 2620
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Projects
----
++++
+title = "Facecoin at The New Sublime"
+date = 2014-09-07 01:39:20+00:00
+path = "/2014/09/07/facecoin-at-the-new-sublime/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Projects",
+]
++++
 
 [![Facecoin installed at The New Sublime](/images/2014/09/facecoin-new-sublime-300x225.jpg)](/images/2014/09/facecoin-new-sublime.jpg)
 

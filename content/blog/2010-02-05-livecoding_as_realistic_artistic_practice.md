@@ -1,18 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-02-05 21:59:09+00:00
-layout: post
-slug: livecoding_as_realistic_artistic_practice
-title: Livecoding As Realistic Artistic Practice
-id: 1827
-categories:
-- Aesthetics
-- Free Culture
-- Free Software
-tags:
-- livecoding
----
++++
+title = "Livecoding As Realistic Artistic Practice"
+date = 2010-02-05 21:59:09+00:00
+path = "/2010/02/05/livecoding_as_realistic_artistic_practice/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+    "Free Software",
+]
+tags = [
+    "livecoding",
+]
++++
 
 Realism in art is the absence of sentiment. Livecoding is writing software in public while presenting the source code and its output along with the programmer as a kind of performance. Hacking (computer programming) is usually a solitary activity and hackers (computer programmers) rarely get to hack on (program) software that they themselves will use for their own ends or benefit directly from. Livecoding turns hacking into a public, social, self-directed activity by turning it into an artistic event.  
   

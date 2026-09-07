@@ -1,11 +1,21 @@
 +++
 title = "Drone Strike"
 date = 2015-01-10
+path = "/drone-strike/"
+
+[extra]
 date_provisional = true
 image = "/art-images/Screenshot-from-2014-04-10-231211.png"
-mediums = ["OSG"]
-tools = ["C++", "OpenSceneGraph"]
-repos = ["https://github.com/rheaplex/surgical_strike"]
+mediums = [
+    "OSG",
+]
+tools = [
+    "C++",
+    "OpenSceneGraph",
+]
+repos = [
+    "https://github.com/rheaplex/surgical_strike",
+]
 wp_id = 6648
 +++
 

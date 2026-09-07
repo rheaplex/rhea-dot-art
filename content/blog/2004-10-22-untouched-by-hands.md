@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-22 09:07:27+00:00
-layout: post
-slug: untouched-by-hands
-title: Untouched By Hands
-id: 232
-categories:
-- Generative Art
----
++++
+title = "Untouched By Hands"
+date = 2004-10-22 09:07:27+00:00
+path = "/2004/10/22/untouched-by-hands/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Harold Cohen's latest show.  
   

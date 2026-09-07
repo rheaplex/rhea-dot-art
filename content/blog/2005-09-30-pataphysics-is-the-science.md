@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-30 05:44:16+00:00
-layout: post
-slug: pataphysics-is-the-science
-title: Pataphysics Is The Science
-id: 683
-categories:
-- Free Culture
----
++++
+title = "Pataphysics Is The Science"
+date = 2005-09-30 05:44:16+00:00
+path = "/2005/09/30/pataphysics-is-the-science/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The bestest quote on 'Pataphysics is by Jack Kerouac:  
   

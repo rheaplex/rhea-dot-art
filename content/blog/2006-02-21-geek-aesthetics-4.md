@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-21 05:54:13+00:00
-layout: post
-slug: geek-aesthetics-4
-title: Geek Aesthetics 4
-id: 841
-categories:
-- Aesthetics
----
++++
+title = "Geek Aesthetics 4"
+date = 2006-02-21 05:54:13+00:00
+path = "/2006/02/21/geek-aesthetics-4/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Mr. T pities the fool who doesn't believe in art for art's sake.  
   

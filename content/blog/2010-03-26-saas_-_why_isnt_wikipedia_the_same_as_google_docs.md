@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-26 21:42:47+00:00
-layout: post
-slug: saas_-_why_isnt_wikipedia_the_same_as_google_docs
-title: SaaS - Why Isn't Wikipedia The Same As Google Docs?
-id: 1834
----
++++
+title = "SaaS - Why Isn't Wikipedia The Same As Google Docs?"
+date = 2010-03-26 21:42:47+00:00
+path = "/2010/03/26/saas_-_why_isnt_wikipedia_the_same_as_google_docs/"
++++
 
 Richard Stallman's new [essay on Software as a Service](http://www.gnu.org/philosophy/who-does-that-server-really-serve.html) (SaaS) is quite explicit about why a group of friends or colleagues collaborating to write an article on Google Docs, which is SaaS by Stallman's definition, is different from them collaborating to write the same article on Wikipedia, which is not SaaS despite providing very similar collaborative text editing functionality?
 

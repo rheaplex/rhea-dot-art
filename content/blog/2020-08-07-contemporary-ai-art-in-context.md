@@ -1,17 +1,16 @@
----
-id: 3197
-title: 'Contemporary "AI Art" In Context'
-date: '2020-08-07T09:51:20+00:00'
-author: Rhea Myers
-layout: post
-slug: contemporary-ai-art-in-context
-categories:
-    - Aesthetics
-    - Art
-    - 'Art Computing'
-    - 'Artificial Intelligence'
-    - Uncategorized
----
++++
+title = "Contemporary \"AI Art\" In Context"
+date = 2020-08-07 09:51:20+00:00
+path = "/2020/08/07/contemporary-ai-art-in-context/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Artificial Intelligence",
+]
++++
 
 The “AI” used by current “AI Art” is machine learning – recursive neural networks or linear regression if you want to deflate it. These algorithms are not “artists”, they are tools or faculties. Harold Cohen’s long-running AARON project, software written under the previous AI paradigm of “expert systems” was an apprentice or studio assistant. Its use of explicit written rules also makes it a form of discourse. Machine learning could be used to produce digital muses but for the most part AI inflates menial work rather than deflating the status of the artist or their inspiration.
 

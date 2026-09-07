@@ -1,20 +1,20 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-07-04 22:10:46+00:00
-layout: post
-slug: quantitative_aesthetics
-title: Quantitative Aesthetics
-id: 1850
-categories:
-- Aesthetics
-tags:
-- aesthetics
-- facebook
-- movies
-- quantitative
-- quantitative aesthetics
----
++++
+title = "Quantitative Aesthetics"
+date = 2010-07-04 22:10:46+00:00
+path = "/2010/07/04/quantitative_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
+tags = [
+    "aesthetics",
+    "facebook",
+    "movies",
+    "quantitative",
+    "quantitative aesthetics",
+]
++++
 
 [http://flowingdata.com/2010/06/28/do-movie-sequels-live-up-to-their-originals/](http://flowingdata.com/2010/06/28/do-movie-sequels-live-up-to-their-originals/)  
   

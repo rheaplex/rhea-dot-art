@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-17 04:28:46+00:00
-layout: post
-slug: autodrawn
-title: Autodrawn
-id: 433
-categories:
-- Generative Art
----
++++
+title = "Autodrawn"
+date = 2005-05-17 04:28:46+00:00
+path = "/2005/05/17/autodrawn/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 An observational drawing program, sourcecode available:  
   

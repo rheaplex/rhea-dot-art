@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-24 07:42:11+00:00
-layout: post
-slug: adam-frisby-blog-archive-opensim-c-standards-patents-and-you
-title: Adam Frisby » Blog Archive » OpenSim, C#, Standards, Patents and you.
-id: 1658
-categories:
-- Free Culture
----
++++
+title = "Adam Frisby » Blog Archive » OpenSim, C#, Standards, Patents and you."
+date = 2008-08-24 07:42:11+00:00
+path = "/2008/08/24/adam-frisby-blog-archive-opensim-c-standards-patents-and-you/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.adamfrisby.com/blog/2008/08/opensim-c-standards-patents-and-you/](http://www.adamfrisby.com/blog/2008/08/opensim-c-standards-patents-and-you/)A brilliant blog post that answers many of the concerns I raised about OpenSim's use of C#.A couple of points.
 

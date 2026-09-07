@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-18 06:24:38+00:00
-layout: post
-slug: flossart-book-launch
-title: FLOSS+Art Book Launch
-id: 1682
-categories:
-- Free Culture
-- Projects
----
++++
+title = "FLOSS+Art Book Launch"
+date = 2008-10-18 06:24:38+00:00
+path = "/2008/10/18/flossart-book-launch/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 [  
 FLOSS+Art: Book preview, panel discussion and software party  

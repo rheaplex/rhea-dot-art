@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-11 22:25:06+00:00
-layout: post
-slug: geek-aesthetics-2
-title: Geek Aesthetics 2
-id: 823
-categories:
-- Aesthetics
----
++++
+title = "Geek Aesthetics 2"
+date = 2006-02-11 22:25:06+00:00
+path = "/2006/02/11/geek-aesthetics-2/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 1. Exhibit urinal.  

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-30 03:49:18+00:00
-layout: post
-slug: the-peoples-platform
-title: The People's Platform
-id: 2581
-categories:
-- Free Culture
-- Free Software
-- Reviews
----
++++
+title = "The People's Platform"
+date = 2014-05-30 03:49:18+00:00
+path = "/2014/05/30/the-peoples-platform/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Free Software",
+    "Reviews",
+]
++++
 
 "[The People's Platform](http://www.randomhouse.ca/books/212898/the-people-s-platform-by-astra-taylor)" (TPP) is a frustrating read. An anti-techno-utopian critique of the economics and politics of culture on the Internet, it contains much interesting research and some useful ideas but is hamstrung by a year zero activism approach to the history and current state of the struggle for liberty and sustainability in technology and media.
 

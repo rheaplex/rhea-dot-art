@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-11 18:23:11+00:00
-layout: post
-slug: wikipedia_against_gallery_copyright_overreach
-title: Wikipedia Against Gallery Copyright Overreach
-id: 1770
-categories:
-- Free Culture
----
++++
+title = "Wikipedia Against Gallery Copyright Overreach"
+date = 2009-07-11 18:23:11+00:00
+path = "/2009/07/11/wikipedia_against_gallery_copyright_overreach/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://davidgerard.co.uk/notes/2009/07/11/sue-and-be-damned/](http://davidgerard.co.uk/notes/2009/07/11/sue-and-be-damned/)   
   

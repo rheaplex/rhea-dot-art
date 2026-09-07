@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-02 08:04:46+00:00
-layout: post
-slug: free-culture-roundup-2
-title: Free Culture Roundup
-id: 663
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2005-09-02 08:04:46+00:00
+path = "/2005/09/02/free-culture-roundup-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Writers slam hatred law ](http://www.guardian.co.uk/arts/news/story/0,11711,1560349,00.html)  
   

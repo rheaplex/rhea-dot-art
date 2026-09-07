@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-17 07:07:25+00:00
-layout: post
-slug: casino-carpets
-title: Casino Carpets
-id: 513
-categories:
-- Aesthetics
----
++++
+title = "Casino Carpets"
+date = 2005-06-17 07:07:25+00:00
+path = "/2005/06/17/casino-carpets/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Via [Boing Boing](http://www.boingboing.net/):  

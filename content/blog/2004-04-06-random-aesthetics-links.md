@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-06 07:46:24+00:00
-layout: post
-slug: random-aesthetics-links
-title: Random Aesthetics Links
-id: 109
-categories:
-- Aesthetics
----
++++
+title = "Random Aesthetics Links"
+date = 2004-04-06 07:46:24+00:00
+path = "/2004/04/06/random-aesthetics-links/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 [British Aesthetics Association](http://www.nritish-aesthetics.org/)   

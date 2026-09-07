@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-03 01:43:23+00:00
-layout: post
-slug: fdl-by-sa-compatibility-and-wikipedia
-title: FDL / BY-SA Compatibility and Wikipedia
-id: 1536
-categories:
-- Free Culture
----
++++
+title = "FDL / BY-SA Compatibility and Wikipedia"
+date = 2007-12-03 01:43:23+00:00
+path = "/2007/12/03/fdl-by-sa-compatibility-and-wikipedia/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Some good news on the BY-SA/FDL compatibility and Wikipedia relicencing fronts:  
   

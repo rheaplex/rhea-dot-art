@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-01 06:23:00+00:00
-layout: post
-slug: ursine-sylvian-defecation-study-shock-result
-title: Ursine Sylvian Defecation Study - Shock Result
-id: 172
-categories:
-- Satire
----
++++
+title = "Ursine Sylvian Defecation Study - Shock Result"
+date = 2004-07-01 06:23:00+00:00
+path = "/2004/07/01/ursine-sylvian-defecation-study-shock-result/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 From Vision Research vol 44 p1493 via NewScientist 26.6.04.  
   

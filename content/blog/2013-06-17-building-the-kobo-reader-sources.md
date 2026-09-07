@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-06-17 00:01:12+00:00
-layout: post
-slug: building-the-kobo-reader-sources
-title: Building The Kobo Reader Sources
-id: 2378
-categories:
-- Free Software
-- Howto
----
++++
+title = "Building The Kobo Reader Sources"
+date = 2013-06-17 00:01:12+00:00
+path = "/2013/06/17/building-the-kobo-reader-sources/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Howto",
+]
++++
 
 I've covered this before, but the Kobo Reader sources have changed, so here's an updated guide to installing and building them.
 

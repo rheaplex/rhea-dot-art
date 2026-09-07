@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-27 05:31:52+00:00
-layout: post
-slug: repositories-of-my-work
-title: Repositories Of My Work
-id: 1667
-categories:
-- Free Culture
-- Projects
----
++++
+title = "Repositories Of My Work"
+date = 2008-09-27 05:31:52+00:00
+path = "/2008/09/27/repositories-of-my-work/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 To help distribute and archive my work I've created repositories at GitHub.  
   

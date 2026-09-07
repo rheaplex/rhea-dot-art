@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-12 04:36:01+00:00
-layout: post
-slug: copyfight-conference
-title: Copyfight Conference
-id: 576
-categories:
-- Free Culture
----
++++
+title = "Copyfight Conference"
+date = 2005-07-12 04:36:01+00:00
+path = "/2005/07/12/copyfight-conference/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 A conference called "Copyfight" in Spain, via Copyfight (in the US):  

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-25 10:17:28+00:00
-layout: post
-slug: like-that-arrow-sketches
-title: 'Like That: Arrow Sketches'
-id: 1462
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Like That: Arrow Sketches"
+date = 2007-08-25 10:17:28+00:00
+path = "/2007/08/25/like-that-arrow-sketches/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![200708250010](/images/2007/08/200708250010.jpg)  
   

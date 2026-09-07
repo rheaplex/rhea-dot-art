@@ -1,9 +1,19 @@
 +++
 title = "Inbetween Cities"
 date = 1995-01-01
+path = "/inbetween-cities/"
+
+[extra]
 image = "/art-images/going_back_to_romford.png"
-mediums = ["PSD"]
-tools = ["System 7.x", "Adobe Dimensions 2.x", "Adobe PhotoShop 3.x", "Macintosh Performa"]
+mediums = [
+    "PSD",
+]
+tools = [
+    "System 7.x",
+    "Adobe Dimensions 2.x",
+    "Adobe PhotoShop 3.x",
+    "Macintosh Performa",
+]
 wp_id = 6687
 +++
 

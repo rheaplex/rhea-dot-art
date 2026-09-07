@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-04-04 18:57:43+00:00
-layout: post
-slug: upcoming_free_culture_movies
-title: Upcoming Free Culture Movies
-id: 1838
-categories:
-- Free Culture
----
++++
+title = "Upcoming Free Culture Movies"
+date = 2010-04-04 18:57:43+00:00
+path = "/2010/04/04/upcoming_free_culture_movies/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Sintel, the third Blender movie - [http://durian.blender.org/](http://durian.blender.org/)
 

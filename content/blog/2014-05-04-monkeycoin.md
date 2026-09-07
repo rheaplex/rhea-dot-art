@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-05-04 05:43:56+00:00
-layout: post
-slug: monkeycoin
-title: Monkeycoin
-id: 2567
-categories:
-- Art
-- Art Computing
-- Free Culture
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Monkeycoin"
+date = 2014-05-04 05:43:56+00:00
+path = "/2014/05/04/monkeycoin/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 [![monkeycoin](/images/2014/05/monkeycoin.png)](/images/2014/05/monkeycoin.png)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-19 19:39:10+00:00
-layout: post
-slug: exploring_art_data_7
-title: Exploring Art Data 7
-id: 1894
-categories:
-- Art Open Data
----
++++
+title = "Exploring Art Data 7"
+date = 2010-12-19 19:39:10+00:00
+path = "/2010/12/19/exploring_art_data_7/"
+
+[taxonomies]
+categories = [
+    "Art Open Data",
+]
++++
 
 We've looked at brightness and contrast, let's look at colours.  
   

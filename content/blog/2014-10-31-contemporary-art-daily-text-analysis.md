@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-10-31 19:22:15+00:00
-layout: post
-slug: contemporary-art-daily-text-analysis
-title: Contemporary Art Daily Text Analysis
-id: 2646
-categories:
-- Art Computing
-- Art History
-- Digital Art History
-- Projects
----
++++
+title = "Contemporary Art Daily Text Analysis"
+date = 2014-10-31 19:22:15+00:00
+path = "/2014/10/31/contemporary-art-daily-text-analysis/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Digital Art History",
+    "Projects",
+]
++++
 
 [![cad-wordcloud](/images/2014/10/cad-wordcloud.png)](/images/2014/10/cad-wordcloud.png)Contemporary Art Daily (CAD) is a leading contemporary art blog that publishes documentation for selected shows of contemporary art. It was started in 2008 by then art student Forrest Nash, who describes the site as follows:
 

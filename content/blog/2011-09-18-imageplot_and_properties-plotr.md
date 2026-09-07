@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-18 20:14:00+00:00
-layout: post
-slug: imageplot_and_properties-plotr
-title: ImagePlot and properties-plot.r
-id: 1947
-categories:
-- Art Computing
-- Art Open Data
-- Projects
----
++++
+title = "ImagePlot and properties-plot.r"
+date = 2011-09-18 20:14:00+00:00
+path = "/2011/09/18/imageplot_and_properties-plotr/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 ImagePlot is out:  
   

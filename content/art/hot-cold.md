@@ -1,8 +1,16 @@
 +++
 title = "Hot Cold"
 date = 2014-06-02
+path = "/hot-cold/"
+
+[extra]
 image = "/art-images/cold-hot-live.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6660
 +++
 

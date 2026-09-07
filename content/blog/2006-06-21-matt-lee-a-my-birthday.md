@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-21 07:29:08+00:00
-layout: post
-slug: matt-lee-a-my-birthday
-title: Matt Lee Â» My birthday
-id: 995
-categories:
-- Free Culture
----
++++
+title = "Matt Lee Â» My birthday"
+date = 2006-06-21 07:29:08+00:00
+path = "/2006/06/21/matt-lee-a-my-birthday/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Matt Lee Â» My birthday](http://mattl.co.uk/blog/2006/06/20/my-birthday/)
 

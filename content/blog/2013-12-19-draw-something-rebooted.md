@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-12-19 06:28:42+00:00
-layout: post
-slug: draw-something-rebooted
-title: draw-something Rebooted
-id: 2470
-categories:
-- Art Computing
-- Free Software
-- Generative Art
-- Projects
----
++++
+title = "draw-something Rebooted"
+date = 2013-12-19 06:28:42+00:00
+path = "/2013/12/19/draw-something-rebooted/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+]
++++
 
 ![draw-something](/images/2013/12/draw-something-1024x647.png)
 

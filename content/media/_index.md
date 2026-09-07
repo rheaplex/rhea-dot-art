@@ -1,6 +1,8 @@
----
-title: Media
----
++++
+title = "Media"
+template = "page-section.html"
++++
+
 ### By Rhea
 ##### Books
 [*Proof of Work: Blockchain Provocations 2011-2021*](https://www.urbanomic.com/book/proof-of-work/), Urbanomic, Falmouth, 2022. ISBN 978-1-915103-04-8  

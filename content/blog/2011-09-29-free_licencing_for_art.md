@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-29 19:13:36+00:00
-layout: post
-slug: free_licencing_for_art
-title: Free Licencing For Art
-id: 1950
-categories:
-- Art
-- Free Culture
----
++++
+title = "Free Licencing For Art"
+date = 2011-09-29 19:13:36+00:00
+path = "/2011/09/29/free_licencing_for_art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+]
++++
 
 Free Culture is primarily a synonym for free speech. In art, free speech is generally referred to as free expression. Artists face limits on their freedom of expression from various laws that limit their freedom to depict the visual environment, notably copyright law and trademark law. A successful strategy for tackling the restrictions of copyright on computer programming has been the use of "copyleft" licences that ironize copyright law in order to promote rather than restrict individuals' freedom to use and adapt copyrighted materials.  
   

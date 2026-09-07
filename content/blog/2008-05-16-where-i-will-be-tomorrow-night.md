@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-05-16 04:46:20+00:00
-layout: post
-slug: where-i-will-be-tomorrow-night
-title: Where I Will Be Tomorrow Night
-id: 1605
----
++++
+title = "Where I Will Be Tomorrow Night"
+date = 2008-05-16 04:46:20+00:00
+path = "/2008/05/16/where-i-will-be-tomorrow-night/"
++++
 
 [Open Source Embroidery: Craft and Code](http://www.http.uk.net/exhibitions/OSE/index.shtml)   
   

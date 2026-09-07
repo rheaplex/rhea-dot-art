@@ -1,14 +1,16 @@
----
-title: Simple Blockchain Art Diagram
-date: 2016-07-26 20:50:12.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Crypto
-- Projects
-author: Rhea Myers
----
++++
+title = "Simple Blockchain Art Diagram"
+date = 2016-07-26 20:50:12-07:00
+path = "/2016/07/26/simple-blockchain-art-diagram/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
++++
+
 ![Simple Blockchain Art Diagram](/images/2016/07/simple-blockchain-art-diagram.png)
 
 **Simple Blockchain Art Diagram, 2016, digital media. After MTAA ca. 1997.**

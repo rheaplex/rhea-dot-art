@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-23 07:03:20+00:00
-layout: post
-slug: gc-films-competition
-title: GC Films Competition
-id: 539
-categories:
-- Free Culture
----
++++
+title = "GC Films Competition"
+date = 2005-06-23 07:03:20+00:00
+path = "/2005/06/23/gc-films-competition/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Free Culture film logo competition:  

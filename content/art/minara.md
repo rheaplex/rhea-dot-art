@@ -1,8 +1,13 @@
 +++
 title = "Minara"
 date = 2004-01-03
+path = "/minara/"
+
+[extra]
 image = "/art-images/minara.gif"
-mediums = ["Scheme"]
+mediums = [
+    "Scheme",
+]
 wp_id = 6679
 +++
 

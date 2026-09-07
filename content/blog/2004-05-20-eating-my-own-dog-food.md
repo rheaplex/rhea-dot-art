@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-20 07:56:00+00:00
-layout: post
-slug: eating-my-own-dog-food
-title: Eating My Own Dog Food
-id: 153
-categories:
-- Projects
----
++++
+title = "Eating My Own Dog Food"
+date = 2004-05-20 07:56:00+00:00
+path = "/2004/05/20/eating-my-own-dog-food/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 "1968" needs finishing. It's colour that's the problem. I want a more fluid and accurate way of working with colour than the current crop of illustration software gives me.  
 Minara needs continuing. it needs real tasks and projects to work on.  

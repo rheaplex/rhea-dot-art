@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-03-31 12:07:48+00:00
-layout: post
-slug: open_source_culture
-title: '"Open Source Culture"'
-id: 1927
-categories:
-- Free Culture
----
++++
+title = "\"Open Source Culture\""
+date = 2011-03-31 12:07:48+00:00
+path = "/2011/03/31/open_source_culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I had a great time talking about "Open Source Culture" with Marc Garrett on [Furtherfield](http://www.furtherfield.org/)'s Resonance FM [radio show](http://www.furtherfield.org/resonancefm.php) last night.
 

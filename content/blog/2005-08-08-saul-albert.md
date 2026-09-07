@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-08 08:25:41+00:00
-layout: post
-slug: saul-albert
-title: Saul Albert
-id: 620
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "Saul Albert"
+date = 2005-08-08 08:25:41+00:00
+path = "/2005/08/08/saul-albert/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
   
 Saul runs the [University of Openness](http://twenteenthcentury.com/uo/index.php/).  

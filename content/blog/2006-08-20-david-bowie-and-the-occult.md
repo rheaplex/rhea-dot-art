@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-20 23:24:25+00:00
-layout: post
-slug: david-bowie-and-the-occult
-title: David Bowie and the Occult
-id: 1077
-categories:
-- Aesthetics
----
++++
+title = "David Bowie and the Occult"
+date = 2006-08-20 23:24:25+00:00
+path = "/2006/08/20/david-bowie-and-the-occult/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [David Bowie and the Occult](http://user.cyberlink.ch/~koenig/bowie.htm)  
   

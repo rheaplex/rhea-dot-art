@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-05 06:15:22+00:00
-layout: post
-slug: problem-solved
-title: Problem Solved
-id: 812
-categories:
-- Free Culture
----
++++
+title = "Problem Solved"
+date = 2006-02-05 06:15:22+00:00
+path = "/2006/02/05/problem-solved/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 ![](/images/_mtaa-RR_images_Mohammed.jpg)  

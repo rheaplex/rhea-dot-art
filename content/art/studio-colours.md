@@ -1,10 +1,18 @@
 +++
 title = "The Colours In My Studio"
 date = 2013-12-11
+path = "/studio-colours/"
+
+[extra]
 date_provisional = true
 image = "/art-images/colours-in-my-studio.png"
-mediums = ["JavaScript", "Python"]
-repos = ["https://github.com/rheaplex/thingspeak"]
+mediums = [
+    "JavaScript",
+    "Python",
+]
+repos = [
+    "https://github.com/rheaplex/thingspeak",
+]
 wp_id = 6663
 +++
 

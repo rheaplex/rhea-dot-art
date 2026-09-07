@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-12-25 16:38:02+00:00
-layout: post
-slug: the_zero_dollar_laptop_project
-title: The Zero Dollar Laptop Project
-id: 1819
-categories:
-- Art Computing
-- Free Culture
----
++++
+title = "The Zero Dollar Laptop Project"
+date = 2009-12-25 16:38:02+00:00
+path = "/2009/12/25/the_zero_dollar_laptop_project/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 Donate your old laptops to help Furtherfield with the Zero Dollar Laptop project!  
   

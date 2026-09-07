@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-31 07:46:09+00:00
-layout: post
-slug: free-culture-uk-launches
-title: Free Culture UK Launches
-id: 590
-categories:
-- Free Culture
----
++++
+title = "Free Culture UK Launches"
+date = 2005-07-31 07:46:09+00:00
+path = "/2005/07/31/free-culture-uk-launches/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Free Culture UK has launched with some cool campaigns and a mailing list:  

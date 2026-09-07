@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-25 08:05:22+00:00
-layout: post
-slug: dorkbotlondonfollowup
-title: dorkbotlondonfollowup
-id: 709
-categories:
-- Generative Art
-- Projects
----
++++
+title = "dorkbotlondonfollowup"
+date = 2005-10-25 08:05:22+00:00
+path = "/2005/10/25/dorkbotlondonfollowup/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 Reports and photos for dorkbotlondon 32:  

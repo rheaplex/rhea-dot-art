@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-25 06:05:27+00:00
-layout: post
-slug: im-just-going-to-try-this
-title: I'm Just Going To Try This
-id: 1312
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "I'm Just Going To Try This"
+date = 2007-05-25 06:05:27+00:00
+path = "/2007/05/25/im-just-going-to-try-this/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 Two of the most interesting pieces of writing on art that I know of are misunderstandings of paintings by Art & Language (A&L;).  
   

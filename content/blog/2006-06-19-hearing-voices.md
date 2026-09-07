@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-19 06:50:49+00:00
-layout: post
-slug: hearing-voices
-title: Hearing Voices
-id: 990
-categories:
-- Generative Art
----
++++
+title = "Hearing Voices"
+date = 2006-06-19 06:50:49+00:00
+path = "/2006/06/19/hearing-voices/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 There was a very interesting documentary on Channel 4 (in the UK) this evening about hearing voices:  

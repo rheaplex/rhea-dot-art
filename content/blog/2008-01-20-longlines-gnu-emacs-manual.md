@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-20 00:14:50+00:00
-layout: post
-slug: longlines-gnu-emacs-manual
-title: Longlines - GNU Emacs Manual
-id: 1563
-categories:
-- Howto
----
++++
+title = "Longlines - GNU Emacs Manual"
+date = 2008-01-20 00:14:50+00:00
+path = "/2008/01/20/longlines-gnu-emacs-manual/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 [Longlines - GNU Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/Longlines.html)
 

@@ -1,9 +1,16 @@
 +++
 title = "The Order Of Things"
 date = 2007-02-02
+path = "/the-order-of-things/"
+
+[extra]
 image = "/art-images/citizens1.png"
-mediums = ["Processing"]
-repos = ["https://github.com/rheaplex/like_that"]
+mediums = [
+    "Processing",
+]
+repos = [
+    "https://github.com/rheaplex/like_that",
+]
 wp_id = 6672
 +++
 

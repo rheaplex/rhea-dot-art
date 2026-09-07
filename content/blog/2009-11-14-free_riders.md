@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-14 20:43:53+00:00
-layout: post
-slug: free_riders
-title: Free Riders
-id: 1809
-categories:
-- Free Culture
----
++++
+title = "Free Riders"
+date = 2009-11-14 20:43:53+00:00
+path = "/2009/11/14/free_riders/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 In economics, a "free rider" is someone who takes value from a public good without giving anything back. They are an economic parasite of the commons. Too many free riders will destroy a public good, denying its value to everyone. This is clearly bad, and should be prevented.  
   

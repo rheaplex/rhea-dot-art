@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-17 10:03:01+00:00
-layout: post
-slug: evaluation
-title: Evaluation
-id: 516
-categories:
-- Projects
----
++++
+title = "Evaluation"
+date = 2005-06-17 10:03:01+00:00
+path = "/2005/06/17/evaluation/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Things to stop holding back on:  

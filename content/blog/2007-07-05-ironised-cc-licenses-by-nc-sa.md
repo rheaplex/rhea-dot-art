@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-05 08:33:59+00:00
-layout: post
-slug: ironised-cc-licenses-by-nc-sa
-title: Ironised CC Licenses (BY-NC-SA)
-id: 1393
-categories:
-- Free Culture
----
++++
+title = "Ironised CC Licenses (BY-NC-SA)"
+date = 2007-07-05 08:33:59+00:00
+path = "/2007/07/05/ironised-cc-licenses-by-nc-sa/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 ![200707042232](/images/2007/07/200707042232.jpg)  
   

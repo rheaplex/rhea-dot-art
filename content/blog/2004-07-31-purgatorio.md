@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-31 09:08:00+00:00
-layout: post
-slug: purgatorio
-title: Purgatorio
-id: 181
-categories:
-- Aesthetics
----
++++
+title = "Purgatorio"
+date = 2004-07-31 09:08:00+00:00
+path = "/2004/07/31/purgatorio/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 Gatwick "Village" is an enclosed indoor complex of wide, irregularly-angled corridors opening onto generic shop franchises and large open areas filled with low rows of padded chairs. At 3am all the chairs are covered with people. They're asleep, still clutching mobile phones, books, bags and clocks. Dozens of them, all stretched out over chairs and backpacks.  

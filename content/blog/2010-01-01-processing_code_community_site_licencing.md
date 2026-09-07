@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-01-01 12:23:07+00:00
-layout: post
-slug: processing_code_community_site_licencing
-title: Processing Code Community Site Licencing
-id: 1822
-categories:
-- Art Computing
-- Free Culture
----
++++
+title = "Processing Code Community Site Licencing"
+date = 2010-01-01 12:23:07+00:00
+path = "/2010/01/01/processing_code_community_site_licencing/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 [Processing](http://processing.org/) is an art computing environment that has the (dis)advantage of being based on Java and capable of running in any web browser with a non-free Java plugin (which really needs fixing, guys). There are better languages and environments for art computing, but there are none with greater mindshare or more active communities.
 

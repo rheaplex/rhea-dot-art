@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-21 06:36:46+00:00
-layout: post
-slug: freedom-and-commerce
-title: Freedom And Commerce
-id: 1112
-categories:
-- Free Culture
----
++++
+title = "Freedom And Commerce"
+date = 2006-09-21 06:36:46+00:00
+path = "/2006/09/21/freedom-and-commerce/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I blogged a little while ago about [How to Make Money From Free Culture](/wiki/index.php/How_To_Get_Paid_For_Copyleft_Art).  
 Richard Fairhurst has an excellent post on this subject in the context of cartography. I don't agree with his conclusions, though:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-10 08:04:22+00:00
-layout: post
-slug: culturcom-reviews-1969
-title: cultur.com Reviews 1969
-id: 485
-categories:
-- Projects
----
++++
+title = "cultur.com Reviews 1969"
+date = 2005-06-10 08:04:22+00:00
+path = "/2005/06/10/culturcom-reviews-1969/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 Ada Camara Ortega has written a review of my series "[1969](http://www.robmers.org/art/1969)" for the Danish website [cultur.com](http://www.cultur.com/cunst/):  

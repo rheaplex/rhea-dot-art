@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-14 05:38:51+00:00
-layout: post
-slug: it-was-twenty-years-ago-today
-title: It Was Twenty Years Ago Today
-id: 1526
-categories:
-- Aesthetics
----
++++
+title = "It Was Twenty Years Ago Today"
+date = 2007-11-14 05:38:51+00:00
+path = "/2007/11/14/it-was-twenty-years-ago-today/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 The album "Floodland" by The Sisters Of Mercy was released on the 17th of November 1987.  
   

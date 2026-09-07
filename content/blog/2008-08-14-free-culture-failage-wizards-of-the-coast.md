@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-14 07:29:36+00:00
-layout: post
-slug: free-culture-failage-wizards-of-the-coast
-title: 'Free Culture Failage: Wizards Of The Coast'
-id: 1654
-categories:
-- Free Culture
----
++++
+title = "Free Culture Failage: Wizards Of The Coast"
+date = 2008-08-14 07:29:36+00:00
+path = "/2008/08/14/free-culture-failage-wizards-of-the-coast/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Dungeons and Dragons (D&D;) is the original and still the most popular role-playing game. At the end of the 1990s the original publisher of D&D; collapsed and the game was bought by a new publisher, Wizards of the Coast (WotC). Part of their strategy for rescuing the game was a mixed copyleft-with-uncopyable-sections licence called the Open Gaming Licence (OGL) that allowed people to copy the text of the rules of D&D; and to produce and sell their own work using it. The OGL gave the game playing public and publishers of third-party tie-ins for D&D; the confidence to invest in the brand without fear that it would disappear if the new publisher failed to make a success of it. It also made those gamers and publishers drivers for sales of D&D; products by WotC.  
   

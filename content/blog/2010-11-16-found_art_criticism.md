@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-11-16 09:35:14+00:00
-layout: post
-slug: found_art_criticism
-title: Found Art Criticism
-id: 1873
-categories:
-- Aesthetics
-- Art
-- Satire
----
++++
+title = "Found Art Criticism"
+date = 2010-11-16 09:35:14+00:00
+path = "/2010/11/16/found_art_criticism/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Satire",
+]
++++
 
 I present Found Art Criticism:  
   

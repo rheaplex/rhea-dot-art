@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-09 04:06:58+00:00
-layout: post
-slug: radiohead-in-rainbows-follow-up
-title: Radiohead “In Rainbows” Follow Up
-id: 1521
-categories:
-- Free Culture
----
++++
+title = "Radiohead “In Rainbows” Follow Up"
+date = 2007-11-09 04:06:58+00:00
+path = "/2007/11/09/radiohead-in-rainbows-follow-up/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Answering some common criticisms of Radiohead's "In Rainbows" release.  
   

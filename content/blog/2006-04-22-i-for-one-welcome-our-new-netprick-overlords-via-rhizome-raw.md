@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-22 05:52:39+00:00
-layout: post
-slug: i-for-one-welcome-our-new-netprick-overlords-via-rhizome-raw
-title: I, for one, welcome our new net.prick overlords. [Via Rhizome RAW]
-id: 898
-categories:
-- Aesthetics
-- Generative Art
-- Reviews
-- Satire
----
++++
+title = "I, for one, welcome our new net.prick overlords. [Via Rhizome RAW]"
+date = 2006-04-22 05:52:39+00:00
+path = "/2006/04/22/i-for-one-welcome-our-new-netprick-overlords-via-rhizome-raw/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Reviews",
+    "Satire",
+]
++++
 
 There's a case to be made that the volume and duration of postings [by a net.art mailer script that accidentally flooded the Rhizome RAW mailing list with spam] makes the work sculpture. That their transgression makes them interrogative of unexamined social norms, which gives them critical content and value. And that this has shocked the bourgeoisie, which you don't get too often these days, making it radical.  
   

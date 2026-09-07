@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-10-12 05:59:22+00:00
-layout: post
-slug: siouxsie-mantaray
-title: Siouxsie - Mantaray
-id: 1506
-categories:
-- Reviews
----
++++
+title = "Siouxsie - Mantaray"
+date = 2007-10-12 05:59:22+00:00
+path = "/2007/10/12/siouxsie-mantaray/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Siouxsie Sioux has been making music since1977 or so but Mantaray is her first solo album. Her last album with The Creatures, "Hai!", was marked by meandering lyrics and over-produced vocals. Mantaray is a real return to form with much more focussed songwriting and a clearer voice.  
   

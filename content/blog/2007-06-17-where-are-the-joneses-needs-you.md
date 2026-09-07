@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-17 22:28:00+00:00
-layout: post
-slug: where-are-the-joneses-needs-you
-title: Where Are The Joneses Needs You!
-id: 1356
-categories:
-- Free Culture
----
++++
+title = "Where Are The Joneses Needs You!"
+date = 2007-06-17 22:28:00+00:00
+path = "/2007/06/17/where-are-the-joneses-needs-you/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
   

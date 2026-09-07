@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-31 06:28:18+00:00
-layout: post
-slug: minara-minara-selection
-title: minara - minara selection
-id: 950
-categories:
-- Generative Art
-- Projects
----
++++
+title = "minara - minara selection"
+date = 2006-05-31 06:28:18+00:00
+path = "/2006/05/31/minara-minara-selection/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 A more complex selection:  

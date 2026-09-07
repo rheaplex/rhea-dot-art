@@ -1,13 +1,14 @@
----
-id: 3898
-title: 'Why Bitcoin is Money According To Marx'
-date: '2020-09-16T21:00:04+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Crypto
-    - Philosophy
----
++++
+title = "Why Bitcoin is Money According To Marx"
+date = 2020-09-16 21:00:04+00:00
+path = "/2020/09/16/why-bitcoin-is-money-according-to-marx/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Philosophy",
+]
++++
 
 tl;dr: whales.
 

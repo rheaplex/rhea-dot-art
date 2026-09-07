@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-23 04:38:17+00:00
-layout: post
-slug: spot-the-deliberate-mistake
-title: Spot The Deliberate Mistake
-id: 1113
-categories:
-- Free Culture
----
++++
+title = "Spot The Deliberate Mistake"
+date = 2006-09-23 04:38:17+00:00
+path = "/2006/09/23/spot-the-deliberate-mistake/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://creativecommons.org/weblog/entry/6072 ](http://creativecommons.org/weblog/entry/6072)  
   

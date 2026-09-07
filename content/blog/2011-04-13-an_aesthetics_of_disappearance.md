@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-04-13 22:51:12+00:00
-layout: post
-slug: an_aesthetics_of_disappearance
-title: An Aesthetics Of Disappearance
-id: 1930
-categories:
-- Aesthetics
-- Art
-- Art Computing
-- Culture
-- Free Culture
-- Politics
----
++++
+title = "An Aesthetics Of Disappearance"
+date = 2011-04-13 22:51:12+00:00
+path = "/2011/04/13/an_aesthetics_of_disappearance/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Art Computing",
+    "Culture",
+    "Free Culture",
+    "Politics",
+]
++++
 
 I stumbled over this anti-face-recognition project again and, post-"[world's ugliest t-shirt](http://www.viceland.com/blogs/en/2010/09/03/william-gibson/2/)" from "[Zero History](http://www.williamgibsonbooks.com/books/zero_history.asp)" I enjoyed it even more:
 

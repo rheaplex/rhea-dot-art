@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-01 07:13:32+00:00
-layout: post
-slug: groklaw-eben-moglen-repeats-his-invitation-to-the-linux-kernel-developers
-title: GROKLAW - Eben Moglen Repeats His Invitation To The Linux Kernel Developers
-id: 1126
-categories:
-- Free Culture
----
++++
+title = "GROKLAW - Eben Moglen Repeats His Invitation To The Linux Kernel Developers"
+date = 2006-10-01 07:13:32+00:00
+path = "/2006/10/01/groklaw-eben-moglen-repeats-his-invitation-to-the-linux-kernel-developers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [See The Full Text at GROKLAW](http://www.groklaw.net/article.php?story=20060930140129423)  
   

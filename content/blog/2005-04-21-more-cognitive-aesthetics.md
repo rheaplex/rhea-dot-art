@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-21 20:53:45+00:00
-layout: post
-slug: more-cognitive-aesthetics
-title: More Cognitive Aesthetics
-id: 394
-categories:
-- Generative Art
----
++++
+title = "More Cognitive Aesthetics"
+date = 2005-04-21 20:53:45+00:00
+path = "/2005/04/21/more-cognitive-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Via [MindHacks](http://www.mindhacks.com/) :  
   

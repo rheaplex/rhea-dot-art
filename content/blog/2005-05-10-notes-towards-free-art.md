@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-10 04:54:06+00:00
-layout: post
-slug: notes-towards-free-art
-title: Notes Towards Free Art
-id: 413
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Art"
+date = 2005-05-10 04:54:06+00:00
+path = "/2005/05/10/notes-towards-free-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Links I need to tidy up to as part of making a coherent case for Free Art:  
   

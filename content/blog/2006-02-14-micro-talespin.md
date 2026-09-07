@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-14 23:31:24+00:00
-layout: post
-slug: micro-talespin
-title: Micro Talespin
-id: 825
-categories:
-- Generative Art
----
++++
+title = "Micro Talespin"
+date = 2006-02-14 23:31:24+00:00
+path = "/2006/02/14/micro-talespin/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 An absolute classic of artificial intelligence and generative narrative, the storytelling system Talespin in a Common Lisp implementation:  

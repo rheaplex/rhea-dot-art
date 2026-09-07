@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-27 05:50:00+00:00
-layout: post
-slug: fire-at-saatchi-warehouse
-title: Fire At Saatchi Warehouse
-id: 159
-categories:
-- Satire
----
++++
+title = "Fire At Saatchi Warehouse"
+date = 2004-05-27 05:50:00+00:00
+path = "/2004/05/27/fire-at-saatchi-warehouse/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Art-like objects destroyed including Hirst and Chapman products:  
   

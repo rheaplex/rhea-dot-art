@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-12-14 07:56:04+00:00
-layout: post
-slug: promises-to-keep
-title: Promises To Keep
-id: 1189
-categories:
-- Free Culture
-- Reviews
----
++++
+title = "Promises To Keep"
+date = 2006-12-14 07:56:04+00:00
+path = "/2006/12/14/promises-to-keep/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Reviews",
+]
++++
 
 I read "Promises To Keep".  
   

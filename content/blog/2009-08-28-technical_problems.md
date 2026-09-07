@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-08-28 22:53:52+00:00
-layout: post
-slug: technical_problems
-title: Technical Problems
-id: 1789
-categories:
-- Aesthetics
-- Art Computing
----
++++
+title = "Technical Problems"
+date = 2009-08-28 22:53:52+00:00
+path = "/2009/08/28/technical_problems/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+]
++++
 
 The perceived lack of psychological content, subjectivity, interiority, or affect is not a problem that concerns me in art computing. It is a deficiency of criticism, not the art under consideration. Software is ultimately made by human beings and its output is experienced by them. Visions of order are psychologically and ideologically interesting if you choose to look into them. Fractals, alife and evolutionary art all have this cognitive and social aesthetic value. Their un-Frankfurt-school-illustrating nature is a feature, not a bug, of their artistic worth.  
   

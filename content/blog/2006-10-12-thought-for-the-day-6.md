@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-12 06:30:17+00:00
-layout: post
-slug: thought-for-the-day-6
-title: Thought for the Day
-id: 1133
-categories:
-- Personal
-- Satire
----
++++
+title = "Thought for the Day"
+date = 2006-10-12 06:30:17+00:00
+path = "/2006/10/12/thought-for-the-day-6/"
+
+[taxonomies]
+categories = [
+    "Personal",
+    "Satire",
+]
++++
 
 "What's your winning motto?" - Nicholas Parsons.  
   

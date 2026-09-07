@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-15 08:38:16+00:00
-layout: post
-slug: minara-dragging
-title: minara dragging
-id: 982
-categories:
-- Generative Art
-- Projects
----
++++
+title = "minara dragging"
+date = 2006-06-15 08:38:16+00:00
+path = "/2006/06/15/minara-dragging/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 ![200606142217](/images/2006/06/200606142217.jpg)  

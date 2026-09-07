@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-07 09:08:01+00:00
-layout: post
-slug: a-predecessor-to-by-nc-from-1978
-title: A Predecessor to BY-NC From 1978
-id: 614
-categories:
-- Free Culture
----
++++
+title = "A Predecessor to BY-NC From 1978"
+date = 2005-08-07 09:08:01+00:00
+path = "/2005/08/07/a-predecessor-to-by-nc-from-1978/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 I found a small-press-produced booklet called "In The Making, Number 5 1878, A directory of co-operative projects" in my local Oxfam today. The copyright block ends:  

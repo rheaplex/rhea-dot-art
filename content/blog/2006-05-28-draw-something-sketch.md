@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-28 06:00:08+00:00
-layout: post
-slug: draw-something-sketch
-title: draw-something sketch
-id: 947
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something sketch"
+date = 2006-05-28 06:00:08+00:00
+path = "/2006/05/28/draw-something-sketch/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 A code sketch for draw-something. Yes this is really how I work. The comments will be turned into code, and may or may not be kept. Ideally they won't, the code should be self-explanatory (stop laughing at the back).  

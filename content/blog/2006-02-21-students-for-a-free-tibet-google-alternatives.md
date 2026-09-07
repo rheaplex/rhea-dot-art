@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-21 05:44:49+00:00
-layout: post
-slug: students-for-a-free-tibet-google-alternatives
-title: 'Students for a Free Tibet : Google Alternatives'
-id: 840
-categories:
-- Free Culture
----
++++
+title = "Students for a Free Tibet : Google Alternatives"
+date = 2006-02-21 05:44:49+00:00
+path = "/2006/02/21/students-for-a-free-tibet-google-alternatives/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Students for a Free Tibet : Google Alternatives](http://noluv4google.com/article.php?id=800)  
   

@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-04-23 06:14:17+00:00
-layout: post
-slug: newsgrist-where-spin-is-art-artists-rights-or-copyright-extremism-miro-estate-vs-google
-title: 'NEWSgrist - where spin is art: Artists'' Rights or Copyright Extremism? Miro
-  Estate vs. Google'
-id: 902
-categories:
-- Free Culture
----
++++
+title = "NEWSgrist - where spin is art: Artists' Rights or Copyright Extremism? Miro Estate vs. Google"
+date = 2006-04-23 06:14:17+00:00
+path = "/2006/04/23/newsgrist-where-spin-is-art-artists-rights-or-copyright-extremism-miro-estate-vs-google/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [NEWSgrist - where spin is art: Artists' Rights or Copyright Extremism? Miro Estate vs. Google](http://newsgrist.typepad.com/underbelly/2006/04/artists_rights_.html)  
   

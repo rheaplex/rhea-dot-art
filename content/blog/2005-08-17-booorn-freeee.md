@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-17 07:31:02+00:00
-layout: post
-slug: booorn-freeee
-title: Booorn Freeee
-id: 649
-categories:
-- Free Culture
----
++++
+title = "Booorn Freeee"
+date = 2005-08-17 07:31:02+00:00
+path = "/2005/08/17/booorn-freeee/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I switched my iBook to Debian GNU/Linux as its main OS on Sunday after finally getting the ASUS wireless dongle working (Airport doesn't work under GNU/Linux). I've kept MacOS X Tiger on another partition, but the only time I've booted it since Sunday was to quickly get my RSS subscriptions out of NetNewsWire.  
   

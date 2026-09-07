@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-08 07:18:45+00:00
-layout: post
-slug: free-nursery-rhymes-volume-1
-title: Free Nursery Rhymes Volume 1
-id: 617
-categories:
-- Free Culture
----
++++
+title = "Free Nursery Rhymes Volume 1"
+date = 2005-08-08 07:18:45+00:00
+path = "/2005/08/08/free-nursery-rhymes-volume-1/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 **Free Nursery Rhymes Volume 1.**  

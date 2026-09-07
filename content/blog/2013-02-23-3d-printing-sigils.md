@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-02-23 19:26:23+00:00
-layout: post
-slug: 3d-printing-sigils
-title: 3D Printing Sigils
-id: 2287
-categories:
-- 3D Printing
-- Free Culture
-- Free Software
-- Generative Art
-- Howto
-- Magick
----
++++
+title = "3D Printing Sigils"
+date = 2013-02-23 19:26:23+00:00
+path = "/2013/02/23/3d-printing-sigils/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Free Culture",
+    "Free Software",
+    "Generative Art",
+    "Howto",
+    "Magick",
+]
++++
 
 [![100px-Sigil.svg](/images/2013/02/100px-Sigil.svg_.png)](/images/2013/02/100px-Sigil.svg_.png)
 

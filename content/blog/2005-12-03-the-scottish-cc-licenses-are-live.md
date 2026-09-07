@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-12-03 23:56:54+00:00
-layout: post
-slug: the-scottish-cc-licenses-are-live
-title: The Scottish CC Licenses Are Live
-id: 742
-categories:
-- Free Culture
----
++++
+title = "The Scottish CC Licenses Are Live"
+date = 2005-12-03 23:56:54+00:00
+path = "/2005/12/03/the-scottish-cc-licenses-are-live/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 The Scottish CC licenses are live, and they are being used as the working draft for the revised England & Wales licenses as well:  

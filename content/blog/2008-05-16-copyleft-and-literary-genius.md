@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-05-16 05:04:43+00:00
-layout: post
-slug: copyleft-and-literary-genius
-title: Copyleft And Literary Genius
-id: 1606
-categories:
-- Free Culture
----
++++
+title = "Copyleft And Literary Genius"
+date = 2008-05-16 05:04:43+00:00
+path = "/2008/05/16/copyleft-and-literary-genius/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Moorcock's Miscellany - View Single Post - BLACK PETALS](http://www.multiverse.org/fora/showpost.php?p=101040&postcount=20)   
   

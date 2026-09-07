@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-23 06:40:23+00:00
-layout: post
-slug: rhizome_raw-with-the-naked-eye-interview-by-manik
-title: 'RHIZOME_RAW: WITH THE NAKED EYE-Interview (by Manik)'
-id: 537
-categories:
-- Projects
----
++++
+title = "RHIZOME_RAW: WITH THE NAKED EYE-Interview (by Manik)"
+date = 2005-06-23 06:40:23+00:00
+path = "/2005/06/23/rhizome_raw-with-the-naked-eye-interview-by-manik/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 **1.The highly developed products of software, net. or web art require a transparent (free) infrastructure and free access to source (code). Your work is connected with  [Creative Commons](http://www.creativecommons.org/),  [Free Software](http://www.gnu.org/),  [Free Culture.](http://www.free-culture.cc/)**
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-17 04:16:29+00:00
-layout: post
-slug: datisnature-and-the-beauty-of-lisp
-title: DatIsNature And The Beauty of Lisp
-id: 646
-categories:
-- Generative Art
----
++++
+title = "DatIsNature And The Beauty of Lisp"
+date = 2005-08-17 04:16:29+00:00
+path = "/2005/08/17/datisnature-and-the-beauty-of-lisp/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Was it Neal Stephenson who said that Lisp is the only beautiful programming language? The excellent [DataIsNature](http://www.dataisnature.com/) has a link to a  
 [snippet of Lisp to draw the Mandelbrot set](http://dataisnature.com/?p=176), which is a case in point:  

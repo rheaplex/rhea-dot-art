@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-04-14 21:47:01+00:00
-layout: post
-slug: logging_colours_to_thingspeak
-title: Logging Colours To ThingSpeak
-id: 1932
-categories:
-- Aesthetics
-- Art Computing
-- Art Open Data
-- Free Software
-- Howto
-- Projects
----
++++
+title = "Logging Colours To ThingSpeak"
+date = 2011-04-14 21:47:01+00:00
+path = "/2011/04/14/logging_colours_to_thingspeak/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Art Open Data",
+    "Free Software",
+    "Howto",
+    "Projects",
+]
++++
 
 [ThingSpeak](https://thingspeak.com/) is a Free Software-based web service for publishing (geolocated) data. This makes it better than proprietary services for publishing data.  
   

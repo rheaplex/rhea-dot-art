@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-15 15:29:28+00:00
-layout: post
-slug: nc-failage-arnolfini-gallery
-title: NC Failage - Arnolfini Gallery
-id: 1738
-categories:
-- Free Culture
----
++++
+title = "NC Failage - Arnolfini Gallery"
+date = 2009-03-15 15:29:28+00:00
+path = "/2009/03/15/nc-failage-arnolfini-gallery/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://project.arnolfini.org.uk/](http://project.arnolfini.org.uk/)  
 

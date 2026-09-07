@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-08-20 09:49:23+00:00
-layout: post
-slug: artbollocks_preflight_script
-title: Artbollocks Preflight Script
-id: 1853
-categories:
-- Aesthetics
-- Projects
-- Satire
----
++++
+title = "Artbollocks Preflight Script"
+date = 2010-08-20 09:49:23+00:00
+path = "/2010/08/20/artbollocks_preflight_script/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+    "Satire",
+]
++++
 
 Inspired by the scripts to find weasel words, passive voice and lexical illusions from -  
   

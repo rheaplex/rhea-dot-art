@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-06 07:53:30+00:00
-layout: post
-slug: newsgrist-where-spin-is-art-comedies-of-fair-ue-full-audio-now-on-archiveorg
-title: 'NEWSgrist - where spin is art: Comedies of Fair U$e: full audio now on Archive.org'
-id: 1023
-categories:
-- Free Culture
----
++++
+title = "NEWSgrist - where spin is art: Comedies of Fair U$e: full audio now on Archive.org"
+date = 2006-07-06 07:53:30+00:00
+path = "/2006/07/06/newsgrist-where-spin-is-art-comedies-of-fair-ue-full-audio-now-on-archiveorg/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [NEWSgrist - where spin is art: Comedies of Fair U$e: full audio now on Archive.org](http://newsgrist.typepad.com/underbelly/2006/07/comedies_of_fai.html)  
   

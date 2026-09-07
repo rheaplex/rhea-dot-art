@@ -1,15 +1,17 @@
----
-title: Artists Re:Thinking The Blockchain
-date: 2017-11-04 13:37:22.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Books
-- Crypto
-- Culture
-author: Rhea Myers
----
++++
+title = "Artists Re:Thinking The Blockchain"
+date = 2017-11-04 13:37:22-07:00
+path = "/2017/11/04/artists-rethinking-the-blockchain/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Books",
+    "Crypto",
+    "Culture",
+]
++++
+
 ![](/images/2017/11/img_20170929_191920_2481019322185.jpg)
 
 "Artists Re:thinking the Blockchain" Edited by Ruth Catlow, Marc Garret, Nathan Jones & Sam Skinner, 2017, ISBN 9780993248757.

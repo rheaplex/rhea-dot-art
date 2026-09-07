@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-27 19:09:59+00:00
-layout: post
-slug: lp-photos-from-the-conference
-title: LP - Photos from the conference
-id: 1746
-categories:
-- Free Culture
----
++++
+title = "LP - Photos from the conference"
+date = 2009-03-27 19:09:59+00:00
+path = "/2009/03/27/lp-photos-from-the-conference/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Excellent photos from Libre Planet, BY-SA by Matt Hins -  
   

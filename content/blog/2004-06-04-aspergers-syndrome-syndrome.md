@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-06-04 06:50:00+00:00
-layout: post
-slug: aspergers-syndrome-syndrome
-title: Asperger's Syndrome Syndrome
-id: 161
-categories:
-- Satire
----
++++
+title = "Asperger's Syndrome Syndrome"
+date = 2004-06-04 06:50:00+00:00
+path = "/2004/06/04/aspergers-syndrome-syndrome/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 Michaelangelo is the latest victim of Asperger's Syndrome Syndrome. This is where a publicity hungry psychiatric hack assigns a pathology to someone famous using the famous bullet-point-comparison test.  
   

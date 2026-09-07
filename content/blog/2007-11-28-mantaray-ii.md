@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-11-28 05:01:59+00:00
-layout: post
-slug: mantaray-ii
-title: Mantaray II
-id: 1534
-categories:
-- Reviews
----
++++
+title = "Mantaray II"
+date = 2007-11-28 05:01:59+00:00
+path = "/2007/11/28/mantaray-ii/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 If I wanted to make this blog linkbait I would just post snarky comments about Goth icons' latest offerings and watch the Adwords revenue come pouring in.  
   

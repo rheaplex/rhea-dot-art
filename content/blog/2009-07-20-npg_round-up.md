@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-07-20 00:13:32+00:00
-layout: post
-slug: npg_round-up
-title: NPG Round-Up
-id: 1773
-categories:
-- Free Culture
----
++++
+title = "NPG Round-Up"
+date = 2009-07-20 00:13:32+00:00
+path = "/2009/07/20/npg_round-up/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 People are blogging legal analyses of the NPG situation and they broadly agree with my understanding that the law in England is a mess that can be clarified by Bridgeman vs. Corel. ;-)  
   

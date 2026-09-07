@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-16 16:27:21+00:00
-layout: post
-slug: art_data_analysis_old_masters_auctions_and_the_weather
-title: 'Art Data Analysis: Old Masters Auctions And The Weather'
-id: 1915
-categories:
-- Art History
-- Art Open Data
----
++++
+title = "Art Data Analysis: Old Masters Auctions And The Weather"
+date = 2011-01-16 16:27:21+00:00
+path = "/2011/01/16/art_data_analysis_old_masters_auctions_and_the_weather/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+]
++++
 
 [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1666550](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1666550) (Contains link to download full PDF)  
   

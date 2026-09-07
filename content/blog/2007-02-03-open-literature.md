@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-02-03 18:56:48+00:00
-layout: post
-slug: open-literature
-title: Open Literature
-id: 1221
-categories:
-- Free Culture
----
++++
+title = "Open Literature"
+date = 2007-02-03 18:56:48+00:00
+path = "/2007/02/03/open-literature/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Two "Open" literary projects.  
   

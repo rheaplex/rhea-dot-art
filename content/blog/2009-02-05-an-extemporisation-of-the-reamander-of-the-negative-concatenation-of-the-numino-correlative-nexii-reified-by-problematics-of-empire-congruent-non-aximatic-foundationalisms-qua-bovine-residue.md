@@ -1,17 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-05 11:47:02+00:00
-layout: post
-slug: an-extemporisation-of-the-reamander-of-the-negative-concatenation-of-the-numino-correlative-nexii-reified-by-problematics-of-empire-congruent-non-aximatic-foundationalisms-qua-bovine-residue
-title: An extemporisation of the remainder of the negative concatenation of the numino-correlative
-  nexii reified by problematics of empire-congruent non-aximatic foundationalisms
-  qua bovine residue
-id: 1718
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "An extemporisation of the remainder of the negative concatenation of the numino-correlative nexii reified by problematics of empire-congruent non-aximatic foundationalisms qua bovine residue"
+date = 2009-02-05 11:47:02+00:00
+path = "/2009/02/05/an-extemporisation-of-the-reamander-of-the-negative-concatenation-of-the-numino-correlative-nexii-reified-by-problematics-of-empire-congruent-non-aximatic-foundationalisms-qua-bovine-residue/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [a rant, via netbehaviour]  
   

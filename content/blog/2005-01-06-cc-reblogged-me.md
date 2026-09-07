@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-06 07:15:29+00:00
-layout: post
-slug: cc-reblogged-me
-title: CC Reblogged Me :-)
-id: 276
-categories:
-- Free Culture
----
++++
+title = "CC Reblogged Me :-)"
+date = 2005-01-06 07:15:29+00:00
+path = "/2005/01/06/cc-reblogged-me/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I missed this. CC mentioned the Perdition remix contest when I linked to it, and they linked back to me:  
   

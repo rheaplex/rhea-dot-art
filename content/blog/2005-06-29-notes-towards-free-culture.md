@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-29 04:26:24+00:00
-layout: post
-slug: notes-towards-free-culture
-title: Notes Towards Free Culture
-id: 554
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2005-06-29 04:26:24+00:00
+path = "/2005/06/29/notes-towards-free-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Tattoo someone's body, get ownership of it via copyright. Well, the image of the tattoos anyway:  

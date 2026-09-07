@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-03 09:39:25+00:00
-layout: post
-slug: i-heart-my-roomba
-title: I Heart My Roomba
-id: 1019
-categories:
-- Personal
-- Reviews
----
++++
+title = "I Heart My Roomba"
+date = 2006-07-03 09:39:25+00:00
+path = "/2006/07/03/i-heart-my-roomba/"
+
+[taxonomies]
+categories = [
+    "Personal",
+    "Reviews",
+]
++++
 
   
 ![ Graphics Product Images Pirobot1-2430285P275W](/images/2006/07/_graphics_product_images_pIROBOT1-2430285p275w.jpg)  

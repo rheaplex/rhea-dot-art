@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-09-19 20:58:57+00:00
-layout: post
-slug: quantitative_aesthetics_1
-title: Quantitative Aesthetics
-id: 1857
-categories:
-- Aesthetics
----
++++
+title = "Quantitative Aesthetics"
+date = 2010-09-19 20:58:57+00:00
+path = "/2010/09/19/quantitative_aesthetics_1/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Seeing colours with an iPhone app:  
   

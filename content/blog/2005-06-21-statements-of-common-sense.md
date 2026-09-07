@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 07:05:44+00:00
-layout: post
-slug: statements-of-common-sense
-title: Statements of Common Sense
-id: 534
-categories:
-- Generative Art
----
++++
+title = "Statements of Common Sense"
+date = 2005-06-21 07:05:44+00:00
+path = "/2005/06/21/statements-of-common-sense/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 "Common sense isn't". So what should we make of [OpenMind](http://commonsense.media.mit.edu/cgi-bin/search.cgi)? Thousands of statements of common sense input by contributors (then licensed, ugh), available either in their [raw format](http://commonsense.media.mit.edu/cgi-bin/download.cgi) or as a [computer program](http://web.media.mit.edu/~hugo/conceptnet/).  

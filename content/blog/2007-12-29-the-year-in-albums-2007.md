@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-12-29 07:53:04+00:00
-layout: post
-slug: the-year-in-albums-2007
-title: The Year In Albums 2007
-id: 1546
-categories:
-- Reviews
----
++++
+title = "The Year In Albums 2007"
+date = 2007-12-29 07:53:04+00:00
+path = "/2007/12/29/the-year-in-albums-2007/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 In no particular order:  
   

@@ -1,14 +1,15 @@
----
-id: 3946
-title: 'Welcome To The Dessert Of The Real'
-date: '2021-01-03T16:55:38+00:00'
-author: Rhea Myers
-layout: post
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
----
++++
+title = "Welcome To The Dessert Of The Real"
+date = 2021-01-03 16:55:38+00:00
+path = "/2021/01/03/welcome-to-the-dessert-of-the-real/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+]
++++
 
 ## *On certain developments in the content of NFT art as we enter 2021*
 

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-04 23:24:38+00:00
-layout: post
-slug: paintr-is-now-gpl-3-licenced
-title: paintr Is Now GPL 3 Licenced
-id: 1429
-categories:
-- Free Culture
-- Projects
----
++++
+title = "paintr Is Now GPL 3 Licenced"
+date = 2007-08-04 23:24:38+00:00
+path = "/2007/08/04/paintr-is-now-gpl-3-licenced/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+]
++++
 
 Get the GPL 3 licenced version of paintr 0.2 from here:  
   

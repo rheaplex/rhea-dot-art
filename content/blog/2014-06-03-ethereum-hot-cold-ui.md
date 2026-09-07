@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-06-03 05:10:17+00:00
-layout: post
-slug: ethereum-hot-cold-ui
-title: Ethereum - Hot Cold UI
-id: 2582
-categories:
-- Art
-- Art Computing
-- Ethereum
-- Projects
----
++++
+title = "Ethereum - Hot Cold UI"
+date = 2014-06-03 05:10:17+00:00
+path = "/2014/06/03/ethereum-hot-cold-ui/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Ethereum",
+    "Projects",
+]
++++
 
 One of the example contracts from "[Identity, Ownership and Authenticity](/2014/05/09/artworld-ethereum-identity-ownership-and-authenticity/)" was a conceptual art homage called hot_cold.se . Here's an updated version:
 

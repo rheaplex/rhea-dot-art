@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-28 07:43:41+00:00
-layout: post
-slug: puredyne-discussion-on-netbehaviour
-title: Pure:dyne Discussion on Netbehaviour
-id: 1684
-categories:
-- Aesthetics
-- Art Computing
-- Free Culture
----
++++
+title = "Pure:dyne Discussion on Netbehaviour"
+date = 2008-10-28 07:43:41+00:00
+path = "/2008/10/28/puredyne-discussion-on-netbehaviour/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 [http://www.furtherfield.org/displayreview.php?review_id=322](http://www.furtherfield.org/displayreview.php?review_id=322)_**  
   

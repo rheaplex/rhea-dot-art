@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-29 03:58:57+00:00
-layout: post
-slug: blog-from-the-icommons-conference
-title: Blog From The iCommons Conference
-id: 553
-categories:
-- Free Culture
----
++++
+title = "Blog From The iCommons Conference"
+date = 2005-06-29 03:58:57+00:00
+path = "/2005/06/29/blog-from-the-icommons-conference/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Via the cc-uk list. Some weird "Open" ideology followed by...  

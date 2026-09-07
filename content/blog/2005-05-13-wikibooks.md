@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-13 07:41:16+00:00
-layout: post
-slug: wikibooks
-title: Wikibooks
-id: 418
-categories:
-- Free Culture
----
++++
+title = "Wikibooks"
+date = 2005-05-13 07:41:16+00:00
+path = "/2005/05/13/wikibooks/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Wikibooks, from Wikimedia (the people who do Wikipedia). Free Culture books:
 

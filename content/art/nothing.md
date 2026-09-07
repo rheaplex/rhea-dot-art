@@ -1,9 +1,16 @@
 +++
 title = "Titled (Information as Property as Art) [Ethereum Null Address]"
 date = 2022-11-26
+path = "/nothing/"
+
+[extra]
 image = "/art-images/nothing.png"
-mediums = ["Ethereum ERC-721 NFT"]
-aliases_names = ["Titled"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+]
+aliases_names = [
+    "Titled",
+]
 wp_id = 6625
 +++
 

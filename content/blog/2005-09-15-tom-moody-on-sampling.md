@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-15 06:35:49+00:00
-layout: post
-slug: tom-moody-on-sampling
-title: Tom Moody On Sampling
-id: 671
-categories:
-- Free Culture
----
++++
+title = "Tom Moody On Sampling"
+date = 2005-09-15 06:35:49+00:00
+path = "/2005/09/15/tom-moody-on-sampling/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Some good observations sparked off by the current Negativland show:  
   

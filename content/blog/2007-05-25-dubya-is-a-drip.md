@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-25 08:54:48+00:00
-layout: post
-slug: dubya-is-a-drip
-title: Dubya Is A Drip
-id: 1315
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Dubya Is A Drip"
+date = 2007-05-25 08:54:48+00:00
+path = "/2007/05/25/dubya-is-a-drip/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 "Portrait of George W. Bush in the style of Jackson Pollock's 'Number 5', 1948", 2006, is a painting of the current president of the U.S.A executed in the manner of an Jackson Pollock action painting. This refers back to the paintings of Socialist Realist images of Lenin that Art & Language (A&L;) executed in the style of Pollock in the early 1980s. Those images brought two opposed ideologies into collision within the same image, synthesizing a dialectic. So does this one.  
   

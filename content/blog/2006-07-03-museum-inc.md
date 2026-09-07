@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-03 09:33:37+00:00
-layout: post
-slug: museum-inc
-title: Museum, Inc.
-id: 1018
-categories:
-- Aesthetics
----
++++
+title = "Museum, Inc."
+date = 2006-07-03 09:33:37+00:00
+path = "/2006/07/03/museum-inc/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 [Museum, Inc](http://www.prickly-paradigm.com/catalog.html#fa05)  

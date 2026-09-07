@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-27 09:34:37+00:00
-layout: post
-slug: ch-ch-ch-changes
-title: Ch-Ch-Ch-Changes
-id: 1619
-categories:
-- Personal
----
++++
+title = "Ch-Ch-Ch-Changes"
+date = 2008-06-27 09:34:37+00:00
+path = "/2008/06/27/ch-ch-ch-changes/"
+
+[taxonomies]
+categories = [
+    "Personal",
+]
++++
 
 I am now on a new weblog platform (Movable Type) on a new server. Many thanks to Matt for helping with this. And by "helping with" I mean "doing".  
   

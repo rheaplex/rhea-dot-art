@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-11-19 22:51:25+00:00
-layout: post
-slug: moo-memeing
-title: MOO Memeing
-id: 2268
-categories:
-- LambdaMOO
-- Satire
----
++++
+title = "MOO Memeing"
+date = 2012-11-19 22:51:25+00:00
+path = "/2012/11/19/moo-memeing/"
+
+[taxonomies]
+categories = [
+    "LambdaMOO",
+    "Satire",
+]
++++
 
 @verb me:lick this none none
     @program me:lick

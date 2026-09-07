@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-18 07:14:44+00:00
-layout: post
-slug: the-noncommercial-fallacy
-title: The NonCommercial Fallacy
-id: 191
-categories:
-- Free Culture
----
++++
+title = "The NonCommercial Fallacy"
+date = 2004-08-18 07:14:44+00:00
+path = "/2004/08/18/the-noncommercial-fallacy/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 (from cc-license-discuss)  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-16 07:59:55+00:00
-layout: post
-slug: rectangle-intersection
-title: Rectangle Intersection
-id: 788
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Rectangle Intersection"
+date = 2006-01-16 07:59:55+00:00
+path = "/2006/01/16/rectangle-intersection/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 These rectangles are meant to be avoiding each other.  

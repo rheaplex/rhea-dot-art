@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-28 23:41:49+00:00
-layout: post
-slug: new-ward-video-to-sample-at-archiveorg
-title: New Ward Video To Sample at archive.org
-id: 454
-categories:
-- Free Culture
----
++++
+title = "New Ward Video To Sample at archive.org"
+date = 2005-05-28 23:41:49+00:00
+path = "/2005/05/28/new-ward-video-to-sample-at-archiveorg/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 See the entry "New Ward Video" on Loca Records's news page:  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-11-09 05:48:52+00:00
-layout: post
-slug: should-cc-release-software-licenses-creative-commons
-title: Should CC release software licenses? | Creative Commons
-id: 1164
-categories:
-- Free Culture
----
++++
+title = "Should CC release software licenses? | Creative Commons"
+date = 2006-11-09 05:48:52+00:00
+path = "/2006/11/09/should-cc-release-software-licenses-creative-commons/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Should CC release software licenses? | Creative Commons](http://creativecommons.org/weblog/entry/6133)  
   

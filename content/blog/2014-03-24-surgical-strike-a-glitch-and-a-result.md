@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-24 22:10:55+00:00
-layout: post
-slug: surgical-strike-a-glitch-and-a-result
-title: Surgical Strike - A Glitch And A Result
-id: 2553
-categories:
-- Art
-- Art Computing
-- Free Culture
-- Free Software
-- Glitch Art
-- Projects
----
++++
+title = "Surgical Strike - A Glitch And A Result"
+date = 2014-03-24 22:10:55+00:00
+path = "/2014/03/24/surgical-strike-a-glitch-and-a-result/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Culture",
+    "Free Software",
+    "Glitch Art",
+    "Projects",
+]
++++
 
 [![Hoops](/images/2014/03/Screenshot-from-2014-03-24-150654-1024x640.png)](/images/2014/03/Screenshot-from-2014-03-24-150654.png)
 

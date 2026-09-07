@@ -1,12 +1,8 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-15 06:09:19+00:00
-layout: post
-slug: thought-for-the-day-10
-title: Thought For The Day
-id: 1297
----
++++
+title = "Thought For The Day"
+date = 2007-05-15 06:09:19+00:00
+path = "/2007/05/15/thought-for-the-day-10/"
++++
 
 _Look out honey 'cause I'm using technology  
 Ain't got time to make no apology_  

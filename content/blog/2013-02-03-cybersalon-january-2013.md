@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-02-03 21:01:19+00:00
-layout: post
-slug: cybersalon-january-2013
-title: Cybersalon January 2013
-id: 2277
-categories:
-- Art Computing
-- Culture
-- Reviews
----
++++
+title = "Cybersalon January 2013"
+date = 2013-02-03 21:01:19+00:00
+path = "/2013/02/03/cybersalon-january-2013/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Culture",
+    "Reviews",
+]
++++
 
 ![Cybersalon](/images/2013/02/2013-01-30-19.26.32-1024x768.jpg)
 

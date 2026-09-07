@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-07 06:52:12+00:00
-layout: post
-slug: on-the-commons-on-collage
-title: On The Commons On Collage
-id: 471
-categories:
-- Free Culture
----
++++
+title = "On The Commons On Collage"
+date = 2005-06-07 06:52:12+00:00
+path = "/2005/06/07/on-the-commons-on-collage/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 On The Commons on collage and creativity:  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-07-15 09:24:48+00:00
-layout: post
-slug: a-skeptical-view-of-cc
-title: A Skeptical View Of CC
-id: 1042
-categories:
-- Free Culture
----
++++
+title = "A Skeptical View Of CC"
+date = 2006-07-15 09:24:48+00:00
+path = "/2006/07/15/a-skeptical-view-of-cc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [A Skeptical View Of A Worthy Pursuit](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=885466) - Niva Elkin-Koren  

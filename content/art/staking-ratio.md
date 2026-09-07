@@ -1,8 +1,16 @@
 +++
 title = "Staking Ratio"
 date = 2019-12-30
+path = "/staking-ratio/"
+
+[extra]
 image = "/art-images/EMDdkbeU8AAos7_cropped.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6628
 +++
 

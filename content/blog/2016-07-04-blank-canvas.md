@@ -1,14 +1,16 @@
----
-title: Blank Canvas
-date: 2016-07-04 22:44:59.000000000 -07:00
-type: post
-layout: post
-categories:
-- Art
-- Ethereum
-- Projects
-author: Rhea Myers
----
++++
+title = "Blank Canvas"
+date = 2016-07-04 22:44:59-07:00
+path = "/2016/07/04/blank-canvas/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Ethereum",
+    "Projects",
+]
++++
+
 ![Blank Canvas 1](/images/2016/07/blank-canvas.png)
 
 ![Blank Canvas 2](/images/2016/07/blank-canvas2.png)

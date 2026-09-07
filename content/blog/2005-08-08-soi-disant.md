@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-08 08:12:55+00:00
-layout: post
-slug: soi-disant
-title: Soi Disant…?
-id: 619
-categories:
-- Satire
----
++++
+title = "Soi Disant…?"
+date = 2005-08-08 08:12:55+00:00
+path = "/2005/08/08/soi-disant/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Banksy's current "manifesto" is a moving-if-true (Banksy's site is the only place on the web with any mention of this story) account of absurdist aesthetic intervention bringing humanity to a liberated death camp:  

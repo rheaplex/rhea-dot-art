@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-11 09:13:49+00:00
-layout: post
-slug: the-indoctrination-of-youth
-title: The Indoctrination Of Youth
-id: 188
-categories:
-- Free Culture
----
++++
+title = "The Indoctrination Of Youth"
+date = 2004-08-11 09:13:49+00:00
+path = "/2004/08/11/the-indoctrination-of-youth/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 	
 

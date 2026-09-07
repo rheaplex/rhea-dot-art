@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-21 05:12:39+00:00
-layout: post
-slug: minara-opendork-notes
-title: Minara Opendork Notes
-id: 727
-categories:
-- Projects
----
++++
+title = "Minara Opendork Notes"
+date = 2005-11-21 05:12:39+00:00
+path = "/2005/11/21/minara-opendork-notes/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 **Basics**  

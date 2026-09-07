@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-10 08:08:16+00:00
-layout: post
-slug: ironised-cc-licenses-by-blank-canvasses
-title: Ironised CC Licenses (BY Blank Canvasses)
-id: 1437
-categories:
-- Free Culture
-- Projects
-- Satire
----
++++
+title = "Ironised CC Licenses (BY Blank Canvasses)"
+date = 2007-08-10 08:08:16+00:00
+path = "/2007/08/10/ironised-cc-licenses-by-blank-canvasses/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+    "Satire",
+]
++++
 
 ![200708092207](/images/2007/08/200708092207.jpg)  
   

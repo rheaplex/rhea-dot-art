@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-15 22:16:26+00:00
-layout: post
-slug: why-3d-printing-will-go-mainstream
-title: Why 3D Printing Will Go Mainstream
-id: 1740
-categories:
-- Art Computing
-- Free Culture
----
++++
+title = "Why 3D Printing Will Go Mainstream"
+date = 2009-03-15 22:16:26+00:00
+path = "/2009/03/15/why-3d-printing-will-go-mainstream/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+]
++++
 
 [http://replicatorinc.com/blog/2009/03/why-3d-printers-won%E2%80%99t-go-mainstream/](http://replicatorinc.com/blog/2009/03/why-3d-printers-won%E2%80%99t-go-mainstream/)  
   

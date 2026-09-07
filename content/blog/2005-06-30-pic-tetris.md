@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-30 05:42:29+00:00
-layout: post
-slug: pic-tetris
-title: PIC Tetris
-id: 555
-categories:
-- Generative Art
-- Howto
----
++++
+title = "PIC Tetris"
+date = 2005-06-30 05:42:29+00:00
+path = "/2005/06/30/pic-tetris/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
   
 A video game on a PIC, via [make](http://www.makezine.com/blog/archive/2005/06/rickards_pictet.html):  

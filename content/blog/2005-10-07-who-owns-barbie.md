@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-07 06:03:57+00:00
-layout: post
-slug: who-owns-barbie
-title: Who Owns Barbie?
-id: 690
-categories:
-- Free Culture
----
++++
+title = "Who Owns Barbie?"
+date = 2005-10-07 06:03:57+00:00
+path = "/2005/10/07/who-owns-barbie/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Note that we don't get parody rights or fair use in the UK, just ever-decreasing "fair dealing" provisions:  
   

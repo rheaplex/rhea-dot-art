@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-15 03:32:41+00:00
-layout: post
-slug: cory-arcangel
-title: Cory Arcangel
-id: 289
-categories:
-- Generative Art
----
++++
+title = "Cory Arcangel"
+date = 2005-01-15 03:32:41+00:00
+path = "/2005/01/15/cory-arcangel/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Classic games console reprogramming crosses over.   
   

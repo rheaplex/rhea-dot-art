@@ -1,8 +1,16 @@
 +++
 title = "SchellingFlags"
 date = 2018-09-03
+path = "/schellingflags/"
+
+[extra]
 image = "/art-images/schellingflags.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6637
 +++
 

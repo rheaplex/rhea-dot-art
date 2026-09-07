@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-27 18:33:00+00:00
-layout: post
-slug: notes-towards-free-culture-5
-title: Notes Towards Free Culture
-id: 942
-categories:
-- Free Culture
----
++++
+title = "Notes Towards Free Culture"
+date = 2006-05-27 18:33:00+00:00
+path = "/2006/05/27/notes-towards-free-culture-5/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Charging Ansel Adams to Shoot in the National Parks](http://onthecommons.org/node/901)  
   

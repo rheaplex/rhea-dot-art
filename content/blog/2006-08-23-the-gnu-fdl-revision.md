@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-23 09:28:38+00:00
-layout: post
-slug: the-gnu-fdl-revision
-title: The GNU FDL Revision
-id: 1087
-categories:
-- Free Culture
----
++++
+title = "The GNU FDL Revision"
+date = 2006-08-23 09:28:38+00:00
+path = "/2006/08/23/the-gnu-fdl-revision/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Some details on the FDL revision from the second audio file linked from: [http://creativecommons.org/weblog/entry/6019](http://creativecommons.org/weblog/entry/6019%20)  

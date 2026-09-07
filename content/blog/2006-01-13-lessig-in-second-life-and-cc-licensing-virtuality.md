@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-13 07:20:13+00:00
-layout: post
-slug: lessig-in-second-life-and-cc-licensing-virtuality
-title: Lessig In Second Life, and CC-Licensing Virtuality
-id: 783
-categories:
-- Free Culture
----
++++
+title = "Lessig In Second Life, and CC-Licensing Virtuality"
+date = 2006-01-13 07:20:13+00:00
+path = "/2006/01/13/lessig-in-second-life-and-cc-licensing-virtuality/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 [Lawrence Lessig will be in Second Life next Wednesday](http://www.lessig.org/blog/archives/003288.shtml). I wonder how SL are getting on with Creative Commons licenses in their game world?  

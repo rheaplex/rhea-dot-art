@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-27 05:24:19+00:00
-layout: post
-slug: harold-cohen-article-at-the-franz-lisp-site
-title: Harold Cohen Article At The Franz Lisp Site
-id: 331
-categories:
-- Generative Art
----
++++
+title = "Harold Cohen Article At The Franz Lisp Site"
+date = 2005-02-27 05:24:19+00:00
+path = "/2005/02/27/harold-cohen-article-at-the-franz-lisp-site/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 [http://www.franz.com/success/customer_apps/artificial_intelligence/kurzweil.lhtml](http://www.franz.com/success/customer_apps/artificial_intelligence/kurzweil.lhtml)   
   

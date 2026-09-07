@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-04-24 21:26:27+00:00
-layout: post
-slug: wikimedia-hates-art
-title: Wikimedia Hates Art
-id: 1759
-categories:
-- Free Culture
-- Howto
-- links
----
++++
+title = "Wikimedia Hates Art"
+date = 2009-04-24 21:26:27+00:00
+path = "/2009/04/24/wikimedia-hates-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Howto",
+    "links",
+]
++++
 
 [http://identi.ca/tag/wikimediahatesart](http://identi.ca/tag/wikimediahatesart)  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-07 04:57:09+00:00
-layout: post
-slug: forget-duchamp
-title: Forget Duchamp
-id: 854
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Forget Duchamp"
+date = 2006-03-07 04:57:09+00:00
+path = "/2006/03/07/forget-duchamp/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [LA Time's rips into Thomas Kinkade AKA "Painter of Light"](http://www.boingboing.net/2006/03/05/la_times_rips_into_t.html)  
   

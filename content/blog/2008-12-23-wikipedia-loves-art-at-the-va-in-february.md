@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-12-23 08:33:51+00:00
-layout: post
-slug: wikipedia-loves-art-at-the-va-in-february
-title: Wikipedia Loves Art at the V&A in February
-id: 1700
-categories:
-- Free Culture
----
++++
+title = "Wikipedia Loves Art at the V&A in February"
+date = 2008-12-23 08:33:51+00:00
+path = "/2008/12/23/wikipedia-loves-art-at-the-va-in-february/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Get involved in a free culture art history photography event in London in February -<br></br><br></br>
 

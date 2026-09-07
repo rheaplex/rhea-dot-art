@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-03-15 16:08:39+00:00
-layout: post
-slug: the-new-book-banning
-title: The New Book Banning
-id: 1739
-categories:
-- Free Culture
----
++++
+title = "The New Book Banning"
+date = 2009-03-15 16:08:39+00:00
+path = "/2009/03/15/the-new-book-banning/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 <blockquote>_the [US] federal government has now advised that children’s books published before 1985 should not be considered safe and may in many cases be unlawful to sell or distribute_  
   

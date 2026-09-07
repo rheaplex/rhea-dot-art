@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-11-14 20:47:34+00:00
-layout: post
-slug: star_dot_star_punk
-title: Star Dot Star Punk
-id: 1810
-categories:
-- Aesthetics
----
++++
+title = "Star Dot Star Punk"
+date = 2009-11-14 20:47:34+00:00
+path = "/2009/11/14/star_dot_star_punk/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 ## Gah Punk!
 

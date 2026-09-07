@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-01 09:39:13+00:00
-layout: post
-slug: free-culture-roundup-8
-title: Free Culture Roundup
-id: 810
-categories:
-- Free Culture
----
++++
+title = "Free Culture Roundup"
+date = 2006-02-01 09:39:13+00:00
+path = "/2006/02/01/free-culture-roundup-8/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 The Support Of Religious Hatred Act has hit the wall of freedom of speech:  

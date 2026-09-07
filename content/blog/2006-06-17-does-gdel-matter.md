@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-17 05:58:32+00:00
-layout: post
-slug: does-gdel-matter
-title: Does Gödel Matter?
-id: 986
-categories:
-- Aesthetics
----
++++
+title = "Does Gödel Matter?"
+date = 2006-06-17 05:58:32+00:00
+path = "/2006/06/17/does-gdel-matter/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [The romantic's favorite mathematician.](http://www.slate.com/id/2114561/)  
   

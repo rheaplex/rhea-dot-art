@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-04-20 07:39:57+00:00
-layout: post
-slug: fair-use-and-free-software
-title: Fair Use And Free Software
-id: 1268
-categories:
-- Free Culture
----
++++
+title = "Fair Use And Free Software"
+date = 2007-04-20 07:39:57+00:00
+path = "/2007/04/20/fair-use-and-free-software/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The third GPL3 draft mentions Fair Use in a manner similar to the Creative Commons licences, guaranteeing the Fair Use rights of people who receive copies of the work. Fair Use can be an extensive exception to copyright, allowing derivative works to claim a new copyright separate from that of the parent work.  
   

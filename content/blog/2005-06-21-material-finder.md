@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 03:35:01+00:00
-layout: post
-slug: material-finder
-title: Material Finder
-id: 527
-categories:
-- Howto
----
++++
+title = "Material Finder"
+date = 2005-06-21 03:35:01+00:00
+path = "/2005/06/21/material-finder/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
   
 Via [Future Feeder](http://futurefeeder.com/index.php/archives/2005/05/21/material-explorer-update/):  

@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-03-07 06:50:07+00:00
-layout: post
-slug: surgical-strike-update
-title: Surgical Strike Update
-id: 2531
-categories:
-- Art
-- Art Computing
-- Free Software
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Surgical Strike Update"
+date = 2014-03-07 06:50:07+00:00
+path = "/2014/03/07/surgical-strike-update/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 I've updated the 2008 remake of my 1996 artistic programming language "[Surgical Strike](/surgical-strike/)" to compile on modern versions of GNU/Linux.
 

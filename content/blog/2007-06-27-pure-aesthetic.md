@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-27 18:07:40+00:00
-layout: post
-slug: pure-aesthetic
-title: Pure Aesthetic
-id: 1378
-categories:
-- Aesthetics
----
++++
+title = "Pure Aesthetic"
+date = 2007-06-27 18:07:40+00:00
+path = "/2007/06/27/pure-aesthetic/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Art is pretty & expensive. Diamonds are pretty & expensive. Art has form. Diamond dust has no form. Art is aesthetic. Diamond dust is pure aesthetic.  
 

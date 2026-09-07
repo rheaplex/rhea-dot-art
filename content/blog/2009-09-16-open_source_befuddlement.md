@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-09-16 20:38:27+00:00
-layout: post
-slug: open_source_befuddlement
-title: Open Source Befuddlement
-id: 1797
-categories:
-- Free Culture
----
++++
+title = "Open Source Befuddlement"
+date = 2009-09-16 20:38:27+00:00
+path = "/2009/09/16/open_source_befuddlement/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Talking about "Open Source" rather than Free Software can lead people to concentrate on availability of source code rather than protecting freedom. And to concentrate on the developers who write that source code rather than all the users of the software that it represents.  
   

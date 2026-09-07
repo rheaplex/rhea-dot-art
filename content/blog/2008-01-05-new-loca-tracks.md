@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-05 06:39:15+00:00
-layout: post
-slug: new-loca-tracks
-title: New Loca Tracks
-id: 1552
-categories:
-- Free Culture
----
++++
+title = "New Loca Tracks"
+date = 2008-01-05 06:39:15+00:00
+path = "/2008/01/05/new-loca-tracks/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Loca Records // News](http://www.locarecords.com/news.html)  
   

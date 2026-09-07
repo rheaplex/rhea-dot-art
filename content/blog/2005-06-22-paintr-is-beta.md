@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-22 08:01:10+00:00
-layout: post
-slug: paintr-is-beta
-title: paintr is Beta
-id: 536
-categories:
-- Projects
----
++++
+title = "paintr is Beta"
+date = 2005-06-22 08:01:10+00:00
+path = "/2005/06/22/paintr-is-beta/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 paintr is now beta. That means I'm going to leave it running for a while to check that it works OK, then come back to it in a few days to finalise the supporting HTML.  

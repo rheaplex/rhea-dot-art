@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-10-30 06:05:36+00:00
-layout: post
-slug: science-shouldnt-use-copyright-to-silence-creationists
-title: Science shouldn't use copyright to silence Creationists
-id: 714
-categories:
-- Free Culture
----
++++
+title = "Science shouldn't use copyright to silence Creationists"
+date = 2005-10-30 06:05:36+00:00
+path = "/2005/10/30/science-shouldnt-use-copyright-to-silence-creationists/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 This is exactly the sort of thing we've been talking about on fc-uk-discuss at the moment. Copyright being used to prevent criticism that you don't agree with. Or to prevent misrepresentation. Or to prevent downright lies by fanatical idiots:  

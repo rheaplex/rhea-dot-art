@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-16 19:18:18+00:00
-layout: post
-slug: open_art_data_-_datasets_update
-title: Open Art Data - Datasets Update
-id: 1961
-categories:
-- Art
-- Art History
-- Art Open Data
----
++++
+title = "Open Art Data - Datasets Update"
+date = 2011-10-16 19:18:18+00:00
+path = "/2011/10/16/open_art_data_-_datasets_update/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Art Open Data",
+]
++++
 
 Here's a new OGL-licenced list of works in the UK government's art collection, scraped for a Culture Hack Day -  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-26 04:28:33+00:00
-layout: post
-slug: beyond-irony
-title: Beyond Irony
-id: 1577
-categories:
-- Free Culture
----
++++
+title = "Beyond Irony"
+date = 2008-02-26 04:28:33+00:00
+path = "/2008/02/26/beyond-irony/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [- Primary Sources on Copyright 1450-1900](http://www.copyrighthistory.org/)  
 

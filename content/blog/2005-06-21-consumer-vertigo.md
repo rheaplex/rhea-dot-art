@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 03:28:09+00:00
-layout: post
-slug: consumer-vertigo
-title: Consumer Vertigo
-id: 525
-categories:
-- Free Culture
----
++++
+title = "Consumer Vertigo"
+date = 2005-06-21 03:28:09+00:00
+path = "/2005/06/21/consumer-vertigo/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Reason on bogus socila critiques of too much choice, via [ALDaily](http://www.aldaily.com/):  

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-29 05:00:21+00:00
-layout: post
-slug: open-clip-art
-title: Open Clip Art
-id: 134
-categories:
-- Free Culture
----
++++
+title = "Open Clip Art"
+date = 2004-04-29 05:00:21+00:00
+path = "/2004/04/29/open-clip-art/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via Creative Commons, the [Open Clip Art ](http://clipart.freedesktop.org/) project from Freedesktop.org.  
   

@@ -1,14 +1,16 @@
----
-title: Bad Shibe - Out Now!
-date: 2017-05-04 12:17:43.000000000 -07:00
-type: post
-layout: post
-categories:
-- Crypto
-- Culture
-- Projects
-author: Rhea Myers
----
++++
+title = "Bad Shibe - Out Now!"
+date = 2017-05-04 12:17:43-07:00
+path = "/2017/05/04/bad-shibe-out-now/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Culture",
+    "Projects",
+]
++++
+
 ![](/images/2017/02/C-6DUI-XgAA6Aaa.jpg)
 
 Cover Illustration for "Bad Shibe" by Lina Theodorou.

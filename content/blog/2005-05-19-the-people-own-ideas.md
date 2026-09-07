@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-19 08:40:05+00:00
-layout: post
-slug: the-people-own-ideas
-title: The People Own Ideas
-id: 437
-categories:
-- Free Culture
----
++++
+title = "The People Own Ideas"
+date = 2005-05-19 08:40:05+00:00
+path = "/2005/05/19/the-people-own-ideas/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Free Culture Pong:  
   

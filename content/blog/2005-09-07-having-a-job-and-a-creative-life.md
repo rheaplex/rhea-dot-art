@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-07 08:19:10+00:00
-layout: post
-slug: having-a-job-and-a-creative-life
-title: Having A Job And A Creative Life
-id: 665
-categories:
-- Howto
----
++++
+title = "Having A Job And A Creative Life"
+date = 2005-09-07 08:19:10+00:00
+path = "/2005/09/07/having-a-job-and-a-creative-life/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 Via [43 Folders](http://www.43folders.com/2005/09/having_a_job_an.html):  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-05 05:44:19+00:00
-layout: post
-slug: pimp-my-memento-mori
-title: Pimp My Memento Mori
-id: 1334
-categories:
-- Aesthetics
-- Reviews
----
++++
+title = "Pimp My Memento Mori"
+date = 2007-06-05 05:44:19+00:00
+path = "/2007/06/05/pimp-my-memento-mori/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+]
++++
 
 **The Bleeding Obvious**  
   

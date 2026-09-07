@@ -1,19 +1,18 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-18 06:03:53+00:00
-layout: post
-slug: glitcherature-in-emacs
-title: Glitcherature in Emacs
-id: 2521
-categories:
-- Art
-- Art Computing
-- Free Software
-- Generative Art
-- Glitch Art
-- Projects
----
++++
+title = "Glitcherature in Emacs"
+date = 2014-02-18 06:03:53+00:00
+path = "/2014/02/18/glitcherature-in-emacs/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art Computing",
+    "Free Software",
+    "Generative Art",
+    "Glitch Art",
+    "Projects",
+]
++++
 
 Glitcherature is glitch literature, glitch aesthetics applied to text. "[Kathy Acker](http://en.wikipedia.org/wiki/Kathy_Acker) uploaded by [Bryce Lynch](http://en.wikipedia.org/wiki/Bryce_Lynch#Bryce_Lynch)", as I said of [Orphan Drif](http://www.orphandriftarchive.com/)t's novel "[Cyberpositive](http://www.orphandriftarchive.com/cyberpositive/cyberpositive.php)".
 

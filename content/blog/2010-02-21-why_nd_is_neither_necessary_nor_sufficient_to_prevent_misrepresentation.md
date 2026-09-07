@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-02-21 15:34:09+00:00
-layout: post
-slug: why_nd_is_neither_necessary_nor_sufficient_to_prevent_misrepresentation
-title: Why ND Is Neither Necessary Nor Sufficient To Prevent Misrepresentation
-id: 1828
-categories:
-- Free Culture
----
++++
+title = "Why ND Is Neither Necessary Nor Sufficient To Prevent Misrepresentation"
+date = 2010-02-21 15:34:09+00:00
+path = "/2010/02/21/why_nd_is_neither_necessary_nor_sufficient_to_prevent_misrepresentation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Misrepresentation
 

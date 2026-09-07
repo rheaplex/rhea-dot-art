@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-09 07:32:32+00:00
-layout: post
-slug: hacking-away
-title: Hacking Away
-id: 260
-categories:
-- Projects
----
++++
+title = "Hacking Away"
+date = 2004-12-09 07:32:32+00:00
+path = "/2004/12/09/hacking-away/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I'm back to hacking on [Minara](http://minara.sourceforge.net/), which means I'm actually following my schedule for the year. I've added code to handle transforms and I've streamlined and improved the buffer & window code. I hope to have the code in CVS next week. Transform tools, colours, groups and a decent pen by next summer. Hopefully.  
   

@@ -1,9 +1,8 @@
----
-layout: post
-title: The Fractality Of Discourse
-slug: the-fractality-of-discourse
-date: 2015-12-01
----
++++
+title = "The Fractality Of Discourse"
+date = 2015-12-01
+path = "/2015/12/01/the-fractality-of-discourse/"
++++
 
 Texts exist in discursive space
 

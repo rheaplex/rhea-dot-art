@@ -1,10 +1,17 @@
 +++
 title = "Glitcherature"
 date = 2015-01-10
+path = "/glitcherature/"
+
+[extra]
 date_provisional = true
 image = "/art-images/glitcherature-mode.png"
-mediums = ["Emacs Lisp"]
-repos = ["https://github.com/rheaplex/glitcherature"]
+mediums = [
+    "Emacs Lisp",
+]
+repos = [
+    "https://github.com/rheaplex/glitcherature",
+]
 wp_id = 6649
 +++
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-05-22 02:41:00+00:00
-layout: post
-slug: paintr-first-results
-title: 'paintr: First Results'
-id: 444
-categories:
-- Projects
----
++++
+title = "paintr: First Results"
+date = 2005-05-22 02:41:00+00:00
+path = "/2005/05/22/paintr-first-results/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Output from paintr running as a local application:  
 ![](/images/wp-admin//assets/1.png)  

@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-02-05 21:48:04+00:00
-layout: post
-slug: exploring-tate-art-open-data-1
-title: Exploring Tate Art Open Data 1
-id: 2506
-categories:
-- Art History
-- Art Open Data
-- Free Culture
-- Projects
----
++++
+title = "Exploring Tate Art Open Data 1"
+date = 2014-02-05 21:48:04+00:00
+path = "/2014/02/05/exploring-tate-art-open-data-1/"
+
+[taxonomies]
+categories = [
+    "Art History",
+    "Art Open Data",
+    "Free Culture",
+    "Projects",
+]
++++
 
 This is the first in a series of posts examining Tate's excellent collection dataset available at [http://www.tate.org.uk/about/our-work/digital/collection-data](http://www.tate.org.uk/about/our-work/digital/collection-data) .
 

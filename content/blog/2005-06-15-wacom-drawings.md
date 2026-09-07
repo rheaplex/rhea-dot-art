@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-15 05:53:02+00:00
-layout: post
-slug: wacom-drawings
-title: Wacom Drawings
-id: 502
-categories:
-- Projects
----
++++
+title = "Wacom Drawings"
+date = 2005-06-15 05:53:02+00:00
+path = "/2005/06/15/wacom-drawings/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 I dug out my graphics tablet and tried it with Inkscape:  

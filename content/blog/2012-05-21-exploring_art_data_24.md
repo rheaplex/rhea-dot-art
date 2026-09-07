@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-05-21 22:52:51+00:00
-layout: post
-slug: exploring_art_data_24
-title: Exploring Art Data 24
-id: 1991
-categories:
-- Art Computing
-- Art History
-- Art Open Data
-- Projects
----
++++
+title = "Exploring Art Data 24"
+date = 2012-05-21 22:52:51+00:00
+path = "/2012/05/21/exploring_art_data_24/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 (This post uses new features from the R Cultural Analytics Library version 1.0.6 .)  
   

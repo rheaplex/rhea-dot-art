@@ -1,8 +1,16 @@
 +++
 title = "Hack Line Properties"
 date = 2019-07-26
+path = "/hack-line-properties/"
+
+[extra]
 image = "/art-images/hack-line-1.png"
-mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+mediums = [
+    "HTML5",
+    "Ethereum Smart Contract",
+    "JavaScript",
+    "CSS",
+]
 wp_id = 6631
 +++
 

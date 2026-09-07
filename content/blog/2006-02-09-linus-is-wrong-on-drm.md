@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-09 07:49:18+00:00
-layout: post
-slug: linus-is-wrong-on-drm
-title: Linus Is Wrong on DRM
-id: 817
-categories:
-- Free Culture
----
++++
+title = "Linus Is Wrong on DRM"
+date = 2006-02-09 07:49:18+00:00
+path = "/2006/02/09/linus-is-wrong-on-drm/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Free networks require free content. Free content requires free software. Free software requires free systems. Free systems require free networks.  

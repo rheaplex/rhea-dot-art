@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-01-05 08:57:21+00:00
-layout: post
-slug: art-coins-coloured-crypto-token-art
-title: Art Coins (Coloured) - Crypto Token Art
-id: 2693
-categories:
-- Art
-- Crypto
-- Projects
----
++++
+title = "Art Coins (Coloured) - Crypto Token Art"
+date = 2015-01-05 08:57:21+00:00
+path = "/2015/01/05/art-coins-coloured-crypto-token-art/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Crypto",
+    "Projects",
+]
++++
 
 [![colourcoinbalances](/images/2015/01/colourcoinbalances.png)](/images/2015/01/colourcoinbalances.png)
 

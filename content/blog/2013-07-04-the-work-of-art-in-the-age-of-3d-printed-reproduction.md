@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-07-04 20:59:14+00:00
-layout: post
-slug: the-work-of-art-in-the-age-of-3d-printed-reproduction
-title: The work of art in the age of 3D printed reproduction
-id: 2381
-categories:
-- 3D Printing
-- Art
-- Projects
----
++++
+title = "The work of art in the age of 3D printed reproduction"
+date = 2013-07-04 20:59:14+00:00
+path = "/2013/07/04/the-work-of-art-in-the-age-of-3d-printed-reproduction/"
+
+[taxonomies]
+categories = [
+    "3D Printing",
+    "Art",
+    "Projects",
+]
++++
 
 ![pipe-blend1-580x456](/images/2013/07/pipe-blend1-580x456-300x235.png)
 

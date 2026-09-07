@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-04-26 18:32:56+00:00
-layout: post
-slug: only-people-making-real-encyclopaediae-should-have-free-speech
-title: Only People Making Real Encyclopaediae Should Have Free Speech
-id: 1760
-categories:
-- Free Culture
----
++++
+title = "Only People Making Real Encyclopaediae Should Have Free Speech"
+date = 2009-04-26 18:32:56+00:00
+path = "/2009/04/26/only-people-making-real-encyclopaediae-should-have-free-speech/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Dave Gerard's comment on Foundation-L neatly encapsulates the problem with Wikimedia's actions and with the defences of them that I have seen so far, stating of the artists  -  
 

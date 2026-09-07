@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-08-20 06:51:10+00:00
-layout: post
-slug: agoric-aesthetics-philosophy
-title: Agoric Aesthetics & Philosophy
-id: 2615
-categories:
-- Art
----
++++
+title = "Agoric Aesthetics & Philosophy"
+date = 2014-08-20 06:51:10+00:00
+path = "/2014/08/20/agoric-aesthetics-philosophy/"
+
+[taxonomies]
+categories = [
+    "Art",
+]
++++
 
 Agorizing aesthetics and philosophy means producing them using market pricing mechanisms. The model for this is the market-based software of [agoric computing](http://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html). The advantage of such a system is that it incentivises both production and efficiency. By internalizing market forces, the perverse incentives of gamified systems such as academic research points can be avoided.
 

@@ -1,9 +1,11 @@
----
-title: "Bridall Day"
-image: "/images/bridall-day.png"
-type: "page"
-date: "2021-01-07"
----
++++
+title = "Bridall Day"
+date = 2021-01-07
+path = "/bridall-day/"
+
+[extra]
+image = "/images/bridall-day.png"
++++
 
 ![A VR sculpture of a steampunk-ish figure](/images/bridall-day.png)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-06 07:51:57+00:00
-layout: post
-slug: a-free-library
-title: A Free Library
-id: 110
-categories:
-- Free Culture
----
++++
+title = "A Free Library"
+date = 2004-04-06 07:51:57+00:00
+path = "/2004/04/06/a-free-library/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [An Encyclopaedia](http://www.wikipedia.org/)   
   

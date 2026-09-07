@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-09-29 07:34:52+00:00
-layout: post
-slug: aaron-and-phosphenes
-title: AARON and Phosphenes
-id: 1670
-categories:
-- Aesthetics
-- Art Computing
-- Generative Art
----
++++
+title = "AARON and Phosphenes"
+date = 2008-09-29 07:34:52+00:00
+path = "/2008/09/29/aaron-and-phosphenes/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Computing",
+    "Generative Art",
+]
++++
 
 [http://www.nytimes.com/2008/09/09/science/09rock.html](http://www.nytimes.com/2008/09/09/science/09rock.html)  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-16 07:38:06+00:00
-layout: post
-slug: art-page-updated
-title: Art Page Updated
-id: 830
-categories:
-- Projects
----
++++
+title = "Art Page Updated"
+date = 2006-02-16 07:38:06+00:00
+path = "/2006/02/16/art-page-updated/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I added links to paintr and various versions of draw-something at:  
   

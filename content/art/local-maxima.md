@@ -1,8 +1,14 @@
 +++
 title = "Local Maxima"
 date = 2019-04-21
+path = "/local-maxima/"
+
+[extra]
 image = "/art-images/lm.png"
-mediums = ["GAN-generated Images", "Giclee Prints"]
+mediums = [
+    "GAN-generated Images",
+    "Giclee Prints",
+]
 wp_id = 6634
 +++
 

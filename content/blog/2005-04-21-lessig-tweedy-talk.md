@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-21 21:09:09+00:00
-layout: post
-slug: lessig-tweedy-talk
-title: Lessig & Tweedy Talk
-id: 396
-categories:
-- Free Culture
----
++++
+title = "Lessig & Tweedy Talk"
+date = 2005-04-21 21:09:09+00:00
+path = "/2005/04/21/lessig-tweedy-talk/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Via Lessig's blog:  
   

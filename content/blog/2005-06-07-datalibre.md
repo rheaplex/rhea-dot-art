@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-07 07:38:12+00:00
-layout: post
-slug: datalibre
-title: datalibre
-id: 472
-categories:
-- Free Culture
----
++++
+title = "datalibre"
+date = 2005-06-07 07:38:12+00:00
+path = "/2005/06/07/datalibre/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Beware enclosures:  

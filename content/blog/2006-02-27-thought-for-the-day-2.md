@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-02-27 08:18:00+00:00
-layout: post
-slug: thought-for-the-day-2
-title: Thought For The Day
-id: 847
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Thought For The Day"
+date = 2006-02-27 08:18:00+00:00
+path = "/2006/02/27/thought-for-the-day-2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 The food industry don't try to stop you making snacks.  
   

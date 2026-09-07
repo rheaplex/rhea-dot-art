@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-11-19 19:43:38+00:00
-layout: post
-slug: digital_lycanthropy
-title: Digital Lycanthropy
-id: 1969
-categories:
-- Projects
----
++++
+title = "Digital Lycanthropy"
+date = 2011-11-19 19:43:38+00:00
+path = "/2011/11/19/digital_lycanthropy/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Data for phases of the moon from 2000BC to 4000AD  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-06 07:25:49+00:00
-layout: post
-slug: unkle-war-stories
-title: UNKLE - War Stories
-id: 1396
-categories:
-- Reviews
----
++++
+title = "UNKLE - War Stories"
+date = 2007-07-06 07:25:49+00:00
+path = "/2007/07/06/unkle-war-stories/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 UNKLE's "Psyence Fiction" was one of my favourite albums of the 1990s, a genuine step forward in the dialogue between American and British music, bringing trip-hop, rap, indie and dance together and further. The follow-up, "Never Never Land" wasn't very good, with wimpy vocals and lyrics and aimless music.  
   

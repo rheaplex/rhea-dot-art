@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-05 10:33:59+00:00
-layout: post
-slug: notes-toward-the-expanded-image
-title: Notes Toward The Expanded Image
-id: 464
-categories:
-- Aesthetics
----
++++
+title = "Notes Toward The Expanded Image"
+date = 2005-06-05 10:33:59+00:00
+path = "/2005/06/05/notes-toward-the-expanded-image/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 images are representation (Wark) is query (Google) is search (AI) is culling (shape grammars)  

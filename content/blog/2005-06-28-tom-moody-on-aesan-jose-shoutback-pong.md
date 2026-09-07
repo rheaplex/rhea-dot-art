@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-28 07:05:32+00:00
-layout: post
-slug: tom-moody-on-aesan-jose-shoutback-pong
-title: Tom Moody On â€˜San Jose' (Shoutback Pong)
-id: 550
-categories:
-- Projects
----
++++
+title = "Tom Moody On â€˜San Jose' (Shoutback Pong)"
+date = 2005-06-28 07:05:32+00:00
+path = "/2005/06/28/tom-moody-on-aesan-jose-shoutback-pong/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 Tom had some kind words for my series 'San Jose':
 

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-12-31 19:32:37+00:00
-layout: post
-slug: the_cybernetic_artworld
-title: The Cybernetic Artworld
-id: 1821
-categories:
-- Generative Art
-- Projects
----
++++
+title = "The Cybernetic Artworld"
+date = 2009-12-31 19:32:37+00:00
+path = "/2009/12/31/the_cybernetic_artworld/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 [/art/cybernetic_artworld/](/art/cybernetic_artworld/)
 

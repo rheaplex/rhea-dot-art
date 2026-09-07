@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-05-02 00:33:24+00:00
-layout: post
-slug: my-little-penny-bitcoin-is-magic
-title: My Little Penny - Bitcoin Is Magic
-id: 2787
-categories:
-- Crypto
-- Magick
----
++++
+title = "My Little Penny - Bitcoin Is Magic"
+date = 2015-05-02 00:33:24+00:00
+path = "/2015/05/02/my-little-penny-bitcoin-is-magic/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Magick",
+]
++++
 
 <blockquote>"Change for the machines." - Synners, Pat Cadigan</blockquote>
 

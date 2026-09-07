@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-14 03:56:24+00:00
-layout: post
-slug: public-domain-textures-site
-title: public domain textures site
-id: 1587
-categories:
-- Free Culture
----
++++
+title = "public domain textures site"
+date = 2008-03-14 03:56:24+00:00
+path = "/2008/03/14/public-domain-textures-site/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [public domain textures](http://pdtextures.blogspot.com/)  
   

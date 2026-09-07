@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-07 05:13:39+00:00
-layout: post
-slug: creative-commons-is-broken-allegedly
-title: Creative Commons Is Broken, Allegedly
-id: 856
-categories:
-- Free Culture
----
++++
+title = "Creative Commons Is Broken, Allegedly"
+date = 2006-03-07 05:13:39+00:00
+path = "/2006/03/07/creative-commons-is-broken-allegedly/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.sourcelabs.com/blogs/ajb/2006/02/creative_commons_is_broken.html](http://www.sourcelabs.com/blogs/ajb/2006/02/creative_commons_is_broken.html)  
   

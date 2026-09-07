@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-02 03:58:10+00:00
-layout: post
-slug: freedom-defined
-title: Freedom Defined
-id: 910
-categories:
-- Free Culture
----
++++
+title = "Freedom Defined"
+date = 2006-05-02 03:58:10+00:00
+path = "/2006/05/02/freedom-defined/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 _We believe that the highest standard of freedom should be sought for  
 as many works as possible. And we seek to define this standard of  

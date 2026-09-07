@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-01-20 05:28:23+00:00
-layout: post
-slug: rheart-colour-for-cheats
-title: 'rheart: Colour For Cheats'
-id: 294
-categories:
-- Projects
----
++++
+title = "rheart: Colour For Cheats"
+date = 2005-01-20 05:28:23+00:00
+path = "/2005/01/20/rheart-colour-for-cheats/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I've had a busy evening. Some of the better results from purely random colour choosing:  
 ![](/images/drawing3.png)![](/images/drawing1.png)![](/images/drawing2.png)  

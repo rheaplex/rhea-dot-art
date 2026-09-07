@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-05-11 23:00:12+00:00
-layout: post
-slug: free-software-oculus-rift-driver-in-chromium
-title: Free Software Oculus Rift Driver in Chromium
-id: 2339
-categories:
-- Free Software
-- Virtual Reality
----
++++
+title = "Free Software Oculus Rift Driver in Chromium"
+date = 2013-05-11 23:00:12+00:00
+path = "/2013/05/11/free-software-oculus-rift-driver-in-chromium/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Virtual Reality",
+]
++++
 
 With a [nightly build of Chromium](http://en.wikipedia.org/wiki/Chromium_(web_browser)#Nightly_Binaries) and experimental code from [vr.js](https://github.com/benvanik/vr.js) you can run a free software JavaScript/WebGL Oculus Rift environment on GNU//Linux:
 

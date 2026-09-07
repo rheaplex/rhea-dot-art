@@ -1,16 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-11 05:11:25+00:00
-layout: post
-slug: asifa-hollywood-animation-archive-project-blog-media-john-ks-storyboard-for-stimpys-invention
-title: 'ASIFA-Hollywood Animation Archive Project Blog: Media: John K''s Storyboard
-  For Stimpy''s Invention'
-id: 863
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "ASIFA-Hollywood Animation Archive Project Blog: Media: John K's Storyboard For Stimpy's Invention"
+date = 2006-03-11 05:11:25+00:00
+path = "/2006/03/11/asifa-hollywood-animation-archive-project-blog-media-john-ks-storyboard-for-stimpys-invention/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [ASIFA-Hollywood Animation Archive Project Blog: Media: John K's Storyboard For Stimpy's Invention](http://www.animationarchive.org/2006/03/media-john-ks-storyboard-for-stimpys.html)  
   

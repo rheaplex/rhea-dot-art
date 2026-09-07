@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-14 08:16:38+00:00
-layout: post
-slug: surgical-strike-free-software
-title: Surgical Strike Free Software
-id: 1655
-categories:
-- Art Computing
-- Free Culture
-- Generative Art
-- Projects
-- Satire
----
++++
+title = "Surgical Strike Free Software"
+date = 2008-08-14 08:16:38+00:00
+path = "/2008/08/14/surgical-strike-free-software/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Free Culture",
+    "Generative Art",
+    "Projects",
+    "Satire",
+]
++++
 
 "Surgical Strike" was a 1996 art computing project concerned with the social history of art computing. "Surgical Strike Free Software" is a 2008 reimplementation of the original project.  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-01-21 21:47:23+00:00
-layout: post
-slug: artists-should-work
-title: Artists Should Work
-id: 1214
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Artists Should Work"
+date = 2007-01-21 21:47:23+00:00
+path = "/2007/01/21/artists-should-work/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 [Laura Barton talks to the high priestess of punk, Patti Smith | By genre | Guardian Unlimited Books  
 ](http://books.guardian.co.uk/poetry/features/0,,1994304,00.html)  

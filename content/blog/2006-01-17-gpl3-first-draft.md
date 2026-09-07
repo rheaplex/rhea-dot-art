@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-17 08:47:42+00:00
-layout: post
-slug: gpl3-first-draft
-title: GPL3 First Draft
-id: 792
-categories:
-- Free Culture
----
++++
+title = "GPL3 First Draft"
+date = 2006-01-17 08:47:42+00:00
+path = "/2006/01/17/gpl3-first-draft/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 The first draft of the third version of the GNU General Public License is out:  

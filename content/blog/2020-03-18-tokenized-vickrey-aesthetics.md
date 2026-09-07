@@ -1,16 +1,20 @@
----
-id: 3762
-title: 'Tokenized Vickrey Aesthetics'
-date: '2020-03-18T08:25:03+00:00'
-author: Rhea Myers
-layout: post
-mf2_syndication:
-    - 'a:0:{}'
-categories:
-    - Aesthetics
-    - Art
-    - Crypto
----
++++
+title = "Tokenized Vickrey Aesthetics"
+date = 2020-03-18 08:25:03+00:00
+path = "/2020/03/18/tokenized-vickrey-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Crypto",
+]
+
+[extra]
+mf2_syndication = [
+    "a:0:{}",
+]
++++
 
 In “Radical Markets”, Eric Posner and Glen Weyl propose a system of universal, permanent second-price “Vickrey Auctions” of land as a mechanism for price discovery on the utility of property and the taxation of the ongoing ownership of that value with a “Harberger Tax” as the means of funding a just, redistributive, state. They call this the “Vickrey Commons”.
 

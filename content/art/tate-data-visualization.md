@@ -1,9 +1,15 @@
 +++
 title = "Tate Data Visualization"
 date = 2015-01-10
+path = "/tate-data-visualization/"
+
+[extra]
 date_provisional = true
 image = "/art-images/unnamed-chunk-4.png"
-mediums = ["JavaScript", "R"]
+mediums = [
+    "JavaScript",
+    "R",
+]
 wp_id = 6651
 +++
 

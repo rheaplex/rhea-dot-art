@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-08 06:12:14+00:00
-layout: post
-slug: value-in-the-work
-title: Value In The Work
-id: 1680
-categories:
-- Aesthetics
----
++++
+title = "Value In The Work"
+date = 2008-10-08 06:12:14+00:00
+path = "/2008/10/08/value-in-the-work/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Damien Hirst's diamond skull "For The Love Of God", 2007, is owned fractionally by Hirst, his dealer and an anonymous investment group. As the monetary value of the work rises and falls, the value of the fraction of it owned by each investor in the work will rise and fall with it. Their values have proportion and relations.  
   

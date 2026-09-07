@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-28 08:06:52+00:00
-layout: post
-slug: future-of-copyright-roundtable-3-law-regulation-and-the-future
-title: 'Future of Copyright: Roundtable 3 - Law, regulation and the future'
-id: 1152
-categories:
-- Aesthetics
-- Free Culture
----
++++
+title = "Future of Copyright: Roundtable 3 - Law, regulation and the future"
+date = 2006-10-28 08:06:52+00:00
+path = "/2006/10/28/future-of-copyright-roundtable-3-law-regulation-and-the-future/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Free Culture",
+]
++++
 
 This looks like it was an excellent debate.  
   

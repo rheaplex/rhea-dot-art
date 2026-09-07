@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-12-22 06:33:32+00:00
-layout: post
-slug: one-step-logic
-title: One-Step Logic
-id: 272
-categories:
-- Satire
----
++++
+title = "One-Step Logic"
+date = 2004-12-22 06:33:32+00:00
+path = "/2004/12/22/one-step-logic/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 "There was a time but it's long gone   
 [Janie got a crush on the Vietcong ](http://www.alternet.org/waroniraq/19684/)   

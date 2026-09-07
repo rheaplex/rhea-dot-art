@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-18 04:59:55+00:00
-layout: post
-slug: paul-miller-rhythm-science
-title: 'Paul Miller: Rhythm Science'
-id: 435
-categories:
-- Reviews
----
++++
+title = "Paul Miller: Rhythm Science"
+date = 2005-05-18 04:59:55+00:00
+path = "/2005/05/18/paul-miller-rhythm-science/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 Paul Miller's "Rhythm Science" is a book about the history, the culture and the potential of remixing. Having read it now, I wish I'd picked it up earlier when I saw it at the ICA last year.   
   

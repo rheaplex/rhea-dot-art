@@ -1,13 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-07-08 07:07:31+00:00
-layout: post
-slug: trying-jekyll
-title: Trying Jekyll
-categories:
-- Projects
----
++++
+title = "Trying Jekyll"
+date = 2015-07-08 07:07:31+00:00
+path = "/2015/07/08/trying-jekyll/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 This is the shiny new Jekyll-based version of the site.
 

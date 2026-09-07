@@ -1,16 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-12 05:10:53+00:00
-layout: post
-slug: all-one-two-three-four-part-combinations-of-lines-in-four-directions-and-in-four-colours
-title: All one-, two-, three- & four part combinations of lines in four directions
-  and in four colours
-id: 1342
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "All one-, two-, three- & four part combinations of lines in four directions and in four colours"
+date = 2007-06-12 05:10:53+00:00
+path = "/2007/06/12/all-one-two-three-four-part-combinations-of-lines-in-four-directions-and-in-four-colours/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706112008](/images/2007/06/200706112008.jpg)  
   

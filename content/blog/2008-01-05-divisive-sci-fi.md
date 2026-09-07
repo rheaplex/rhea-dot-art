@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-05 05:46:43+00:00
-layout: post
-slug: divisive-sci-fi
-title: Divisive Sci Fi
-id: 1551
-categories:
-- Aesthetics
-- Reviews
-- Satire
----
++++
+title = "Divisive Sci Fi"
+date = 2008-01-05 05:46:43+00:00
+path = "/2008/01/05/divisive-sci-fi/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Reviews",
+    "Satire",
+]
++++
 
 **Mars Attacks!**  
   

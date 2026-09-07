@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-24 04:53:17+00:00
-layout: post
-slug: wrtj-participation
-title: WRTJ Participation
-id: 1415
-categories:
-- Free Culture
----
++++
+title = "WRTJ Participation"
+date = 2007-07-24 04:53:17+00:00
+path = "/2007/07/24/wrtj-participation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Baby Cow team filming WRTJ have used suggestions and even entire scripts from the WRTJ Wiki as the basis of various episodes. But audience participation in WRTJ has gone much further.  
   

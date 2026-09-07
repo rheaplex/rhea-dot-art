@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-03-01 20:52:55+00:00
-layout: post
-slug: digital_economy_bill_orphan_works_panic
-title: Digital Economy Bill Orphan Works Panic
-id: 1830
-categories:
-- Free Culture
----
++++
+title = "Digital Economy Bill Orphan Works Panic"
+date = 2010-03-01 20:52:55+00:00
+path = "/2010/03/01/digital_economy_bill_orphan_works_panic/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 "Orphan Works" are copyrighted works where the rightsholder cannot be
 located to grant permission for the work to be used, usually some

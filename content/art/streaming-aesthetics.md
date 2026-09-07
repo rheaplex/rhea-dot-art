@@ -1,10 +1,17 @@
 +++
 title = "Streaming Aesthetics"
 date = 2015-01-10
+path = "/streaming-aesthetics/"
+
+[extra]
 date_provisional = true
 image = "/art-images/cloud1.png"
-mediums = ["Processing"]
-repos = ["https://github.com/rheaplex/streaming-aesthetics"]
+mediums = [
+    "Processing",
+]
+repos = [
+    "https://github.com/rheaplex/streaming-aesthetics",
+]
 wp_id = 6650
 +++
 

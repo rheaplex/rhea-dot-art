@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-14 08:39:54+00:00
-layout: post
-slug: huge-and-important-news-free-licenses-upheld-lessig-blog
-title: 'huge and important news: free licenses upheld (Lessig Blog)'
-id: 1656
-categories:
-- Free Culture
----
++++
+title = "huge and important news: free licenses upheld (Lessig Blog)"
+date = 2008-08-14 08:39:54+00:00
+path = "/2008/08/14/huge-and-important-news-free-licenses-upheld-lessig-blog/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Excellent news:  
 [  

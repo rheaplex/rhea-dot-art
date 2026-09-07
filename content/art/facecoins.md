@@ -1,8 +1,13 @@
 +++
 title = "Facecoins"
 date = 2023-01-19
+path = "/facecoins/"
+
+[extra]
 image = "/art-images/facecoins.png"
-mediums = ["Ethereum ERC-721 NFT"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+]
 wp_id = 6624
 +++
 

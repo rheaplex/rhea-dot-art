@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-09 19:32:00+00:00
-layout: post
-slug: humanity_is_a_skeuomorph
-title: Humanity Is A Skeuomorph
-id: 1942
-categories:
-- Aesthetics
----
++++
+title = "Humanity Is A Skeuomorph"
+date = 2011-09-09 19:32:00+00:00
+path = "/2011/09/09/humanity_is_a_skeuomorph/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Skeuomorphs are ornamental design elements that retain the structure of their functional precursors:  
   

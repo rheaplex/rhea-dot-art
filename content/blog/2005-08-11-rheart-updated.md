@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-11 07:41:51+00:00
-layout: post
-slug: rheart-updated
-title: rheart updated
-id: 636
-categories:
-- Generative Art
-- Projects
----
++++
+title = "rheart updated"
+date = 2005-08-11 07:41:51+00:00
+path = "/2005/08/11/rheart-updated/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 The new version 0.2 of rheart is now available at:  

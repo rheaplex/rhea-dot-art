@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-10 05:23:38+00:00
-layout: post
-slug: adult-movie-posters
-title: Adult Movie Posters
-id: 575
-categories:
-- Aesthetics
----
++++
+title = "Adult Movie Posters"
+date = 2005-07-10 05:23:38+00:00
+path = "/2005/07/10/adult-movie-posters/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 I can't remember whether this was via Drawn!, Boing Boing, or both:  

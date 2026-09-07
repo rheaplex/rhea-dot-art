@@ -1,7 +1,9 @@
----
-title: "Writing"
-type: "list"
----
++++
+title = "Writing"
+sort_by = "date"
+template = "section.html"
+page_template = "page.html"
++++
 
 *While I restore the rest of the writing that was here, you could take a look at my book - [Proof of Work](https://www.urbanomic.com/book/proof-of-work/)*
 

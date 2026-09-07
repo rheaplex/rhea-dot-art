@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 07:24:37+00:00
-layout: post
-slug: unfiled-notes-towards-free-culture
-title: Unfiled Notes Towards Free Culture
-id: 964
-categories:
-- Free Culture
----
++++
+title = "Unfiled Notes Towards Free Culture"
+date = 2006-06-10 07:24:37+00:00
+path = "/2006/06/10/unfiled-notes-towards-free-culture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 I'll file these later...  
   

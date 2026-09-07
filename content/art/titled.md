@@ -1,9 +1,18 @@
 +++
 title = "Titled"
 date = 2003-01-01
+path = "/titled/"
+
+[extra]
 image = "/art-images/red-on-cyan.png"
-mediums = ["PNG"]
-tools = ["iBook G4", "Debian GNU/Linux", "The Gimp"]
+mediums = [
+    "PNG",
+]
+tools = [
+    "iBook G4",
+    "Debian GNU/Linux",
+    "The Gimp",
+]
 wp_id = 6683
 +++
 

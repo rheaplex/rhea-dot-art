@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-15 03:09:13+00:00
-layout: post
-slug: new-art-language-show
-title: New Art & Language Show
-id: 422
-categories:
-- Aesthetics
----
++++
+title = "New Art & Language Show"
+date = 2005-05-15 03:09:13+00:00
+path = "/2005/05/15/new-art-language-show/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 A&L are back at the Lisson with new work, old films of performances with The Red Crayola, and a Karaoke bar.  
   

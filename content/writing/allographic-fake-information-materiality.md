@@ -1,9 +1,11 @@
----
-title: "Allographic, Fake, Information, Materiality"
-image: "/third-party-images/mona.png"
-type: "page"
-date: 2013-09-09
----
++++
+title = "Allographic, Fake, Information, Materiality"
+date = 2013-09-09
+path = "/allographic-fake-information-materiality/"
+
+[extra]
+image = "/third-party-images/mona.png"
++++
 
 In "Languages Of Art" Nelson Goodman describes two types of art, allographic and autographic. Allographic art has a notational score and is distributed by reproduction, like a novel or a DVD. Autographic art is a unique original artwork, like a painting or sculpture.
 

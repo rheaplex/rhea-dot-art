@@ -1,10 +1,7 @@
 +++
 title = "Back To WordPress"
-author = ["Rhea Myers"]
 date = 2015-12-12
-lastmod = 2015-12-12
-slug = "back-to-wordpress"
-draft = false
+path = "/2015/12/12/back-to-wordpress/"
 +++
 
 I've moved back to WordPress from Jekyll for this blog.

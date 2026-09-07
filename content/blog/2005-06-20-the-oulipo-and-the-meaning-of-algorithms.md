@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-20 03:17:35+00:00
-layout: post
-slug: the-oulipo-and-the-meaning-of-algorithms
-title: The Oulipo and the Meaning of Algorithms
-id: 523
-categories:
-- Generative Art
----
++++
+title = "The Oulipo and the Meaning of Algorithms"
+date = 2005-06-20 03:17:35+00:00
+path = "/2005/06/20/the-oulipo-and-the-meaning-of-algorithms/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Via [GTA](http://grandtextauto.gatech.edu/2005/06/18/reconsidering-the-oulipo-and-the-computer/):  

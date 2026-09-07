@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-08-27 05:22:56+00:00
-layout: post
-slug: portrait-of-the-artist-as-a-young-mac-operator
-title: Portrait of the Artist as a Young Mac Operator
-id: 1660
-categories:
-- Aesthetics
-- Culture
-- Personal
----
++++
+title = "Portrait of the Artist as a Young Mac Operator"
+date = 2008-08-27 05:22:56+00:00
+path = "/2008/08/27/portrait-of-the-artist-as-a-young-mac-operator/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Culture",
+    "Personal",
+]
++++
 
 The way artists make art often reflect the means of production of their age. The artist of feudalism was an artisan or alchemist, the Renaissance artist was adept at mathematics and geometry inspired by trade and war, and Andy Warhol's factory embodied the spirit of mass production.  
   

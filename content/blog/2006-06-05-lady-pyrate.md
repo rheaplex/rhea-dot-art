@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-05 06:35:26+00:00
-layout: post
-slug: lady-pyrate
-title: Lady Pyrate
-id: 954
-categories:
-- Aesthetics
----
++++
+title = "Lady Pyrate"
+date = 2006-06-05 06:35:26+00:00
+path = "/2006/06/05/lady-pyrate/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Lady Pyrate  
 ](http://www.ladypirate.co.uk/)  

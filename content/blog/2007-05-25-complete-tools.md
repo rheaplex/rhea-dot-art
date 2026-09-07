@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-05-25 05:08:47+00:00
-layout: post
-slug: complete-tools
-title: Complete Tools
-id: 1310
-categories:
-- Free Culture
-- Satire
----
++++
+title = "Complete Tools"
+date = 2007-05-25 05:08:47+00:00
+path = "/2007/05/25/complete-tools/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Satire",
+]
++++
 
 People who see or construct the need for a market friendly name to replace "Free Screwdrivers" can look at incidental features or epiphenomena of screwdriver freedom for inspiration. Screwdrivers are a kind of tool. And restricting their use makes them functionally incomplete. So a good market friendly replacement for "Free Screwdrivers" would be "Complete Tools".  
   

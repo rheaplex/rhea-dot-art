@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-28 05:42:41+00:00
-layout: post
-slug: monochrome-landscapes
-title: Monochrome Landscapes
-id: 361
-categories:
-- Generative Art
----
++++
+title = "Monochrome Landscapes"
+date = 2005-03-28 05:42:41+00:00
+path = "/2005/03/28/monochrome-landscapes/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 Via [generative.net](http://www.generative.net/) :  
   

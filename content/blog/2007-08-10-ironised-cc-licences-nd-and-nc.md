@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-10 07:59:28+00:00
-layout: post
-slug: ironised-cc-licences-nd-and-nc
-title: Ironised CC Licences (ND and NC)
-id: 1435
-categories:
-- Free Culture
-- Projects
-- Satire
----
++++
+title = "Ironised CC Licences (ND and NC)"
+date = 2007-08-10 07:59:28+00:00
+path = "/2007/08/10/ironised-cc-licences-nd-and-nc/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Projects",
+    "Satire",
+]
++++
 
 ![200708092158](/images/2007/08/200708092158.jpg)  
   

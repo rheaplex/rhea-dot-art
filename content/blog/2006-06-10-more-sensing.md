@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-10 07:25:26+00:00
-layout: post
-slug: more-sensing
-title: More Sensing
-id: 965
-categories:
-- Generative Art
-- Howto
----
++++
+title = "More Sensing"
+date = 2006-06-10 07:25:26+00:00
+path = "/2006/06/10/more-sensing/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Howto",
+]
++++
 
 http://www.mat.ucsb.edu/~dano/sensors/index.php/Resources  
 http://www.sparkfun.com/commerce/categories.php  

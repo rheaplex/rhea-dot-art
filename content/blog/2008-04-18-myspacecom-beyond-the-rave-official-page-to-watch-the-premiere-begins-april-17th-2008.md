@@ -1,15 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-04-18 07:27:48+00:00
-layout: post
-slug: myspacecom-beyond-the-rave-official-page-to-watch-the-premiere-begins-april-17th-2008
-title: 'MySpace.com - Beyond the Rave: Official Page to Watch the Premiere. Begins
-  April 17th, 2008.'
-id: 1601
-categories:
-- Aesthetics
----
++++
+title = "MySpace.com - Beyond the Rave: Official Page to Watch the Premiere. Begins April 17th, 2008."
+date = 2008-04-18 07:27:48+00:00
+path = "/2008/04/18/myspacecom-beyond-the-rave-official-page-to-watch-the-premiere-begins-april-17th-2008/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [MySpace.com - Beyond the Rave: Official Page to Watch the Premiere. Begins April 17th, 2008.](http://uk.myspace.com/beyondtherave)  
 

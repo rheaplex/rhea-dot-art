@@ -1,10 +1,7 @@
 +++
 title = "I've moved to LiveJournal…"
-author = ["Rhea Myers"]
 date = 2004-05-22
-lastmod = 2004-05-22
-slug = "ive-moved-to-livejournal"
-draft = false
+path = "/2004/05/22/ive-moved-to-livejournal/"
 +++
 
 I’ve moved to LiveJournal.

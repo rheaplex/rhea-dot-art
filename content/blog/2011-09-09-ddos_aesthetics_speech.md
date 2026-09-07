@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-09-09 19:41:36+00:00
-layout: post
-slug: ddos_aesthetics_speech
-title: DDOS, Aesthetics, Speech
-id: 1945
-categories:
-- Aesthetics
-- Art
-- Politics
----
++++
+title = "DDOS, Aesthetics, Speech"
+date = 2011-09-09 19:41:36+00:00
+path = "/2011/09/09/ddos_aesthetics_speech/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Politics",
+]
++++
 
 Distributed Denial Of Service attacks have a form. They have a political form, and they have a spatial form. The latter is the network topography of the attacks. At present the spatial form (and its properties) are incidental, but it is possible to make them part of the political message. This could make the form of the DDOS political speech and/or artistic expression.  
   

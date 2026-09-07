@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-09-11 05:38:00+00:00
-layout: post
-slug: draw-something-almost-there
-title: 'draw-something: almost there'
-id: 1485
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something: almost there"
+date = 2007-09-11 05:38:00+00:00
+path = "/2007/09/11/draw-something-almost-there/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 1987 images since Friday evening. 2048 shortly...  
   

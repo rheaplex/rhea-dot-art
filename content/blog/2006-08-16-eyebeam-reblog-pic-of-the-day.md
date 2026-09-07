@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-16 20:33:27+00:00
-layout: post
-slug: eyebeam-reblog-pic-of-the-day
-title: 'Eyebeam reBlog: Pic of the day'
-id: 1066
-categories:
-- Aesthetics
-- Satire
----
++++
+title = "Eyebeam reBlog: Pic of the day"
+date = 2006-08-16 20:33:27+00:00
+path = "/2006/08/16/eyebeam-reblog-pic-of-the-day/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Satire",
+]
++++
 
 [Eyebeam reBlog: Pic of the day](http://www.eyebeam.org/reblog/archives/2006/08/pic_of_the_day.html)  
   

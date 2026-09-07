@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-12-06 13:08:22+00:00
-layout: post
-slug: coffe_shop_table
-title: Coffe Shop Table
-id: 1886
-categories:
-- Aesthetics
-- Art
-- Projects
-- Sketchblog
----
++++
+title = "Coffe Shop Table"
+date = 2010-12-06 13:08:22+00:00
+path = "/2010/12/06/coffe_shop_table/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art",
+    "Projects",
+    "Sketchblog",
+]
++++
 
 Laptop - 433C, 0.2mG  
 Table - 483C, 0.02mG  

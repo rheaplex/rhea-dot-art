@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-13 09:06:00+00:00
-layout: post
-slug: ethics-or-aesthetics
-title: Ethics Or Aesthetics
-id: 145
-categories:
-- Aesthetics
----
++++
+title = "Ethics Or Aesthetics"
+date = 2004-05-13 09:06:00+00:00
+path = "/2004/05/13/ethics-or-aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 "Ethics or aesthetics?" - Paul Virilio, 'Art And Fear', p61.  
   

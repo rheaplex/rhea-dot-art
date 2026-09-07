@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-27 06:56:08+00:00
-layout: post
-slug: new-gnu-free-document-licence-drafts-are-out
-title: New GNU Free Document Licence Drafts Are Out
-id: 1117
-categories:
-- Free Culture
----
++++
+title = "New GNU Free Document Licence Drafts Are Out"
+date = 2006-09-27 06:56:08+00:00
+path = "/2006/09/27/new-gnu-free-document-licence-drafts-are-out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Guide to the new drafts of documentation licenses ” GPLv3](http://gplv3.fsf.org/doclic-dd1-guide.html)  
   

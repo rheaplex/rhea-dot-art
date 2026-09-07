@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-06 08:58:00+00:00
-layout: post
-slug: kinkade-on-qvc
-title: Kinkade on QVC
-id: 176
-categories:
-- Satire
----
++++
+title = "Kinkade on QVC"
+date = 2004-07-06 08:58:00+00:00
+path = "/2004/07/06/kinkade-on-qvc/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
   
 Thomas Kinkade was on QVC this evening in the UK. He cam across as insincere, or possibly jet-lagged, or possibly someone who has sold something they love too many times before. I believe he is sincere at some level below subject-matter and above technique. If Jeff Koons can sell ironically to collectors, Kinkade can sell super-sincerely to the masses.  

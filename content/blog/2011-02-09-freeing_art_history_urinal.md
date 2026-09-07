@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-09 20:03:49+00:00
-layout: post
-slug: freeing_art_history_urinal
-title: 'Freeing Art History: Urinal'
-id: 1920
-categories:
-- Art
-- Art History
-- Free Culture
-- Projects
----
++++
+title = "Freeing Art History: Urinal"
+date = 2011-02-09 20:03:49+00:00
+path = "/2011/02/09/freeing_art_history_urinal/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Free Culture",
+    "Projects",
+]
++++
 
 I commissioned the ultra-talented [cwebber](http://dustycloud.org/) to make a 3D model of a urinal suitable for 3D printing and signing. It's licenced under the Creative Commons [Attribution-ShareAlike 3.0 Unported licence](http://creativecommons.org/licenses/by-sa/3.0/). Here's a picture of it:  
   

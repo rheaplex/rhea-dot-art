@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-08 09:47:26+00:00
-layout: post
-slug: what-is-index-01-like
-title: What Is Index 01 Like?
-id: 1339
-categories:
-- Aesthetics
----
++++
+title = "What Is Index 01 Like?"
+date = 2007-06-08 09:47:26+00:00
+path = "/2007/06/08/what-is-index-01-like/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Index 01 (1972) by Art & Language consists of a set of filing cabinets filled with texts written by the extended Art & Language collective of the time, with printed indexes of the texts indicating their compatibility with each other in the collective's discourse placed on the wall. It is a piece of art that is open to a possible audience of readers. It seems unprecedented and isolated in the history of art, belonging more to the office furniture of bureaucratic management or of libraries than to painting or sculpture.  
   

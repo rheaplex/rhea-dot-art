@@ -1,11 +1,8 @@
----
-title: "The Naming of Cats is a Difficult Matter"
-author: ["Rhea Myers"]
-date: 2024-12-21
-lastmod: 2024-12-21
-draft: false
-layout: "post"
----
++++
+title = "The Naming of Cats is a Difficult Matter"
+date = 2024-12-21
+path = "/2024/12/21/the-naming-of-cats-is-a-difficult-matter/"
++++
 
 I didn't want to keep my old name, and I didn't like its feminine version for me (if it is your name that is awesome, I just needed a cleaner break). So I needed to find something different.
 

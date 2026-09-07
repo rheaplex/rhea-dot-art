@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-04-02 23:01:44+00:00
-layout: post
-slug: good-links-on-american-copyright-from-groklaw
-title: Good Links on (American) Copyright From Groklaw
-id: 106
-categories:
-- Free Culture
----
++++
+title = "Good Links on (American) Copyright From Groklaw"
+date = 2004-04-02 23:01:44+00:00
+path = "/2004/04/02/good-links-on-american-copyright-from-groklaw/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 From [an old article](http://radio.weblogs.com/0120124/2003/07/05.html) at the excellent [Groklaw](http://www.groklaw.net/) :  
   

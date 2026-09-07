@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-03-29 04:00:29+00:00
-layout: post
-slug: new-doctor-who-episode-1-rose
-title: 'New Doctor Who : Episode 1 “Rose”'
-id: 363
-categories:
-- Reviews
----
++++
+title = "New Doctor Who : Episode 1 “Rose”"
+date = 2005-03-29 04:00:29+00:00
+path = "/2005/03/29/new-doctor-who-episode-1-rose/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I'd give the first episode of the new Dr.Who a "B". The next episode looks much better.  
   

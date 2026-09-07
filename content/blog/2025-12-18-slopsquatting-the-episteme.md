@@ -1,11 +1,12 @@
 +++
 title = "Slopsquatting The Episteme"
-author = ["Rhea Myers"]
 date = 2025-12-18
-lastmod = 2025-12-18
-slug = "slopsquatting-the-episteme"
-categories = ["Essays"]
-draft = false
+path = "/2025/12/18/slopsquatting-the-episteme/"
+
+[taxonomies]
+categories = [
+    "Essays",
+]
 +++
 
 [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting) is the creation of web sites or software packages with names that have not already been registered but that large language models (LLMs) are likely to hallucinate as the sources and the names of code libraries that they refer to when they are used to write computer programs. It is a development of [typosquatting](https://en.wikipedia.org/wiki/Typosquatting), where the sites or packages are registered under misspellings of existing project names that might be caused by human carelessness — or by cosmic rays flipping bits in modern computer memory.

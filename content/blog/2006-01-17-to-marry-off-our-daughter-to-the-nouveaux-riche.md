@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-17 07:43:50+00:00
-layout: post
-slug: to-marry-off-our-daughter-to-the-nouveaux-riche
-title: To Marry Off Our Daughter To The Nouveaux Riche
-id: 790
-categories:
-- Aesthetics
----
++++
+title = "To Marry Off Our Daughter To The Nouveaux Riche"
+date = 2006-01-17 07:43:50+00:00
+path = "/2006/01/17/to-marry-off-our-daughter-to-the-nouveaux-riche/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 _...it might have something to do with...the work pushing all kinds of interesting buttons about painting supposedly being the last refuge of authenticity in a synthetic world. Also, because New York is having a "head up its ass moment," with nouveau riche collectors buying art that as January blog has noted reminds them of work by their kids, or the kids they never had..._  

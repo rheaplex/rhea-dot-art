@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-21 04:45:59+00:00
-layout: post
-slug: brain-damage-can-change-artistic-style
-title: Brain Damage Can Change Artistic Style
-id: 442
-categories:
-- Aesthetics
----
++++
+title = "Brain Damage Can Change Artistic Style"
+date = 2005-05-21 04:45:59+00:00
+path = "/2005/05/21/brain-damage-can-change-artistic-style/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Which we already knew, but this is new research. Via [Mindhacks](http://www.mindhacks.com/blog/2005/05/spike_activity_2005.html):  
   

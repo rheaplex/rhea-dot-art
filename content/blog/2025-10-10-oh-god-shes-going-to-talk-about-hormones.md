@@ -1,9 +1,7 @@
 +++
 title = "Oh God She's Going To Talk About Hormones"
-author = ["Rhea Myers"]
 date = 2025-10-10
-lastmod = 2025-10-10
-draft = false
+path = "/2025/10/10/oh-god-shes-going-to-talk-about-hormones/"
 +++
 
 A friend asked me whether it's true that feminizing HRT can affect your emotions.

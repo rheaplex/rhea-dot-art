@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-06-14 04:36:09+00:00
-layout: post
-slug: art-language-homes-for-homes-ii
-title: 'Art & Language : Homes for Homes II'
-id: 975
-categories:
-- Aesthetics
----
++++
+title = "Art & Language : Homes for Homes II"
+date = 2006-06-14 04:36:09+00:00
+path = "/2006/06/14/art-language-homes-for-homes-ii/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Art & Language : Homes for Homes II - Les presses du reel (book), 2006  
 ](http://www.lespressesdureel.com/EN/ouvrage.php?menu=&id=749)  

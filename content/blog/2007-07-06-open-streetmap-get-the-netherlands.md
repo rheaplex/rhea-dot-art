@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-06 09:26:49+00:00
-layout: post
-slug: open-streetmap-get-the-netherlands
-title: Open Streetmap Get The Netherlands
-id: 1399
-categories:
-- Free Culture
----
++++
+title = "Open Streetmap Get The Netherlands"
+date = 2007-07-06 09:26:49+00:00
+path = "/2007/07/06/open-streetmap-get-the-netherlands/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [http://www.opengeodata.org/?p=223](http://www.opengeodata.org/?p=223)  
   

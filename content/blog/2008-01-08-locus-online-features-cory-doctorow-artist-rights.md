@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-08 05:07:24+00:00
-layout: post
-slug: locus-online-features-cory-doctorow-artist-rights
-title: 'Locus Online Features: Cory Doctorow: Artist Rights'
-id: 1555
-categories:
-- Free Culture
----
++++
+title = "Locus Online Features: Cory Doctorow: Artist Rights"
+date = 2008-01-08 05:07:24+00:00
+path = "/2008/01/08/locus-online-features-cory-doctorow-artist-rights/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [  
 Locus Online Features: Cory Doctorow: Artist Rights](http://www.locusmag.com/Features/2008/01/cory-doctorow-artist-rights.html)  

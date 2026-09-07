@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-08-12 05:46:17+00:00
-layout: post
-slug: oreilley-book-on-open-source-licenses-coming
-title: O”Reilley Book On Open Source Licenses Coming
-id: 189
-categories:
-- Free Culture
----
++++
+title = "O”Reilley Book On Open Source Licenses Coming"
+date = 2004-08-12 05:46:17+00:00
+path = "/2004/08/12/oreilley-book-on-open-source-licenses-coming/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 It covers the Creative Commons licenses as well. There are some factual errors in the sample chapter available online, and it isn't spectacularly well edited, but it looks like a good legal discussion for the layperson (US law obviously):  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-21 22:05:29+00:00
-layout: post
-slug: more-vrml-2-and-web-3d
-title: More VRML 2 And Web 3D
-id: 1613
-categories:
-- Free Culture
-- Generative Art
----
++++
+title = "More VRML 2 And Web 3D"
+date = 2008-06-21 22:05:29+00:00
+path = "/2008/06/21/more-vrml-2-and-web-3d/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Generative Art",
+]
++++
 
 As well as destroying proprietary implementations, VRML 2 has resisted full implementation by Free Software projects for over a decade. That's no mean feat.  
   

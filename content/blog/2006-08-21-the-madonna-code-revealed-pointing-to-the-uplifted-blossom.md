@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-21 02:29:15+00:00
-layout: post
-slug: the-madonna-code-revealed-pointing-to-the-uplifted-blossom
-title: 'The Madonna Code Revealed: Pointing to the Uplifted Blossom'
-id: 1083
-categories:
-- Aesthetics
----
++++
+title = "The Madonna Code Revealed: Pointing to the Uplifted Blossom"
+date = 2006-08-21 02:29:15+00:00
+path = "/2006/08/21/the-madonna-code-revealed-pointing-to-the-uplifted-blossom/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [The Madonna Code Revealed: Pointing to the Uplifted Blossom](http://www.yoniversum.nl/gallery/virgin00.html)  
   

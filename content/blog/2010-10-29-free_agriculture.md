@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-10-29 17:29:26+00:00
-layout: post
-slug: free_agriculture
-title: Free Agriculture
-id: 1866
-categories:
-- Free Culture
----
++++
+title = "Free Agriculture"
+date = 2010-10-29 17:29:26+00:00
+path = "/2010/10/29/free_agriculture/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 <blockquote>_The specific mechanism Michaels goes on to propose is a "General Public
 License for Plant Germplasm (GPLPG)" that is explicitly modeled on the

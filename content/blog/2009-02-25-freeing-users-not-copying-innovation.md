@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-25 18:33:14+00:00
-layout: post
-slug: freeing-users-not-copying-innovation
-title: Freeing Users Not Copying Innovation
-id: 1732
-categories:
-- Free Culture
----
++++
+title = "Freeing Users Not Copying Innovation"
+date = 2009-02-25 18:33:14+00:00
+path = "/2009/02/25/freeing-users-not-copying-innovation/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 A complaint I read occasionally in opinion pieces is that Open Source (sic) software tends to just be copies of innovative new commercial software (sic).  
   

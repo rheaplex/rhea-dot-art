@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-15 09:05:47+00:00
-layout: post
-slug: four-freedoms-after-all
-title: Four Freedoms After All
-id: 1105
-categories:
-- Free Culture
----
++++
+title = "Four Freedoms After All"
+date = 2006-09-15 09:05:47+00:00
+path = "/2006/09/15/four-freedoms-after-all/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 What freedoms do people need to work with culture? Or, to phrase the question another way, what human rights exist as a result of the existence of culture?  
   

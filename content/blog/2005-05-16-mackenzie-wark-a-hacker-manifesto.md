@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-16 08:29:04+00:00
-layout: post
-slug: mackenzie-wark-a-hacker-manifesto
-title: 'Mackenzie Wark: A Hacker Manifesto'
-id: 429
-categories:
-- Reviews
----
++++
+title = "Mackenzie Wark: A Hacker Manifesto"
+date = 2005-05-16 08:29:04+00:00
+path = "/2005/05/16/mackenzie-wark-a-hacker-manifesto/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 This is the book-length version of an essay that has appeared online in several versions over the last few years. A little red book in a clear acetate wrapper, the design is portentious and, with its grunge-type titles and drop caps, slightly irritating. The book consists of some four hundred numbered paragraphs in a dozen chapters.   
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-04-03 17:13:13+00:00
-layout: post
-slug: notes_towards_free_culture_2
-title: Notes Towards Free Culture
-id: 1837
-categories:
-- Free Culture
-- Free Software
----
++++
+title = "Notes Towards Free Culture"
+date = 2010-04-03 17:13:13+00:00
+path = "/2010/04/03/notes_towards_free_culture_2/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+    "Free Software",
+]
++++
 
 [Fair Use Gets a Fair Shake in Second Life](http://www.eff.org/deeplinks/2010/04/fair-use-gets-fair-shake-second-life)
 

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 09:26:43+00:00
-layout: post
-slug: second-life
-title: Second Life
-id: 730
-categories:
-- Generative Art
----
++++
+title = "Second Life"
+date = 2005-11-24 09:26:43+00:00
+path = "/2005/11/24/second-life/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 If you could register for Second Life and put your referrer down as "Yarrel Fox" that would be great.  

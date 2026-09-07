@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-05-10 05:54:43+00:00
-layout: post
-slug: boing-boing-vatican-astronomer-denounces-creationism-as
-title: 'Boing Boing: Vatican astronomer denounces Creationism as'
-id: 921
-categories:
-- Aesthetics
----
++++
+title = "Boing Boing: Vatican astronomer denounces Creationism as"
+date = 2006-05-10 05:54:43+00:00
+path = "/2006/05/10/boing-boing-vatican-astronomer-denounces-creationism-as/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 [Boing Boing: Vatican astronomer denounces Creationism as "paganism"  
 ](http://www.boingboing.net/2006/05/09/vatican_astronomer_d.html)  

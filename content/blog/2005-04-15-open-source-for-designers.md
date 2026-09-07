@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-04-15 06:56:20+00:00
-layout: post
-slug: open-source-for-designers
-title: Open Source For Designers
-id: 387
-categories:
-- Free Culture
----
++++
+title = "Open Source For Designers"
+date = 2005-04-15 06:56:20+00:00
+path = "/2005/04/15/open-source-for-designers/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Good Introduction to some of the applications you can use:  
   

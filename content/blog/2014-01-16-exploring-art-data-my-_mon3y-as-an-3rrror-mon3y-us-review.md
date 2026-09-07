@@ -1,18 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2014-01-16 06:54:31+00:00
-layout: post
-slug: exploring-art-data-my-_mon3y-as-an-3rrror-mon3y-us-review
-title: 'Exploring Art Data: My _MON3Y AS AN 3RRROR | MON3Y.US Review'
-id: 2481
-categories:
-- Art Computing
-- Art History
-- Art Open Data
-- Free Software
-- Projects
----
++++
+title = "Exploring Art Data: My _MON3Y AS AN 3RRROR | MON3Y.US Review"
+date = 2014-01-16 06:54:31+00:00
+path = "/2014/01/16/exploring-art-data-my-_mon3y-as-an-3rrror-mon3y-us-review/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Free Software",
+    "Projects",
+]
++++
 
 Reviewing almost 70 artworks quickly and in depth is a challenge. With [_MON3Y AS AN 3RRROR | MON3Y.US](http://www.furtherfield.org/features/mon3y-3rrror-mon3yus), I chose the approach of describing each artwork's notable features and then pulling out themes and commonalities at the end. Halfway through I realised that by changing each description into a standard format, I could write code to parse the descriptions and analyse them to help me find those themes and commonalities. So I did. The code is in R and it's available here:
 

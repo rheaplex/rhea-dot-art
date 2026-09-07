@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-11-24 10:40:00+00:00
-layout: post
-slug: dorkbotlondon-2
-title: DorkbotLondon
-id: 732
-categories:
-- Generative Art
-- Projects
----
++++
+title = "DorkbotLondon"
+date = 2005-11-24 10:40:00+00:00
+path = "/2005/11/24/dorkbotlondon-2/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 I gave a talk about [Minara](http://minara.sourceforge.net/) to around 100 people on Monday at [Dorkbot London 33.](http://www.dorkbot.org/dorkbotlondon/20051121.html)  

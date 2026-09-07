@@ -1,13 +1,15 @@
----
-title: Bitstrings
-date: 2017-02-13 17:19:24.000000000 -08:00
-type: post
-layout: post
-categories:
-- Crypto
-- Philosophy
-author: Rhea Myers
----
++++
+title = "Bitstrings"
+date = 2017-02-13 17:19:24-08:00
+path = "/2017/02/13/bitstrings/"
+
+[taxonomies]
+categories = [
+    "Crypto",
+    "Philosophy",
+]
++++
+
 A "[bit](https://en.wikipedia.org/wiki/Bit)" is a basic unit of [information entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)). It's [binary](https://en.wikipedia.org/wiki/Binary_code), either on or off, present or absent, one or zero.
 
 A "[string](https://en.wikipedia.org/wiki/String_(computer_science))" in computer programming is a sequence of items of a particular length. They may be fixed or variable length. Eight, sixteen, thirty-two and sixty-four bit numbers are fixed length. A text string is variable length.

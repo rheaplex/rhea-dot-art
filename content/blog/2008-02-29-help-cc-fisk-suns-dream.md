@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-02-29 03:46:02+00:00
-layout: post
-slug: help-cc-fisk-suns-dream
-title: Help CC Fisk Sun's DReaM
-id: 1579
-categories:
-- Free Culture
----
++++
+title = "Help CC Fisk Sun's DReaM"
+date = 2008-02-29 03:46:02+00:00
+path = "/2008/02/29/help-cc-fisk-suns-dream/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [Is it possible to design non-defective DRM? - Creative Commons](http://creativecommons.org/weblog/entry/8080)  
   

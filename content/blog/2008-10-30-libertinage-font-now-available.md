@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-30 07:36:17+00:00
-layout: post
-slug: libertinage-font-now-available
-title: Libertinage Font Now Available
-id: 1686
-categories:
-- Free Culture
----
++++
+title = "Libertinage Font Now Available"
+date = 2008-10-30 07:36:17+00:00
+path = "/2008/10/30/libertinage-font-now-available/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 OSP's Libertinage font is now available [here](http://openfontlibrary.org/media/files/OSP/322).  
   

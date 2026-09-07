@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-19 09:37:37+00:00
-layout: post
-slug: im-officially-an-art-blogger
-title: I'm Officially An Art Blogger
-id: 673
-categories:
-- Projects
----
++++
+title = "I'm Officially An Art Blogger"
+date = 2005-09-19 09:37:37+00:00
+path = "/2005/09/19/im-officially-an-art-blogger/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
   
 I am now a real art blogger:  

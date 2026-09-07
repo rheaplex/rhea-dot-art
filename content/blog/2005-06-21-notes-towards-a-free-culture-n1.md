@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-06-21 06:40:33+00:00
-layout: post
-slug: notes-towards-a-free-culture-n1
-title: Notes Towards A Free Culture n+1
-id: 531
-categories:
-- Free Culture
----
++++
+title = "Notes Towards A Free Culture n+1"
+date = 2005-06-21 06:40:33+00:00
+path = "/2005/06/21/notes-towards-a-free-culture-n1/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
   
 Via CopyFight:  

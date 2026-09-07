@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-01 01:41:55+00:00
-layout: post
-slug: me-and-my-billboard
-title: Me And My Billboard
-id: 591
-categories:
-- Projects
----
++++
+title = "Me And My Billboard"
+date = 2005-08-01 01:41:55+00:00
+path = "/2005/08/01/me-and-my-billboard/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 ![Me and Billboard](/images/IMAG0059.png)
 

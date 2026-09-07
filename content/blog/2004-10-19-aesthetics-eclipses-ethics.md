@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-10-19 04:55:45+00:00
-layout: post
-slug: aesthetics-eclipses-ethics
-title: Aesthetics Eclipses Ethics
-id: 225
-categories:
-- Aesthetics
----
++++
+title = "Aesthetics Eclipses Ethics"
+date = 2004-10-19 04:55:45+00:00
+path = "/2004/10/19/aesthetics-eclipses-ethics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 But when an empire makes reality, what image is that reality made in?  
   

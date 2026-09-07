@@ -1,8 +1,14 @@
 +++
 title = "Simple Blockchain Art Diagram (After MTAA ca. 1997)"
 date = 2016-07-26
+path = "/simple-blockchain-art-diagram/"
+
+[extra]
 image = "/art-images/simple-blockchain-art-diagram.png"
-mediums = ["SVG", "Cryptographic Hash"]
+mediums = [
+    "SVG",
+    "Cryptographic Hash",
+]
 wp_id = 6641
 +++
 

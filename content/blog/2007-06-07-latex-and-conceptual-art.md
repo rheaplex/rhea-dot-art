@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-06-07 08:34:23+00:00
-layout: post
-slug: latex-and-conceptual-art
-title: LaTeX and Conceptual Art
-id: 1338
-categories:
-- Aesthetics
-- Projects
----
++++
+title = "LaTeX and Conceptual Art"
+date = 2007-06-07 08:34:23+00:00
+path = "/2007/06/07/latex-and-conceptual-art/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Projects",
+]
++++
 
 ![200706062232](/images/2007/06/200706062232.jpg)  
   

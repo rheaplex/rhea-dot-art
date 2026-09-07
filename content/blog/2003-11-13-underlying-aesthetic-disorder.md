@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-11-13 05:21:56+00:00
-layout: post
-slug: underlying-aesthetic-disorder
-title: Underlying Aesthetic (Dis)Order
-id: 50
-categories:
-- Aesthetics
----
++++
+title = "Underlying Aesthetic (Dis)Order"
+date = 2003-11-13 05:21:56+00:00
+path = "/2003/11/13/underlying-aesthetic-disorder/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 Looking at the image generators in the History Of Computing section of  
 the Science Museum I was struck by how un-artistic the regular  

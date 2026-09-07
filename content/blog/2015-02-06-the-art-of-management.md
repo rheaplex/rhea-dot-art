@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2015-02-06 04:19:44+00:00
-layout: post
-slug: the-art-of-management
-title: The Art Of Management
-id: 2763
-categories:
-- Politics
-- Projects
----
++++
+title = "The Art Of Management"
+date = 2015-02-06 04:19:44+00:00
+path = "/2015/02/06/the-art-of-management/"
+
+[taxonomies]
+categories = [
+    "Politics",
+    "Projects",
+]
++++
 
 [![1e997476-b186-4794-6dbb-525ac4845ab1](/images/2015/02/1e997476-b186-4794-6dbb-525ac4845ab1.png)](/images/2015/02/1e997476-b186-4794-6dbb-525ac4845ab1.png)
 

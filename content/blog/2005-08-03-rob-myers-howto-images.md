@@ -1,10 +1,7 @@
 +++
 title = "Rhea Myers: HOWTO Images"
-author = ["Rhea Myers"]
 date = 2005-08-03
-lastmod = 2005-08-03
-slug = "rob-myers-howto-images"
-draft = false
+path = "/2005/08/03/rob-myers-howto-images/"
 +++
 
 Click on images to view full-size:

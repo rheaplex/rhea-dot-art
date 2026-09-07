@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-07-10 08:47:00+00:00
-layout: post
-slug: masking-paint
-title: Masking Paint
-id: 177
-categories:
-- Aesthetics
----
++++
+title = "Masking Paint"
+date = 2004-07-10 08:47:00+00:00
+path = "/2004/07/10/masking-paint/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
   
 One problem I've had with using masking tape or airbrush mask film to mask off areas of canvas when painting is that the paint bleeds under the mask. This leads to unsightly blobs and runs along the edge of the masked area, and just looks ugly.  

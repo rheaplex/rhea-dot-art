@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-03-08 06:05:35+00:00
-layout: post
-slug: various-games-to-look-at
-title: Various Games To Look At
-id: 859
-categories:
-- Howto
----
++++
+title = "Various Games To Look At"
+date = 2006-03-08 06:05:35+00:00
+path = "/2006/03/08/various-games-to-look-at/"
+
+[taxonomies]
+categories = [
+    "Howto",
+]
++++
 
 http://www.wunderland.com/icehouse/Default.html  
 http://www.zoki.com/  

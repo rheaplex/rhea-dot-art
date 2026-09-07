@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-15 05:10:45+00:00
-layout: post
-slug: persuasion-1
-title: Persuasion 1
-id: 1588
-categories:
-- Free Culture
----
++++
+title = "Persuasion 1"
+date = 2008-03-15 05:10:45+00:00
+path = "/2008/03/15/persuasion-1/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 (This is the first of two articles in response to Blaise's question in the comments below. It is intended as part of a conversation.)  
   

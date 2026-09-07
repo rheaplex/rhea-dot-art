@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-07-28 00:46:00+00:00
-layout: post
-slug: t-minus-four
-title: T Minus Four
-id: 588
-categories:
-- Projects
----
++++
+title = "T Minus Four"
+date = 2005-07-28 00:46:00+00:00
+path = "/2005/07/28/t-minus-four/"
+
+[taxonomies]
+categories = [
+    "Projects",
+]
++++
 
 I'm sat in the [gallery](http://www.o3.co.yu/) typing this.
 

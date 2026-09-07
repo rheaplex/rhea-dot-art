@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-10-22 02:19:47+00:00
-layout: post
-slug: the-affero-clause
-title: The Affero Clause
-id: 1146
-categories:
-- Free Culture
----
++++
+title = "The Affero Clause"
+date = 2006-10-22 02:19:47+00:00
+path = "/2006/10/22/the-affero-clause/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Affero clause feels right intuitively, but is it? What problem is it trying to address for software users? And in what way are we users of the software that it covers?  
   

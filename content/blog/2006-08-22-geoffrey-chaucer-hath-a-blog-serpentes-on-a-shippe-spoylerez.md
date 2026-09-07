@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-08-22 02:23:26+00:00
-layout: post
-slug: geoffrey-chaucer-hath-a-blog-serpentes-on-a-shippe-spoylerez
-title: 'Geoffrey Chaucer Hath a Blog: Serpentes on a Shippe! (spoylerez)'
-id: 1084
-categories:
-- Satire
----
++++
+title = "Geoffrey Chaucer Hath a Blog: Serpentes on a Shippe! (spoylerez)"
+date = 2006-08-22 02:23:26+00:00
+path = "/2006/08/22/geoffrey-chaucer-hath-a-blog-serpentes-on-a-shippe-spoylerez/"
+
+[taxonomies]
+categories = [
+    "Satire",
+]
++++
 
 [Geoffrey Chaucer Hath a Blog: Serpentes on a Shippe! (spoylerez)](http://houseoffame.blogspot.com/2006/08/serpentes-on-shippe-spoylerez.html)  
   

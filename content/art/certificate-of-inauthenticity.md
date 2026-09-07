@@ -1,16 +1,23 @@
 +++
 title = "Certificate of Inauthenticity"
 date = 2020-05-16
+path = "/certificate-of-inauthenticity/"
+
+[extra]
 image = "/art-images/Urinal04-cropped.png"
-mediums = ["Ethereum ERC-721 NFT"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+]
 wp_id = 6627
-[[collaborators]]
-  name = "Dr. Charlotte Frost"
-  role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings of the Balloon Dog model"
-  url = "http://digitalcritic.org/"
-[[collaborators]]
-  name = "Ruth Catlow"
-  role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings"
+
+[[extra.collaborators]]
+name = "Dr. Charlotte Frost"
+role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings of the Balloon Dog model"
+url = "http://digitalcritic.org/"
+
+[[extra.collaborators]]
+name = "Ruth Catlow"
+role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings"
 +++
 
 From 2011 to 2012 in the “Shareable Readymades” project I commissioned the awesome artists Christine Webber and Bassam Kurdali to create three 3D printable models of commonplace objects – a urinal, a balloon dog, and a pipe – that had become part of canonical art history. The artists retained copyright on their work and the results were placed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) license with the attribution to myself as the person that commissioned the work. I did this in order to critique the production of neoceonceptual art by artists such as Jeff Koons and the processes by which art history cordons off models of commonplace objects as signature works by Jeff Koons, Marcel Duchamp and others.

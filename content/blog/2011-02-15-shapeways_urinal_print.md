@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-02-15 14:08:24+00:00
-layout: post
-slug: shapeways_urinal_print
-title: Shapeways Urinal Print
-id: 1923
-categories:
-- Art
-- Art History
-- Free Culture
-- Projects
----
++++
+title = "Shapeways Urinal Print"
+date = 2011-02-15 14:08:24+00:00
+path = "/2011/02/15/shapeways_urinal_print/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Art History",
+    "Free Culture",
+    "Projects",
+]
++++
 
 My print of the Urinal has just arrived from [Shapeways](http://www.shapeways.com/model/212121/).  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-05-15 10:04:49+00:00
-layout: post
-slug: dr-who-fathers-day
-title: 'Dr Who: Father''s Day'
-id: 427
-categories:
-- Reviews
----
++++
+title = "Dr Who: Father's Day"
+date = 2005-05-15 10:04:49+00:00
+path = "/2005/05/15/dr-who-fathers-day/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 I cried. Apparently I'm not the only one:  
   

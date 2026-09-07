@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-01-11 03:48:30+00:00
-layout: post
-slug: help-org-reform-copyright-in-the-uk
-title: Help ORG Reform Copyright In The UK!
-id: 1559
-categories:
-- Free Culture
----
++++
+title = "Help ORG Reform Copyright In The UK!"
+date = 2008-01-11 03:48:30+00:00
+path = "/2008/01/11/help-org-reform-copyright-in-the-uk/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Would personal copying of media you own, copying work for study, library copying, or legal protection for parody and pastiche help you? Or do you know of any examples of social or economic "harm" that such rights would prevent? If so please comment on ORG's reprint of this givernment review:  
   

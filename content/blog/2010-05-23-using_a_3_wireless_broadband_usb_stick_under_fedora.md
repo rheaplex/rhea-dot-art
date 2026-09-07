@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-05-23 19:14:02+00:00
-layout: post
-slug: using_a_3_wireless_broadband_usb_stick_under_fedora
-title: Using a 3 Wireless Broadband USB Stick Under Fedora
-id: 1841
-categories:
-- Free Software
-- Howto
----
++++
+title = "Using a 3 Wireless Broadband USB Stick Under Fedora"
+date = 2010-05-23 19:14:02+00:00
+path = "/2010/05/23/using_a_3_wireless_broadband_usb_stick_under_fedora/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Howto",
+]
++++
 
 I bought a 3 Wireless Broadband USB Stick to use with my Fedora subnotebook.
 

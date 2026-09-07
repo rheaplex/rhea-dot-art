@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2012-05-19 21:11:02+00:00
-layout: post
-slug: psychogeodata_4
-title: Psychogeodata 4
-id: 1990
-categories:
-- Free Software
-- Projects
----
++++
+title = "Psychogeodata 4"
+date = 2012-05-19 21:11:02+00:00
+path = "/2012/05/19/psychogeodata_4/"
+
+[taxonomies]
+categories = [
+    "Free Software",
+    "Projects",
+]
++++
 
 ![derive_amenity](/images/derive_amenity.png)I've added a new script to psychogeodata: derive_amenities.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-04-17 00:17:19+00:00
-layout: post
-slug: the-participant-renders
-title: The Participant Renders
-id: 14
-categories:
-- Aesthetics
----
++++
+title = "The Participant Renders"
+date = 2003-04-17 00:17:19+00:00
+path = "/2003/04/17/the-participant-renders/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+]
++++
 
 The beholder gazes at the artwork, disinterested, finding immanent and unmediated emotional experience contained within it.  
 The consumer views the artwork, their discourse unreflectingly illustrated by it.  

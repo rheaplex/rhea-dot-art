@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-28 07:23:14+00:00
-layout: post
-slug: what-drm-apologists-get-wrong
-title: What DRM Apologists Get Wrong
-id: 1119
-categories:
-- Free Culture
----
++++
+title = "What DRM Apologists Get Wrong"
+date = 2006-09-28 07:23:14+00:00
+path = "/2006/09/28/what-drm-apologists-get-wrong/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The problem with the Linux Kernel Developers position on DRM (and this can be seen in Debian-Legal's attitude to the Creative Commons anti-DRM language as well) is that they view DRM as a technology, not as an extension of copyright law. DRM has power only through law: it would not be illegal to remove or reverse-engineer DRM otherwise. But too many hackers idealise DRM systems as code and DRM-laden files as data. They ignore the legal dimension, and this leads to confused reasoning.  
   

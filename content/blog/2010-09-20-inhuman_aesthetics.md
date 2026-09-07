@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2010-09-20 22:32:37+00:00
-layout: post
-slug: inhuman_aesthetics
-title: Inhuman Aesthetics
-id: 1858
-categories:
-- Aesthetics
-- Politics
----
++++
+title = "Inhuman Aesthetics"
+date = 2010-09-20 22:32:37+00:00
+path = "/2010/09/20/inhuman_aesthetics/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Politics",
+]
++++
 
 Hubertus Bigend would love this.  
   

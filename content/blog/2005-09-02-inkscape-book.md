@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-09-02 07:42:53+00:00
-layout: post
-slug: inkscape-book
-title: Inkscape Book
-id: 662
-categories:
-- Free Culture
----
++++
+title = "Inkscape Book"
+date = 2005-09-02 07:42:53+00:00
+path = "/2005/09/02/inkscape-book/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Online Inkscape book, about 90% complete, via planet.openclipart.org:  
   

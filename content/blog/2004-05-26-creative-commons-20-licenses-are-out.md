@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-05-26 09:20:00+00:00
-layout: post
-slug: creative-commons-20-licenses-are-out
-title: Creative Commons 2.0 Licenses Are Out!
-id: 158
-categories:
-- Free Culture
----
++++
+title = "Creative Commons 2.0 Licenses Are Out!"
+date = 2004-05-26 09:20:00+00:00
+path = "/2004/05/26/creative-commons-20-licenses-are-out/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Creative Commons 2.0 licenses are out.  
   

@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-09-26 08:25:46+00:00
-layout: post
-slug: goodbye-minara-hello-inkscape
-title: Goodbye Minara, Hello Inkscape
-id: 1115
-categories:
-- Generative Art
-- Projects
----
++++
+title = "Goodbye Minara, Hello Inkscape"
+date = 2006-09-26 08:25:46+00:00
+path = "/2006/09/26/goodbye-minara-hello-inkscape/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 Writing Minara has been a positive, if occasionally frustrating, experience for me. It's precisely the wrong way to write a graphics program but it works surprisingly well. I've gained a lot of insight, and made something unique.  
   

@@ -1,16 +1,15 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-04-14 13:19:25+00:00
-layout: post
-slug: the_urinal_is_in_a_show
-title: The Urinal Is In A Show
-id: 1931
-categories:
-- Art
-- Free Culture
-- Projects
----
++++
+title = "The Urinal Is In A Show"
+date = 2011-04-14 13:19:25+00:00
+path = "/2011/04/14/the_urinal_is_in_a_show/"
+
+[taxonomies]
+categories = [
+    "Art",
+    "Free Culture",
+    "Projects",
+]
++++
 
 The Urinal project is being presented as part of a collection called:  
   

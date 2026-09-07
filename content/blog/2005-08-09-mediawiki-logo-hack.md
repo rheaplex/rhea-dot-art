@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2005-08-09 05:27:17+00:00
-layout: post
-slug: mediawiki-logo-hack
-title: MediaWiki Logo hack
-id: 626
-categories:
-- Generative Art
----
++++
+title = "MediaWiki Logo hack"
+date = 2005-08-09 05:27:17+00:00
+path = "/2005/08/09/mediawiki-logo-hack/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
   
 Cool hack to let users set their own logo on MediaWiki wikis:  

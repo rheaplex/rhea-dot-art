@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-11 08:31:28+00:00
-layout: post
-slug: the-joneses-on-page-3
-title: The Joneses On Page 3
-id: 1403
-categories:
-- Free Culture
----
++++
+title = "The Joneses On Page 3"
+date = 2007-07-11 08:31:28+00:00
+path = "/2007/07/11/the-joneses-on-page-3/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Today's Guardian has an article on The Joneses **on page three of the main pape**r!  
   

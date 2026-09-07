@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-10-08 15:21:50+00:00
-layout: post
-slug: exploring_art_data_21
-title: Exploring Art Data 21
-id: 1954
-categories:
-- Art Computing
-- Art History
-- Art Open Data
-- Projects
----
++++
+title = "Exploring Art Data 21"
+date = 2011-10-08 15:21:50+00:00
+path = "/2011/10/08/exploring_art_data_21/"
+
+[taxonomies]
+categories = [
+    "Art Computing",
+    "Art History",
+    "Art Open Data",
+    "Projects",
+]
++++
 
 Now that we have a file of statistical information about the folder of images that we are examining, we can plot this using the images themselves.  
   

@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-28 04:44:32+00:00
-layout: post
-slug: flood-fill
-title: Flood Fill
-id: 334
-categories:
-- Generative Art
----
++++
+title = "Flood Fill"
+date = 2005-02-28 04:44:32+00:00
+path = "/2005/02/28/flood-fill/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 The algorithm that draw-something uses to outline object skeletons is basically a wall-following pathfinding algorithm such as a simple maze-running robot might use. I didn't just use an algorithm "off the shelf", I painstakingly developed one myself. For draw-something's painting algorithm I'm definitely getting something off the shelf. I'm looking at adapting a stack-based flood-filling algorithm to fill the outlining algorithm's lines with colour. Hopefully I can get something that looks similar to how I colour images without re-inventing the wheel.  
   

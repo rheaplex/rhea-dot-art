@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2005-02-05 07:47:29+00:00
-layout: post
-slug: whos-afraid-of-shape-grammars
-title: Who's Afraid Of Shape Grammars?
-id: 320
-categories:
-- Generative Art
----
++++
+title = "Who's Afraid Of Shape Grammars?"
+date = 2005-02-05 07:47:29+00:00
+path = "/2005/02/05/whos-afraid-of-shape-grammars/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 shape grammars, L-systems, production systems  
 algorithmicaesthetics.org (and ae)  

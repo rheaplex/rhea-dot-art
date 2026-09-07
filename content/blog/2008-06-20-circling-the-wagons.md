@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-06-20 04:58:11+00:00
-layout: post
-slug: circling-the-wagons
-title: Circling The Wagons
-id: 1611
-categories:
-- Generative Art
----
++++
+title = "Circling The Wagons"
+date = 2008-06-20 04:58:11+00:00
+path = "/2008/06/20/circling-the-wagons/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+]
++++
 
 A debate about net art at Rhizome.org has some of the younger hipsters of the New York internet art scene circling the wagons. I'm not sure what around.  
   

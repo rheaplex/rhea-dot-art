@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2003-12-04 03:26:08+00:00
-layout: post
-slug: shared-space
-title: Shared Space
-id: 60
-categories:
-- Free Culture
----
++++
+title = "Shared Space"
+date = 2003-12-04 03:26:08+00:00
+path = "/2003/12/04/shared-space/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 Creative Commons are trying to protect shared creative space from enclosure. Open space allows value creation, closed space is value extraction.  
 	http://www.bollier.org/reclaim.htm  

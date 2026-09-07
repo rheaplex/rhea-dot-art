@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-04 23:51:25+00:00
-layout: post
-slug: draw-something-project-plan
-title: draw-something Project Plan
-id: 1431
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something Project Plan"
+date = 2007-08-04 23:51:25+00:00
+path = "/2007/08/04/draw-something-project-plan/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 Here are my current plans for draw-something. They are subject to change.  
   

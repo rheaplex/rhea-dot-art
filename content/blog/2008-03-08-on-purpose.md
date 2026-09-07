@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-03-08 04:34:47+00:00
-layout: post
-slug: on-purpose
-title: On Purpose
-id: 1584
-categories:
-- Generative Art
-- Projects
----
++++
+title = "On Purpose"
+date = 2008-03-08 04:34:47+00:00
+path = "/2008/03/08/on-purpose/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
 The finished implementation of the line drawing algorithm from Harold Cohen's essay "[On Purpose](http://crca.ucsd.edu/~hcohen/)" [can be found here](http://rheart.cvs.sourceforge.net/rheart/rheart/ben/on-purpose-line.lisp?revision=1.1&view=markup). You'll need a Lisp system such as SBCL to run it, the output images can be viewed with Gimp.  
   

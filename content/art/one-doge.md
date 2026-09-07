@@ -1,8 +1,13 @@
 +++
 title = "1 Doge = 1 Doge"
 date = 2021-09-10
+path = "/one-doge/"
+
+[extra]
 image = "/art-images/one-doge.png"
-mediums = ["Ethereum ERC-721 NFT"]
+mediums = [
+    "Ethereum ERC-721 NFT",
+]
 wp_id = 6626
 +++
 

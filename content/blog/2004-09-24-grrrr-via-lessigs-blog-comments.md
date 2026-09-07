@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: false
-date: 2004-09-24 05:09:03+00:00
-layout: post
-slug: grrrr-via-lessigs-blog-comments
-title: Grrrr (Via Lessig's Blog Comments)
-id: 216
-categories:
-- Free Culture
----
++++
+title = "Grrrr (Via Lessig's Blog Comments)"
+date = 2004-09-24 05:09:03+00:00
+path = "/2004/09/24/grrrr-via-lessigs-blog-comments/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The sad old crashed car analogy has to turn licensing into ownership in order to work. You don't own a recording or a piece of software, you license it (read the small print). It's not like crashing your own car, a physical item that you own, and then demanding a replacement. It's more like hiring a car, it failing, and the hire company refusing to replace it. Or worse, it's like not being allowed to refill your car's tank with petrol. Want to drive any further once you've "broken" your petrol tank? Well, make sure you buy a new car rather than engaging in "car piracy" by visiting a node on a petrol-sharing network.  
   

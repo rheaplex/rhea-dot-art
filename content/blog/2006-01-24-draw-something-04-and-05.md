@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2006-01-24 05:34:19+00:00
-layout: post
-slug: draw-something-04-and-05
-title: draw-something 0.4 and 0.5
-id: 804
-categories:
-- Generative Art
-- Projects
----
++++
+title = "draw-something 0.4 and 0.5"
+date = 2006-01-24 05:34:19+00:00
+path = "/2006/01/24/draw-something-04-and-05/"
+
+[taxonomies]
+categories = [
+    "Generative Art",
+    "Projects",
+]
++++
 
   
 _draw-something 0.4_ will draw on a number of classic AI applications for its structure whilst building on the existing code and drawing style.  

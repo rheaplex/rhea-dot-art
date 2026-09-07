@@ -1,17 +1,16 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-02-19 02:54:12+00:00
-layout: post
-slug: colour-cells
-title: Colour Cells
-id: 1229
-categories:
-- Aesthetics
-- Generative Art
-- Projects
-- Sketchblog
----
++++
+title = "Colour Cells"
+date = 2007-02-19 02:54:12+00:00
+path = "/2007/02/19/colour-cells/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Generative Art",
+    "Projects",
+    "Sketchblog",
+]
++++
 
 Randomly coloured grids from colour-cells, my standalone re-implementation of AARON's new colouring algorithm as described by Harold Cohen.  
   

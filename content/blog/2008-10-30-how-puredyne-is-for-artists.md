@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2008-10-30 07:07:32+00:00
-layout: post
-slug: how-puredyne-is-for-artists
-title: How pure:dyne is for Artists
-id: 1685
-categories:
-- Free Culture
----
++++
+title = "How pure:dyne is for Artists"
+date = 2008-10-30 07:07:32+00:00
+path = "/2008/10/30/how-puredyne-is-for-artists/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 [pure:dyne](http://code.goto10.org/projects/puredyne/) is made by artists for artists. It is used by artists to create and display or perform their own work, and to run workshops and events at galleries, educational institutions and media labs. This means that its design has had to meet the needs and tastes of artists in real-world situations.   
   

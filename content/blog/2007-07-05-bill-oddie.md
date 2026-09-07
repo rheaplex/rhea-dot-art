@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-07-05 04:55:40+00:00
-layout: post
-slug: bill-oddie
-title: Bill Oddie!
-id: 1392
-categories:
-- Free Culture
----
++++
+title = "Bill Oddie!"
+date = 2007-07-05 04:55:40+00:00
+path = "/2007/07/05/bill-oddie/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The Joneses have met their first European sibling. He's an MEP. He knows the names of cocktails and how to play drinking games.  
   

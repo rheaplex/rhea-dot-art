@@ -1,15 +1,14 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-02 16:48:47+00:00
-layout: post
-slug: art_data_analysis_fantasy_book_covers
-title: 'Art Data Analysis: Fantasy Book Covers'
-id: 1908
-categories:
-- Aesthetics
-- Art Open Data
----
++++
+title = "Art Data Analysis: Fantasy Book Covers"
+date = 2011-01-02 16:48:47+00:00
+path = "/2011/01/02/art_data_analysis_fantasy_book_covers/"
+
+[taxonomies]
+categories = [
+    "Aesthetics",
+    "Art Open Data",
+]
++++
 
 _Behold, the legendary Chart of Fantasy Art! (2008)_  
   

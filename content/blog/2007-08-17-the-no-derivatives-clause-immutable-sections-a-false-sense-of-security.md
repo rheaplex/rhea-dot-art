@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-08-17 05:42:22+00:00
-layout: post
-slug: the-no-derivatives-clause-immutable-sections-a-false-sense-of-security
-title: 'The No-Derivatives Clause & Immutable Sections: A False Sense Of Security'
-id: 1446
-categories:
-- Free Culture
----
++++
+title = "The No-Derivatives Clause & Immutable Sections: A False Sense Of Security"
+date = 2007-08-17 05:42:22+00:00
+path = "/2007/08/17/the-no-derivatives-clause-immutable-sections-a-false-sense-of-security/"
+
+[taxonomies]
+categories = [
+    "Free Culture",
+]
++++
 
 The No-Derivatives Creative Commons licence module and the GNU FDL's Immutable Sections appear to allow the circulation of works of opinion or expression while restricting the ability of malicious parties to misrepresent them. For political, polemical or confessional works it is clearly important not only to the author but to society that these works not be misrepresented.  
   

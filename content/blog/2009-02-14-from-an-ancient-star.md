@@ -1,14 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2009-02-14 11:48:36+00:00
-layout: post
-slug: from-an-ancient-star
-title: From An Ancient Star
-id: 1723
-categories:
-- Reviews
----
++++
+title = "From An Ancient Star"
+date = 2009-02-14 11:48:36+00:00
+path = "/2009/02/14/from-an-ancient-star/"
+
+[taxonomies]
+categories = [
+    "Reviews",
+]
++++
 
 [http://ghostbox.co.uk/fromanancientstar.htm](http://ghostbox.co.uk/fromanancientstar.htm)  
   
