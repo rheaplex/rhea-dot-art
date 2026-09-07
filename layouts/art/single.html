@@ -40,9 +40,9 @@
       {{ with .Params.repos }}
       <div class="work-meta__row"><dt>Source</dt><dd>{{ range . }}<a href="{{ . }}">{{ replaceRE "^https?://(www\\.)?" "" . }}</a><br>{{ end }}</dd></div>
       {{ end }}
-      {{ $shows := where (where .Site.RegularPages "Section" "shows") "Params.artworks" "intersect" (slice (path.Base .File.ContentBaseName)) }}
-      {{ with $shows }}
-      <div class="work-meta__row"><dt>Shown in</dt><dd>
+      {{ $exhibitions := where (where .Site.RegularPages "Section" "exhibitions") "Params.artworks" "intersect" (slice (path.Base .File.ContentBaseName)) }}
+      {{ with $exhibitions }}
+      <div class="work-meta__row"><dt>Exhibited in</dt><dd>
         {{ range .ByDate.Reverse }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.venue }}, {{ . }}{{ end }} ({{ .Date.Format "2006" }})<br>{{ end }}
       </dd></div>
       {{ end }}
