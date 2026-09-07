@@ -69,11 +69,12 @@
 
 {#- Year-grouped list. Section pages are newest-first by default. -#}
 {% component by_year(pages, kind: string = "publication") %}
-{%- set last = "" -%}
-{%- for p in pages -%}
-{%- set y = p.date | date(format="%Y") -%}
-{%- if y != last %}<h3 class="h6 text-body-secondary mt-4 mb-1">{{ y }}</h3>{% set last = y %}{% endif -%}
+{%- set years = [p.year for p in pages] | unique | sort | reverse -%}
+{%- for year in years -%}
+<h3 class="h6 text-body-secondary mt-4 mb-1">{{ year }}</h3>
+{%- for p in pages -%}{%- if p.year == year -%}
 {%- if kind == "exhibition" %}{{ <exhibition_line page={p} /> }}{% else %}{{ <publication_line page={p} /> }}{% endif -%}
+{%- endif -%}{%- endfor -%}
 {%- endfor -%}
 {% endcomponent by_year %}
 
