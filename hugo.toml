@@ -51,7 +51,6 @@ staticDir = "assets"
   art = '/:filename/'
   writing = '/:filename/'
   about = '/:filename/'
-  shows = '/:filename/'
   press = '/:filename/'
   blog = '/:year/:month/:day/:slug/'
 
