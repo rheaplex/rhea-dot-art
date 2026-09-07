@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="reading">
+  <header class="mb-4">
+    <p class="text-body-secondary small text-uppercase mb-1">{{ title .Params.exhibition_type }} exhibition</p>
+    <h1>{{ .Title }}</h1>
+    <p class="lead mb-1">
+      {{ with .Params.venue }}{{ . }}{{ end }}{{ with .Params.location }}, {{ . }}{{ end }}
+    </p>
+    <p class="text-body-secondary">{{ partial "exhibition-dates" . | safeHTML }}</p>
+  </header>
+
+  {{ with .Params.image }}
+    {{ with resources.Get . }}
+      {{ $img := .Fit "1200x1200" }}
+      <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Title }}" class="img-fluid mb-4">
+    {{ end }}
+  {{ end }}
+
+  <dl class="row mb-4">
+    {{ with .Params.curator }}
+    <dt class="col-sm-3">Curated by</dt><dd class="col-sm-9">{{ . }}</dd>
+    {{ end }}
+    {{ with .Params.programme }}
+    <dt class="col-sm-3">Programme</dt><dd class="col-sm-9">{{ delimit . ", " }}</dd>
+    {{ end }}
+    {{ with .Params.tour_of }}
+      {{ with $.Site.GetPage (printf "/exhibitions/%s" .) }}
+      <dt class="col-sm-3">Touring from</dt><dd class="col-sm-9"><a href="{{ .RelPermalink }}">{{ .Title }}</a></dd>
+      {{ end }}
+    {{ end }}
+    {{ with .Params.url_external }}
+    <dt class="col-sm-3">Link</dt><dd class="col-sm-9"><a href="{{ . }}" rel="external">{{ $.Title }} at {{ with $.Params.venue }}{{ . }}{{ else }}{{ (urls.Parse .).Host }}{{ end }}</a></dd>
+    {{ end }}
+  </dl>
+
+  <div class="content">{{ .Content }}</div>
+
+  {{ with .Params.artworks }}
+  <section class="mt-4">
+    <h2 class="h4 mb-3">Works shown</h2>
+    <div class="row row-cols-2 row-cols-md-3 g-4">
+      {{ range . }}
+        {{ with $.Site.GetPage (printf "/art/%s" .) }}
+          {{ partial "card" . }}
+        {{ else }}
+          <div class="col"><p class="small text-body-secondary">{{ . }}</p></div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</article>
+{{ end }}
