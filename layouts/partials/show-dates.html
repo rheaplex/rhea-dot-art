@@ -1,0 +1,13 @@
+{{- /* Compact date range: "8 September - 7 October 2023" / "27 September 2024 - 27 January 2025" / "17 August 2017" */ -}}
+{{- $o := time.AsTime (printf "%v" .Params.opening) -}}{{- $c := time.AsTime (printf "%v" .Params.closing) -}}
+{{- if eq $o $c -}}
+  {{ $o.Format "2 January 2006" }}
+{{- else if eq $o.Year $c.Year -}}
+  {{- if eq $o.Month $c.Month -}}
+    {{ $o.Format "2" }} &ndash; {{ $c.Format "2 January 2006" }}
+  {{- else -}}
+    {{ $o.Format "2 January" }} &ndash; {{ $c.Format "2 January 2006" }}
+  {{- end -}}
+{{- else -}}
+  {{ $o.Format "2 January 2006" }} &ndash; {{ $c.Format "2 January 2006" }}
+{{- end -}}

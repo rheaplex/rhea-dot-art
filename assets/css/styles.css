@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6, .site-title {
 .reading {
   max-width: 44rem;
 }
+.reading-wide {
+  max-width: 56rem;
+}
+.show-row:last-child { border-bottom: 0 !important; }
 .content img {
   max-width: 100%;
   height: auto;
