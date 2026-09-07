@@ -1,20 +1,20 @@
 /* Rhea Myers - site styles on top of Bootstrap 5.3 */
 
 :root {
-  --bs-body-font-family: Georgia, "Times New Roman", serif;
-  --bs-body-font-size: 1.125rem;
+  --bs-body-font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --bs-body-font-size: 1.0625rem;
   --bs-body-line-height: 1.6;
+  font-feature-settings: "cv11", "ss01"; /* Inter: single-storey a, open digits - closer to Helvetica Now */
 }
 
-.site-title,
-h1, h2, h3, h4, h5, h6,
-.nav, footer, .card-title, .card-text, .figure-caption {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+h1, h2, h3, h4, h5, h6, .site-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 .site-title {
-  letter-spacing: 0.02em;
-  font-weight: 500;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 /* Reading column */
