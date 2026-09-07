@@ -72,9 +72,11 @@
 {%- set years = [p.year for p in pages] | unique | sort | reverse -%}
 {%- for year in years -%}
 <h3 class="h6 text-body-secondary mt-4 mb-1">{{ year }}</h3>
+<div class="year-group">
 {%- for p in pages -%}{%- if p.year == year -%}
 {%- if kind == "exhibition" %}{{ <exhibition_line page={p} /> }}{% else %}{{ <publication_line page={p} /> }}{% endif -%}
 {%- endif -%}{%- endfor -%}
+</div>
 {%- endfor -%}
 {% endcomponent by_year %}
 
