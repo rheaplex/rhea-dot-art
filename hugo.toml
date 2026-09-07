@@ -1,6 +1,6 @@
 baseURL = ''
 relativeURLs = true
-languageCode = 'en'
+locale = 'en'
 title = 'Rhea Myers'
 
 staticDir = "assets"

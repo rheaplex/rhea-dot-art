@@ -8,7 +8,7 @@ title: "Shows"
 
 ## Group
 ##### 2024
-27th September 2024 — 27th January 2025. [*Electric Op*](https://buffaloakg.org/art/exhibitions/electric-op), Buffal AKG Museum, Buffalo. (Facecoin)  
+27th September 2024 — 27th January 2025. [*Electric Op*](https://buffaloakg.org/art/exhibitions/electric-op), Buffalo AKG Museum, Buffalo. (Facecoin)  
 
 ##### 2023
 8th September — 7th October 2023. [*GEN/GEN: Generative Generations*](https://gazelliarthouse.com/exhibitions/174-gen-gen-generative-generations/), Gazelli Art House, London. (Mixes, PostScript Viruses, Surgical Strike, draw-something)  
