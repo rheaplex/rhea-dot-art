@@ -5,9 +5,8 @@ title = 'Rhea Myers'
 
 staticDir = "assets"
 
-#theme = "hugo-bootstrap-5"
-#disableKinds = ["contact", "post", "section", "taxonomy"]
-#ignoreErrors = ["error-disable-taxonomy"]
+[pagination]
+  pagerSize = 20
 
 [markup]
   [markup.goldmark]
@@ -18,23 +17,36 @@ staticDir = "assets"
       unsafe = true
 
 [params]
-  copyright = "Copyright © 2025 Myers Studio Ltd."
-  subtitle = "Making NFTs into art"
-  #mainSections = ["post","posts"]
-  #logo = "img/avatar-icon.png" # Expecting square dimensions
-  #favicon = "img/favicon.ico"
-  dateFormat = "2022-01-01"
-  commit = false
-  rss = true
-  comments = false
-  readingTime = false
-  wordCount = false
-  useHLJS = false
-  socialShare = false
-  showRelatedPosts = false
+  copyright = "Copyright © 2026 Myers Studio Ltd."
+  subtitle = "Making code(s) into art"
+
+  [[params.social]]
+    name = "newsletter"
+    url = "/newsletter/"
+  [[params.social]]
+    name = "email"
+    url = "mailto:rhea@myers.studio"
+  [[params.social]]
+    name = "bluesky"
+    url = "https://bsky.app/profile/rhea.art"
+  [[params.social]]
+    name = "fedi"
+    url = "https://social.rhea.art/@rheaplex"
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/rheapl3x/"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://ca.linkedin.com/in/rheamyers"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/rheaplex"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/rheaplex"
 
 [permalinks]
-  # Allow source to be origanized but all pages to be top-level
+  # Allow source to be organized but all pages to be top-level
   # Be careful to avoid name collisions.
   art = '/:filename/'
   writing = '/:filename/'
@@ -49,21 +61,16 @@ staticDir = "assets"
     weight = 10
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 16
-
-# [[menu.main]]
-#     name = "Writing"
-#     url = "/writing/"
-#     weight = 20
+    name = "Shows"
+    url = "/shows/"
+    weight = 20
 
 [[menu.main]]
     name = "Blog"
     url = "/blog/"
     weight = 30
 
-#[[menu.main]]
-#    name = "Information"
-#    url = "/information/index.html"
-#    weight = 40
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 40

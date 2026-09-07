@@ -1,29 +1,13 @@
 {{ define "main" }}
-  <header>
-    <h1>{{.Title}}</h1>
-  {{.Content}}
+  <header class="mb-4">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
   </header>
-  {{if not .IsHome }}
+  {{ if not .IsHome }}
   <main>
-    <div class="d-flex flex-row flex-wrap">
+    <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4">
       {{ range .Pages }}
-      <div class="d-flex flex-column post-preview col-sm-6 col-lg-3 m-4">
-        {{ if .Params.image }}
-        {{ $image := resources.Get .Params.image }}
-        {{ $imageResized := $image.Fill "400x400 TopLeft" }}
-        <div class="d-flex justify-content-center">
-          <a href="{{ .Permalink }}">
-            <img src="{{ $imageResized.Permalink }}" alt="{{ .Title }}" class="img-title img-fluid" />
-          </a>
-        </div>
-        {{ end }}
-        <div class="post-title text-center mb-auto">
-          <a href="{{ .Permalink }}"
-             class="link-dark text-decoration-none">
-            {{ .Title }}
-          </a>
-        </div>
-      </div>
+        {{ partial "card" . }}
       {{ end }}
     </div>
   </main>
