@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article class="reading">
+  <header class="mb-4">
+    {{ with .Params.publication_type }}<p class="text-body-secondary small text-uppercase mb-1">{{ title (replace . "-" " ") }}</p>{{ end }}
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  <dl class="work-meta mb-4">
+    {{ with .Params.in }}<div class="work-meta__row"><dt>In</dt><dd><em>{{ . }}</em></dd></div>{{ end }}
+    {{ with .Params.editors }}<div class="work-meta__row"><dt>Edited by</dt><dd>{{ delimit . ", " " and " }}</dd></div>{{ end }}
+    {{ with .Params.publisher }}<div class="work-meta__row"><dt>Publisher</dt><dd>{{ . }}</dd></div>{{ end }}
+    <div class="work-meta__row"><dt>Published</dt><dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "precision-date" . }}</time></dd></div>
+    {{ with .Params.publication_type }}<div class="work-meta__row"><dt>Type</dt><dd>{{ title (replace . "-" " ") }}</dd></div>{{ end }}
+    {{ with .Params.isbn }}<div class="work-meta__row"><dt>ISBN</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{ with .Params.pages }}<div class="work-meta__row"><dt>Pages</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{ with .Params.related_works }}
+    <div class="work-meta__row"><dt>Related work{{ if gt (len .) 1 }}s{{ end }}</dt><dd>
+      {{ range $i, $s := . }}{{ if $i }}, {{ end }}{{ with $.Site.GetPage (printf "/art/%s" $s) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ else }}{{ $s }}{{ end }}{{ end }}
+    </dd></div>
+    {{ end }}
+    {{ with .Params.url_external }}<div class="work-meta__row"><dt>Link</dt><dd><a href="{{ . }}" rel="external">{{ replaceRE "^https?://(www\\.)?" "" . | strings.TrimSuffix "/" }}</a></dd></div>{{ end }}
+  </dl>
+
+  {{ with .Params.image }}
+    {{ $base := path.Base . }}
+    {{ if not (in $.RawContent $base) }}
+    {{ with resources.Get . }}
+      {{ $img := .Fit "1200x1200" }}
+      <figure class="figure d-block mb-4">
+        <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Params.image_alt | default $.Title }}" class="figure-img img-fluid mb-0">
+      </figure>
+    {{ end }}
+    {{ end }}
+  {{ end }}
+
+  <div class="content">{{ .Content }}</div>
+</article>
+{{ end }}

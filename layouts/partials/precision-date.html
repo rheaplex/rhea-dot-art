@@ -1,0 +1,3 @@
+{{- /* Date honouring date_precision: "January 2006" (month), "2006" (year), else "2 January 2006" */ -}}
+{{- $p := .Params.date_precision -}}
+{{- if eq $p "month" -}}{{ .Date.Format "January 2006" }}{{- else if eq $p "year" -}}{{ .Date.Format "2006" }}{{- else -}}{{ .Date.Format "2 January 2006" }}{{- end -}}

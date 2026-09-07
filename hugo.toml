@@ -63,7 +63,6 @@ staticDir = "assets"
   art = '/:filename/'
   writing = '/:filename/'
   about = '/:filename/'
-  press = '/:filename/'
   blog = '/:year/:month/:day/:slug/'
 
 [[menu.main]]
@@ -75,6 +74,16 @@ staticDir = "assets"
     name = "Exhibitions"
     url = "/exhibitions/"
     weight = 20
+
+[[menu.main]]
+    name = "Press"
+    url = "/press/"
+    weight = 23
+
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 26
 
 [[menu.main]]
     name = "Blog"

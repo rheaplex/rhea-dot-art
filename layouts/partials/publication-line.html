@@ -1,0 +1,12 @@
+{{- /* One row in the Press / Publications lists. Title links out if the page has no body. */ -}}
+{{- $org := or .Params.outlet .Params.publisher -}}
+{{- $kind := or .Params.press_type .Params.publication_type -}}
+{{- $href := .RelPermalink -}}{{- $ext := false -}}
+{{- if and (not (strings.TrimSpace .RawContent)) .Params.url_external }}{{ $href = .Params.url_external }}{{ $ext = true }}{{ end -}}
+<div class="row gx-3 py-2 border-bottom exhibition-row">
+  <div class="col-md-4 text-body-secondary small pt-1"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ if ne .Params.date_precision "year" }}{{ partial "precision-date" . }}{{ end }}</time></div>
+  <div class="col-md-8">
+    <a href="{{ $href }}" class="link-body-emphasis text-decoration-none fw-medium"{{ if $ext }} rel="external"{{ end }}>{{ .Title }}</a>
+    <div class="text-body-secondary small">{{ with .Params.in }}<em>{{ . }}</em>{{ if $org }}, {{ end }}{{ end }}{{ with $org }}{{ . }}{{ end }}{{ with $kind }}{{ if or $org $.Params.in }} &middot; {{ end }}{{ title (replace . "-" " ") }}{{ end }}</div>
+  </div>
+</div>
