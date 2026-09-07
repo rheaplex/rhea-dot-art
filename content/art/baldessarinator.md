@@ -1,20 +1,10 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-01-04
-layout: page
-slug: baldessarinator
-title: Baldessarinator
-image: /images/2013/12/balderassinated.jpeg
-permalink: /baldessarinator/
-id: 2415
----
-
-![balderassinator](/images/2013/12/balderassinated.jpeg)
-[[Original image](https://secure.flickr.com/photos/58842866@N08/5388143519/) by Tommerton2010 CC-BY]
-
-**Baldessarinator, 2011, Python script.**
++++
+title = "Baldessarinator"
+date = 2011-01-04
+image = "/art-images/balderassinated.jpeg"
+mediums = ["Python"]
+repos = ["https://github.com/rheaplex/baldessarinator"]
+wp_id = 6668
++++
 
 A script in the Python programming language that modifies images to make them resemble part of an ouvre.
-
-You can download the code [here](https://github.com/rheaplex/baldessarinator).

@@ -1,21 +1,17 @@
----
-author: Rhea Myers
-comments: true
-date: 2013-04-29 03:58:02+00:00
-layout: page
-slug: hasharthistory
-title: '#arthistory'
-image: /images/2013/04/8071420752_1e6d264c75_o.jpg
-permalink: /hasharthistory/
-id: 2321
----
++++
+title = "#arthistory"
+date = 2013-04-29
+date_provisional = true
+image = "/art-images/8071420752_1e6d264c75_o.jpg"
+mediums = ["3D Printable Model"]
+repos = ["http://github.com/rheaplex/hasharthistory"]
+wp_id = 6665
+[[collaborators]]
+  name = "Dr. Charlotte Frost"
+  role = "Commissioning context — made for Frost's 'Is Art History Too Bookish?' project"
+  url = "http://digitalcritic.org/"
++++
 
-[![8071420752_1e6d264c75_o](/images/2013/04/8071420752_1e6d264c75_o-1024x768.jpg)](/images/2013/04/8071420752_1e6d264c75_o.jpg) **#arthistory ("hash art history", or "art history hashtag"), 2013, 3D printable digital model.**
-
-_For Charlotte Frost's "[Is Art History Too Bookish?](http://www.gylphi.co.uk/artsfuturebook/)" project._
-
-Download the model from [Gitorious](http://github.com/rheaplex/hasharthistory).
-
-Order a print from from [Shapeways](http://www.shapeways.com/model/847919/arthistory.html).
+_For Dr. Charlotte Frost’s “[Is Art History Too Bookish?](http://www.gylphi.co.uk/artsfuturebook/)” project._
 
 Read more about the project at [hasharthistory.net](http://hasharthistory.net/).

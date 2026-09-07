@@ -1,28 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 2007-01-01
-layout: page
-slug: canto
-title: Canto
-image: /images/2012/10/canto_for_liam_version.png
-permalink: /canto/
-id: 2196
----
-
-* ![canto for evie](/images/2012/10/canto_for_evie.png)
-* ![canto for gabrielle](/images/2012/10/canto_for_gabrielle.png)
-* ![canto for liam](/images/2012/10/canto_for_liam.png)
-* ![canto for liam version](/images/2012/10/canto_for_liam_version.png)
-* ![canto for me](/images/2012/10/canto_for_me.png)
-* ![canto for tom](/images/2012/10/canto_for_tom.png)
-
-**Canto, 2007, digital vector images.**
++++
+title = "Canto"
+date = 2007-01-01
+image = "/art-images/canto_for_liam_version.png"
+mediums = ["SVG"]
+tools = ["iBook G4", "Debian GNU/Linux", "Inkscape"]
+repos = ["https://github.com/rheaplex/canto"]
+wp_id = 6674
++++
 
 Remixed from an image by Tom Chance.
-
-Created using Inkscape on Debian on an iBook G4.
-
-You can download the source files [here](https://github.com/rheaplex/1969).
 
 The images in this series are under the [Creative Commons Attribution-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-sa/3.0/). The original image is Copyright 2005 Tom Chance, licensed CC-BY-SA 2.0.

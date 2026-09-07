@@ -1,14 +1,10 @@
----
-title: "Blank Canvas"
-image: "/images/blank-canvas2.png"
-type: "page"
-layout: "artwork"
-date: "2016-07-04"
----
-
-![A blue square with a colour-choosing GUI atop it.](/images/blank-canvas2.png)
-
-**Blank Canvas, 2016, Ethereum DApp**
++++
+title = "Blank Canvas"
+date = 2016-07-04
+image = "/art-images/blank-canvas2.png"
+mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+wp_id = 6643
++++
 
 A blank canvas that anyone can set the colour of on the Ethereum blockchain.
 

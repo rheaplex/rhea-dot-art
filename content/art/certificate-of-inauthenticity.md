@@ -1,24 +1,27 @@
----
-title: "Certificate of Inauthenticity"
-image: "/images/Urinal04-cropped.png"
-type: "page"
-layout: "artwork"
-date: "2020-05-16"
----
++++
+title = "Certificate of Inauthenticity"
+date = 2020-05-16
+image = "/art-images/Urinal04-cropped.png"
+mediums = ["Ethereum ERC-721 NFT"]
+wp_id = 6627
+[[collaborators]]
+  name = "Dr. Charlotte Frost"
+  role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings of the Balloon Dog model"
+  url = "http://digitalcritic.org/"
+[[collaborators]]
+  name = "Ruth Catlow"
+  role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings"
++++
 
-![A certificate of inauthenticity signed by R Myers](/images/Urinal04-cropped.png)
+From 2011 to 2012 in the “Shareable Readymades” project I commissioned the awesome artists Christine Webber and Bassam Kurdali to create three 3D printable models of commonplace objects – a urinal, a balloon dog, and a pipe – that had become part of canonical art history. The artists retained copyright on their work and the results were placed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) license with the attribution to myself as the person that commissioned the work. I did this in order to critique the production of neoceonceptual art by artists such as Jeff Koons and the processes by which art history cordons off models of commonplace objects as signature works by Jeff Koons, Marcel Duchamp and others.
 
-**"Certificate of Inauthenticity", 2020, ERC-721 Tokens**
+Furtherfield gallery in London (who meta-commissioned the Balloon Dog model) exhibited the works with “certificates of inauthenticiy” that I detourned from Sol LeWitt’s certificates for their wall drawings. Then at the #BlockchainLive18 show, also in London, Ruth Catlow and Dr. Charlotte Frost of DECAL and Futherfield produced gold castings of the Balloon Dog model and registered the resulting “Cryptopuppers” on Arteia’s blockchain art registry.
 
-From 2011 to 2012 in the "Shareable Readymades" project I commissioned the awesome artists Christine Webber and Bassam Kurdali to create three 3D printable models of commonplace objects - a urinal, a balloon dog, and a pipe - that had become part of canonical art history. The artists retained copyright on their work and the results were placed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) license with the attribution to myself as the person that commissioned the work. I did this in order to critique the production of neoceonceptual art by artists such as Jeff Koons and the processes by which art history cordons off models of commonplace objects as signature works by Jeff Koons, Marcel Duchamp and others.
+I hadn’t planned these developments but they diagonalized the project in interesting ways. The former recapitulated conceptual art’s capture by the very systems of sale and ownership that it had initially sought to escape. The latter mapped this onto the constant development of technosocial phenomena within successive waves of Andy Cameron and Richard Barbrook’s “Californian Ideology” by taking a 3D printing project that was meant to be free-as-in-freedom and making an expression of it exclusively ownable with cryptographic certainty on the blockchain.
 
-Furtherfield gallery in London (who meta-commissioned the Balloon Dog model) exhibited the works with "certificates of inauthenticiy" that I detourned from Sol LeWitt's certificates for their wall drawings. Then at the #BlockchainLive18 show, also in London, Ruth Catlow and Dr. Charlotte Frost of DECAL and Futherfield produced gold castings of the Balloon Dog model and registered the resulting "Cryptopuppers" on Arteia's blockchain art registry.
+As “Rare Art”, blockchain token-based digital editions have become the latest expression of ownership of value that would previously have escaped capture. The technology of blockchain-based digital certificates of “ownership” of digital art images was initially developed ironically (“Rare Art” comes from “Rare Pepe” trading cards). It was then captured by startup capital that cannot explain its contradictions. In its Rare Art iteration, Ethereum ERC-721 Non-Fungible Tokens (NFTs) for digital image URLs are presented as solving the problem that digital art is infinitely reproducible and therefore cannot be sold as a rare asset. They establish authentic provenance and ownership where this was not previously possible.
 
-I hadn't planned these developments but they diagonalized the project in interesting ways. The former recapitulated conceptual art's capture by the very systems of sale and ownership that it had initially sought to escape. The latter mapped this onto the constant development of technosocial phenomena within successive waves of Andy Cameron and Richard Barbrook's "Californian Ideology" by taking a 3D printing project that was meant to be free-as-in-freedom and making an expression of it exclusively ownable with cryptographic certainty on the blockchain.
-
-As "Rare Art", blockchain token-based digital editions have become the latest expression of ownership of value that would previously have escaped capture. The technology of blockchain-based digital certificates of "ownership" of digital art images was initially developed ironically ("Rare Art" comes from "Rare Pepe" trading cards). It was then captured by startup capital that cannot explain its contradictions. In its Rare Art iteration, Ethereum ERC-721 Non-Fungible Tokens (NFTs) for digital image URLs are presented as solving the problem that digital art is infinitely reproducible and therefore cannot be sold as a rare asset. They establish authentic provenance and ownership where this was not previously possible.
-
-It is difficult to represent off-chain truth on-chain, however. It is prohibitively expensive to put bitmapped digital images on-chain. And it is impossible to make sure that a digital image is represented uniquely even within the same smart contract on a single blockchain. This means that we must trust the claim that the image represented by each ERC-721 token is what its creator claims. The authenticity of Rare Art images is threatened by "piracy", where an artist's images are copied from one Rare Art platform to another and sold without their consent. It is also threateded by "trash art", where the art produced is an undeclared auto-tracing or other mechanical transformation of stock images. Artists who feel entitled to the monetary and reputational value of the art they produce regardless of the method used and collectors who feel entitled to react simply to the price of Rare Art tokens are clashing over matters of authenticity in platforms that were supposed to render such questions moot.
+It is difficult to represent off-chain truth on-chain, however. It is prohibitively expensive to put bitmapped digital images on-chain. And it is impossible to make sure that a digital image is represented uniquely even within the same smart contract on a single blockchain. This means that we must trust the claim that the image represented by each ERC-721 token is what its creator claims. The authenticity of Rare Art images is threatened by “piracy”, where an artist’s images are copied from one Rare Art platform to another and sold without their consent. It is also threateded by “trash art”, where the art produced is an undeclared auto-tracing or other mechanical transformation of stock images. Artists who feel entitled to the monetary and reputational value of the art they produce regardless of the method used and collectors who feel entitled to react simply to the price of Rare Art tokens are clashing over matters of authenticity in platforms that were supposed to render such questions moot.
 
 Why not turn this risk into value and make a virtue of inauthenticity?
 
@@ -32,13 +35,15 @@ Then if anyone questions the authenticity of the art that you are displaying and
 
 **CryptoPuppers, 2018, blockchain-registered gold plated metal cast from 3D printed model with inkjet prints**
 
-https://twitter.com/IsDecal/status/1044900069693108229
+> Here they are [@robmyers](https://x.com/robmyers?ref_src=twsrc%5Etfw) CryptoPuppers at [#BlockchainLive18](https://x.com/hashtag/BlockchainLive18?src=hash&ref_src=twsrc%5Etfw) – art about the blockchain on @arteiaart’s stand showcasing what blockchain can do for art collection [pic.twitter.com/mo6BIT2cMj](https://t.co/mo6BIT2cMj)
+>
+> — DECAL (@IsDecal) [September 26, 2018](https://x.com/IsDecal/status/1044900069693108229?ref_src=twsrc%5Etfw)
 
-“This new incarnation of Rhea Myers' classic work "Balloon Dog, Shareable Readymade", originally commissioned by Furtherfield, comprises an edition of 1000 miniature gold balloon dog sculptures linked to the blockchain. Each handmade version of the 3D printed original is unique in its own way and functions as a non-fungible token.
+“This new incarnation of Rhea Myers’ classic work “Balloon Dog, Shareable Readymade”, originally commissioned by Furtherfield, comprises an edition of 1000 miniature gold balloon dog sculptures linked to the blockchain. Each handmade version of the 3D printed original is unique in its own way and functions as a non-fungible token.
 
-"Balloon Dog" was originally created as an ephemeral digital file for 3D printing that anyone could use to re-democratise an icon of blue chip contemporary art. It was a post-scarcity commons approach to art that everyone and therefore no-one can own.
+“Balloon Dog” was originally created as an ephemeral digital file for 3D printing that anyone could use to re-democratise an icon of blue chip contemporary art. It was a post-scarcity commons approach to art that everyone and therefore no-one can own.
 
-In contrast, this is a limited edition of luxurious physical instantiations of the artwork (each with its own own "certificate of inauthenticity" signed by the artist) anchored to the art historical world of provenance and ownership as well as blockchain verifiable value via Arteïa’s collection management system.
+In contrast, this is a limited edition of luxurious physical instantiations of the artwork (each with its own own “certificate of inauthenticity” signed by the artist) anchored to the art historical world of provenance and ownership as well as blockchain verifiable value via Arteïa’s collection management system.
 
 From post-scarcity abundance to artificial scarcity and provably rare digital ownership as a way to establish and protect the unique value of artworks. This is a provocation for artists and collectors to engage with new digital critical and financial value in contemporary artworks.”
 
@@ -48,7 +53,7 @@ Massive thanks to Dr. Charlotte Frost and Ruth Catlow of Furtherfield for making
 
 ![A flyer listing prints in different materials from "Shareable Readymades"](/images/shareable_laf_martelli.jpg)
 
-_(Image - Bruno Martelli)_
+_(Image – Bruno Martelli)_
 
 **Artwork of the Century, 2016, 3D print with laser-printed certificate**
 

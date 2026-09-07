@@ -1,14 +1,15 @@
----
-title: "1FLAMEN6"
-image: "/third-party-images/1FLAMEN6.jpg"
-type: "page"
-layout: "artwork"
-date: "2015-02-07"
----
-
-![A painting of a chessboard with pieces and doves superimposed on it, surrounded by a border of small coloured flames.](/third-party-images/1FLAMEN6.jpg)
-
-**Puzzle design support for the painting “TORCHED H34R7S” by @coin_artist, 2015, Bitcoin private key encoding**
++++
+title = "1FLAMEN6"
+date = 2015-02-07
+image = "/art-images/1FLAMEN6.jpg"
+aliases = ["/1FLAMEN6/"]
+mediums = ["Bitcoin Private Key Encoding"]
+wp_id = 6644
+[[collaborators]]
+  name = "@coin_artist"
+  role = "Painter of 'TORCHED H34R7S' (from her series 'The Legend of Satoshi Nakamoto'); Rhea provided Bitcoin-puzzle design support"
+  url = "https://twitter.com/coin_artist"
++++
 
 [@coin_artist](https://twitter.com/coin_artist) specified the technical requirements for a puzzle containing a Bitcoin reward, and we discussed how to make it slightly harder for this particular work in her series “The Legend of Satoshi Nakamoto”.
 

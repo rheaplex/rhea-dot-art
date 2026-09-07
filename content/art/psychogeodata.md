@@ -1,18 +1,11 @@
----
-author: Rhea Myers
-comments: true
-date: 2011-04-04
-layout: page
-slug: psychogeodata
-title: Psychogeodata
-image: /images/2013/12/cemetary_random_walk.png
-permalink: /psychogeodata/
-id: 2442
----
-
-![](/images/2013/12/cemetary_random_walk.png)
-
-**Psychogeodata, 2011, Python code.**
++++
+title = "Psychogeodata"
+date = 2011-04-04
+image = "/art-images/cemetary_random_walk.png"
+mediums = ["Python"]
+repos = ["https://github.com/rheaplex/psychogeodata"]
+wp_id = 6667
++++
 
 Psychogeography is a set of techniques for defamiliarizing the landscape, particularly the urban landscape. It is a way of resisting and critiquing the historically, culturally and politically imposed reality of the built environment.
 
@@ -29,5 +22,3 @@ You can find out more in these blog posts:
 [Psychogeodata (2/3)](/2011/12/30/psychogeodata_23/)
 
 [Psychogeodata (3/3)](/2011/12/31/psychogeodata_33/)
-
-And you can get the code [here](https://github.com/rheaplex/psychogeodata).

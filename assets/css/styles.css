@@ -24,6 +24,7 @@ h1, h2, h3, h4, h5, h6, .site-title {
 .reading-wide {
   max-width: 56rem;
 }
+.reading-wide.mx-auto { margin-left: auto; margin-right: auto; }
 .show-row:last-child { border-bottom: 0 !important; }
 .content img {
   max-width: 100%;
@@ -50,6 +51,20 @@ blockquote {
 }
 .artwork-card:hover img { opacity: 0.85; }
 .artwork-card:hover .card-title { text-decoration: underline; }
+
+/* Work metadata block (mirrors the WP theme) */
+.work-meta { font-size: 0.9rem; line-height: 1.5; }
+.work-meta__row {
+  display: grid; grid-template-columns: 7.5rem 1fr; align-items: baseline;
+  gap: .5rem 1rem; padding: .45rem 0; border-top: 1px solid var(--bs-border-color);
+}
+.work-meta__row:last-child { border-bottom: 1px solid var(--bs-border-color); }
+.work-meta dt { margin: 0; text-transform: uppercase; letter-spacing: .06em; font-size: .75em; line-height: 1.6; color: var(--bs-secondary-color); font-weight: 500; }
+.work-meta dd { margin: 0; }
+.work-meta a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+.work-meta__role { color: var(--bs-secondary-color); }
+.work-meta__role::before { content: " \2014 "; }
+@media (max-width: 600px) { .work-meta__row { grid-template-columns: 1fr; gap: .15rem; } }
 
 /* Artwork pages: let the work breathe */
 .artwork .content > p, .artwork .content > ul, .artwork .content > ol, .artwork .content > blockquote,

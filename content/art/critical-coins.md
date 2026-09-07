@@ -1,22 +1,16 @@
----
-title: "Critical Coins"
-image: "/third-party-images/dogeart.jpg"
-type: "page"
-layout: "artwork"
-date: "2015-01-07"
----
-
-![A shiba inu in a gallery, amazed by the art. Wow.](/third-party-images/dogeart.jpg)
-
-_(Illustration from: http://ofdoge.wordpress.com/2013/12/05/art-doge/, copyright the artist.)_
-
-**Critical Coins, 2015, Counterparty Dogeparty Tokens.**
++++
+title = "Critical Coins"
+date = 2015-01-07
+image = "/art-images/dogeart.jpg"
+mediums = ["Counterparty Tokens", "Dogeparty Tokens"]
+wp_id = 6655
++++
 
 To make the process of art reviews and criticism more transparent and quantifiable, we can use cryptographic asset tokens to represent critical opinion and valences.
 
 #### Critical Approval
 
-Here's a token of simple, uninflected critical approval:
+Here’s a token of simple, uninflected critical approval:
 
 [CRITIQUE](https://xchain.io/asset/CRITIQUE)
 
@@ -46,4 +40,4 @@ We can use a range of tokens to express a traditional star rating:
 
 We can use three different kinds of recipients for critical opinion represented in the form of tokens. If the artist (or work) has a Dogecoin address the tokens can be sent to that address directly. Otherwise we can create (preferably a vanity) address for them to hold the tokens in escrow. Or we can create an unspendable address (again preferably a vanity address) to send the tokens to. This prevents the tokens being transferred, which is either a bug or a feature depending on whether we want this to be possible or not.
 
-Presumably art is the product of aesthetic competence, and if I as an art historian or critic approve of your exercise of this competence I cannot fault you if your exercise of that competence in the evaluation of someone else's art or critical competences leads you to transfer the tokens of my critical approval to a third party. So transferable tokens make sense and in fact the history of their transferals adds value, it provides a historical record of regard, influence, and my original opinion.
+Presumably art is the product of aesthetic competence, and if I as an art historian or critic approve of your exercise of this competence I cannot fault you if your exercise of that competence in the evaluation of someone else’s art or critical competences leads you to transfer the tokens of my critical approval to a third party. So transferable tokens make sense and in fact the history of their transferals adds value, it provides a historical record of regard, influence, and my original opinion.

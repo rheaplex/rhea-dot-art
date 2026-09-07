@@ -1,14 +1,11 @@
----
-title: "Blockchain Aesthetics"
-image: "/images/squares.png"
-type: "page"
-layout: "artwork"
-date: "2015-01-09"
----
-
-![A grid of coloured squares, each row representing a Bitcoin transaction.](/images/squares.png)
-
-**Blockchain Aesthetics, 2014-2015, HTML5 and JavaScript**
++++
+title = "Blockchain Aesthetics"
+date = 2015-01-09
+image = "/art-images/squares.png"
+mediums = ["HTML5", "JavaScript"]
+aliases_names = ["Bitcoin Aesthetics"]
+wp_id = 6652
++++
 
 Visualizing Bitcoin (and other blockchain) transaction hashes and block hashes as the content of modernist and postmodernist aesthetics.
 

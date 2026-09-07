@@ -1,13 +1,9 @@
----
-title: "Pay Previous Path"
-image: "/images/ppp1-cropped.png"
-type: "page"
-layout: "artwork"
-date: "2019-09-14"
----
++++
+title = "Pay Previous Path"
+date = 2019-09-14
+image = "/art-images/ppp1-cropped.png"
+mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+wp_id = 6630
++++
 
-![An abstract shape consisting of Bezier curve outlines.](/images/ppp1-cropped.png)
-
-**Pay Previous Path, 2019, Ethereum DApp**
-
-"Pay Previous Path" allows anyone to store a vector drawing (encoded in a style similar to the SVG path line-art format) on the Ethereum blockchain in return for paying a small fee to the previous person who did so.
+“Pay Previous Path” allows anyone to store a vector drawing (encoded in a style similar to the SVG path line-art format) on the Ethereum blockchain in return for paying a small fee to the previous person who did so.

@@ -1,32 +1,13 @@
----
-author: Rhea Myers
-comments: true
-date: 1997-01-01
-layout: page
-slug: smileys
-title: Smileys
-image: /images/2012/09/rosette.png
-permalink: /smileys/
-id: 2124
----
-
-* ![avarice](/images/2012/09/avarice.png)
-* ![crowd](/images/2012/09/crowd.png)
-* ![happy apart](/images/2012/09/happy_apart.png)
-* ![incident](/images/2012/09/incident.png)
-* ![loggerheads](/images/2012/09/loggerheads.png)
-* ![rosette](/images/2012/09/rosette.png)
-* ![sleep](/images/2012/09/sleep.png)
-* ![three happy](/images/2012/09/three_happy.png)
-* ![together](/images/2012/09/together.png)
-* ![two happy one sad](/images/2012/09/two_happy_one_sad.png)
-
-**Smileys, 1997, digital bitmap images.**
++++
+title = "Smileys"
+date = 1997-01-01
+image = "/art-images/rosette.png"
+mediums = ["PDF"]
+tools = ["Adobe Illustrator 5.5", "LetraStudio Envelopes", "System 7.x", "Power Macintosh 8200"]
+repos = ["https://github.com/rheaplex/smileys"]
+wp_id = 6685
++++
 
 Relationships rendered in emoticons.
-
-Created using Adobe Illustrator 5.5 and LetraStudio Envelopes in MacOS on a Power Macintosh 8200.
-
-You can download the source files [here](https://github.com/rheaplex/smileys).
 
 The images in this series are under the [Creative Commons Attribution-ShareAlike 3.0 licence](http://creativecommons.org/licenses/by-sa/3.0/).

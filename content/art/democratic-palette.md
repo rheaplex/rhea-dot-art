@@ -1,18 +1,14 @@
----
-title: "Democratic Palette"
-image: "/images/palette-stripes.png"
-type: "page"
-layout: "artwork"
-date: "2016-07-11"
----
-
-![Twelve vertical coloured stripes.](/images/palette-stripes.png)
-
-**Democratic Palette, 2016, Ethereum DApp**
++++
+title = "Democratic Palette"
+date = 2016-07-11
+image = "/art-images/palette-stripes.png"
+mediums = ["HTML5", "Ethereum Smart Contract", "JavaScript", "CSS"]
+wp_id = 6642
++++
 
 A palette of twelve colours that anyone can set on the Ethereum blockchain by sending a voting transaction.
 
-Every vote for every colour is tracked and the top twelve make up the palette. The only cost of voting is "gas" paid for using Ethereum's native cryptocurrency, Ether.
+Every vote for every colour is tracked and the top twelve make up the palette. The only cost of voting is “gas” paid for using Ethereum’s native cryptocurrency, Ether.
 
 Participatory, decentralized art and aesthetics interacts with barriers to participation and the ability to buy democracy.
 
