@@ -4,6 +4,8 @@ date = 2024-06-26
 path = "/portents/"
 
 [extra]
+news_category = "New Work"
+blurb = "From the Portents whitepaper:"
 image = "/art-images/portents-logotype-wob.png"
 mediums = [
     "Bitcoin Ordinal",

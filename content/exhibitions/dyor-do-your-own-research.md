@@ -4,6 +4,8 @@ date = 2022-10-08
 path = "/exhibitions/dyor-do-your-own-research/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "DYOR (do your own research), Kunsthalle Zürich"
 opening = 2022-10-08
 closing = 2023-01-15
 exhibition_type = "group"

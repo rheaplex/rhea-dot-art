@@ -4,6 +4,8 @@ date = 2025-03-07
 path = "/exhibitions/the-fractionalized-phallus-at-galerie-nagel-draxler/"
 
 [extra]
+news_category = "Solo Exhibition"
+blurb = "The Fractionalized Phallus, Galerie Nagel Draxler, Berlin"
 opening = 2025-03-07
 closing = 2025-04-17
 exhibition_type = "solo"

@@ -7,6 +7,8 @@ aliases = [
 path = "/1flamen6/"
 
 [extra]
+news_category = "New Work"
+blurb = "1FLAMEN6, Bitcoin Private Key Encoding"
 image = "/art-images/1FLAMEN6.jpg"
 mediums = [
     "Bitcoin Private Key Encoding",

@@ -4,6 +4,8 @@ date = 2017-09-01
 path = "/publications/blockchain-poetics/"
 
 [extra]
+news_category = "Book Chapter"
+blurb = "“Blockchain Poetics” in Artists Re:Thinking the Blockchain, Torque / Furtherfield (dist. Liverpool University Press), Liverpool"
 date_precision = "month"
 publication_type = "book-chapter"
 publisher = "Torque / Furtherfield (dist. Liverpool University Press), Liverpool"

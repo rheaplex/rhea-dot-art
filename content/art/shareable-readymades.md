@@ -4,6 +4,8 @@ date = 2011-01-01
 path = "/shareable-readymades/"
 
 [extra]
+news_category = "New Work"
+blurb = "Shareable Readymades, 3D Printable Model"
 image = "/art-images/urinal.png"
 mediums = [
     "3D Printable Model",

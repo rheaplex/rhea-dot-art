@@ -4,6 +4,8 @@ date = 2019-07-26
 path = "/hack-line-properties/"
 
 [extra]
+news_category = "New Work"
+blurb = "Hack Line Properties, HTML5"
 image = "/art-images/hack-line-1.png"
 mediums = [
     "HTML5",

@@ -4,6 +4,8 @@ date = 2025-03-07
 path = "/self-identifying/"
 
 [extra]
+news_category = "New Work"
+blurb = "Self-Identifying, NFTs"
 image = "/art-images/self-identifying.png"
 mediums = [
     "NFTs",

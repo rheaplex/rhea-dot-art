@@ -4,6 +4,8 @@ date = 2023-01-27
 path = "/the-ego-and-its-0wned/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Ego, and It’s 0wned, HTML5"
 image = "/art-images/hugging-shark-friend.png"
 mediums = [
     "HTML5",

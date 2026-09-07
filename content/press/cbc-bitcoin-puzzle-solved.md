@@ -4,6 +4,8 @@ date = 2018-02-01
 path = "/press/cbc-bitcoin-puzzle-solved/"
 
 [extra]
+news_category = "Article"
+blurb = "This painting is actually a Bitcoin puzzle worth more than $40K — and someone finally solved it, CBC"
 date_precision = "month"
 press_type = "article"
 outlet = "CBC"

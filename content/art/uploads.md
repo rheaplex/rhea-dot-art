@@ -4,6 +4,8 @@ date = 2012-10-10
 path = "/uploads/"
 
 [extra]
+news_category = "New Work"
+blurb = "Uploads, Python"
 date_provisional = true
 image = "/art-images/upload1.png"
 mediums = [

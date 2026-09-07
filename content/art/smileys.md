@@ -4,6 +4,8 @@ date = 1997-01-01
 path = "/smileys/"
 
 [extra]
+news_category = "New Work"
+blurb = "Smileys, PDF"
 image = "/art-images/rosette.png"
 mediums = [
     "PDF",

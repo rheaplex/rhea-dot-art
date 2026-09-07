@@ -4,6 +4,8 @@ date = 2023-09-02
 path = "/exhibitions/exploring-the-decentralized-web-art-on-the-blockchain/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Exploring the Decentralized Web – Art on the Blockchain, HEK (House of Electronic Arts), Basel"
 opening = 2023-09-02
 closing = 2023-11-12
 exhibition_type = "group"

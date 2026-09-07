@@ -4,6 +4,8 @@ date = 2017-09-18
 path = "/demoday/"
 
 [extra]
+news_category = "New Work"
+blurb = "DEMODAY is the first art show-specific crypto token"
 image = "/art-images/demoday-button.png"
 mediums = [
     "Counterparty Tokens",

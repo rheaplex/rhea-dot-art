@@ -4,6 +4,8 @@ date = 2015-01-10
 path = "/contemporary-art-daily-data-analysis/"
 
 [extra]
+news_category = "New Work"
+blurb = "Contemporary Art Daily Data Analysis, R"
 date_provisional = true
 image = "/art-images/cad-wordcloud.png"
 mediums = [

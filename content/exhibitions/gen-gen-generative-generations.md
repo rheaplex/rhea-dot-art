@@ -4,6 +4,8 @@ date = 2023-09-08
 path = "/exhibitions/gen-gen-generative-generations/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "GEN/GEN: Generative Generations, Gazelli Art House, London"
 opening = 2023-09-08
 closing = 2023-10-07
 exhibition_type = "group"

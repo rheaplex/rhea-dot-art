@@ -4,6 +4,8 @@ date = 2007-01-01
 path = "/canto/"
 
 [extra]
+news_category = "New Work"
+blurb = "Canto, SVG"
 image = "/art-images/canto_for_liam_version.png"
 mediums = [
     "SVG",

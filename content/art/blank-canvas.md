@@ -4,6 +4,8 @@ date = 2016-07-04
 path = "/blank-canvas/"
 
 [extra]
+news_category = "New Work"
+blurb = "A blank canvas that anyone can set the colour of on the Ethereum blockchain"
 image = "/art-images/blank-canvas2.png"
 mediums = [
     "HTML5",

@@ -4,6 +4,8 @@ date = 2022-01-01
 path = "/publications/a-thousand-daos-radical-friends/"
 
 [extra]
+news_category = "Book Chapter"
+blurb = "“A Thousand DAOs” in Radical Friends in Radical Friends: Decentralised Autonomous Organisations and the Arts, Torque Editions, UK"
 date_precision = "year"
 publication_type = "book-chapter"
 publisher = "Torque Editions, UK"

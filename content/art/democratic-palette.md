@@ -4,6 +4,8 @@ date = 2016-07-11
 path = "/democratic-palette/"
 
 [extra]
+news_category = "New Work"
+blurb = "Democratic Palette, HTML5"
 image = "/art-images/palette-stripes.png"
 mediums = [
     "HTML5",

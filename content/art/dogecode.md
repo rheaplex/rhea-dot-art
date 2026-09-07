@@ -4,6 +4,8 @@ date = 2015-01-09
 path = "/dogecode/"
 
 [extra]
+news_category = "New Work"
+blurb = "Dogecode, Python"
 image = "/art-images/sierpinski.png"
 mediums = [
     "Python",

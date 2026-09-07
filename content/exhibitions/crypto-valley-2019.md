@@ -4,6 +4,8 @@ date = 2019-06-24
 path = "/exhibitions/crypto-valley-2019/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Crypto Valley 2019, , Zug"
 opening = 2019-06-24
 closing = 2019-06-26
 exhibition_type = "group"

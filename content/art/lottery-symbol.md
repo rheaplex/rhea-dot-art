@@ -4,6 +4,8 @@ date = 2017-08-08
 path = "/lottery-symbol/"
 
 [extra]
+news_category = "New Work"
+blurb = "Lottery Symbol, HTML5"
 image = "/art-images/lottery-symbol.png"
 mediums = [
     "HTML5",

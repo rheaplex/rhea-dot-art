@@ -106,6 +106,23 @@
 {%- endif -%}
 {% endcomponent featured_image %}
 
+{#- News tile: image, sans category, serif one-line blurb. -#}
+{% component news_item(page) %}
+{%- set kind = page.extra?.news_category or "News" -%}
+{%- set ext = page.word_count == 0 and page.extra?.url_external -%}
+<a href="{{ page.extra.url_external if ext else page.permalink | safe }}" class="quiet block group"{% if ext %} rel="external"{% endif %}>
+  {%- if page.extra?.image %}
+  {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fit") %}
+  <div class="w-full aspect-3/2 flex items-center justify-center overflow-hidden"><img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-full max-w-full w-auto h-auto" loading="lazy"></div>
+  {%- else %}
+  <div class="w-full aspect-3/2 bg-neutral-100"></div>
+  {%- endif %}
+  <h3 class="chrome mt-3 text-[1.0625rem]">{{ kind }}</h3>
+  <p class="leading-snug group-hover:underline">{{ page.extra?.blurb or page.title }}</p>
+  <p class="label mt-1.5">{{ page.date | date(format="%B %Y") }}</p>
+</a>
+{% endcomponent news_item %}
+
 {#- Section heading with optional "all" link. -#}
 {% component section_head(title: string, href: string = "", more: string = "") %}
 <div class="flex items-baseline justify-between gap-6 mb-6">

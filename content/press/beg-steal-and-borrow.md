@@ -4,6 +4,8 @@ date = 2017-01-01
 path = "/press/beg-steal-and-borrow/"
 
 [extra]
+news_category = "Work in Print"
+blurb = "Beg, Steal and Borrow, Elephant Press"
 date_precision = "year"
 press_type = "book-feature"
 outlet = "Elephant Press"

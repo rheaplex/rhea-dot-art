@@ -4,6 +4,8 @@ date = 2014-07-23
 path = "/art-is/"
 
 [extra]
+news_category = "New Work"
+blurb = "Art Is, HTML5"
 image = "/art-images/art-is-2.0.png"
 mediums = [
     "HTML5",

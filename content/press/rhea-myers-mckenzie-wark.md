@@ -4,6 +4,8 @@ date = 2022-02-01
 path = "/press/rhea-myers-mckenzie-wark/"
 
 [extra]
+news_category = "Interview"
+blurb = "Rhea Myers & McKenzie Wark, Outland"
 date_precision = "month"
 press_type = "interview"
 outlet = "Outland"

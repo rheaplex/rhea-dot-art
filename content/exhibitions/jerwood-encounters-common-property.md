@@ -4,6 +4,8 @@ date = 2016-01-15
 path = "/exhibitions/jerwood-encounters-common-property/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Jerwood Encounters: Common Property, Jerwood Visual Arts, London"
 opening = 2016-01-15
 closing = 2016-02-21
 exhibition_type = "group"

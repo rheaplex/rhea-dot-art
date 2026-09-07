@@ -4,6 +4,8 @@ date = 2023-02-19
 path = "/is-art-editions/"
 
 [extra]
+news_category = "New Work"
+blurb = "Is Art (Editions), Ethereum ERC-721 NFT"
 image = "/art-images/is-art-token-is.png"
 mediums = [
     "Ethereum ERC-721 NFT",

@@ -4,6 +4,8 @@ date = 2021-09-10
 path = "/one-doge/"
 
 [extra]
+news_category = "New Work"
+blurb = "1 Doge = 1 Doge, Ethereum ERC-721 NFT"
 image = "/art-images/one-doge.png"
 mediums = [
     "Ethereum ERC-721 NFT",

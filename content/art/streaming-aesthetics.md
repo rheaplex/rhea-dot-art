@@ -4,6 +4,8 @@ date = 2015-01-10
 path = "/streaming-aesthetics/"
 
 [extra]
+news_category = "New Work"
+blurb = "Streaming Aesthetics, Processing"
 date_provisional = true
 image = "/art-images/cloud1.png"
 mediums = [

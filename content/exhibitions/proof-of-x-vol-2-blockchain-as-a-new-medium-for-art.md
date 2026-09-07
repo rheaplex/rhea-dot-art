@@ -4,6 +4,8 @@ date = 2023-06-17
 path = "/exhibitions/proof-of-x-vol-2-blockchain-as-a-new-medium-for-art/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Proof of X Vol.2: Blockchain as a New Medium for Art, THE FACE DAIKANYAMA, Tokyo"
 opening = 2023-06-17
 closing = 2023-06-25
 exhibition_type = "group"

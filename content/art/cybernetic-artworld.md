@@ -4,6 +4,8 @@ date = 2009-01-01
 path = "/cybernetic-artworld/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Cybernetic Artworld, Python"
 image = "/art-images/pollock.png"
 mediums = [
     "Python",

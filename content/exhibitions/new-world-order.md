@@ -4,6 +4,8 @@ date = 2017-05-20
 path = "/exhibitions/new-world-order/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "New World Order, Furtherfield Gallery, London"
 opening = 2017-05-20
 closing = 2017-06-25
 exhibition_type = "group"

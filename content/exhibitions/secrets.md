@@ -4,6 +4,8 @@ date = 2018-08-01
 path = "/exhibitions/secrets/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Secrets, San Francisco Mint"
 opening = 2018-08-01
 closing = 2018-08-02
 exhibition_type = "group"

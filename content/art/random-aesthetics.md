@@ -4,6 +4,8 @@ date = 2009-01-01
 path = "/random-aesthetics/"
 
 [extra]
+news_category = "New Work"
+blurb = "Random Aesthetics Microbloggers, JavaScript"
 image = "/art-images/random-aesthetics-microbloggers.png"
 mediums = [
     "JavaScript",

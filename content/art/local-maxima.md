@@ -4,6 +4,8 @@ date = 2019-04-21
 path = "/local-maxima/"
 
 [extra]
+news_category = "New Work"
+blurb = "Local Maxima, GAN-generated Images"
 image = "/art-images/lm.png"
 mediums = [
     "GAN-generated Images",

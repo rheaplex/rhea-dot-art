@@ -4,6 +4,8 @@ date = 2015-10-17
 path = "/exhibitions/the-human-face-of-cryptoeconomies/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "The Human Face of Cryptoeconomies, Furtherfield Gallery, London"
 opening = 2015-10-17
 closing = 2015-11-22
 exhibition_type = "group"

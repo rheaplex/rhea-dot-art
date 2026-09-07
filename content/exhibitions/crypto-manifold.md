@@ -4,6 +4,8 @@ date = 2020-06-27
 path = "/exhibitions/crypto-manifold/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Crypto Manifold, Chronus Art Center, Shanghai"
 opening = 2020-06-27
 closing = 2020-10-10
 exhibition_type = "group"

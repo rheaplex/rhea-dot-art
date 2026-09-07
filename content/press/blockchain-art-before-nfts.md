@@ -4,6 +4,8 @@ date = 2021-09-01
 path = "/press/blockchain-art-before-nfts/"
 
 [extra]
+news_category = "Interview"
+blurb = "How Rhea Myers Made Blockchain Art Before NFTs Were a Thing, Laura Shin (Medium)"
 date_precision = "month"
 press_type = "interview"
 outlet = "Laura Shin (Medium)"

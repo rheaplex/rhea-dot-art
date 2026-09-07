@@ -4,6 +4,8 @@ date = 2018-02-01
 path = "/press/vice-bitcoin-puzzle-solution/"
 
 [extra]
+news_category = "Article"
+blurb = "Here’s the Solution to the 3-Year-Old, $50,000 Bitcoin Puzzle, Vice"
 date_precision = "month"
 press_type = "article"
 outlet = "Vice"

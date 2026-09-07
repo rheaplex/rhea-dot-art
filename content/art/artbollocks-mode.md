@@ -4,6 +4,8 @@ date = 2015-01-10
 path = "/artbollocks-mode/"
 
 [extra]
+news_category = "New Work"
+blurb = "Artbollocks Mode, Emacs Lisp"
 date_provisional = true
 image = "/art-images/ab-mode.png"
 mediums = [

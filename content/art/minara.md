@@ -4,6 +4,8 @@ date = 2004-01-03
 path = "/minara/"
 
 [extra]
+news_category = "New Work"
+blurb = "Minara, Scheme"
 image = "/art-images/minara.gif"
 mediums = [
     "Scheme",

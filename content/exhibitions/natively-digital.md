@@ -4,6 +4,8 @@ date = 2021-06-03
 path = "/exhibitions/natively-digital/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Natively Digital, Sotheby's, London"
 opening = 2021-06-03
 closing = 2021-06-10
 exhibition_type = "group"

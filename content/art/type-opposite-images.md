@@ -4,6 +4,8 @@ date = 2023-01-23
 path = "/type-opposite-images/"
 
 [extra]
+news_category = "New Work"
+blurb = "Type Opposite Images, Ethereum ERC-721 NFT"
 image = "/art-images/toi-8.png"
 mediums = [
     "Ethereum ERC-721 NFT",

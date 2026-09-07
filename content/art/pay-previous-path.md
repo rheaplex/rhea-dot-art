@@ -4,6 +4,8 @@ date = 2019-09-14
 path = "/pay-previous-path/"
 
 [extra]
+news_category = "New Work"
+blurb = "Pay Previous Path, HTML5"
 image = "/art-images/ppp1-cropped.png"
 mediums = [
     "HTML5",

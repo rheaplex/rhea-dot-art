@@ -4,6 +4,8 @@ date = 2025-03-07
 path = "/the-fractionalized-phallus/"
 
 [extra]
+news_category = "New Work"
+blurb = "The Fractionalized Phallus, NFTs"
 image = "/art-images/the-fractionalized-phallus.png"
 mediums = [
     "NFTs",

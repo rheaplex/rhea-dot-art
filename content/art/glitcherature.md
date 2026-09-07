@@ -4,6 +4,8 @@ date = 2015-01-10
 path = "/glitcherature/"
 
 [extra]
+news_category = "New Work"
+blurb = "Glitcherature is glitch literature, glitch aesthetics applied to text"
 date_provisional = true
 image = "/art-images/glitcherature-mode.png"
 mediums = [

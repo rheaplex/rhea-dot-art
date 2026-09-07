@@ -4,6 +4,8 @@ date = 2013-04-29
 path = "/hasharthistory/"
 
 [extra]
+news_category = "New Work"
+blurb = "#arthistory, 3D Printable Model"
 date_provisional = true
 image = "/art-images/8071420752_1e6d264c75_o.jpg"
 mediums = [

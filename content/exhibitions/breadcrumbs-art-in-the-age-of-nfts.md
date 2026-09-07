@@ -4,6 +4,8 @@ date = 2021-05-12
 path = "/exhibitions/breadcrumbs-art-in-the-age-of-nfts/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "Breadcrumbs: Art in the Age of NFTs, Galerie Nagel Draxler, Cologne"
 opening = 2021-05-12
 closing = 2021-08-21
 exhibition_type = "group"

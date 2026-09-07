@@ -4,6 +4,8 @@ date = 2011-01-04
 path = "/baldessarinator/"
 
 [extra]
+news_category = "New Work"
+blurb = "Baldessarinator, Python"
 image = "/art-images/balderassinated.jpeg"
 mediums = [
     "Python",

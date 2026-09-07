@@ -4,6 +4,8 @@ date = 2017-05-04
 path = "/bad-shibe/"
 
 [extra]
+news_category = "New Work"
+blurb = "Bad Shibe, Short Story"
 image = "/art-images/C-6DUI-XgAA6Aaa.png"
 mediums = [
     "Short Story",

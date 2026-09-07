@@ -4,6 +4,8 @@ date = 2023-01-01
 path = "/press/conceptualism-rehashed/"
 
 [extra]
+news_category = "Article"
+blurb = "Conceptualism Rehashed, Outland Magazine"
 date_precision = "year"
 press_type = "article"
 outlet = "Outland Magazine"

@@ -4,6 +4,8 @@ date = 2025-08-02
 path = "/exhibitions/the-story-that-has-just-begun-nfts-from-the-zkm-collection/"
 
 [extra]
+news_category = "Exhibition"
+blurb = "The Story That Has Just Begun. NFTs from the ZKM Collection, ZKM | Center for Art and Media, Karlsruhe"
 opening = 2025-08-02
 closing = 2026-02-01
 exhibition_type = "group"

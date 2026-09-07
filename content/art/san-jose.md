@@ -4,6 +4,8 @@ date = 2000-01-01
 path = "/san-jose/"
 
 [extra]
+news_category = "New Work"
+blurb = "San Jose, SVG"
 image = "/art-images/fudge.png"
 mediums = [
     "SVG",

@@ -4,6 +4,8 @@ date = 2015-01-07
 path = "/critical-coins/"
 
 [extra]
+news_category = "New Work"
+blurb = "Critical Coins, Counterparty Tokens"
 image = "/art-images/dogeart.jpg"
 mediums = [
     "Counterparty Tokens",

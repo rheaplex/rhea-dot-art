@@ -4,6 +4,8 @@ date = 2019-02-19
 path = "/tokens-equal-text/"
 
 [extra]
+news_category = "New Work"
+blurb = "Tokens Equal Text, Ethereum ERC-721 NFT"
 image = "/art-images/tet-16.png"
 mediums = [
     "Ethereum ERC-721 NFT",

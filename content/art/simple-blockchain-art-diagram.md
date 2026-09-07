@@ -4,6 +4,8 @@ date = 2016-07-26
 path = "/simple-blockchain-art-diagram/"
 
 [extra]
+news_category = "New Work"
+blurb = "Simple Blockchain Art Diagram (After MTAA ca. 1997), SVG"
 image = "/art-images/simple-blockchain-art-diagram.png"
 mediums = [
     "SVG",

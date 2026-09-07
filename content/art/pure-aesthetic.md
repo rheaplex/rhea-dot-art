@@ -4,6 +4,8 @@ date = 2005-01-01
 path = "/pure-aesthetic/"
 
 [extra]
+news_category = "New Work"
+blurb = "Pure Aesthetic, Diamond Dust"
 image = "/art-images/pure_aesthetic_one.jpg"
 mediums = [
     "Diamond Dust",
