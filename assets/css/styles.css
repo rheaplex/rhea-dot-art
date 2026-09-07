@@ -37,6 +37,7 @@ blockquote {
 /* Gallery cards */
 .artwork-card img {
   aspect-ratio: 1 / 1;
+  height: auto;
   max-width: 400px;
   margin: 0 auto;
   object-fit: cover;
