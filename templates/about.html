@@ -1,10 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ section.title }}</h1></header>
-<div class="reading">
+<h1 class="h-page mb-8">{{ section.title or "About" }}</h1>
+<div class="prose-site">
   {{ section.content | safe }}
-  <ul class="list-unstyled">
-    {%- for p in section.pages %}<li class="mb-2"><a href="{{ p.permalink | safe }}" class="link-body-emphasis">{{ p.title }}</a></li>{% endfor %}
-  </ul>
+  <ul>{% for p in section.pages %}<li><a href="{{ p.permalink | safe }}">{{ p.title }}</a></li>{% endfor %}</ul>
 </div>
 {% endblock content %}

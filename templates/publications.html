@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ section.title }}</h1>{{ section.content | safe }}</header>
-<main class="reading reading-wide">
-  {{ <by_year pages={section.pages} /> }}
-</main>
+<h1 class="h-page mb-10">{{ section.title }}</h1>
+{%- if section.content %}<div class="prose-site mb-10">{{ section.content | safe }}</div>{% endif %}
+{{ <by_year pages={section.pages} /> }}
 {% endblock content %}

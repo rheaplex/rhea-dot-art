@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
-<header class="mb-4"><h1>{{ taxonomy.name | title }}</h1></header>
-<ul class="list-inline reading">
-  {%- for t in terms %}<li class="list-inline-item mb-2"><a href="{{ t.permalink | safe }}" class="link-body-emphasis">{{ t.name }}</a> <span class="text-body-secondary small">{{ t.page_count }}</span></li>{% endfor %}
+<h1 class="h-page mb-8">{{ taxonomy.name | title }}</h1>
+<ul class="flex flex-wrap gap-x-5 gap-y-2">
+  {%- for t in terms %}<li><a href="{{ t.permalink | safe }}" class="quiet">{{ t.name }}</a> <span class="label inline">{{ t.page_count }}</span></li>{% endfor %}
 </ul>
 {% endblock content %}
