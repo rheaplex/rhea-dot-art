@@ -6,16 +6,12 @@
   {{ $paginator := .Paginate .Pages }}
   <main class="reading">
     {{ range $paginator.Pages }}
-    <article class="mb-4">
-      <h2 class="h4 mb-1"><a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none">{{ .Title }}</a></h2>
-      <p class="text-body-secondary small mb-2"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
-      {{ with .Params.image }}
-        {{ with resources.Get . }}
-          {{ $thumb := .Fit "800x400" }}
-          <a href="{{ $.RelPermalink }}"><img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $.Title }}" class="img-fluid mb-2" loading="lazy"></a>
-        {{ end }}
-      {{ end }}
-      <p class="mb-0">{{ .Summary | plainify | truncate 300 }} <a href="{{ .RelPermalink }}" class="link-body-emphasis">Read more</a></p>
+    <article class="mb-5 pb-4 border-bottom">
+      <h2 class="h3 mb-1"><a href="{{ .RelPermalink }}" class="link-body-emphasis text-decoration-none">{{ .Title }}</a></h2>
+      <p class="text-body-secondary small mb-3"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
+      <div class="content">
+        {{ .Content }}
+      </div>
     </article>
     {{ end }}
     {{ template "_internal/pagination.html" . }}
