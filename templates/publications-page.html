@@ -14,7 +14,7 @@
       {%- if page.extra?.related_works %}<dt>Related works</dt><dd>
         {%- for s in page.extra.related_works %}{% set w = get_page(path="art/" ~ s ~ ".md", allow_missing=true) %}{% if not loop.first %}, {% endif %}{% if w %}<a href="{{ w.permalink | safe }}">{{ w.title }}</a>{% else %}{{ s }}{% endif %}{% endfor %}
       </dd>{% endif %}
-      {%- if page.extra?.url_external %}<dt>Link</dt><dd><a href="{{ page.extra.url_external }}" rel="external">{{ page.extra.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") | truncate(length=60) }}</a></dd>{% endif %}
+      {%- if page.extra?.url_external %}<dt>Link</dt><dd><a href="{{ page.extra.url_external }}" target="_blank" rel="noopener">{{ page.extra.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") | truncate(length=60) }}</a></dd>{% endif %}
     </dl>
     {%- if page.content %}<div class="prose-site">{{ page.content | safe }}</div>{% endif %}
   </div>
