@@ -12,9 +12,7 @@
   <meta name="description" content="{{ desc }}">
   <link rel="canonical" href="{{ current_url or config.base_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path="atom.xml") }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="preload" href="{{ get_url(path="fonts/inter-latin.woff2") }}" as="font" type="font/woff2" crossorigin>
   <link href="{{ get_url(path="css/site.css", cachebust=true) }}" rel="stylesheet">
   {%- block head %}{% endblock head %}
 </head>
