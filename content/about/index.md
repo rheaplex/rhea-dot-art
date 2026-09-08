@@ -21,7 +21,7 @@ Rhea Myers is an artist, hacker, and writer based in British Columbia, Canada, o
 
 Inspired by the histories of conceptualism and net art, Rhea has worked with digital imagery and computer code and produced theory, critique, and fiction as the blockchain art world has gone from the imagination to the mainstream. She didn’t invent NFTs, though. Twice.
 
-Rhea’s art has gained international recognition. It is exhibited globally, sold at prestigious auction houses like Sotheby’s, and collected by renowned institutions such as the Albright Knox Gallery in the US.
+Rhea’s art has gained international recognition. It is exhibited globally, sold at prestigious auction houses like Sotheby’s, and collected by renowned institutions such as the Buffalo AKG Art Museum in the US.
 
 CV
 --
