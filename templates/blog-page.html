@@ -2,7 +2,7 @@
 {% block content %}
 <article class="prose-site">
   <h1 class="h-page !mt-0 mb-1">{{ page.title }}</h1>
-  <p class="label !mt-0 mb-10"><time datetime="{{ page.date }}">{{ page.date | date(format="%-d %B %Y") }}</time>
+  <p class="label !mt-0 mb-14"><time datetime="{{ page.date }}">{{ page.date | date(format="%-d %B %Y") }}</time>
   {%- if page.taxonomies.categories %} &middot; {% for c in page.taxonomies.categories %}<a href="{{ get_taxonomy_url(kind="categories", term=c) | safe }}" class="quiet">{{ c }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}</p>
   {{ page.content | safe }}
 </article>
