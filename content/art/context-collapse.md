@@ -7,6 +7,7 @@ path = "/context-collapse/"
 news_category = "New Work"
 blurb = "Context Collapse, Tezos FA2 NFT"
 date_provisional = true
+image = "/art-images/context-collapse-metallic-10e12ce.jpg"
 mediums = ["Tezos FA2 NFT"]
 +++
 
