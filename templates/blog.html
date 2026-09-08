@@ -9,9 +9,9 @@
   <h2 class="chrome text-muted mb-2 sm:mb-0">{{ year }}</h2>
   <ul>
     {%- for p in paginator.pages %}{% if p.year == year %}
-    <li class="py-1 grid sm:grid-cols-[6.5rem_minmax(0,1fr)] gap-x-6">
-      <time datetime="{{ p.date }}" class="label sm:pt-1.5">{{ p.date | date(format="%-d %b") }}</time>
-      <a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a>
+    <li class="py-1 grid sm:grid-cols-[minmax(0,1fr)_10rem] gap-x-8">
+      <div><a href="{{ p.permalink | safe }}" class="quiet">{{ p.title }}</a></div>
+      <div class="text-muted sm:text-right"><time datetime="{{ p.date }}">{{ p.date | date(format="%-d %B %Y") }}</time></div>
     </li>
     {%- endif %}{% endfor %}
   </ul>
