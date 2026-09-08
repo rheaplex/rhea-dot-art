@@ -31,6 +31,9 @@ paths = "safe"
 
 [extra]
 copyright = "Copyright © 2026 Myers Studio Ltd."
+
+# Shown at the foot of any page that carries sales information (extra.purchase).
+sales_disclaimer = "Prices, editions and availability are given for information only and were correct at the time of publication; they may change without notice and errors and omissions are excepted. Nothing on this page is an offer for sale. Prices exclude applicable taxes, fees and shipping. Any sale is subject to the terms of the gallery, platform or Myers Studio Ltd. as the seller."
 subtitle = "Making code(s) into art"
 
 menu = [

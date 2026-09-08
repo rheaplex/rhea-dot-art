@@ -34,7 +34,10 @@
     {{ <featured_image page={page} /> }}
   </div>
 </article>
-<nav class="chrome flex justify-between gap-6 mt-16 pt-4 border-t border-rule" aria-label="Neighbouring works">
+{%- if page.extra?.purchase and config.extra.sales_disclaimer %}
+<aside class="label leading-relaxed mt-16 max-w-3xl" role="note">{{ config.extra.sales_disclaimer }}</aside>
+{%- endif %}
+<nav class="chrome flex justify-between gap-6 {% if page.extra?.purchase %}mt-6{% else %}mt-16{% endif %} pt-4 border-t border-rule" aria-label="Neighbouring works">
   <span>{% if page.higher %}<a href="{{ page.higher.permalink | safe }}" class="quiet">&larr; {{ page.higher.title }}</a>{% endif %}</span>
   <span class="text-right">{% if page.lower %}<a href="{{ page.lower.permalink | safe }}" class="quiet">{{ page.lower.title }} &rarr;</a>{% endif %}</span>
 </nav>
