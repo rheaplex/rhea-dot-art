@@ -11,6 +11,11 @@ mediums = [
     "Ethereum ERC-721 NFT",
 ]
 wp_id = 6624
+
+[extra.purchase]
+url = "mailto:rhea@myers.studio?subject=Facecoins"
+label = "Enquire by email"
+note = "Series of 24; most editions available. 0.5 ETH each."
 +++
 
 _A blockchain portrait that starts with you._

@@ -13,6 +13,12 @@ mediums = [
     "Floppy Disks",
 ]
 wp_id = 6616
+
+[extra.purchase]
+url = "https://nagel-draxler.de/contact/"
+label = "Enquire with Galerie Nagel Draxler"
+via = "Galerie Nagel Draxler"
+note = "NFT and floppy disk edition of 18; 13 available. 1.5 ETH each."
 +++
 
 _Self-Identifying_ is a series of images created by programs written

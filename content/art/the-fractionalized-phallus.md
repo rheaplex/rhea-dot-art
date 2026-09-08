@@ -12,6 +12,12 @@ mediums = [
     "glTF 3D Scan Fragments",
 ]
 wp_id = 6617
+
+[extra.purchase]
+url = "https://nagel-draxler.de/contact/"
+label = "Enquire with Galerie Nagel Draxler"
+via = "Galerie Nagel Draxler"
+note = "Series of 30; most available. 2 ETH each."
 +++
 
 > [the boy] becomes subject to the domination of the castration

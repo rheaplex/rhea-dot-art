@@ -65,6 +65,9 @@
   .prose-site table { @apply w-full text-left text-[0.9375rem]; }
   .prose-site th, .prose-site td { @apply py-1 pr-4 align-top border-b border-rule; }
 
+  /* The one filled element on the site: purchase / enquire. */
+  .btn-buy { @apply inline-block font-sans text-[0.9375rem] font-medium no-underline bg-ink text-paper px-5 py-2.5 hover:bg-neutral-800 hover:no-underline; }
+
   /* Work / exhibition metadata: plain lines, no rules. */
   .meta { @apply text-[0.9375rem] leading-relaxed; }
   .meta dt { @apply font-sans text-[0.8125rem] leading-none text-muted mt-4 mb-1; }

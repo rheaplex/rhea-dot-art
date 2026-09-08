@@ -15,6 +15,11 @@ mediums = [
     "CSS",
 ]
 wp_id = 6622
+
+[extra.purchase]
+url = "mailto:rhea@myers.studio?subject=The%20Ego%2C%20and%20It%27s%200wned"
+label = "Enquire by email"
+note = "Shot (Estrogen) #2 and Being Pinched (Ow!) #3 available. 2.5 ETH each."
 +++
 
 _Identity and intimate experience quantified, commodified, and exploited, in hypercapitalist exchange.The NFTs of The Ego, and It’s 0wned combine EEG brain wave recordings of intense experiences with smooth data visualization aesthetics to produce a critical encounter with subjectivity, representation, and capitalism._
