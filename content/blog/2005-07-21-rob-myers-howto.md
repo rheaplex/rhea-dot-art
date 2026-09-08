@@ -12,6 +12,6 @@ I’ll be showing paintr, draw-something, my recent remixing work such as 1969 a
 
 Supported by the British Council.
 
-![British Council](https://rhea.art/wp-content/uploads/bc_295.jpg)
+![British Council](/images/wp/bc_295.jpg)
 
 Technorati Tags: [art](http://technorati.com/tag/art), [free culture](http://technorati.com/tag/free culture), [free software](http://technorati.com/tag/free software), [generative art](http://technorati.com/tag/generative art)

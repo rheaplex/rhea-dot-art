@@ -6,35 +6,35 @@ path = "/2005/08/03/rob-myers-howto-images/"
 
 Click on images to view full-size:
 
-[![Billboard](https://rhea.art/wp-content/uploads/billboard-tm.jpg)](https://rhea.art/wp-content/uploads/billboard.jpg)
+[![Billboard](/images/wp/billboard-tm.jpg)](/images/wp/billboard.jpg)
 
 The billboard announcing the show (with me in front of it).
 
-[![Gallery](https://rhea.art/wp-content/uploads/gallery-tm.jpg)](https://rhea.art/wp-content/uploads/gallery.png)
+[![Gallery](/images/wp/gallery-tm.jpg)](/images/wp/gallery.png)
 
 The gallery, O3one
 
-[![Gallery Inside](https://rhea.art/wp-content/uploads/gallery_inside-tm.jpg)](https://rhea.art/wp-content/uploads/gallery_inside.png)
+[![Gallery Inside](/images/wp/gallery_inside-tm.jpg)](/images/wp/gallery_inside.png)
 
 A panorama of the show inside the gallery.
 
-[![Draw-Something](https://rhea.art/wp-content/uploads/draw-something-tm.jpg)](https://rhea.art/wp-content/uploads/draw-something.jpg)
+[![Draw-Something](/images/wp/draw-something-tm.jpg)](/images/wp/draw-something.jpg)
 
 draw-something.
 
-[![Canto](https://rhea.art/wp-content/uploads/canto-tm.jpg)](https://rhea.art/wp-content/uploads/canto.jpg)
+[![Canto](/images/wp/canto-tm.jpg)](/images/wp/canto.jpg)
 
 Canto.
 
-[![1969](https://rhea.art/wp-content/uploads/1969-tm.jpg)](https://rhea.art/wp-content/uploads/1969.jpg)
+[![1969](/images/wp/1969-tm.jpg)](/images/wp/1969.jpg)
 
 1969
 
-[![1969-Closeup](https://rhea.art/wp-content/uploads/1969-closeup-tm.jpg)](https://rhea.art/wp-content/uploads/1969-closeup.jpg)
+[![1969-Closeup](/images/wp/1969-closeup-tm.jpg)](/images/wp/1969-closeup.jpg)
 
 1969 close-up.
 
-[![Draw-Something-Prints](https://rhea.art/wp-content/uploads/draw-something-prints-tm.jpg)](https://rhea.art/wp-content/uploads/draw-something-prints.jpg)
+[![Draw-Something-Prints](/images/wp/draw-something-prints-tm.jpg)](/images/wp/draw-something-prints.jpg)
 
 Prints of colour pictures by draw-something.
 
