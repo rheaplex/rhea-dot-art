@@ -19,7 +19,11 @@ wp_id = 6621
 [extra.purchase]
 url = "mailto:rhea@myers.studio?subject=Is%20Art%20Editions"
 label = "Enquire by email"
-note = "16 editions of 16 tokens. 1 ETH each, 3 ETH for 4, 9 ETH for a set of 16."
+seller = "studio"
+edition = "16 NFT editions of 16 smart-contract tokens"
+availability = "Individually or in sets of 16"
+price = "From 1 ETH"
+price_detail = "1 ETH each; 3 ETH for 4; 9 ETH for a set of 16"
 +++
 
 _Is Art_ (2014) was part of the series of artworks that started with the essay _Artworld Ethereum_ and that share their name with it. It exploits the exhausted art theoretical concept of nomination, underwriting it with the power of the blockchain rather than 1960s artworld consensus. It was the piece from that series that caught people’s imagination the most. Pre-dating ERC-721, and structured to be deliberately un-ownable, it existed as a smart contract that anyone (with sufficient knowledge and capital…) could interact with and change the state of.

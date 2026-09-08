@@ -32,11 +32,23 @@ paths = "safe"
 [extra]
 copyright = "Copyright © 2026 Myers Studio Ltd."
 
+# Sellers referenced by extra.purchase.seller on works. Order here is the
+# order on /available-works/.
+sellers = [
+  { key = "nageldraxler", name = "Galerie Nagel Draxler", location = "Berlin", url = "https://nagel-draxler.de/contact/", kind = "gallery" },
+  { key = "gazelli", name = "Gazelli Art House", location = "London", url = "https://gazelliarthouse.com/contact/", kind = "gallery" },
+  { key = "katevass", name = "Kate Vass Galerie", location = "Zürich", url = "https://www.katevassgalerie.com/about-us", kind = "gallery" },
+  { key = "feralfile", name = "Feral File", url = "https://feralfile.com/", kind = "platform" },
+  { key = "superrare", name = "SuperRare", url = "https://superrare.com/", kind = "platform" },
+  { key = "studio", name = "Myers Studio", url = "mailto:rhea@myers.studio", kind = "studio" },
+]
+
 # Shown at the foot of any page that carries sales information (extra.purchase).
 sales_disclaimer = "Prices, editions and availability are given for information only and were correct at the time of publication; they may change without notice and errors and omissions are excepted. Nothing on this page is an offer for sale. Prices exclude applicable taxes, fees and shipping. Any sale is subject to the terms of the gallery, platform and/or Myers Studio Ltd. as the seller."
 subtitle = "Making code(s) into art"
 
 menu = [
+  { name = "Available Works", url = "/available-works/" },
   { name = "Art", url = "/art/" },
   { name = "Exhibitions", url = "/exhibitions/" },
   { name = "Press", url = "/press/" },

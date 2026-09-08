@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block head %}
+{%- set art = get_section(path="art/_index.md") -%}
+{%- set avail = [w for w in art.pages if w.extra?.purchase] -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Available works by Rhea Myers",
+  "url": "{{ page.permalink | safe }}",
+  "itemListElement": [
+  {%- for w in avail %}
+    { "@type": "ListItem", "position": {{ loop.index }}, "item": {
+      "@type": "VisualArtwork", "name": {{ w.title | json_encode() | safe }}, "url": "{{ w.permalink | safe }}",
+      "creator": { "@type": "Person", "name": "Rhea Myers" },
+      "dateCreated": "{{ w.date | date(format="%Y") }}"
+      {%- if w.extra?.mediums %}, "artMedium": {{ w.extra.mediums | join(sep=", ") | json_encode() | safe }}{% endif %}
+      {%- if w.extra?.image %}, "image": "{{ get_url(path=w.extra.image) }}"{% endif %},
+      "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "url": "{{ w.extra.purchase.url | safe }}"{% if w.extra.purchase.price %}, "description": {{ w.extra.purchase.price | json_encode() | safe }}{% endif %} }
+    } }{% if not loop.last %},{% endif %}
+  {%- endfor %}
+  ]
+}
+</script>
+{% endblock head %}
+{% block content %}
+{%- set art = get_section(path="art/_index.md") -%}
+{%- set avail = [w for w in art.pages if w.extra?.purchase] -%}
+<h1 class="h-page mb-6">{{ page.title }}</h1>
+<div class="prose-site mb-12">{{ page.content | safe }}</div>
+
+{%- for s in config.extra.sellers %}
+{%- set works = [w for w in avail if (w.extra.purchase.seller or "studio") == s.key] %}
+{%- if works | length > 0 %}
+<section class="mb-14">
+  <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 mb-2">
+    <h2 class="h-section">{% if s.kind == "studio" %}Direct from the studio{% else %}{{ s.name }}{% if s.location %}<span class="text-muted">, {{ s.location }}</span>{% endif %}{% endif %}</h2>
+    <a href="{{ s.url | safe }}" class="chrome quiet text-muted"{% if s.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{% if s.kind == "gallery" %}Contact the gallery{% elif s.kind == "platform" %}Visit {{ s.name }}{% else %}rhea@myers.studio{% endif %} &rarr;</a>
+  </div>
+  <ul>{% for w in works %}{{ <available_row page={w} /> }}{% endfor %}</ul>
+</section>
+{%- endif %}
+{%- endfor %}
+
+{%- if config.extra.sales_disclaimer %}
+<aside class="label leading-relaxed mt-4 max-w-3xl border-t border-rule pt-4" role="note">{{ config.extra.sales_disclaimer }}</aside>
+{%- endif %}
+{% endblock content %}

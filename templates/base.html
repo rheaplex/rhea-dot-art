@@ -6,7 +6,7 @@
   {%- set cp = current_path or "" -%}
   {%- set page_title = "" -%}
   {%- if page and page.title %}{% set page_title = page.title %}{% elif section and section.title and cp != "/" %}{% set page_title = section.title %}{% endif -%}
-  <title>{% if page_title %}{{ page_title }} | {% endif %}{{ config.title }}</title>
+  <title>{% if page and page.extra?.seo_title %}{{ page.extra.seo_title }}{% elif page_title %}{{ page_title }} | {{ config.title }}{% else %}{{ config.title }}{% endif %}</title>
   {%- set desc = config.description -%}
   {%- if page and page.description %}{% set desc = page.description %}{% elif page and page.summary %}{% set desc = page.summary | striptags | truncate(length=160) %}{% endif -%}
   <meta name="description" content="{{ desc }}">

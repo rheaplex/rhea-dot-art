@@ -17,6 +17,26 @@
   </a>
 </section>
 
+{#- Available works: a quiet strip of what can be bought now. -#}
+{%- set avail = [w for w in art.pages if w.extra?.purchase] %}
+{%- if avail | length > 0 %}
+<section class="mb-16 pt-6 border-t border-rule">
+  <div class="flex items-baseline justify-between gap-6 mb-6">
+    <h2 class="h-section">Available works</h2>
+    <a href="{{ get_url(path="/available-works/") }}" class="chrome quiet text-muted">All {{ avail | length }} available works &rarr;</a>
+  </div>
+  <ul class="grid grid-cols-3 sm:grid-cols-6 gap-x-4 gap-y-6">
+    {%- for w in avail[:6] %}
+    <li><a href="{{ w.permalink | safe }}" class="quiet block group">
+      {%- if w.extra?.image %}{% set t = resize_image(path=w.extra.image, width=400, height=400, op="fill") %}<img src="{{ t.url }}" width="{{ t.width }}" height="{{ t.height }}" alt="{{ w.extra?.image_alt or w.title }}" class="w-full aspect-square object-cover" loading="lazy">{% else %}<div class="w-full aspect-square bg-neutral-100"></div>{% endif %}
+      <p class="mt-2 text-[0.9375rem] leading-snug group-hover:underline">{{ w.title }}</p>
+      {%- if w.extra.purchase.price %}<p class="label mt-1">{{ w.extra.purchase.price }}</p>{% endif %}
+    </a></li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+
 {#- News: everything except the hero, interleaved by date, newest first. -#}
 {%- set pool = [...art.pages, ...ex.pages, ...press.pages, ...pubs.pages] -%}
 {%- set news = [p for p in pool if p.permalink != hero.permalink and (p.date | date(format="%Y-%m-%d")) <= today] | sort(attribute="date") | reverse -%}

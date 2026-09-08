@@ -18,8 +18,10 @@ wp_id = 6690
 [extra.purchase]
 url = "https://gazell.io/products/alphabetics-infected-by-postscript-viruses"
 label = "Buy from Gazelli Art House"
-via = "Gazelli Art House"
-note = "Commissionable, open edition. Dimensions variable. $3,000 USD each."
+seller = "gazelli"
+edition = "Open edition, commissionable; dimensions variable"
+availability = "Available"
+price = "$3,000 USD each"
 +++
 
 An excercise in aesthetic intervention in networked society.

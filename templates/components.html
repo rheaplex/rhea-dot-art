@@ -131,3 +131,27 @@
   {%- if href %}<a href="{{ href | safe }}" class="chrome quiet text-muted">{{ more }} &rarr;</a>{% endif %}
 </div>
 {% endcomponent section_head %}
+
+{#- One row on the Available Works page. -#}
+{% component available_row(page) %}
+{%- set buy = page.extra.purchase -%}
+<li class="py-6 border-t border-rule grid grid-cols-[6rem_minmax(0,1fr)] sm:grid-cols-[9rem_minmax(0,1fr)_auto] gap-x-6 sm:gap-x-8 gap-y-4 items-start">
+  <a href="{{ page.permalink | safe }}" class="block">
+    {%- if page.extra?.image %}{% set t = resize_image(path=page.extra.image, width=400, height=400, op="fill") %}
+    <img src="{{ t.url }}" width="{{ t.width }}" height="{{ t.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="w-full aspect-square object-cover" loading="lazy">
+    {%- else %}<div class="w-full aspect-square bg-neutral-100"></div>{% endif %}
+  </a>
+  <div class="min-w-0">
+    <h3 class="text-[1.125rem] leading-snug"><a href="{{ page.permalink | safe }}" class="quiet">{{ page.title }}</a><span class="text-muted">, {{ page.date | date(format="%Y") }}</span></h3>
+    {%- if page.extra?.mediums %}<p class="text-muted leading-snug">{{ page.extra.mediums | join(sep=", ") }}</p>{% endif %}
+    <dl class="chrome mt-3 grid grid-cols-[6rem_minmax(0,1fr)] gap-y-1.5 gap-x-4 max-w-xl">
+      {%- if buy.edition %}<dt class="text-muted">Edition</dt><dd>{{ buy.edition }}</dd>{% endif %}
+      {%- if buy.availability %}<dt class="text-muted">Availability</dt><dd>{{ buy.availability }}</dd>{% endif %}
+      {%- if buy.price %}<dt class="text-muted">Price</dt><dd>{{ buy.price_detail or buy.price }}</dd>{% endif %}
+    </dl>
+  </div>
+  <div class="col-span-2 sm:col-span-1 sm:pt-0.5">
+    <a href="{{ buy.url | safe }}" class="btn-buy whitespace-nowrap"{% if buy.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{{ buy.label or "Purchase" }}</a>
+  </div>
+</li>
+{% endcomponent available_row %}
