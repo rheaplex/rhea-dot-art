@@ -15,6 +15,12 @@ aliases_names = [
     "Bitcoin Aesthetics",
 ]
 wp_id = 6652
+
+[extra.purchase]
+url = "https://www.katevassgalerie.com/about-us"
+label = "Enquire with Kate Vass Galerie"
+via = "Kate Vass Galerie"
+note = "NFTs and prints. First Transaction 7.8 ETH, First Halvening 8 ETH."
 +++
 
 Visualizing Bitcoin (and other blockchain) transaction hashes and block hashes as the content of modernist and postmodernist aesthetics.

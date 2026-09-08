@@ -16,6 +16,12 @@ tools = [
     "The Gimp",
 ]
 wp_id = 6683
+
+[extra.purchase]
+url = "https://feralfile.com/explore/available-works/8dfe5559-b967-42f7-9f4a-f7cb1dae9008"
+label = "Buy on Feral File"
+via = "Feral File"
+note = "Edition of 8 plus 3 proofs; #2–#7 available. $12,000 USD each."
 +++
 
 Hard edged abstraction meets JPEG noise to invoke something else.
