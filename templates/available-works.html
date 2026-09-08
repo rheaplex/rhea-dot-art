@@ -27,7 +27,10 @@
 {%- set art = get_section(path="art/_index.md") -%}
 {%- set avail = [w for w in art.pages if w.extra?.purchase] -%}
 <h1 class="h-page mb-6">{{ page.title }}</h1>
-<div class="prose-site mb-12">{{ page.content | safe }}</div>
+<div class="prose-site mb-12">
+  {{ page.content | safe }}
+  {%- if config.extra.buying_notes %}{{ config.extra.buying_notes | markdown | safe }}{% endif %}
+</div>
 
 {%- for s in config.extra.sellers %}
 {%- set works = [w for w in avail if (w.extra.purchase.seller or "studio") == s.key] %}

@@ -43,6 +43,9 @@ sellers = [
   { key = "studio", name = "Myers Studio", url = "mailto:rhea@myers.studio", kind = "studio" },
 ]
 
+# Shown under the intro on /available-works/. Markdown.
+buying_notes = "Prices in ETH can be paid in USD, EUR or CHF at the current rate through the galleries and Feral File, who can also hold the work for you. If you'd rather hold it yourself you'll need an Ethereum wallet — [Coinbase Wallet](https://www.coinbase.com/wallet) or [MetaMask](https://metamask.io/) take a few minutes to set up — and the gallery or studio will transfer the work to it. Questions about any of this: [rhea@myers.studio](mailto:rhea@myers.studio)."
+
 # Shown at the foot of any page that carries sales information (extra.purchase).
 sales_disclaimer = "Prices, editions and availability are given for information only and were correct at the time of publication; they may change without notice and errors and omissions are excepted. Nothing on this page is an offer for sale. Prices exclude applicable taxes, fees and shipping. Any sale is subject to the terms of the gallery, platform and/or Myers Studio Ltd. as the seller."
 subtitle = "Making code(s) into art"
