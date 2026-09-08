@@ -13,7 +13,9 @@ mediums = ["Ethereum ERC-721 NFT"]
 [extra.purchase]
 url = "https://superrare.com/"
 label = "Buy on SuperRare"
-via = "SuperRare"
-note = "Released online from 4 September 2026 as part of ./spiral."
+seller = "superrare"
+edition = "Ethereum ERC-721 NFT"
+availability = "Online release from 4 September 2026"
+price = "On SuperRare"
 +++
 

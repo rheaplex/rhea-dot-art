@@ -16,8 +16,10 @@ wp_id = 6634
 [extra.purchase]
 url = "https://www.katevassgalerie.com/about-us"
 label = "Enquire with Kate Vass Galerie"
-via = "Kate Vass Galerie"
-note = "Unique giclée print. 4,500 CHF."
+seller = "katevass"
+edition = "Unique giclée print"
+availability = "Available"
+price = "4,500 CHF"
 +++
 
 In classical AI research, a “local maximum” is a solution to a problem that cannot in itself be improved but that is not the best possible solution. Where a singular mathematical specification of a problem is possible, local maxima can be avoided using search strategies other than simple “hill climbing”. Art does not have such a specification, its search space consists entirely of local maxima.

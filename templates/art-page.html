@@ -12,7 +12,7 @@
     {%- if page.extra?.purchase %}{% set buy = page.extra.purchase %}
     <div class="mb-10">
       <a href="{{ buy.url | safe }}" class="btn-buy"{% if buy.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{{ buy.label or "Purchase" }}</a>
-      {%- if buy.note %}<p class="label mt-3 leading-snug">{{ buy.note }}</p>{% endif %}
+      <p class="label mt-3 leading-relaxed">{% for f in [buy.edition, buy.availability, buy.price_detail or buy.price] %}{% if f %}{{ f }}{% if not loop.last %} &middot; {% endif %}{% endif %}{% endfor %}<br><a href="{{ get_url(path="/available-works/") }}" class="quiet">All available works &rarr;</a></p>
     </div>
     {%- endif %}
 

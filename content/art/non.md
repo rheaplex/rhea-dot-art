@@ -16,8 +16,10 @@ wp_id = 6615
 [extra.purchase]
 url = "https://nagel-draxler.de/contact/"
 label = "Enquire with Galerie Nagel Draxler"
-via = "Galerie Nagel Draxler"
-note = "Edition of 11 plus 2 APs; #2–#11 available. 0.6 ETH each."
+seller = "nageldraxler"
+edition = "NFT edition of 11 plus 2 APs"
+availability = "#2–#11 available"
+price = "0.6 ETH each"
 +++
 
 _Non_ continues from the fiat state law forms of _Certificate of

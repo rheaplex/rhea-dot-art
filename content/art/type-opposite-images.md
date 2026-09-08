@@ -16,7 +16,10 @@ wp_id = 6623
 [extra.purchase]
 url = "mailto:rhea@myers.studio?subject=Type%20Opposite%20Images"
 label = "Enquire by email"
-note = "Series of 28; most available. 1 ETH each."
+seller = "studio"
+edition = "NFT series of 28 unique text compositions"
+availability = "21 of 28 available"
+price = "1 ETH each"
 +++
 
 _Vaporwave aesthetics’ evil twin._

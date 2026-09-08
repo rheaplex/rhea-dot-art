@@ -24,7 +24,10 @@ role = "Furtherfield / DECAL — gold \"Cryptopupper\" castings"
 [extra.purchase]
 url = "mailto:rhea@myers.studio?subject=Certificate%20of%20Inauthenticity"
 label = "Enquire by email"
-note = "Editions of 11 of three certificates; several available. 5 ETH each."
+seller = "studio"
+edition = "Editions of 11 of three certificates"
+availability = "Several editions available, incl. one matching set"
+price = "5 ETH each"
 +++
 
 From 2011 to 2012 in the “Shareable Readymades” project I commissioned the awesome artists Christine Webber and Bassam Kurdali to create three 3D printable models of commonplace objects – a urinal, a balloon dog, and a pipe – that had become part of canonical art history. The artists retained copyright on their work and the results were placed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) license with the attribution to myself as the person that commissioned the work. I did this in order to critique the production of neoceonceptual art by artists such as Jeff Koons and the processes by which art history cordons off models of commonplace objects as signature works by Jeff Koons, Marcel Duchamp and others.

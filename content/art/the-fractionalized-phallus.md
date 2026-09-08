@@ -16,8 +16,10 @@ wp_id = 6617
 [extra.purchase]
 url = "https://nagel-draxler.de/contact/"
 label = "Enquire with Galerie Nagel Draxler"
-via = "Galerie Nagel Draxler"
-note = "Series of 30; most available. 2 ETH each."
+seller = "nageldraxler"
+edition = "NFT series of 30 glitched 3D scan fragments"
+availability = "27 of 30 available"
+price = "2 ETH each"
 +++
 
 > [the boy] becomes subject to the domination of the castration
