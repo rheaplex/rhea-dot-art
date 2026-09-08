@@ -72,7 +72,7 @@ logos = [
 social = [
   { name = "newsletter", url = "https://view.flodesk.com/forms/688c2ea429df7835f2649425" },
   { name = "email", url = "mailto:rhea@myers.studio" },
-  { name = "bluesky", url = "https://bsky.app/profile/rhea.art" },
+  { name = "bluesky", url = "https://bsky.app/profile/rheamyers.bsky.social" },
   { name = "fedi", url = "https://social.rhea.art/@rheaplex" },
   { name = "instagram", url = "https://www.instagram.com/rheapl3x/" },
   { name = "linkedin", url = "https://ca.linkedin.com/in/rheamyers" },
