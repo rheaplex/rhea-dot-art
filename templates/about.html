@@ -1,8 +1,0 @@
-{% extends "base.html" %}
-{% block content %}
-<h1 class="h-page mb-8">{{ section.title or "About" }}</h1>
-<div class="prose-site">
-  {{ section.content | safe }}
-  <ul>{% for p in section.pages %}<li><a href="{{ p.permalink | safe }}">{{ p.title }}</a></li>{% endfor %}</ul>
-</div>
-{% endblock content %}

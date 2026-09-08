@@ -1,13 +1,11 @@
 +++
-weight = 1
-title = "Rhea Myers"
-path = "/about-me/"
+title = "About"
+path = "/about/"
+aliases = ["/about-me/"]
 
 [extra]
 image = "/third-party-images/rhea-kpp-square.jpg"
 +++
-
-###### Making NFTs into art.
 
 ![A picture of Rhea. Photo credit: Kristy Powers photography](/third-party-images/rhea-kpp.jpg)
 
@@ -28,19 +26,4 @@ Rhea’s art has gained international recognition. It is exhibited globally, sol
 CV
 --
 
-[Download my CV here](https://docs.google.com/document/d/104voqniWJGd-KIaaJ-0vqvcgKI3jlRLBRCtFypS5doo/edit?usp=sharing)
-
-Contact
--------
-<style>
-a img {
-    width: 48px;
-    height: 48px;
-    padding-right: 12px;
-}
-</style>
-<a href="mailto:rhea+aboutme@myers.studio"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg"></a>
-<a href="https://twitter.com/rheaplex"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg"></a>
-<a href="https://facebook.com/rheamyersart"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg"></a>
-<a href="https://instagram.com/rheapl3x"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg"></a>
-<a href="https://www.linkedin.com/in/rheamyers/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg"></a>
+[Download my CV](https://docs.google.com/document/d/104voqniWJGd-KIaaJ-0vqvcgKI3jlRLBRCtFypS5doo/edit?usp=sharing)
