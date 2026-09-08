@@ -14,7 +14,7 @@
       {%- if page.extra?.curator %}<dt>Curator</dt><dd>{{ page.extra.curator }}</dd>{% endif %}
       {%- if page.extra?.programme %}<dt>Programme</dt><dd>{{ page.extra.programme }}</dd>{% endif %}
       {%- if page.extra?.tour_of %}{% set t = get_page(path="exhibitions/" ~ page.extra.tour_of ~ ".md", allow_missing=true) %}{% if t %}<dt>Tour of</dt><dd><a href="{{ t.permalink | safe }}">{{ t.title }}</a></dd>{% endif %}{% endif %}
-      {%- if page.extra?.url_external %}<dt>Link</dt><dd><a href="{{ page.extra.url_external }}" rel="external">{{ page.extra.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") | truncate(length=60) }}</a></dd>{% endif %}
+      {%- if page.extra?.url_external %}<dt>Link</dt><dd><a href="{{ page.extra.url_external }}" target="_blank" rel="noopener">{{ page.extra.url_external | regex_replace(pattern="^https?://(www\\.)?", rep="") | trim_end(pat="/") | truncate(length=60) }}</a></dd>{% endif %}
     </dl>
     {%- if page.content %}<div class="prose-site">{{ page.content | safe }}</div>{% endif %}
   </div>

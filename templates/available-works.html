@@ -38,7 +38,7 @@
 <section class="mb-14">
   <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 mb-2">
     <h2 class="h-section">{% if s.kind == "studio" %}Direct from the studio{% else %}{{ s.name }}{% if s.location %}<span class="text-muted">, {{ s.location }}</span>{% endif %}{% endif %}</h2>
-    <a href="{{ s.url | safe }}" class="chrome quiet text-muted"{% if s.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{% if s.kind == "gallery" %}Contact the gallery{% elif s.kind == "platform" %}Visit {{ s.name }}{% else %}rhea@myers.studio{% endif %} &rarr;</a>
+    <a href="{{ s.url | safe }}" class="chrome quiet text-muted"{% if s.url is not starting_with(pat="mailto:") %} target="_blank" rel="noopener"{% endif %}>{% if s.kind == "gallery" %}Contact the gallery{% elif s.kind == "platform" %}Visit {{ s.name }}{% else %}rhea@myers.studio{% endif %} &rarr;</a>
   </div>
   <ul>{% for w in works %}{{ <available_row page={w} /> }}{% endfor %}</ul>
 </section>

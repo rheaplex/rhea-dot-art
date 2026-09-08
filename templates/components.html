@@ -73,7 +73,7 @@
 {%- set href = page.extra.url_external if ext else page.permalink -%}
 <li class="py-1 grid sm:grid-cols-[minmax(0,1fr)_10rem] gap-x-8">
   <div>
-    <a href="{{ href | safe }}" class="quiet"{% if ext %} rel="external"{% endif %}>{{ page.title }}</a><br>
+    <a href="{{ href | safe }}" class="quiet"{% if ext %} target="_blank" rel="noopener"{% endif %}>{{ page.title }}</a><br>
     <span class="text-muted">{% if inn %}<em>{{ inn }}</em>{% if org %}, {% endif %}{% endif %}{{ org }}{% if kind %}{% if org or inn %} &middot; {% endif %}{{ kind | replace(from="-", to=" ") | title }}{% endif %}</span>
   </div>
   <div class="text-muted sm:text-right"><time datetime="{{ page.date }}">{% if (page.extra?.date_precision or "day") != "year" %}{{ <precision_date page={page} /> }}{% endif %}</time></div>
@@ -111,7 +111,7 @@
 {% component news_item(page) %}
 {%- set kind = page.extra?.news_category or "News" -%}
 {%- set ext = page.word_count == 0 and page.extra?.url_external -%}
-<a href="{{ page.extra.url_external if ext else page.permalink | safe }}" class="quiet block group"{% if ext %} rel="external"{% endif %}>
+<a href="{{ page.extra.url_external if ext else page.permalink | safe }}" class="quiet block group"{% if ext %} target="_blank" rel="noopener"{% endif %}>
   {%- if page.extra?.image %}
   {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fit") %}
   <div class="w-full aspect-3/2 flex items-center justify-center overflow-hidden"><img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-full max-w-full w-auto h-auto" loading="lazy"></div>
@@ -151,7 +151,7 @@
     </dl>
   </div>
   <div class="col-span-2 sm:col-span-1 sm:pt-0.5">
-    <a href="{{ buy.url | safe }}" class="btn-buy whitespace-nowrap"{% if buy.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{{ buy.label or "Purchase" }}</a>
+    <a href="{{ buy.url | safe }}" class="btn-buy whitespace-nowrap"{% if buy.url is not starting_with(pat="mailto:") %} target="_blank" rel="noopener"{% endif %}>{{ buy.label or "Purchase" }}</a>
   </div>
 </li>
 {% endcomponent available_row %}

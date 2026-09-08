@@ -2,8 +2,8 @@
   <ul class="flex flex-wrap gap-x-5 gap-y-1 mb-3">
     {%- for s in config.extra.social %}
     {%- set u = s.url %}{% if u is starting_with(pat="/") %}{% set u = get_url(path=u) %}{% endif %}
-    <li><a href="{{ u | safe }}" class="quiet">{{ s.name }}</a></li>
+    <li><a href="{{ u | safe }}" class="quiet"{% if u is starting_with(pat="http") %} target="_blank" rel="noopener"{% endif %}>{{ s.name }}</a></li>
     {%- endfor %}
   </ul>
-  <p class="text-[0.8125rem]">{{ config.extra.copyright }} Original art and writing licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a> unless otherwise stated.</p>
+  <p class="text-[0.8125rem]">{{ config.extra.copyright }} Original art and writing licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener" target="_blank">CC BY-SA 4.0</a> unless otherwise stated.</p>
 </footer>

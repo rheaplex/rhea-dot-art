@@ -11,7 +11,7 @@
 
     {%- if page.extra?.purchase %}{% set buy = page.extra.purchase %}
     <div class="mb-10">
-      <a href="{{ buy.url | safe }}" class="btn-buy"{% if buy.url is not starting_with(pat="mailto:") %} rel="external"{% endif %}>{{ buy.label or "Purchase" }}</a>
+      <a href="{{ buy.url | safe }}" class="btn-buy"{% if buy.url is not starting_with(pat="mailto:") %} target="_blank" rel="noopener"{% endif %}>{{ buy.label or "Purchase" }}</a>
       <p class="label mt-3 leading-relaxed">{% for f in [buy.edition, buy.availability, buy.price_detail or buy.price] %}{% if f %}{{ f }}{% if not loop.last %} &middot; {% endif %}{% endif %}{% endfor %}<br><a href="{{ get_url(path="/available-works/") }}" class="quiet">All available works &rarr;</a></p>
     </div>
     {%- endif %}
@@ -19,10 +19,10 @@
     <dl class="meta mb-10">
       {%- if page.extra?.tools %}<dt>Tools</dt><dd>{{ page.extra.tools | join(sep=", ") }}</dd>{% endif %}
       {%- if page.extra?.collaborators %}<dt>With</dt><dd>
-        {%- for c in page.extra.collaborators %}{% if not loop.first %}<br>{% endif %}{% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.role %} <span class="text-muted">&mdash; {{ c.role }}</span>{% endif %}{% endfor %}
+        {%- for c in page.extra.collaborators %}{% if not loop.first %}<br>{% endif %}{% if c.url %}<a href="{{ c.url }}" target="_blank" rel="noopener">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}{% if c.role %} <span class="text-muted">&mdash; {{ c.role }}</span>{% endif %}{% endfor %}
       </dd>{% endif %}
-      {%- if page.extra?.demos %}<dt>Run</dt><dd>{% for u in page.extra.demos %}<a href="{{ u }}">{{ u | regex_replace(pattern="^https?://", rep="") }}</a><br>{% endfor %}</dd>{% endif %}
-      {%- if page.extra?.repos %}<dt>Source</dt><dd>{% for u in page.extra.repos %}<a href="{{ u }}">{{ u | regex_replace(pattern="^https?://(www\\.)?", rep="") }}</a><br>{% endfor %}</dd>{% endif %}
+      {%- if page.extra?.demos %}<dt>Run</dt><dd>{% for u in page.extra.demos %}<a href="{{ u }}" target="_blank" rel="noopener">{{ u | regex_replace(pattern="^https?://", rep="") }}</a><br>{% endfor %}</dd>{% endif %}
+      {%- if page.extra?.repos %}<dt>Source</dt><dd>{% for u in page.extra.repos %}<a href="{{ u }}" target="_blank" rel="noopener">{{ u | regex_replace(pattern="^https?://(www\\.)?", rep="") }}</a><br>{% endfor %}</dd>{% endif %}
       {%- if shown | length > 0 %}<dt>Exhibited in</dt><dd>
         {%- for e in shown %}<a href="{{ e.permalink | safe }}">{{ e.title }}</a>{% if e.extra?.venue %}, {{ e.extra.venue }}{% endif %} <span class="text-muted">{{ e.date | date(format="%Y") }}</span><br>{% endfor %}
       </dd>{% endif %}
