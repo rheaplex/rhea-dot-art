@@ -17,7 +17,8 @@
   </a>
 </section>
 
-{#- Available works: a quiet strip of what can be bought now. -#}
+{#- Available works strip: disabled for now. Re-enable by removing the comment markers.
+ Available works: a quiet strip of what can be bought now. 
 {%- set avail = [w for w in art.pages if w.extra?.purchase] %}
 {%- if avail | length > 0 %}
 <section class="mb-16 pt-6 border-t border-rule">
@@ -36,6 +37,8 @@
   </ul>
 </section>
 {%- endif %}
+
+-#}
 
 {#- News: everything except the hero, interleaved by date, newest first. -#}
 {%- set pool = [...art.pages, ...ex.pages, ...press.pages, ...pubs.pages] -%}
