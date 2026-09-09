@@ -6,35 +6,35 @@ path = "/2005/08/03/rob-myers-howto-images/"
 
 Click on images to view full-size:
 
-[![Billboard](/images/wp/billboard-tm.jpg)](/images/wp/billboard.jpg)
+[![Billboard](/images/billboard-tm.jpg)](/images/billboard.jpg)
 
 The billboard announcing the show (with me in front of it).
 
-[![Gallery](/images/wp/gallery-tm.jpg)](/images/wp/gallery.png)
+[![Gallery](/images/gallery-tm.jpg)](/images/gallery.png)
 
 The gallery, O3one
 
-[![Gallery Inside](/images/wp/gallery_inside-tm.jpg)](/images/wp/gallery_inside.png)
+[![Gallery Inside](/images/gallery_inside-tm.jpg)](/images/gallery_inside.png)
 
 A panorama of the show inside the gallery.
 
-[![Draw-Something](/images/wp/draw-something-tm.jpg)](/images/wp/draw-something.jpg)
+[![Draw-Something](/images/draw-something-tm.jpg)](/images/draw-something.jpg)
 
 draw-something.
 
-[![Canto](/images/wp/canto-tm.jpg)](/images/wp/canto.jpg)
+[![Canto](/images/canto-tm.jpg)](/images/canto.jpg)
 
 Canto.
 
-[![1969](/images/wp/1969-tm.jpg)](/images/wp/1969.jpg)
+[![1969](/images/1969-tm.jpg)](/images/1969.jpg)
 
 1969
 
-[![1969-Closeup](/images/wp/1969-closeup-tm.jpg)](/images/wp/1969-closeup.jpg)
+[![1969-Closeup](/images/1969-closeup-tm.jpg)](/images/1969-closeup.jpg)
 
 1969 close-up.
 
-[![Draw-Something-Prints](/images/wp/draw-something-prints-tm.jpg)](/images/wp/draw-something-prints.jpg)
+[![Draw-Something-Prints](/images/draw-something-prints-tm.jpg)](/images/draw-something-prints.jpg)
 
 Prints of colour pictures by draw-something.
 

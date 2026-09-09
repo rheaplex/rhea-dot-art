@@ -14,8 +14,8 @@ location = "New York, USA"
 curator = "Atay Ilgun and Jonathan Carmel (jonooo)"
 programme = "Presented by SuperRare; online release from 4 September 2026"
 url_external = "https://spiral.superrare.com/"
-image = "/art-images/grinding-numbers.png"
-image_alt = "Grinding, 2026"
+image = "/exhibition-images/spiral-installation.jpg"
+image_alt = "./spiral installation view from SuperRare, 2026"
 artworks = ["grinding"]
 +++
 
