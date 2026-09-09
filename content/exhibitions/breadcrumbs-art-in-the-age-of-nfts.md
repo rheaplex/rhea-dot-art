@@ -20,5 +20,6 @@ programme = [
     "Crypto Kiosk",
 ]
 image = "/exhibition-images/DRAFT_KS_breadcrumbs_announcement-900x490-1.jpg"
+image_fit = "contain"
 +++
 

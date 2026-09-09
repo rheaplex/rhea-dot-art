@@ -17,8 +17,13 @@
 {% component exhibition_tile(page) %}
 <a href="{{ page.permalink | safe }}" class="quiet block group">
   {%- if page.extra?.image %}
+  {%- if page.extra?.image_fit == "contain" %}
   {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fit") %}
   <div class="w-full aspect-3/2 flex items-center justify-center"><img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-full max-w-full w-auto h-auto" loading="lazy"></div>
+  {%- else %}
+  {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fill") %}
+  <img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="w-full aspect-3/2 object-cover" loading="lazy">
+  {%- endif %}
   {%- else %}
   <div class="w-full aspect-3/2 bg-neutral-100"></div>
   {%- endif %}
@@ -111,10 +116,15 @@
 {% component news_item(page) %}
 {%- set kind = page.extra?.news_category or "News" -%}
 {%- set ext = page.word_count == 0 and page.extra?.url_external -%}
-<a href="{{ page.extra.url_external if ext else page.permalink | safe }}" class="quiet block group"{% if ext %} target="_blank" rel="noopener"{% endif %}>
+<a href="{{ page.extra.url_external if ext else page.permalink | safe }}" class="quiet block group"{% if ext %} rel="external"{% endif %}>
   {%- if page.extra?.image %}
+  {%- if page.extra?.image_fit == "contain" %}
   {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fit") %}
   <div class="w-full aspect-3/2 flex items-center justify-center overflow-hidden"><img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="max-h-full max-w-full w-auto h-auto" loading="lazy"></div>
+  {%- else %}
+  {%- set thumb = resize_image(path=page.extra.image, width=1200, height=800, op="fill") %}
+  <img src="{{ thumb.url }}" width="{{ thumb.width }}" height="{{ thumb.height }}" alt="{{ page.extra?.image_alt or page.title }}" class="w-full aspect-3/2 object-cover" loading="lazy">
+  {%- endif %}
   {%- else %}
   <div class="w-full aspect-3/2 bg-neutral-100"></div>
   {%- endif %}

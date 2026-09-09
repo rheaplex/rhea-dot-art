@@ -16,5 +16,6 @@ artworks = [
     "koala-noosphere",
 ]
 image = "/exhibition-images/solos-kno.png"
+image_fit = "contain"
 +++
 

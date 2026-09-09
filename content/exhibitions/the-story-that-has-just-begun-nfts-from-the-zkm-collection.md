@@ -14,5 +14,6 @@ location = "Karlsruhe, Germany"
 url_external = "https://zkm.de/en/2025/10/the-story-that-has-just-begun-nfts-from-the-zkm-collection"
 curator = "Daniel Heiss & Laura C."
 image = "/exhibition-images/Screenshot_2026-06-17_15-27-45.png"
+image_fit = "contain"
 +++
 

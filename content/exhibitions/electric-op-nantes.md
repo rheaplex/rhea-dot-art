@@ -18,5 +18,6 @@ artworks = [
 ]
 tour_of = "electric-op"
 image = "/exhibition-images/electric_op_title2.png"
+image_fit = "contain"
 +++
 
