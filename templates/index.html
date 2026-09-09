@@ -22,6 +22,14 @@
 {#- Hero: a current exhibition with an image if one is on, else the latest work with an image. -#}
 {%- set current = [e for e in ex.pages if e.extra?.image and (e.extra?.opening or e.date) | date(format="%Y-%m-%d") <= today and (e.extra?.closing or e.date) | date(format="%Y-%m-%d") >= today] -%}
 {%- if current | length > 0 %}{% set hero = current[0] %}{% else %}{% set hero = [w for w in art.pages if w.extra?.image][0] %}{% endif -%}
+<section class="mb-10 pb-8 border-b border-rule" aria-label="Exhibited and published with">
+  <ul class="grid grid-cols-4 lg:grid-cols-8 gap-x-8 gap-y-6 items-center">
+    {%- for l in config.extra.logos %}
+    <li class="flex items-center justify-center h-8"><img src="{{ get_url(path=l.src) }}" alt="{{ l.name }}" title="{{ l.name }}" class="max-h-6 max-w-full w-auto grayscale opacity-60 hover:opacity-100 hover:grayscale-0 transition"></li>
+    {%- endfor %}
+  </ul>
+</section>
+
 <section class="mb-16">
   <a href="{{ hero.permalink | safe }}" class="quiet block group">
     {%- set img = resize_image(path=hero.extra.image, width=2496, height=2496, op="fit") %}
@@ -31,11 +39,10 @@
   </a>
 </section>
 
-{#- Available works strip: disabled for now. Re-enable by removing the comment markers.
- Available works: a quiet strip of what can be bought now. 
+{#- Available works: a quiet strip of what can be bought now. -#}
 {%- set avail = [w for w in art.pages if w.extra?.purchase] %}
 {%- if avail | length > 0 %}
-<section class="mb-16 pt-6 border-t border-rule">
+<section class="mb-16 py-6 border-y border-rule">
   <div class="flex items-baseline justify-between gap-6 mb-6">
     <h2 class="h-section">Available works</h2>
     <a href="{{ get_url(path="/available-works/") }}" class="chrome quiet text-muted">All {{ avail | length }} available works &rarr;</a>
@@ -52,23 +59,13 @@
 </section>
 {%- endif %}
 
--#}
-
 {#- News: everything except the hero, interleaved by date, newest first. -#}
 {%- set pool = [...art.pages, ...ex.pages, ...press.pages, ...pubs.pages] -%}
 {%- set news = [p for p in pool if p.permalink != hero.permalink and (p.date | date(format="%Y-%m-%d")) <= today] | sort(attribute="date") | reverse -%}
-<section class="mb-16">
+<section>
   <h2 class="h-section mb-6">News</h2>
   <div class="grid-3">
     {%- for p in news[:9] %}{{ <news_item page={p} /> }}{% endfor %}
   </div>
-</section>
-
-<section class="pt-8 border-t border-rule">
-  <ul class="grid grid-cols-4 lg:grid-cols-8 gap-x-8 gap-y-6 items-center">
-    {%- for l in config.extra.logos %}
-    <li class="flex items-center justify-center h-8"><img src="{{ get_url(path=l.src) }}" alt="{{ l.name }}" title="{{ l.name }}" class="max-h-6 max-w-full w-auto grayscale opacity-60 hover:opacity-100 hover:grayscale-0 transition"></li>
-    {%- endfor %}
-  </ul>
 </section>
 {% endblock content %}
