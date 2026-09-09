@@ -41,6 +41,7 @@ sellers = [
   { key = "katevass", name = "Kate Vass Galerie", location = "Zürich", url = "https://www.katevassgalerie.com/about-us", kind = "gallery" },
   { key = "feralfile", name = "Feral File", url = "https://feralfile.com/", kind = "platform" },
   { key = "superrare", name = "SuperRare", url = "https://superrare.com/", kind = "platform" },
+  { key = "verse", name = "Verse", url = "https://verse.works/", kind = "platform" },
   { key = "studio", name = "Myers Studio", url = "mailto:rhea@myers.studio", kind = "studio" },
 ]
 
