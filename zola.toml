@@ -8,7 +8,7 @@ minify_html = false
 generate_feeds = true
 feed_filenames = ["atom.xml"]
 feed_limit = 20
-build_search_index = false
+build_search_index = true
 exclude_paginated_pages_in_sitemap = "all"
 skip_content_templating = ["blog/*", "writing/*", "about/*"]
 
@@ -32,6 +32,12 @@ paths = "safe"
 
 [extra]
 copyright = "Copyright © 2026 Myers Studio Ltd."
+
+# Social cards / SEO (templates/base.html). og_image is the fallback card
+# image for pages without a featured image (home, sections, blog posts).
+og_image = "/third-party-images/rhea-kpp-square.jpg"
+twitter = "rheaplex"
+fediverse_creator = "@rheaplex@social.rhea.art"
 
 # Sellers referenced by extra.purchase.seller on works. Order here is the
 # order on /available-works/.
