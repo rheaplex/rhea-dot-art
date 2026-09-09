@@ -46,7 +46,7 @@ draw-something.
 
 
   
-[![Canto](/images/canto-tm.jpg)](/images/canto.jpg)  
+[![Canto](/images/canto-tm.jpg)](/images/Canto.jpg)  
 
 
   
