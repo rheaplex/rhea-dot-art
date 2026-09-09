@@ -1,4 +1,17 @@
 {% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rhea Myers",
+  "url": "{{ config.base_url }}/",
+  "jobTitle": "Artist",
+  "image": "{{ get_url(path=config.extra.og_image) }}",
+  "sameAs": {{ [s.url for s in config.extra.social if s.url is starting_with(pat="http") and s.name != "newsletter"] | json_encode() | safe }}
+}
+</script>
+{% endblock head %}
 {% block content %}
 {%- set art = get_section(path="art/_index.md") -%}
 {%- set ex = get_section(path="exhibitions/_index.md") -%}

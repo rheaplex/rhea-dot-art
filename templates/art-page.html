@@ -1,4 +1,20 @@
 {% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": {{ page.title | json_encode() | safe }},
+  "url": "{{ page.permalink | safe }}",
+  "creator": { "@type": "Person", "name": "Rhea Myers", "url": "{{ config.base_url }}/" },
+  "dateCreated": "{{ page.date | date(format="%Y") }}"
+  {%- if page.description %}, "description": {{ page.description | json_encode() | safe }}{% endif %}
+  {%- if page.extra?.mediums %}, "artMedium": {{ page.extra.mediums | join(sep=", ") | json_encode() | safe }}{% endif %}
+  {%- if page.extra?.image %}, "image": "{{ get_url(path=page.extra.image) }}"{% endif %}
+  {%- if page.extra?.purchase %}, "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "url": "{{ page.extra.purchase.url | safe }}"{% if page.extra.purchase.price %}, "description": {{ page.extra.purchase.price | json_encode() | safe }}{% endif %} }{% endif %}
+}
+</script>
+{% endblock head %}
 {% block content %}
 {%- set slug = page.relative_path | split(pat="/") | last | trim_end(pat=".md") -%}
 {%- set ex = get_section(path="exhibitions/_index.md") -%}
