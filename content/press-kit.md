@@ -35,7 +35,7 @@ Click an image for the full-size file. [All captions and credits as a text file.
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:2rem 1.5rem;margin-block:2rem">
 <figure style="margin:0">
   <a href="/press-kit/images/01-Rhea-Myers-portrait.jpg"><img style="width:100%;height:auto;margin:0;display:block" src="/press-kit/previews/01-Rhea-Myers-portrait.jpg" alt="Rhea Myers" loading="lazy"></a>
-  <figcaption style="font-size:0.85em;line-height:1.4;margin-top:0.6rem">Rhea Myers<br>Photo: Kristy Powers Photography · <a href="/press-kit/images/01-Rhea-Myers-portrait.jpg">Download</a> (1024 × 683 px, web resolution)</figcaption>
+  <figcaption style="font-size:0.85em;line-height:1.4;margin-top:0.6rem">Rhea Myers<br>Photo: Kristy Powers Photography · <a href="/press-kit/images/01-Rhea-Myers-portrait.jpg">Download</a> (3000 × 2000 px)</figcaption>
 </figure>
 <figure style="margin:0">
   <a href="/press-kit/images/02-Rhea-Myers-Is-Art-2014.png"><img style="width:100%;height:auto;margin:0;display:block" src="/press-kit/previews/02-Rhea-Myers-Is-Art-2014.jpg" alt="Rhea Myers, Is Art, 2014, Ethereum smart contract" loading="lazy"></a>
