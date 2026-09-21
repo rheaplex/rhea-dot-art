@@ -13,9 +13,9 @@ mediums = [
 wp_id = 6624
 
 [extra.purchase]
-url = "mailto:rhea@myers.studio?subject=Facecoins"
-label = "Enquire by email"
-seller = "studio"
+url = "https://nagel-draxler.de/contact/"
+label = "Enquire with Galerie Nagel Draxler"
+seller = "nageldraxler"
 edition = "NFT series of 24 generative portraits"
 availability = "19 of 24 available"
 price = "0.5 ETH each"

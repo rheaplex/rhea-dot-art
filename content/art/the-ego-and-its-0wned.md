@@ -17,9 +17,9 @@ mediums = [
 wp_id = 6622
 
 [extra.purchase]
-url = "mailto:rhea@myers.studio?subject=The%20Ego%2C%20and%20It%27s%200wned"
-label = "Enquire by email"
-seller = "studio"
+url = "https://nagel-draxler.de/contact/"
+label = "Enquire with Galerie Nagel Draxler"
+seller = "nageldraxler"
 edition = "NFT series of 24 EEG data visualisations"
 availability = "Shot (Estrogen) #2 and Being Pinched (Ow!) #3 available"
 price = "2.5 ETH each"

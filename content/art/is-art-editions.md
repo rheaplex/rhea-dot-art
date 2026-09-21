@@ -17,9 +17,9 @@ aliases_names = [
 wp_id = 6621
 
 [extra.purchase]
-url = "mailto:rhea@myers.studio?subject=Is%20Art%20Editions"
-label = "Enquire by email"
-seller = "studio"
+url = "https://nagel-draxler.de/contact/"
+label = "Enquire with Galerie Nagel Draxler"
+seller = "nageldraxler"
 edition = "16 NFT editions of 16 smart-contract tokens"
 availability = "Individually or in sets of 16"
 price = "From 1 ETH"
